@@ -33,6 +33,10 @@ DATA_JSON_PATH = "data/data.json"
 API = "https://api.github.com"
 PRIMARY_BASE = "https://data-api.binance.vision"
 FALLBACK_BASE = "https://api.binance.com"
+# 合約量化組 (paper futures) prices: USDT-M public endpoints; fapi.binance.com
+# can return 451 by region, www.binance.com/fapi usually works; falls back to
+# the same symbol on spot when futures endpoints are unreachable.
+FUTURES_BASES = ("https://www.binance.com", "https://fapi.binance.com")
 UA = "paper-github-watch/1.0"
 LOCAL_TZ = ZoneInfo("Asia/Kuala_Lumpur")
 CONNECT_TIMEOUT_S = 5.0
@@ -283,6 +287,48 @@ class PublicClient:
                 }
             )
         self._kline_cache[key] = (now, out)
+        return out
+
+
+class FuturesClient(PublicClient):
+    """Futures (USDT-M) prices with spot fallback for the same symbol."""
+
+    def _fget(self, path: str, params: dict[str, Any]) -> Any:
+        qs = f"?{urllib.parse.urlencode(params)}"
+        last_err: Exception | None = None
+        for base in FUTURES_BASES:
+            req = urllib.request.Request(base + path + qs, headers={"User-Agent": UA, "Accept": "application/json"})
+            try:
+                with urllib.request.urlopen(req, timeout=HTTP_TIMEOUT_S) as r:
+                    data = json.loads(r.read())
+                    self.host_used = base + "/fapi"
+                    return data
+            except (urllib.error.HTTPError, urllib.error.URLError, TimeoutError, OSError, ValueError) as exc:
+                last_err = exc
+                continue
+        raise ApiError(type(last_err).__name__ if last_err else "futures request failed")
+
+    def ticker_price(self, symbol: str) -> float:
+        try:
+            data = self._fget("/fapi/v1/ticker/price", {"symbol": symbol})
+            return float(data["price"])
+        except (ApiError, KeyError, TypeError, ValueError):
+            log(f"futures ticker unavailable for {symbol}; trying spot")
+            return super().ticker_price(symbol)
+
+    def closed_klines(self, symbol: str, interval: str = "4h", limit: int = KLINE_LIMIT) -> list[dict[str, Any]]:
+        try:
+            raw = self._fget("/fapi/v1/klines", {"symbol": symbol, "interval": interval, "limit": limit})
+        except ApiError:
+            return super().closed_klines(symbol, interval, limit)
+        now_ms = int(time.time() * 1000)
+        out: list[dict[str, Any]] = []
+        for row in raw:
+            close_ms = int(row[6])
+            if close_ms >= now_ms:
+                continue
+            out.append({"open_time": int(row[0]), "close_time": close_ms, "open": float(row[1]), "high": float(row[2]),
+                        "low": float(row[3]), "close": float(row[4]), "volume": float(row[5])})
         return out
 
 
@@ -780,6 +826,10 @@ def event_summary(record: dict[str, Any]) -> str:
         return f"{symbol} 建議移動停損至 {details.get('new_stop')}"
     if typ == "position_expiry":
         return f"{symbol} 持倉到期應出場"
+    if typ == "futures_stop":
+        return f"【合約量化組】{symbol} 模擬持倉觸及停損 {details.get('stop_hit')}（box 醒來後 quant.py 會自動平倉）"
+    if typ == "futures_expiry":
+        return f"【合約量化組】{symbol} 模擬持倉 7 天到期（box 醒來後 quant.py 會自動平倉）"
     return typ or "event"
 
 
@@ -926,6 +976,26 @@ def collect_events(client: PublicClient, state: dict[str, Any], now: datetime) -
         for ev in evaluate_position(client, pos, now, highs):
             events.append(ev)
 
+    # 合約量化組 paper futures: only stop / expiry matter (quant.py on the box
+    # does all management itself once it is awake again).
+    fut_positions = []
+    for raw in state.get("futures_positions") or []:
+        if isinstance(raw, dict):
+            pos = normalize_position(raw)
+            if pos:
+                fut_positions.append(pos)
+    snapshot["futures_positions"] = len(fut_positions)
+    if fut_positions:
+        fclient = FuturesClient()
+        for pos in fut_positions:
+            for ev in evaluate_position(fclient, pos, now, highs):
+                kind = {"position_stop": "futures_stop", "position_expiry": "futures_expiry"}.get(ev["type"])
+                if not kind:
+                    continue
+                details = dict(ev.get("details") or {})
+                details["group"] = "合約量化組"
+                events.append({"type": kind, "symbol": ev["symbol"], "dedupe": "futures:" + ev["dedupe"], "details": details})
+
     snapshot["highs_updated"] = highs
     return events, snapshot
 
@@ -973,6 +1043,7 @@ def main() -> int:
         btc = snapshot.get("btc") or {}
         log(
             f"state_ok positions={len(state.get('positions') or [])} "
+            f"futures_positions={len(state.get('futures_positions') or [])} "
             f"pending_plans={len(snapshot.get('plans') or [])} "
             f"price_host={host} prices={{ {', '.join(prices)} }} "
             f"btc_ok={btc.get('ok')} btc_close={btc.get('close')} "
