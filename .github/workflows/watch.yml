@@ -1,0 +1,48 @@
+# Paper-trading backup watch. Runs on GitHub-hosted runners so it
+# keeps checking stops and pending plans when the box is asleep.
+# Writes only to the `data` branch. Never push to `main` from this job
+# (GitHub Pages is built from main; soft cap ~10 builds/hour).
+name: paper-watch
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: Evaluate only; do not POST the webhook
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: paper-watch
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out watch script
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          sparse-checkout: |
+            scripts
+          sparse-checkout-cone-mode: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run paper watch
+        env:
+          TRADE_WEBHOOK_URL: ${{ secrets.TRADE_WEBHOOK_URL }}
+          TRADE_WEBHOOK_AUTH: ${{ secrets.TRADE_WEBHOOK_AUTH }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run || 'false' }}
+        run: python3 scripts/github_watch.py
