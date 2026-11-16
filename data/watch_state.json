@@ -216,7 +216,7 @@
       "initial_stop": 1.9531669041674367,
       "R": 0.04233211583256344,
       "targets": [],
-      "high_since_entry": 2.024,
+      "high_since_entry": 2.0323,
       "low_since_entry": 1.9701,
       "exit_deadline": "2026-11-17 23:30:00 MYT",
       "market": "usdm_perp",
@@ -241,7 +241,27 @@
       "exit_deadline": "2026-11-18 00:00:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
+    },
+    {
+      "id": "FHF-20261117-0030-HUMAUSDT",
+      "symbol": "HUMAUSDT",
+      "side": "BUY",
+      "mode": "paper",
+      "status": "open",
+      "entry_price": 0.0089727942,
+      "entry_time": "2026-11-17 00:30:00 MYT",
+      "qty": 1029.0,
+      "remaining_qty": 1029.0,
+      "stop": 0.008524317082929589,
+      "initial_stop": 0.008524317082929589,
+      "R": 0.0004484771170704112,
+      "targets": [],
+      "high_since_entry": 0.009199,
+      "low_since_entry": 0.008904,
+      "exit_deadline": "2026-11-18 00:30:00 MYT",
+      "market": "usdm_perp",
+      "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-17 00:26:04 MYT"
+  "paper_updated_at": "2026-11-17 00:31:32 MYT"
 }
