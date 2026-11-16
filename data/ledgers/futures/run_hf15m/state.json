@@ -8,45 +8,53 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-16 19:19:18 MYT",
-    "bar_close": "2026-11-16 19:15:00 MYT",
+    "time": "2026-11-16 19:34:20 MYT",
+    "bar_close": "2026-11-16 19:30:00 MYT",
     "universe": 68,
     "breakouts": [
       {
         "symbol": "TRXUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.3034,
-        "close": 0.3039,
-        "vol_ratio": 1.3189
+        "level": 0.3041,
+        "close": 0.3041,
+        "vol_ratio": 0.7743
       },
       {
-        "symbol": "DOTUSDT",
+        "symbol": "PAXGUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.7297,
-        "close": 0.7307,
-        "vol_ratio": 1.2475
+        "level": 3860.0,
+        "close": 3860.35,
+        "vol_ratio": 1.0652
       },
       {
-        "symbol": "PENGUUSDT",
+        "symbol": "TACUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.0049,
-        "close": 0.0049,
-        "vol_ratio": 0.65
+        "level": 0.0015,
+        "close": 0.0015,
+        "vol_ratio": 0.3913
       },
       {
-        "symbol": "PIEVERSEUSDT",
+        "symbol": "BLESSUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 1.9121,
-        "close": 1.9246,
-        "vol_ratio": 1.1023
+        "level": 0.0123,
+        "close": 0.0124,
+        "vol_ratio": 6.9735
+      },
+      {
+        "symbol": "XAUTUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 3857.98,
+        "close": 3858.04,
+        "vol_ratio": 1.0214
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794827700000,
-  "last_equity_ts": 1794827053.9933345
+  "last_scan_bar_ms": 1794828600000,
+  "last_equity_ts": 1794828860.6244295
 }
