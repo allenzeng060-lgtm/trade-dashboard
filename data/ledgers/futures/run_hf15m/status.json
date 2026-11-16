@@ -3,7 +3,7 @@
   "set": "15m",
   "mode": "paper",
   "rules": "hf-15m-v0.1",
-  "updated_at": "2026-11-17 04:42:45 MYT",
+  "updated_at": "2026-11-17 04:48:06 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -17,9 +17,9 @@
     "regime": "none"
   },
   "wallet_usdt": 96.1346,
-  "unrealized_usdt": 0.7222,
-  "equity_usdt": 96.8568,
-  "pnl_pct": -3.143,
+  "unrealized_usdt": 0.693,
+  "equity_usdt": 96.8276,
+  "pnl_pct": -3.172,
   "regime": {
     "allow": "ANY",
     "btc_close": 65068.01,
@@ -27,41 +27,41 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-17 04:32:54 MYT",
-    "bar_close": "2026-11-17 04:30:00 MYT",
+    "time": "2026-11-17 04:48:03 MYT",
+    "bar_close": "2026-11-17 04:45:00 MYT",
     "universe": 71,
     "breakouts": [
       {
-        "symbol": "KAVAUSDT",
+        "symbol": "XMRUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 0.0268,
-        "close": 0.0267,
-        "vol_ratio": 0.7369
+        "level": 493.83,
+        "close": 493.67,
+        "vol_ratio": 1.3628
+      },
+      {
+        "symbol": "RAREUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 0.0134,
+        "close": 0.0133,
+        "vol_ratio": 0.2948
       },
       {
         "symbol": "HUMAUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.0093,
-        "close": 0.0095,
-        "vol_ratio": 5.0975
+        "level": 0.0096,
+        "close": 0.0097,
+        "vol_ratio": 7.764
       },
       {
         "symbol": "BULLAUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.0186,
-        "close": 0.0187,
-        "vol_ratio": 1.0501
-      },
-      {
-        "symbol": "BTWUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 0.3683,
-        "close": 0.3644,
-        "vol_ratio": 2.0642
+        "level": 0.0188,
+        "close": 0.0192,
+        "vol_ratio": 2.646
       }
     ],
     "regime": "ANY"
@@ -83,7 +83,7 @@
       "R": 0.0013959969224845614,
       "trail_armed": false,
       "funding": -0.01015033,
-      "last_price": 0.018458,
+      "last_price": 0.018368,
       "exit_deadline": "2026-11-17 22:45:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 9.23
@@ -104,7 +104,7 @@
       "R": 0.004354402619949679,
       "trail_armed": false,
       "funding": -0.00938222,
-      "last_price": 0.2472,
+      "last_price": 0.2471,
       "exit_deadline": "2026-11-17 23:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 5.94
@@ -125,7 +125,7 @@
       "R": 0.0009588951577858478,
       "trail_armed": false,
       "funding": -0.00105688,
-      "last_price": 0.04513,
+      "last_price": 0.04526,
       "exit_deadline": "2026-11-18 02:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.77
@@ -146,7 +146,7 @@
       "R": 0.8499955232468432,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 68.302,
+      "last_price": 68.306,
       "exit_deadline": "2026-11-18 04:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.58
@@ -167,10 +167,31 @@
       "R": 0.0005096528888362112,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 0.009884,
+      "last_price": 0.0098,
       "exit_deadline": "2026-11-18 04:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 5.1
+    },
+    {
+      "id": "FHF-20261117-0445-BULLAUSDT",
+      "symbol": "BULLAUSDT",
+      "side": "BUY",
+      "entry_time": "2026-11-17 04:45:00 MYT",
+      "entry_price": 0.019163832,
+      "qty": 406.0,
+      "notional": 7.780515791999999,
+      "leverage": 1,
+      "margin": 7.780515791999999,
+      "liq_price": 0.0,
+      "stop": 0.017998693127810293,
+      "initial_stop": 0.017998693127810293,
+      "R": 0.0011651388721897055,
+      "trail_armed": false,
+      "funding": 0.0,
+      "last_price": 0.01929,
+      "exit_deadline": "2026-11-18 04:45:00 MYT",
+      "signal_tf": "15m",
+      "vol_ratio": 2.65
     }
   ],
   "data_source": "www.binance.com /fapi (public)"
