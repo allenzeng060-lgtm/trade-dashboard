@@ -8,21 +8,29 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-17 05:03:24 MYT",
-    "bar_close": "2026-11-17 05:00:00 MYT",
+    "time": "2026-11-17 05:18:11 MYT",
+    "bar_close": "2026-11-17 05:15:00 MYT",
     "universe": 71,
     "breakouts": [
       {
-        "symbol": "XMRUSDT",
+        "symbol": "KAVAUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 492.84,
-        "close": 490.86,
-        "vol_ratio": 1.8235
+        "level": 0.0264,
+        "close": 0.0263,
+        "vol_ratio": 0.7924
+      },
+      {
+        "symbol": "HUMAUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.01,
+        "close": 0.0102,
+        "vol_ratio": 7.0078
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794862800000,
+  "last_scan_bar_ms": 1794863700000,
   "last_equity_ts": 1794862990.0285845
 }

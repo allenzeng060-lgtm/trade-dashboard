@@ -27,8 +27,8 @@
    "best": 0.01055,
    "risk_usdt": 0.9747278099999999,
    "trail_armed": true,
-   "last_check_ms": 1794863579095,
-   "last_price": 0.0104,
+   "last_check_ms": 1794863894358,
+   "last_price": 0.01035,
    "reason": "15m 收盤 0.00812 > 前20根高 0.00791，量比 16.89",
    "trigger": "watcher 多方警示（1h 內）",
    "exit_deadline": "2026-11-18 00:01:42 MYT"
@@ -51,8 +51,8 @@
    "best": 2.56,
    "risk_usdt": 0.9747278100000001,
    "trail_armed": false,
-   "last_check_ms": 1794863579251,
-   "last_price": 2.533,
+   "last_check_ms": 1794863894495,
+   "last_price": 2.521,
    "reason": "15m 收盤 2.46 > 前20根高 2.443，量比 9.20",
    "trigger": "watcher 多方警示（1h 內）",
    "exit_deadline": "2026-11-18 00:01:42 MYT"
@@ -75,8 +75,8 @@
    "best": 0.0768,
    "risk_usdt": 0.97472781,
    "trail_armed": false,
-   "last_check_ms": 1794863579406,
-   "last_price": 0.0749,
+   "last_check_ms": 1794863894632,
+   "last_price": 0.075,
    "reason": "15m 收盤 0.0762 > 前20根高 0.0753，量比 18.04",
    "trigger": "watcher 多方警示（1h 內）",
    "exit_deadline": "2026-11-18 02:17:22 MYT"
@@ -99,8 +99,8 @@
    "best": 0.04554,
    "risk_usdt": 0.97472781,
    "trail_armed": false,
-   "last_check_ms": 1794863579561,
-   "last_price": 0.04519,
+   "last_check_ms": 1794863894768,
+   "last_price": 0.04496,
    "reason": "15m 收盤 0.04511 > 前20根高 0.04498，量比 2.08",
    "trigger": "watcher 多方警示（1h 內）",
    "exit_deadline": "2026-11-18 02:32:20 MYT"
