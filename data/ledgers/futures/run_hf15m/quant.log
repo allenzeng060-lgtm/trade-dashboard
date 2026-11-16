@@ -203,3 +203,6 @@
 2026-11-16 19:02:21,072 INFO decision regime {"allow": "ANY", "btc_close": 64467.0, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
 2026-11-16 19:02:34,152 INFO decision scan {"bar_close": "2026-11-17 03:00:00 MYT", "breakouts": 1, "vol_ok": 0, "allow": "ANY"}
 2026-11-16 19:12:11,151 INFO decision trail_update {"symbol": "BULLAUSDT", "stop": 0.01585102529850971, "best": 0.01696}
+2026-11-16 19:17:10,739 INFO decision close {"symbol": "QNTUSDT", "reason": "stop", "fill": 155.96164891834056, "net": -0.2617, "R": -1.01}
+2026-11-16 19:17:13,058 INFO decision regime {"allow": "ANY", "btc_close": 64467.0, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+2026-11-16 19:17:25,574 INFO decision scan {"bar_close": "2026-11-17 03:15:00 MYT", "breakouts": 4, "vol_ok": 0, "allow": "ANY"}

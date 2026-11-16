@@ -1,10 +1,10 @@
 {
- "_t24_ts": 1794856334.2369454,
+ "_t24_ts": 1794856648.3236692,
  "cands": {
   "XPLUSDT": 1794853542.0
  },
  "alerts_init": true,
- "alerts_offset": 199809,
+ "alerts_offset": 199867,
  "checked": {
   "SOPHUSDT": 1794852900000,
   "BANANAS31USDT": 1794769200000,

@@ -3,7 +3,7 @@
   "set": "15m",
   "mode": "paper",
   "rules": "hf-15m-v0.1",
-  "updated_at": "2026-11-17 03:12:12 MYT",
+  "updated_at": "2026-11-17 03:17:27 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -16,10 +16,10 @@
     "slip": 0.0002,
     "regime": "none"
   },
-  "wallet_usdt": 95.3955,
-  "unrealized_usdt": 2.1274,
-  "equity_usdt": 97.5229,
-  "pnl_pct": -2.477,
+  "wallet_usdt": 95.1338,
+  "unrealized_usdt": 2.302,
+  "equity_usdt": 97.4358,
+  "pnl_pct": -2.564,
   "regime": {
     "allow": "ANY",
     "btc_close": 64467.0,
@@ -27,17 +27,41 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-17 03:02:34 MYT",
-    "bar_close": "2026-11-17 03:00:00 MYT",
-    "universe": 71,
+    "time": "2026-11-17 03:17:25 MYT",
+    "bar_close": "2026-11-17 03:15:00 MYT",
+    "universe": 70,
     "breakouts": [
+      {
+        "symbol": "RAREUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 0.0138,
+        "close": 0.0137,
+        "vol_ratio": 0.5759
+      },
       {
         "symbol": "BULLAUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.0156,
-        "close": 0.0156,
-        "vol_ratio": 0.5597
+        "level": 0.0159,
+        "close": 0.0166,
+        "vol_ratio": 1.8126
+      },
+      {
+        "symbol": "TACUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 0.0012,
+        "close": 0.0012,
+        "vol_ratio": 0.4993
+      },
+      {
+        "symbol": "BTWUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 0.3845,
+        "close": 0.3837,
+        "vol_ratio": 1.3188
       }
     ],
     "regime": "ANY"
@@ -59,7 +83,7 @@
       "R": 0.001108974701490287,
       "trail_armed": true,
       "funding": -0.00140844,
-      "last_price": 0.01661,
+      "last_price": 0.01675,
       "exit_deadline": "2026-11-17 17:46:04 MYT",
       "signal_tf": "15m",
       "vol_ratio": 4.2
@@ -80,7 +104,7 @@
       "R": 0.0013959969224845614,
       "trail_armed": false,
       "funding": -0.00487017,
-      "last_price": 0.018719,
+      "last_price": 0.018702,
       "exit_deadline": "2026-11-17 22:45:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 9.23
@@ -101,31 +125,10 @@
       "R": 0.004354402619949679,
       "trail_armed": false,
       "funding": -0.00449704,
-      "last_price": 0.2467,
+      "last_price": 0.2472,
       "exit_deadline": "2026-11-17 23:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 5.94
-    },
-    {
-      "id": "FHF-20261117-0130-QNTUSDT",
-      "symbol": "QNTUSDT",
-      "side": "BUY",
-      "entry_time": "2026-11-17 01:30:00 MYT",
-      "entry_price": 158.42167799999999,
-      "qty": 0.1,
-      "notional": 15.842167799999999,
-      "leverage": 3,
-      "margin": 5.2807226,
-      "liq_price": 106.68126465,
-      "stop": 155.99284748783813,
-      "initial_stop": 155.99284748783813,
-      "R": 2.4288305121618485,
-      "trail_armed": false,
-      "funding": 0.0,
-      "last_price": 156.54,
-      "exit_deadline": "2026-11-18 01:30:00 MYT",
-      "signal_tf": "15m",
-      "vol_ratio": 4.31
     },
     {
       "id": "FHF-20261117-0215-ARIAUSDT",
@@ -143,7 +146,7 @@
       "R": 0.014751105735504241,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 0.18581,
+      "last_price": 0.18943,
       "exit_deadline": "2026-11-18 02:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.01
@@ -164,7 +167,7 @@
       "R": 0.0009588951577858478,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 0.04466,
+      "last_price": 0.04478,
       "exit_deadline": "2026-11-18 02:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.77
