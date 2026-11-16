@@ -1,11 +1,11 @@
 {
- "_t24_ts": 1794845460.4585986,
+ "_t24_ts": 1794845754.7455742,
  "cands": {
   "ICPUSDT": 1794843942.0,
-  "HUMAUSDT": 1794843952.0
+  "HUMAUSDT": 1794845242.0
  },
  "alerts_init": true,
- "alerts_offset": 199782,
+ "alerts_offset": 199727,
  "checked": {
   "SOPHUSDT": 1794769200000,
   "BANANAS31USDT": 1794769200000,

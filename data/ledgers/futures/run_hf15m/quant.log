@@ -155,3 +155,6 @@
 2026-11-16 16:01:38,415 INFO decision open {"symbol": "ICPUSDT", "side": "BUY", "entry": 2.4564912, "stop": 2.4089162322746596, "qty": 9.0, "lev": 3, "liq": 1.65420283, "risk": 0.45}
 2026-11-16 16:01:40,511 INFO decision funding {"symbol": "ICPUSDT", "rate": "0.00004149", "amount": -0.000917, "at": "2026-11-17 00:00:00 MYT"}
 2026-11-16 16:05:54,568 INFO decision close {"symbol": "PUMPUSDT", "reason": "stop", "fill": 0.0028458153018996097, "net": -0.4522, "R": -1.01}
+2026-11-16 16:15:43,344 INFO decision regime {"allow": "ANY", "btc_close": 64467.0, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+2026-11-16 16:15:52,311 INFO decision scan {"bar_close": "2026-11-17 00:15:00 MYT", "breakouts": 2, "vol_ok": 1, "allow": "ANY"}
+2026-11-16 16:15:52,311 INFO decision skip {"symbol": "JUPUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.29, "reason": "already holding"}
