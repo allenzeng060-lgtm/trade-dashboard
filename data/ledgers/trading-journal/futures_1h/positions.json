@@ -41,14 +41,14 @@
       "risk_usdt": 0.9977766250378737,
       "entry_fee": 0.0123455304,
       "funding": -0.00459927,
-      "best": 0.2515,
+      "best": 0.2505,
       "high_since_entry": 0.2608,
-      "low_since_entry": 0.2515,
+      "low_since_entry": 0.2505,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 18:01:13 MYT",
-      "last_check_ms": 1794841243012,
-      "last_price": 0.2535,
+      "last_check_ms": 1794841529500,
+      "last_price": 0.2507,
       "last_funding_ms": 1794830400000
     }
   ]

@@ -133,30 +133,10 @@
       "R": 0.00992448229189358,
       "targets": [],
       "high_since_entry": 0.2608,
-      "low_since_entry": 0.2515,
+      "low_since_entry": 0.2505,
       "exit_deadline": "2026-11-18 18:01:13 MYT",
       "market": "usdm_perp",
       "group": "合約1h組"
-    },
-    {
-      "id": "FHF-20261116-1715-MEGAUSDT",
-      "symbol": "MEGAUSDT",
-      "side": "BUY",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 0.050370072,
-      "entry_time": "2026-11-16 17:15:55 MYT",
-      "qty": 483.0,
-      "remaining_qty": 483.0,
-      "stop": 0.04971975090703663,
-      "initial_stop": 0.04971975090703663,
-      "R": 0.0006503210929633691,
-      "targets": [],
-      "high_since_entry": 0.05096,
-      "low_since_entry": 0.04978,
-      "exit_deadline": "2026-11-17 17:15:55 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
     },
     {
       "id": "FHF-20261116-1746-BULLAUSDT",
@@ -199,26 +179,6 @@
       "group": "合約高頻組"
     },
     {
-      "id": "FHF-20261116-2245-ETHUSDT",
-      "symbol": "ETHUSDT",
-      "side": "BUY",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 1852.12035,
-      "entry_time": "2026-11-16 22:45:00 MYT",
-      "qty": 0.012,
-      "remaining_qty": 0.012,
-      "stop": 1833.0767903869385,
-      "initial_stop": 1833.0767903869385,
-      "R": 19.043559613061365,
-      "targets": [],
-      "high_since_entry": 1854.24,
-      "low_since_entry": 1834.65,
-      "exit_deadline": "2026-11-17 22:45:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
       "id": "FHF-20261116-2245-BLESSUSDT",
       "symbol": "BLESSUSDT",
       "side": "BUY",
@@ -232,12 +192,12 @@
       "initial_stop": 0.015723426277515436,
       "R": 0.0013959969224845614,
       "targets": [],
-      "high_since_entry": 0.017444,
+      "high_since_entry": 0.0177,
       "low_since_entry": 0.016583,
       "exit_deadline": "2026-11-17 22:45:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-16 23:00:58 MYT"
+  "paper_updated_at": "2026-11-16 23:05:33 MYT"
 }
