@@ -334,3 +334,6 @@
 {"time": "2026-11-17 05:18:11 MYT", "kind": "skip", "symbol": "HUMAUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 7.01, "reason": "already holding"}
 {"time": "2026-11-17 05:33:18 MYT", "kind": "regime", "allow": "ANY", "btc_close": 65068.01, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
 {"time": "2026-11-17 05:33:27 MYT", "kind": "scan", "bar_close": "2026-11-17 05:30:00 MYT", "breakouts": 5, "vol_ok": 0, "allow": "ANY"}
+{"time": "2026-11-17 05:48:14 MYT", "kind": "regime", "allow": "ANY", "btc_close": 65068.01, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-17 05:48:26 MYT", "kind": "scan", "bar_close": "2026-11-17 05:45:00 MYT", "breakouts": 9, "vol_ok": 1, "allow": "ANY"}
+{"time": "2026-11-17 05:48:26 MYT", "kind": "skip", "symbol": "HYPEUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 2.03, "reason": "already holding"}

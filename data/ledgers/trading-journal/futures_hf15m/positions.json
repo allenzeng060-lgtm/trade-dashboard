@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 22:45:00 MYT",
-      "last_check_ms": 1794865389317,
-      "last_price": 0.018714,
+      "last_check_ms": 1794865706882,
+      "last_price": 0.018726,
       "last_funding_ms": 1794859200002
     },
     {
@@ -90,8 +90,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 23:15:00 MYT",
-      "last_check_ms": 1794865389649,
-      "last_price": 0.2459,
+      "last_check_ms": 1794865707206,
+      "last_price": 0.2454,
       "last_funding_ms": 1794859200002
     },
     {
@@ -127,14 +127,14 @@
       "risk_usdt": 0.4716425203772688,
       "entry_fee": 0.01059356829,
       "funding": -0.00105688,
-      "best": 0.0456,
-      "high_since_entry": 0.0456,
+      "best": 0.04566,
+      "high_since_entry": 0.04566,
       "low_since_entry": 0.04442,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 02:30:00 MYT",
-      "last_check_ms": 1794865389974,
-      "last_price": 0.04558,
+      "last_check_ms": 1794865707531,
+      "last_price": 0.04551,
       "last_funding_ms": 1794859200002
     },
     {
@@ -170,14 +170,14 @@
       "risk_usdt": 0.3122271923729748,
       "entry_fee": 0.011686606854000001,
       "funding": 0.0,
-      "best": 69.9,
-      "high_since_entry": 69.9,
+      "best": 70.249,
+      "high_since_entry": 70.249,
       "low_since_entry": 68.215,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 04:15:00 MYT",
-      "last_check_ms": 1794865390289,
-      "last_price": 69.866
+      "last_check_ms": 1794865707858,
+      "last_price": 70.15
     },
     {
       "id": "FHF-20261117-0430-HUMAUSDT",
@@ -218,8 +218,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 04:30:00 MYT",
-      "last_check_ms": 1794865390616,
-      "last_price": 0.009848,
+      "last_check_ms": 1794865708183,
+      "last_price": 0.009822,
       "last_funding_ms": 1794862800000
     }
   ]
