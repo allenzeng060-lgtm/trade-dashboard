@@ -42,13 +42,13 @@
       "entry_fee": 0.029982092382000006,
       "funding": -0.02675331,
       "best": 0.30193,
-      "high_since_entry": 0.30495,
+      "high_since_entry": 0.30499,
       "low_since_entry": 0.30193,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 09:06:56 MYT",
-      "last_check_ms": 1794830353956,
-      "last_price": 0.30477,
+      "last_check_ms": 1794830679026,
+      "last_price": 0.30497,
       "last_funding_ms": 1794816000001
     },
     {
@@ -83,15 +83,16 @@
       "stop_pct": 3.939,
       "risk_usdt": 0.9977766250378737,
       "entry_fee": 0.0123455304,
-      "funding": 0.0,
+      "funding": -0.00459927,
       "best": 0.2515,
       "high_since_entry": 0.2578,
       "low_since_entry": 0.2515,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 18:01:13 MYT",
-      "last_check_ms": 1794830354287,
-      "last_price": 0.2556
+      "last_check_ms": 1794830679242,
+      "last_price": 0.2551,
+      "last_funding_ms": 1794830400000
     }
   ]
 }

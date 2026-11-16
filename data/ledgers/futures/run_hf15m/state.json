@@ -1,44 +1,28 @@
 {
   "last_regime": {
     "allow": "ANY",
-    "btc_close": 64995.12,
+    "btc_close": 64448.32,
     "ref": 67568.0,
     "mode": "spot_level",
     "new_low": false,
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-16 19:49:28 MYT",
-    "bar_close": "2026-11-16 19:45:00 MYT",
-    "universe": 68,
+    "time": "2026-11-16 20:04:53 MYT",
+    "bar_close": "2026-11-16 20:00:00 MYT",
+    "universe": 67,
     "breakouts": [
       {
-        "symbol": "TRXUSDT",
-        "side": "BUY",
+        "symbol": "SKRUSDT",
+        "side": "SELL",
         "tf": "15m",
-        "level": 0.3043,
-        "close": 0.3048,
-        "vol_ratio": 0.9361
-      },
-      {
-        "symbol": "TACUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 0.0015,
-        "close": 0.0015,
-        "vol_ratio": 0.6223
-      },
-      {
-        "symbol": "BLESSUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 0.0126,
-        "close": 0.013,
-        "vol_ratio": 6.1524
+        "level": 0.01,
+        "close": 0.0098,
+        "vol_ratio": 2.3706
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794829500000,
+  "last_scan_bar_ms": 1794830400000,
   "last_equity_ts": 1794829822.515622
 }
