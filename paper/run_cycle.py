@@ -131,16 +131,18 @@ def run_set(kind: str) -> dict:
 
 
 def git_commit_push(repo: Path, message: str, retries: int = 5) -> str:
+    run(["git", "config", "user.name", "paper-trade bot"], cwd=repo)
+    run(["git", "config", "user.email", "41898282+github-actions[bot]@users.noreply.github.com"], cwd=repo)
     run(["git", "add", "-A"], cwd=repo)
     st = run(["git", "status", "--porcelain"], cwd=repo, check=False)
     if not (st.stdout or "").strip():
         log("no changes to commit")
         return "unchanged"
-    run(["git", "-c", "user.name=paper-trade bot", "-c",
-         "user.email=41898282+github-actions[bot]@users.noreply.github.com",
-         "commit", "-m", message], cwd=repo)
+    run(["git", "commit", "-m", message], cwd=repo)
     last = ""
     for i in range(retries):
+        run(["git", "rebase", "--abort"], cwd=repo, check=False)
+        run(["git", "cherry-pick", "--abort"], cwd=repo, check=False)
         pull = run(["git", "pull", "--rebase", "--autostash", "origin", "data"], cwd=repo, check=False)
         if pull.returncode != 0:
             last = pull.stderr
