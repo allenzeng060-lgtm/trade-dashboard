@@ -224,3 +224,4 @@
 {"time": "2026-11-16 23:30:58 MYT", "kind": "scan", "bar_close": "2026-11-16 23:30:00 MYT", "breakouts": 2, "vol_ok": 2, "allow": "ANY"}
 {"time": "2026-11-16 23:30:58 MYT", "kind": "skip", "symbol": "JUPUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.97, "reason": "already holding"}
 {"time": "2026-11-16 23:30:58 MYT", "kind": "open", "symbol": "PIEVERSEUSDT", "side": "BUY", "entry": 1.99549902, "stop": 1.9531669041674367, "qty": 10.0, "lev": 3, "liq": 1.36444377, "risk": 0.443}
+{"time": "2026-11-16 23:40:53 MYT", "kind": "close", "symbol": "XAUTUSDT", "reason": "stop", "fill": 3845.8937629191046, "net": -0.099, "R": -1.06}

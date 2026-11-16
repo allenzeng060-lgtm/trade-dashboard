@@ -135,7 +135,7 @@
       "R": 0.00992448229189358,
       "targets": [],
       "high_since_entry": 0.2608,
-      "low_since_entry": 0.2459,
+      "low_since_entry": 0.2453,
       "exit_deadline": "2026-11-18 18:01:13 MYT",
       "market": "usdm_perp",
       "group": "合約1h組"
@@ -157,26 +157,6 @@
       "high_since_entry": 0.01506,
       "low_since_entry": 0.01245,
       "exit_deadline": "2026-11-17 17:46:04 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
-      "id": "FHF-20261116-1900-XAUTUSDT",
-      "symbol": "XAUTUSDT",
-      "side": "BUY",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 3858.341514,
-      "entry_time": "2026-11-16 19:00:00 MYT",
-      "qty": 0.006,
-      "remaining_qty": 0.006,
-      "stop": 3846.663095538212,
-      "initial_stop": 3846.663095538212,
-      "R": 11.678418461788127,
-      "targets": [],
-      "high_since_entry": 3872.62,
-      "low_since_entry": 3846.93,
-      "exit_deadline": "2026-11-17 19:00:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
     },
@@ -215,7 +195,7 @@
       "R": 0.004354402619949679,
       "targets": [],
       "high_since_entry": 0.2497,
-      "low_since_entry": 0.2459,
+      "low_since_entry": 0.2453,
       "exit_deadline": "2026-11-17 23:15:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
@@ -275,11 +255,11 @@
       "R": 0.04233211583256344,
       "targets": [],
       "high_since_entry": 2.0153,
-      "low_since_entry": 1.99,
+      "low_since_entry": 1.9877,
       "exit_deadline": "2026-11-17 23:30:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-16 23:35:46 MYT"
+  "paper_updated_at": "2026-11-16 23:40:56 MYT"
 }
