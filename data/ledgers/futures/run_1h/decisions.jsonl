@@ -47,3 +47,11 @@
 {"time": "2026-11-16 22:05:24 MYT", "kind": "skip", "symbol": "SPACEUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 20.05, "reason": "direction filter: BTC 4h close 64448.32 < filter 67568 → shorts only"}
 {"time": "2026-11-16 22:05:24 MYT", "kind": "skip", "symbol": "ZILUSDT", "side": "SELL", "tf": "1h", "vol_ratio": 2.91, "reason": "same-direction cap 2 (v0.2 correlation cap)"}
 {"time": "2026-11-16 22:30:27 MYT", "kind": "close", "symbol": "TRXUSDT", "reason": "stop", "fill": 0.30540342394618497, "net": -0.5927, "R": -1.07}
+{"time": "2026-11-16 23:00:32 MYT", "kind": "regime", "allow": "SELL", "btc_close": 64448.32, "ref": 67568.0, "new_low": false, "reason": "BTC 4h close 64448.32 < filter 67568 → shorts only"}
+{"time": "2026-11-16 23:00:43 MYT", "kind": "scan", "bar_close": "2026-11-16 23:00:00 MYT", "breakouts": 7, "vol_ok": 6, "allow": "SELL"}
+{"time": "2026-11-16 23:00:43 MYT", "kind": "skip", "symbol": "BLESSUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 63.26, "reason": "direction filter: BTC 4h close 64448.32 < filter 67568 → shorts only"}
+{"time": "2026-11-16 23:00:43 MYT", "kind": "skip", "symbol": "SPACEUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 47.85, "reason": "direction filter: BTC 4h close 64448.32 < filter 67568 → shorts only"}
+{"time": "2026-11-16 23:00:43 MYT", "kind": "skip", "symbol": "ICPUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 5.96, "reason": "direction filter: BTC 4h close 64448.32 < filter 67568 → shorts only"}
+{"time": "2026-11-16 23:00:43 MYT", "kind": "skip", "symbol": "ETHUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 3.24, "reason": "direction filter: BTC 4h close 64448.32 < filter 67568 → shorts only"}
+{"time": "2026-11-16 23:00:43 MYT", "kind": "skip", "symbol": "TRXUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 2.42, "reason": "direction filter: BTC 4h close 64448.32 < filter 67568 → shorts only"}
+{"time": "2026-11-16 23:00:43 MYT", "kind": "skip", "symbol": "APTUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 2.0, "reason": "direction filter: BTC 4h close 64448.32 < filter 67568 → shorts only"}

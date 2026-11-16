@@ -153,7 +153,7 @@
       "R": 0.0006503210929633691,
       "targets": [],
       "high_since_entry": 0.05096,
-      "low_since_entry": 0.04982,
+      "low_since_entry": 0.04978,
       "exit_deadline": "2026-11-17 17:15:55 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
@@ -199,26 +199,6 @@
       "group": "合約高頻組"
     },
     {
-      "id": "FHF-20261116-2245-SPACEUSDT",
-      "symbol": "SPACEUSDT",
-      "side": "BUY",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 0.0035987196,
-      "entry_time": "2026-11-16 22:45:00 MYT",
-      "qty": 3357.0,
-      "remaining_qty": 3357.0,
-      "stop": 0.0034590431873390984,
-      "initial_stop": 0.0034590431873390984,
-      "R": 0.00013967641266090177,
-      "targets": [],
-      "high_since_entry": 0.00376,
-      "low_since_entry": 0.003575,
-      "exit_deadline": "2026-11-17 22:45:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
       "id": "FHF-20261116-2245-ETHUSDT",
       "symbol": "ETHUSDT",
       "side": "BUY",
@@ -232,8 +212,8 @@
       "initial_stop": 1833.0767903869385,
       "R": 19.043559613061365,
       "targets": [],
-      "high_since_entry": 1852.26,
-      "low_since_entry": 1842.79,
+      "high_since_entry": 1854.24,
+      "low_since_entry": 1834.65,
       "exit_deadline": "2026-11-17 22:45:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
@@ -259,5 +239,5 @@
       "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-16 22:55:30 MYT"
+  "paper_updated_at": "2026-11-16 23:00:58 MYT"
 }
