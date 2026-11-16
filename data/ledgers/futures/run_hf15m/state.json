@@ -1,28 +1,44 @@
 {
   "last_regime": {
     "allow": "ANY",
-    "btc_close": 64448.32,
+    "btc_close": 64467.0,
     "ref": 67568.0,
     "mode": "spot_level",
     "new_low": false,
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-16 23:46:08 MYT",
-    "bar_close": "2026-11-16 23:45:00 MYT",
+    "time": "2026-11-17 00:01:38 MYT",
+    "bar_close": "2026-11-17 00:00:00 MYT",
     "universe": 71,
     "breakouts": [
       {
-        "symbol": "AKEUSDT",
+        "symbol": "ICPUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 2.439,
+        "close": 2.456,
+        "vol_ratio": 7.3973
+      },
+      {
+        "symbol": "PAXGUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 0.0107,
-        "close": 0.0107,
-        "vol_ratio": 0.4487
+        "level": 3847.12,
+        "close": 3845.54,
+        "vol_ratio": 1.0323
+      },
+      {
+        "symbol": "XAUTUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 3845.52,
+        "close": 3842.53,
+        "vol_ratio": 1.088
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794843900000,
-  "last_equity_ts": 1794843653.2674336
+  "last_scan_bar_ms": 1794844800000,
+  "last_equity_ts": 1794844898.4162493
 }

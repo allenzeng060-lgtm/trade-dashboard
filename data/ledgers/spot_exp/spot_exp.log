@@ -8,3 +8,5 @@
 2026-11-16 15:24:48,633 INFO decision close {"symbol": "NEARUSDT", "reason": "stop", "fill": 3.123146986768085, "net": -0.8957, "R": -1.01}
 2026-11-16 15:24:48,799 INFO decision close {"symbol": "BTCUSDT", "reason": "stop", "fill": 64249.69129578004, "net": -0.4607, "R": -1.03}
 2026-11-16 15:31:01,211 INFO decision close {"symbol": "MSTRBUSDT", "reason": "stop", "fill": 101.76307352574572, "net": -0.5216, "R": -1.02}
+2026-11-16 16:01:42,319 INFO decision open {"symbol": "HUMAUSDT", "vol_ratio": 16.89, "stop_pct": 9.71, "entry": 0.00812406, "stop": 0.007335289148096464, "notional": 9.85, "risk": 0.975}
+2026-11-16 16:01:42,483 INFO decision open {"symbol": "ICPUSDT", "vol_ratio": 9.2, "stop_pct": 3.83, "entry": 2.46123, "stop": 2.366990575767391, "notional": 24.22, "risk": 0.975}

@@ -8,3 +8,5 @@
 {"time": "2026-11-16 23:24:48 MYT", "kind": "close", "symbol": "NEARUSDT", "reason": "stop", "fill": 3.123146986768085, "net": -0.8957, "R": -1.01}
 {"time": "2026-11-16 23:24:48 MYT", "kind": "close", "symbol": "BTCUSDT", "reason": "stop", "fill": 64249.69129578004, "net": -0.4607, "R": -1.03}
 {"time": "2026-11-16 23:31:01 MYT", "kind": "close", "symbol": "MSTRBUSDT", "reason": "stop", "fill": 101.76307352574572, "net": -0.5216, "R": -1.02}
+{"time": "2026-11-17 00:01:42 MYT", "kind": "open", "symbol": "HUMAUSDT", "vol_ratio": 16.89, "stop_pct": 9.71, "entry": 0.00812406, "stop": 0.007335289148096464, "notional": 9.85, "risk": 0.975}
+{"time": "2026-11-17 00:01:42 MYT", "kind": "open", "symbol": "ICPUSDT", "vol_ratio": 9.2, "stop_pct": 3.83, "entry": 2.46123, "stop": 2.366990575767391, "notional": 24.22, "risk": 0.975}

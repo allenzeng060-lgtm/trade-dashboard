@@ -25,3 +25,9 @@
 2026-11-16 15:00:43,012 INFO decision skip {"symbol": "ETHUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 3.24, "reason": "direction filter: BTC 4h close 64448.32 < filter 67568 → shorts only"}
 2026-11-16 15:00:43,012 INFO decision skip {"symbol": "TRXUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 2.42, "reason": "direction filter: BTC 4h close 64448.32 < filter 67568 → shorts only"}
 2026-11-16 15:00:43,012 INFO decision skip {"symbol": "APTUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 2.0, "reason": "direction filter: BTC 4h close 64448.32 < filter 67568 → shorts only"}
+2026-11-16 16:01:08,989 INFO decision funding {"symbol": "JUPUSDT", "rate": "-0.00019103", "amount": -0.004639, "at": "2026-11-17 00:00:00 MYT"}
+2026-11-16 16:01:10,613 INFO decision regime {"allow": "SELL", "btc_close": 64467.0, "ref": 67568.0, "new_low": false, "reason": "BTC 4h close 64467.00 < filter 67568 → shorts only"}
+2026-11-16 16:01:22,702 INFO decision scan {"bar_close": "2026-11-17 00:00:00 MYT", "breakouts": 4, "vol_ok": 3, "allow": "SELL"}
+2026-11-16 16:01:22,702 INFO decision skip {"symbol": "BLESSUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 38.38, "reason": "direction filter: BTC 4h close 64467.00 < filter 67568 → shorts only"}
+2026-11-16 16:01:22,703 INFO decision skip {"symbol": "ICPUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 5.6, "reason": "direction filter: BTC 4h close 64467.00 < filter 67568 → shorts only"}
+2026-11-16 16:01:22,703 INFO decision skip {"symbol": "JUPUSDT", "side": "SELL", "tf": "1h", "vol_ratio": 3.58, "reason": "already holding"}

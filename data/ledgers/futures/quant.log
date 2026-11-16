@@ -6,3 +6,11 @@
 2026-11-16 12:04:26,500 INFO decision skip {"symbol": "RAREUSDT", "side": "BUY", "tf": "4h", "vol_ratio": 20.9, "reason": "direction filter: BTC 4h close 64448.32 < filter 67568 → shorts only"}
 2026-11-16 12:04:26,500 INFO decision skip {"symbol": "LITUSDT", "side": "SELL", "tf": "4h", "vol_ratio": 13.26, "reason": "same-direction cap 1 (v0.2 correlation cap)"}
 2026-11-16 12:04:26,500 INFO decision skip {"symbol": "EVAAUSDT", "side": "BUY", "tf": "4h", "vol_ratio": 8.99, "reason": "direction filter: BTC 4h close 64448.32 < filter 67568 → shorts only"}
+2026-11-16 16:00:50,969 INFO decision funding {"symbol": "WIFUSDT", "rate": "-0.00001481", "amount": -0.000538, "at": "2026-11-17 00:00:00 MYT"}
+2026-11-16 16:00:51,305 INFO decision funding {"symbol": "1000BONKUSDT", "rate": "-0.00028626", "amount": -0.008674, "at": "2026-11-17 00:00:00 MYT"}
+2026-11-16 16:00:53,071 INFO decision regime {"allow": "SELL", "btc_close": 64467.0, "ref": 67568.0, "new_low": false, "reason": "BTC 4h close 64467.00 < filter 67568 → shorts only"}
+2026-11-16 16:01:07,610 INFO decision scan {"bar_close": "2026-11-17 00:00:00 MYT", "breakouts": 5, "vol_ok": 4, "allow": "SELL"}
+2026-11-16 16:01:07,611 INFO decision skip {"symbol": "BLESSUSDT", "side": "BUY", "tf": "4h", "vol_ratio": 55.75, "reason": "direction filter: BTC 4h close 64467.00 < filter 67568 → shorts only"}
+2026-11-16 16:01:07,611 INFO decision skip {"symbol": "SPACEUSDT", "side": "BUY", "tf": "4h", "vol_ratio": 36.8, "reason": "direction filter: BTC 4h close 64467.00 < filter 67568 → shorts only"}
+2026-11-16 16:01:07,611 INFO decision skip {"symbol": "AIOTUSDT", "side": "SELL", "tf": "4h", "vol_ratio": 5.95, "reason": "same-direction cap 1 (v0.2 correlation cap)"}
+2026-11-16 16:01:07,611 INFO decision skip {"symbol": "ZILUSDT", "side": "SELL", "tf": "4h", "vol_ratio": 2.65, "reason": "same-direction cap 1 (v0.2 correlation cap)"}

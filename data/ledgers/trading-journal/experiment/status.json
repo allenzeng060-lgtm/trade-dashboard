@@ -2,13 +2,40 @@
  "group": "現貨實驗組",
  "rules": "exp-v2-auto",
  "mode": "paper",
- "updated_at": "2026-11-16 23:55:54 MYT",
+ "updated_at": "2026-11-17 00:01:42 MYT",
  "cycle": 1,
  "refills": 0,
  "wallet_usdt": 97.4728,
- "unrealized_usdt": 0,
- "equity_usdt": 97.4728,
+ "unrealized_usdt": -0.0511,
+ "equity_usdt": 97.4217,
  "no_entry_window": false,
  "candidates_1h": 2,
- "positions": []
+ "positions": [
+  {
+   "id": "SX-20261117-0001-HUMAUSDT",
+   "symbol": "HUMAUSDT",
+   "entry_time": "2026-11-17 00:01:42 MYT",
+   "entry_price": 0.00812406,
+   "qty": 1212.001002605248,
+   "notional": 9.846368865225191,
+   "stop": 0.007335289148096464,
+   "initial_stop": 0.007335289148096464,
+   "trail_armed": false,
+   "last_price": 0.00812,
+   "exit_deadline": "2026-11-18 00:01:42 MYT"
+  },
+  {
+   "id": "SX-20261117-0001-ICPUSDT",
+   "symbol": "ICPUSDT",
+   "entry_time": "2026-11-17 00:01:42 MYT",
+   "entry_price": 2.46123,
+   "qty": 9.839012645202038,
+   "notional": 24.216073092750612,
+   "stop": 2.366990575767391,
+   "initial_stop": 2.366990575767391,
+   "trail_armed": false,
+   "last_price": 2.46,
+   "exit_deadline": "2026-11-18 00:01:42 MYT"
+  }
+ ]
 }
