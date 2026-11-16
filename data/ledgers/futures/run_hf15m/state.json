@@ -8,12 +8,21 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-17 01:16:35 MYT",
-    "bar_close": "2026-11-17 01:15:00 MYT",
-    "universe": 70,
-    "breakouts": [],
+    "time": "2026-11-17 01:31:51 MYT",
+    "bar_close": "2026-11-17 01:30:00 MYT",
+    "universe": 71,
+    "breakouts": [
+      {
+        "symbol": "QNTUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 157.85,
+        "close": 158.39,
+        "vol_ratio": 4.3097
+      }
+    ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794849300000,
-  "last_equity_ts": 1794849381.3231752
+  "last_scan_bar_ms": 1794850200000,
+  "last_equity_ts": 1794850311.741292
 }

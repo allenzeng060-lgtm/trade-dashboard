@@ -173,3 +173,6 @@
 2026-11-16 17:16:21,322 INFO decision close {"symbol": "PIEVERSEUSDT", "reason": "trail_stop", "fill": 2.074852830590603, "net": 0.7715, "R": 1.74}
 2026-11-16 17:16:22,580 INFO decision regime {"allow": "ANY", "btc_close": 64467.0, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
 2026-11-16 17:16:35,003 INFO decision scan {"bar_close": "2026-11-17 01:15:00 MYT", "breakouts": 0, "vol_ok": 0, "allow": "ANY"}
+2026-11-16 17:31:41,116 INFO decision regime {"allow": "ANY", "btc_close": 64467.0, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+2026-11-16 17:31:51,400 INFO decision scan {"bar_close": "2026-11-17 01:30:00 MYT", "breakouts": 1, "vol_ok": 1, "allow": "ANY"}
+2026-11-16 17:31:51,741 INFO decision open {"symbol": "QNTUSDT", "side": "BUY", "entry": 158.42167799999999, "stop": 155.99284748783813, "qty": 0.1, "lev": 3, "liq": 106.68126465, "risk": 0.259}
