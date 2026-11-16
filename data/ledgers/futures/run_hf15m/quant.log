@@ -189,3 +189,4 @@
 2026-11-16 18:17:19,349 INFO decision open {"symbol": "ARIAUSDT", "side": "SELL", "entry": 0.198640264, "stop": 0.21339136973550427, "qty": 31.0, "lev": 1, "liq": 0.37836241, "risk": 0.464}
 2026-11-16 18:21:48,694 INFO decision trail_update {"symbol": "BULLAUSDT", "stop": 0.014451025298509713, "best": 0.01556}
 2026-11-16 18:21:50,956 INFO decision trail_update {"symbol": "SPACEUSDT", "stop": 0.004049319684866624, "best": 0.004245}
+2026-11-16 18:26:51,747 INFO decision trail_update {"symbol": "SPACEUSDT", "stop": 0.0040503196848666245, "best": 0.004246}
