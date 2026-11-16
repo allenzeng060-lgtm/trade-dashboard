@@ -1,0 +1,83 @@
+{"time": "2026-11-16 03:06:23 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64748.3, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-16 03:06:35 MYT", "kind": "scan", "bar_close": "2026-11-16 03:00:00 MYT", "breakouts": 1, "vol_ok": 0, "allow": "ANY"}
+{"time": "2026-11-16 05:10:20 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64947.43, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-16 05:10:32 MYT", "kind": "scan", "bar_close": "2026-11-16 05:00:00 MYT", "breakouts": 4, "vol_ok": 1, "allow": "ANY"}
+{"time": "2026-11-16 05:10:32 MYT", "kind": "skip_all", "reason": "bar closed 10 min ago (too old, box was asleep)"}
+{"time": "2026-11-16 05:16:22 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64947.43, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-16 05:16:36 MYT", "kind": "scan", "bar_close": "2026-11-16 05:15:00 MYT", "breakouts": 3, "vol_ok": 0, "allow": "ANY"}
+{"time": "2026-11-16 07:12:08 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64947.43, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-16 07:12:20 MYT", "kind": "scan", "bar_close": "2026-11-16 07:00:00 MYT", "breakouts": 2, "vol_ok": 0, "allow": "ANY"}
+{"time": "2026-11-16 07:12:20 MYT", "kind": "skip_all", "reason": "bar closed 12 min ago (too old, box was asleep)"}
+{"time": "2026-11-16 07:17:04 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64947.43, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-16 07:21:23 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64947.43, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-16 07:21:37 MYT", "kind": "scan", "bar_close": "2026-11-16 07:15:00 MYT", "breakouts": 3, "vol_ok": 2, "allow": "ANY"}
+{"time": "2026-11-16 07:21:37 MYT", "kind": "open", "symbol": "PAXGUSDT", "side": "BUY", "entry": 3865.1028659999997, "stop": 3854.9794545277036, "qty": 0.006, "lev": 3, "liq": 2602.76287273, "risk": 0.084}
+{"time": "2026-11-16 07:21:37 MYT", "kind": "open", "symbol": "XAUTUSDT", "side": "BUY", "entry": 3861.442134, "stop": 3851.294702216467, "qty": 0.006, "lev": 3, "liq": 2600.29773333, "risk": 0.084}
+{"time": "2026-11-16 09:06:38 MYT", "kind": "funding", "symbol": "PAXGUSDT", "rate": "0.00003467", "amount": -0.000808, "at": "2026-11-16 08:00:00 MYT"}
+{"time": "2026-11-16 09:06:39 MYT", "kind": "close", "symbol": "PAXGUSDT", "reason": "trail_stop", "fill": 3854.918862, "net": -0.0851, "R": -1.01}
+{"time": "2026-11-16 09:06:39 MYT", "kind": "funding", "symbol": "XAUTUSDT", "rate": "0.00005000", "amount": -0.001164, "at": "2026-11-16 08:00:00 MYT"}
+{"time": "2026-11-16 09:06:39 MYT", "kind": "close", "symbol": "XAUTUSDT", "reason": "stop", "fill": 3850.524443276024, "net": -0.0898, "R": -1.07}
+{"time": "2026-11-16 09:06:41 MYT", "kind": "regime", "allow": "ANY", "btc_close": 65351.05, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-16 09:06:53 MYT", "kind": "scan", "bar_close": "2026-11-16 09:00:00 MYT", "breakouts": 6, "vol_ok": 0, "allow": "ANY"}
+{"time": "2026-11-16 09:15:43 MYT", "kind": "regime", "allow": "ANY", "btc_close": 65351.05, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-16 09:15:53 MYT", "kind": "scan", "bar_close": "2026-11-16 09:15:00 MYT", "breakouts": 6, "vol_ok": 1, "allow": "ANY"}
+{"time": "2026-11-16 09:15:54 MYT", "kind": "open", "symbol": "NIGHTUSDT", "side": "SELL", "entry": 0.047920414, "stop": 0.04878619913026673, "qty": 520.0, "lev": 3, "liq": 0.06294964, "risk": 0.475}
+{"time": "2026-11-16 11:05:36 MYT", "kind": "regime", "allow": "ANY", "btc_close": 65351.05, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-16 11:05:49 MYT", "kind": "scan", "bar_close": "2026-11-16 11:00:00 MYT", "breakouts": 2, "vol_ok": 1, "allow": "ANY"}
+{"time": "2026-11-16 11:05:49 MYT", "kind": "open", "symbol": "AGTUSDT", "side": "SELL", "entry": 0.027624474, "stop": 0.02875827437482294, "qty": 429.0, "lev": 2, "liq": 0.03946353, "risk": 0.498}
+{"time": "2026-11-16 11:47:14 MYT", "kind": "regime", "allow": "ANY", "btc_close": 65351.05, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-16 11:47:26 MYT", "kind": "scan", "bar_close": "2026-11-16 11:45:00 MYT", "breakouts": 2, "vol_ok": 1, "allow": "ANY"}
+{"time": "2026-11-16 11:47:26 MYT", "kind": "open", "symbol": "SKRUSDT", "side": "BUY", "entry": 0.0119483892, "stop": 0.011313592647409778, "qty": 772.0, "lev": 2, "liq": 0.00612738, "risk": 0.499}
+{"time": "2026-11-16 11:48:13 MYT", "kind": "trail_update", "symbol": "NIGHTUSDT", "stop": 0.047005785130266736, "best": 0.04614}
+{"time": "2026-11-16 11:49:24 MYT", "kind": "trail_update", "symbol": "NIGHTUSDT", "stop": 0.04695578513026673, "best": 0.04609}
+{"time": "2026-11-16 13:10:48 MYT", "kind": "funding", "symbol": "NIGHTUSDT", "rate": "-0.00009004", "amount": -0.00217, "at": "2026-11-16 12:00:00 MYT"}
+{"time": "2026-11-16 13:10:48 MYT", "kind": "close", "symbol": "NIGHTUSDT", "reason": "trail_stop", "fill": 0.04689516228729278, "net": 0.5063, "R": 1.07}
+{"time": "2026-11-16 13:10:48 MYT", "kind": "funding", "symbol": "AGTUSDT", "rate": "0.00005000", "amount": 0.000596, "at": "2026-11-16 12:00:00 MYT"}
+{"time": "2026-11-16 13:10:48 MYT", "kind": "close", "symbol": "AGTUSDT", "reason": "stop", "fill": 0.028764026029697905, "net": -0.5004, "R": -1.0}
+{"time": "2026-11-16 13:10:48 MYT", "kind": "funding", "symbol": "SKRUSDT", "rate": "-0.01344688", "amount": 0.123119, "at": "2026-11-16 12:00:00 MYT"}
+{"time": "2026-11-16 13:10:49 MYT", "kind": "close", "symbol": "SKRUSDT", "reason": "stop", "fill": 0.011311329928880296, "net": -0.3777, "R": -0.76}
+{"time": "2026-11-16 13:10:50 MYT", "kind": "regime", "allow": "ANY", "btc_close": 65113.92, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-16 13:11:02 MYT", "kind": "scan", "bar_close": "2026-11-16 13:00:00 MYT", "breakouts": 4, "vol_ok": 2, "allow": "ANY"}
+{"time": "2026-11-16 13:11:02 MYT", "kind": "skip_all", "reason": "bar closed 10 min ago (too old, box was asleep)"}
+{"time": "2026-11-16 13:15:50 MYT", "kind": "regime", "allow": "ANY", "btc_close": 65113.92, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-16 13:16:03 MYT", "kind": "scan", "bar_close": "2026-11-16 13:15:00 MYT", "breakouts": 9, "vol_ok": 1, "allow": "ANY"}
+{"time": "2026-11-16 13:16:03 MYT", "kind": "open", "symbol": "RAREUSDT", "side": "BUY", "entry": 0.014382876, "stop": 0.01320597965597645, "qty": 417.0, "lev": 1, "liq": 0.0, "risk": 0.497}
+{"time": "2026-11-16 14:10:00 MYT", "kind": "close", "symbol": "RAREUSDT", "reason": "stop", "fill": 0.013203338460045256, "net": -0.4976, "R": -1.0}
+{"time": "2026-11-16 14:10:02 MYT", "kind": "regime", "allow": "ANY", "btc_close": 65113.92, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-16 14:10:15 MYT", "kind": "scan", "bar_close": "2026-11-16 14:00:00 MYT", "breakouts": 10, "vol_ok": 4, "allow": "ANY"}
+{"time": "2026-11-16 14:10:15 MYT", "kind": "skip_all", "reason": "bar closed 10 min ago (too old, box was asleep)"}
+{"time": "2026-11-16 15:04:50 MYT", "kind": "regime", "allow": "ANY", "btc_close": 65113.92, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-16 15:05:02 MYT", "kind": "scan", "bar_close": "2026-11-16 15:00:00 MYT", "breakouts": 4, "vol_ok": 2, "allow": "ANY"}
+{"time": "2026-11-16 15:05:03 MYT", "kind": "open", "symbol": "SHELLUSDT", "side": "BUY", "entry": 0.028965792, "stop": 0.02783094884497595, "qty": 425.0, "lev": 2, "liq": 0.01524515, "risk": 0.494}
+{"time": "2026-11-16 15:05:03 MYT", "kind": "open", "symbol": "TACUSDT", "side": "SELL", "entry": 0.0012977403999999998, "stop": 0.0013830605676738803, "qty": 5709.0, "lev": 1, "liq": 0.00247189, "risk": 0.495}
+{"time": "2026-11-16 17:11:40 MYT", "kind": "funding", "symbol": "SHELLUSDT", "rate": "-0.00013935", "amount": 0.001627, "at": "2026-11-16 16:00:00 MYT"}
+{"time": "2026-11-16 17:11:40 MYT", "kind": "close", "symbol": "SHELLUSDT", "reason": "stop", "fill": 0.026534692000000002, "net": -1.0434, "R": -2.11}
+{"time": "2026-11-16 17:11:40 MYT", "kind": "funding", "symbol": "TACUSDT", "rate": "0.00032408", "amount": 0.002488, "at": "2026-11-16 16:00:00 MYT"}
+{"time": "2026-11-16 17:11:40 MYT", "kind": "close", "symbol": "TACUSDT", "reason": "stop", "fill": 0.001383337179787415, "net": -0.4938, "R": -1.0}
+{"time": "2026-11-16 17:11:42 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64995.12, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-16 17:11:54 MYT", "kind": "scan", "bar_close": "2026-11-16 17:00:00 MYT", "breakouts": 7, "vol_ok": 0, "allow": "ANY"}
+{"time": "2026-11-16 17:11:54 MYT", "kind": "skip_all", "reason": "bar closed 11 min ago (too old, box was asleep)"}
+{"time": "2026-11-16 17:15:42 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64995.12, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-16 17:15:55 MYT", "kind": "scan", "bar_close": "2026-11-16 17:15:00 MYT", "breakouts": 20, "vol_ok": 8, "allow": "ANY"}
+{"time": "2026-11-16 17:15:55 MYT", "kind": "open", "symbol": "MEGAUSDT", "side": "BUY", "entry": 0.050370072, "stop": 0.04971975090703663, "qty": 483.0, "lev": 3, "liq": 0.03409142, "risk": 0.338}
+{"time": "2026-11-16 17:15:55 MYT", "kind": "open", "symbol": "HBARUSDT", "side": "SELL", "entry": 0.057568484, "stop": 0.058027936200288587, "qty": 423.0, "lev": 3, "liq": 0.075998, "risk": 0.219}
+{"time": "2026-11-16 17:15:55 MYT", "kind": "skip", "symbol": "BTCUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.71, "reason": "notional 0.00 < exchange min 50"}
+{"time": "2026-11-16 17:15:55 MYT", "kind": "open", "symbol": "XRPUSDT", "side": "SELL", "entry": 0.94261144, "stop": 0.9509309817093502, "qty": 25.8, "lev": 3, "liq": 1.25056244, "risk": 0.239}
+{"time": "2026-11-16 17:15:55 MYT", "kind": "open", "symbol": "ETHUSDT", "side": "SELL", "entry": 1791.461636, "stop": 1805.1337947746013, "qty": 0.013000000000000001, "lev": 3, "liq": 2379.09911819, "risk": 0.201}
+{"time": "2026-11-16 17:15:55 MYT", "kind": "open", "symbol": "AAVEUSDT", "side": "SELL", "entry": 107.948406, "stop": 109.01823698547405, "qty": 0.2, "lev": 3, "liq": 142.50614653, "risk": 0.236}
+{"time": "2026-11-16 17:15:55 MYT", "kind": "open", "symbol": "EVAAUSDT", "side": "BUY", "entry": 3.2463491399999995, "stop": 3.0640283119556164, "qty": 2.6, "lev": 2, "liq": 1.70860481, "risk": 0.482}
+{"time": "2026-11-16 17:15:55 MYT", "kind": "open", "symbol": "XLMUSDT", "side": "SELL", "entry": 0.13667266, "stop": 0.13790086453983685, "qty": 178.0, "lev": 3, "liq": 0.18042595, "risk": 0.243}
+{"time": "2026-11-16 17:43:47 MYT", "kind": "close", "symbol": "HBARUSDT", "reason": "stop", "fill": 0.05803954178752864, "net": -0.2237, "R": -1.02}
+{"time": "2026-11-16 17:43:48 MYT", "kind": "close", "symbol": "AAVEUSDT", "reason": "stop", "fill": 109.04004063287114, "net": -0.24, "R": -1.02}
+{"time": "2026-11-16 17:43:50 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64995.12, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-16 17:44:04 MYT", "kind": "scan", "bar_close": "2026-11-16 17:30:00 MYT", "breakouts": 4, "vol_ok": 3, "allow": "ANY"}
+{"time": "2026-11-16 17:44:04 MYT", "kind": "skip_all", "reason": "bar closed 13 min ago (too old, box was asleep)"}
+{"time": "2026-11-16 17:45:50 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64995.12, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-16 17:46:04 MYT", "kind": "scan", "bar_close": "2026-11-16 17:45:00 MYT", "breakouts": 6, "vol_ok": 2, "allow": "ANY"}
+{"time": "2026-11-16 17:46:04 MYT", "kind": "open", "symbol": "BULLAUSDT", "side": "BUY", "entry": 0.013212641999999998, "stop": 0.012103667298509712, "qty": 432.0, "lev": 1, "liq": 0.0, "risk": 0.485}
+{"time": "2026-11-16 17:46:04 MYT", "kind": "open", "symbol": "SKRUSDT", "side": "SELL", "entry": 0.010804838600000002, "stop": 0.011361746492749505, "qty": 853.0, "lev": 2, "liq": 0.01581196, "risk": 0.484}
+{"time": "2026-11-16 18:00:59 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64995.12, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-16 18:01:11 MYT", "kind": "scan", "bar_close": "2026-11-16 18:00:00 MYT", "breakouts": 2, "vol_ok": 1, "allow": "ANY"}
+{"time": "2026-11-16 18:01:11 MYT", "kind": "skip", "symbol": "EVAAUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 3.61, "reason": "already holding"}
+{"time": "2026-11-16 18:04:59 MYT", "kind": "trail_update", "symbol": "EVAAUSDT", "stop": 3.524079171955617, "best": 3.7064}
+{"time": "2026-11-16 18:06:00 MYT", "kind": "close", "symbol": "EVAAUSDT", "reason": "trail_stop", "fill": 3.523374356121226, "net": 0.7115, "R": 1.48}

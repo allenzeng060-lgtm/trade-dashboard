@@ -1,0 +1,1 @@
+mode,group,rules,trade_id,symbol,side,signal_tf,signal_bar_close_myt,vol_ratio,entry_time_myt,entry_price,qty,notional_usdt,leverage,margin_usdt,liq_price,mmr,initial_stop,R_dist,risk_usdt,exit_time_myt,exit_price,exit_reason,gross_pnl,fees,funding,net_pnl,R_multiple,equity_after,price_source,notes

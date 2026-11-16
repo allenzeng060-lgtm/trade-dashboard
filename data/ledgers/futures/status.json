@@ -1,0 +1,90 @@
+{
+  "group": "合約量化組",
+  "set": "4h",
+  "mode": "paper",
+  "rules": "v0.2",
+  "updated_at": "2026-11-16 18:09:04 MYT",
+  "cycle": 1,
+  "refills": 0,
+  "params": {
+    "tf": "4h",
+    "risk": 0.02,
+    "atr_mult": 1.5,
+    "max_pos": 3,
+    "max_same_dir": 1,
+    "expiry_days": 7,
+    "slip": 0.0,
+    "regime": "spot_level"
+  },
+  "wallet_usdt": 98.0049,
+  "unrealized_usdt": -1.1918,
+  "equity_usdt": 96.8132,
+  "pnl_pct": -3.187,
+  "regime": {
+    "allow": "SELL",
+    "btc_close": 64995.12,
+    "ref": 67568.0,
+    "reason": "BTC 4h close 64995.12 < filter 67568 → shorts only"
+  },
+  "last_scan": {
+    "time": "2026-11-16 17:11:56 MYT",
+    "bar_close": "2026-11-16 16:00:00 MYT",
+    "universe": 67,
+    "breakouts": [
+      {
+        "symbol": "EVAAUSDT",
+        "side": "BUY",
+        "tf": "4h",
+        "level": 2.8966,
+        "close": 2.9585,
+        "vol_ratio": 3.3056
+      }
+    ],
+    "regime": "SELL"
+  },
+  "positions": [
+    {
+      "id": "FQ-20261115-0810-WIFUSDT",
+      "symbol": "WIFUSDT",
+      "side": "SELL",
+      "entry_time": "2026-11-15 08:10:23 MYT",
+      "entry_price": 0.1295,
+      "qty": 275.1,
+      "notional": 35.62545,
+      "leverage": 2,
+      "margin": 17.812725,
+      "liq_price": 0.19232673,
+      "stop": 0.1366359626962965,
+      "initial_stop": 0.1366359626962965,
+      "R": 0.007135962696296479,
+      "trail_armed": false,
+      "funding": -0.00387215,
+      "last_price": 0.1322,
+      "exit_deadline": "2026-11-22 08:10:23 MYT",
+      "signal_tf": "4h",
+      "vol_ratio": 4.75
+    },
+    {
+      "id": "FQ-20261115-0810-1000BONKUSDT",
+      "symbol": "1000BONKUSDT",
+      "side": "SELL",
+      "entry_time": "2026-11-15 08:10:23 MYT",
+      "entry_price": 0.002292,
+      "qty": 13157.0,
+      "notional": 30.155844000000002,
+      "leverage": 1,
+      "margin": 30.155844000000002,
+      "liq_price": 0.00453861,
+      "stop": 0.00244163818240286,
+      "initial_stop": 0.00244163818240286,
+      "R": 0.0001496381824028598,
+      "trail_armed": false,
+      "funding": -0.03355384,
+      "last_price": 0.002319,
+      "exit_deadline": "2026-11-22 08:10:23 MYT",
+      "signal_tf": "4h",
+      "vol_ratio": 4.67
+    }
+  ],
+  "data_source": "www.binance.com /fapi (public)"
+}
