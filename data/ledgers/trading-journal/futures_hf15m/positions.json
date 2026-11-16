@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 17:15:55 MYT",
-      "last_check_ms": 1794834887575,
-      "last_price": 0.05034,
+      "last_check_ms": 1794835504433,
+      "last_price": 0.05027,
       "last_funding_ms": 1794830400000
     },
     {
@@ -90,8 +90,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 17:46:04 MYT",
-      "last_check_ms": 1794834887868,
-      "last_price": 0.01406,
+      "last_check_ms": 1794835504654,
+      "last_price": 0.01411,
       "last_funding_ms": 1794830400000
     },
     {
@@ -133,7 +133,7 @@
       "trail_armed": true,
       "targets": [],
       "exit_deadline": "2026-11-17 17:46:04 MYT",
-      "last_check_ms": 1794834888161,
+      "last_check_ms": 1794835504877,
       "last_price": 0.010046,
       "last_funding_ms": 1794830400000,
       "_last_logged_stop": 0.010225907892749504
@@ -173,12 +173,12 @@
       "funding": -0.0011575,
       "best": 3861.05,
       "high_since_entry": 3861.05,
-      "low_since_entry": 3850.0,
+      "low_since_entry": 3847.92,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 19:00:00 MYT",
-      "last_check_ms": 1794834888704,
-      "last_price": 3850.23,
+      "last_check_ms": 1794835505099,
+      "last_price": 3850.45,
       "last_funding_ms": 1794830400000
     },
     {
@@ -207,23 +207,23 @@
       "margin": 7.207321176,
       "liq_price": 0.0,
       "mmr": 0.02,
-      "stop": 0.01345442253332456,
+      "stop": 0.01357842253332456,
       "initial_stop": 0.01154089453332456,
       "R": 0.0008215774666754396,
       "stop_pct": 6.646,
       "risk_usdt": 0.4859474944162454,
       "entry_fee": 0.003603660588,
       "funding": -0.0053121,
-      "best": 0.014276,
-      "high_since_entry": 0.014276,
+      "best": 0.0144,
+      "high_since_entry": 0.0144,
       "low_since_entry": 0.012263,
       "trail_armed": true,
       "targets": [],
       "exit_deadline": "2026-11-17 19:30:00 MYT",
-      "last_check_ms": 1794834889252,
-      "last_price": 0.014089,
+      "last_check_ms": 1794835505316,
+      "last_price": 0.014108,
       "last_funding_ms": 1794830400000,
-      "_last_logged_stop": 0.01345442253332456
+      "_last_logged_stop": 0.01357842253332456
     },
     {
       "id": "FHF-20261116-2015-HYPEUSDT",
@@ -258,14 +258,14 @@
       "risk_usdt": 0.30966799932792444,
       "entry_fee": 0.011749849560000001,
       "funding": 0.0,
-      "best": 64.956,
+      "best": 64.826,
       "high_since_entry": 66.049,
-      "low_since_entry": 64.956,
+      "low_since_entry": 64.826,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 20:15:00 MYT",
-      "last_check_ms": 1794834889551,
-      "last_price": 64.966
+      "last_check_ms": 1794835505537,
+      "last_price": 64.987
     },
     {
       "id": "FHF-20261116-2015-BCHUSDT",
@@ -301,12 +301,12 @@
       "entry_fee": 0.012034772564,
       "funding": 0.0,
       "best": 203.19,
-      "high_since_entry": 204.94,
+      "high_since_entry": 205.13,
       "low_since_entry": 203.19,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 20:15:00 MYT",
-      "last_check_ms": 1794834889844,
+      "last_check_ms": 1794835505759,
       "last_price": 204.27
     },
     {
@@ -342,14 +342,14 @@
       "risk_usdt": 0.36063935913838935,
       "entry_fee": 0.011805953337,
       "funding": 0.0,
-      "best": 855.42,
+      "best": 852.43,
       "high_since_entry": 878.13,
-      "low_since_entry": 855.42,
+      "low_since_entry": 852.43,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 20:15:00 MYT",
-      "last_check_ms": 1794834890140,
-      "last_price": 858.18
+      "last_check_ms": 1794835505978,
+      "last_price": 856.67
     },
     {
       "id": "FHF-20261116-2030-UNIUSDT",
@@ -390,8 +390,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 20:30:00 MYT",
-      "last_check_ms": 1794834890433,
-      "last_price": 5.048
+      "last_check_ms": 1794835506199,
+      "last_price": 5.043
     }
   ]
 }

@@ -141,3 +141,7 @@
 {"time": "2026-11-16 21:05:23 MYT", "kind": "skip", "symbol": "ZECUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 4.54, "reason": "already holding"}
 {"time": "2026-11-16 21:09:44 MYT", "kind": "trail_update", "symbol": "BLESSUSDT", "stop": 0.01325842253332456, "best": 0.01408}
 {"time": "2026-11-16 21:14:49 MYT", "kind": "trail_update", "symbol": "BLESSUSDT", "stop": 0.01345442253332456, "best": 0.014276}
+{"time": "2026-11-16 21:24:51 MYT", "kind": "trail_update", "symbol": "BLESSUSDT", "stop": 0.01357842253332456, "best": 0.0144}
+{"time": "2026-11-16 21:24:53 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64448.32, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-16 21:25:04 MYT", "kind": "scan", "bar_close": "2026-11-16 21:15:00 MYT", "breakouts": 4, "vol_ok": 1, "allow": "ANY"}
+{"time": "2026-11-16 21:25:04 MYT", "kind": "skip", "symbol": "BLESSUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 12.77, "reason": "already holding"}

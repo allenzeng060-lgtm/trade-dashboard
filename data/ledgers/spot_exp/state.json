@@ -1,8 +1,8 @@
 {
- "_t24_ts": 1794834892.3239632,
+ "_t24_ts": 1794835507.430635,
  "cands": {},
  "alerts_init": true,
- "alerts_offset": 199824,
+ "alerts_offset": 199963,
  "checked": {
   "SOPHUSDT": 1794769200000,
   "BANANAS31USDT": 1794769200000,
@@ -49,5 +49,5 @@
   "WBTCUSDT": 1794826800000
  },
  "cooldown": {},
- "last_eq": 1794831582.7525403
+ "last_eq": 1794835507.5349069
 }
