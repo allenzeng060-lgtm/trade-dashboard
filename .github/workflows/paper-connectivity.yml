@@ -1,0 +1,35 @@
+# Read-only public-data probe. Manual trigger only. Never writes ledgers
+# or posts webhooks. Used to confirm GitHub-hosted runners can reach
+# Binance spot and USDT-M futures public endpoints.
+name: paper-connectivity
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: paper-connectivity
+  cancel-in-progress: false
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out probe script
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          sparse-checkout: |
+            scripts
+          sparse-checkout-cone-mode: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Probe public Binance endpoints
+        run: python3 scripts/probe_binance.py
