@@ -5,7 +5,7 @@
   "rules": "hf-15m-v0.1",
   "cycle": 1,
   "start_equity_usdt": 100.0,
-  "wallet_usdt": 96.61495,
+  "wallet_usdt": 96.134633,
   "created": "2026-11-16 03:06:21 MYT",
   "positions": [
     {
@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 22:45:00 MYT",
-      "last_check_ms": 1794861475222,
-      "last_price": 0.018468,
+      "last_check_ms": 1794861763508,
+      "last_price": 0.018458,
       "last_funding_ms": 1794859200002
     },
     {
@@ -90,8 +90,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 23:15:00 MYT",
-      "last_check_ms": 1794861475434,
-      "last_price": 0.2462,
+      "last_check_ms": 1794861763788,
+      "last_price": 0.2472,
       "last_funding_ms": 1794859200002
     },
     {
@@ -133,8 +133,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 02:30:00 MYT",
-      "last_check_ms": 1794861475834,
-      "last_price": 0.045,
+      "last_check_ms": 1794861764062,
+      "last_price": 0.04513,
       "last_funding_ms": 1794859200002
     },
     {
@@ -172,12 +172,12 @@
       "funding": 0.0,
       "best": 68.905,
       "high_since_entry": 68.905,
-      "low_since_entry": 68.284,
+      "low_since_entry": 68.234,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 04:15:00 MYT",
-      "last_check_ms": 1794861476048,
-      "last_price": 68.3
+      "last_check_ms": 1794861764335,
+      "last_price": 68.302
     },
     {
       "id": "FHF-20261117-0430-HUMAUSDT",
@@ -212,56 +212,14 @@
       "risk_usdt": 0.48261696302236756,
       "entry_fee": 0.004438382499,
       "funding": 0.0,
-      "best": 0.009865,
-      "high_since_entry": 0.009865,
+      "best": 0.009914,
+      "high_since_entry": 0.009914,
       "low_since_entry": 0.009437,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 04:30:00 MYT",
-      "last_check_ms": 1794861476257,
-      "last_price": 0.009765
-    },
-    {
-      "id": "FHF-20261117-0430-BTWUSDT",
-      "symbol": "BTWUSDT",
-      "side": "SELL",
-      "rules": "hf-15m-v0.1",
-      "cycle": 1,
-      "slippage": 0.0002,
-      "mode": "paper",
-      "status": "open",
-      "group": "合約高頻組",
-      "market": "usdm_perp",
-      "margin_type": "isolated",
-      "signal_tf": "15m",
-      "signal_bar_close_myt": "2026-11-17 04:30:00 MYT",
-      "vol_ratio": 2.06,
-      "breakout_level": 0.3683,
-      "entry_time": "2026-11-17 04:30:00 MYT",
-      "entry_ms": 1794861000000,
-      "entry_price": 0.36432712,
-      "qty": 27.0,
-      "remaining_qty": 27.0,
-      "notional": 9.83683224,
-      "leverage": 2,
-      "margin": 4.91841612,
-      "liq_price": 0.52046731,
-      "mmr": 0.05,
-      "stop": 0.3816672740700377,
-      "initial_stop": 0.3816672740700377,
-      "R": 0.017340154070037674,
-      "stop_pct": 4.76,
-      "risk_usdt": 0.4782550842109627,
-      "entry_fee": 0.00491841612,
-      "funding": 0.0,
-      "best": 0.3641,
-      "high_since_entry": 0.3793,
-      "low_since_entry": 0.3641,
-      "trail_armed": false,
-      "targets": [],
-      "exit_deadline": "2026-11-18 04:30:00 MYT",
-      "last_check_ms": 1794861476609,
-      "last_price": 0.3759
+      "last_check_ms": 1794861764856,
+      "last_price": 0.009884
     }
   ]
 }

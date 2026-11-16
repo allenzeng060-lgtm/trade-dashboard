@@ -237,3 +237,4 @@
 2026-11-16 20:32:54,628 INFO decision scan {"bar_close": "2026-11-17 04:30:00 MYT", "breakouts": 4, "vol_ok": 2, "allow": "ANY"}
 2026-11-16 20:32:54,942 INFO decision open {"symbol": "HUMAUSDT", "side": "BUY", "entry": 0.009544908599999999, "stop": 0.009035255711163788, "qty": 930.0, "lev": 2, "liq": 0.00486985, "risk": 0.483}
 2026-11-16 20:32:54,942 INFO decision open {"symbol": "BTWUSDT", "side": "SELL", "entry": 0.36432712, "stop": 0.3816672740700377, "qty": 27.0, "lev": 2, "liq": 0.52046731, "risk": 0.478}
+2026-11-16 20:42:45,689 INFO decision close {"symbol": "BTWUSDT", "reason": "stop", "fill": 0.3817436075248517, "net": -0.4803, "R": -1.0}

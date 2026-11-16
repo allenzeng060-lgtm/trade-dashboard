@@ -320,3 +320,4 @@
 {"time": "2026-11-17 04:32:54 MYT", "kind": "scan", "bar_close": "2026-11-17 04:30:00 MYT", "breakouts": 4, "vol_ok": 2, "allow": "ANY"}
 {"time": "2026-11-17 04:32:54 MYT", "kind": "open", "symbol": "HUMAUSDT", "side": "BUY", "entry": 0.009544908599999999, "stop": 0.009035255711163788, "qty": 930.0, "lev": 2, "liq": 0.00486985, "risk": 0.483}
 {"time": "2026-11-17 04:32:54 MYT", "kind": "open", "symbol": "BTWUSDT", "side": "SELL", "entry": 0.36432712, "stop": 0.3816672740700377, "qty": 27.0, "lev": 2, "liq": 0.52046731, "risk": 0.478}
+{"time": "2026-11-17 04:42:45 MYT", "kind": "close", "symbol": "BTWUSDT", "reason": "stop", "fill": 0.3817436075248517, "net": -0.4803, "R": -1.0}
