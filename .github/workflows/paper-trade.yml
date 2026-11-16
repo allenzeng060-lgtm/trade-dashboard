@@ -1,0 +1,60 @@
+# Automated PAPER sets (HF 15m, 1h, 4h futures, spot exp). No real orders,
+# no Binance API keys. State lives on the `data` branch only; this job
+# never pushes `main`.
+name: paper-trade
+
+on:
+  schedule:
+    - cron: "2,7,12,17,22,27,32,37,42,47,52,57 * * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: auto uses writer_lock (live if github, else shadow if seeded)
+        type: choice
+        options: [auto, shadow, live]
+        default: auto
+
+permissions:
+  contents: write
+
+concurrency:
+  group: paper-trade
+  cancel-in-progress: false
+
+jobs:
+  trade:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out paper code
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          path: src
+          sparse-checkout: |
+            paper
+          sparse-checkout-cone-mode: true
+
+      - name: Check out data branch
+        uses: actions/checkout@v4
+        with:
+          ref: data
+          path: data-repo
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install --quiet requests
+
+      - name: Run paper cycle
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TRADE_WEBHOOK_URL: ${{ secrets.TRADE_WEBHOOK_URL }}
+          TRADE_WEBHOOK_AUTH: ${{ secrets.TRADE_WEBHOOK_AUTH }}
+          PAPER_WRITER: github
+          PAPER_CODE: ${{ github.workspace }}/src/paper
+          PAPER_CYCLE_MODE: ${{ github.event_name == 'workflow_dispatch' && inputs.mode || 'auto' }}
+        run: python3 src/paper/run_cycle.py --data-repo data-repo
