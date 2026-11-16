@@ -2,12 +2,12 @@
  "group": "現貨實驗組",
  "rules": "exp-v2-auto",
  "mode": "paper",
- "updated_at": "2026-11-17 04:52:53 MYT",
+ "updated_at": "2026-11-17 04:57:58 MYT",
  "cycle": 1,
  "refills": 0,
  "wallet_usdt": 97.4728,
- "unrealized_usdt": 2.9116,
- "equity_usdt": 100.3844,
+ "unrealized_usdt": 2.7208,
+ "equity_usdt": 100.1936,
  "no_entry_window": false,
  "candidates_1h": 5,
  "positions": [
@@ -21,7 +21,7 @@
    "stop": 0.009391229148096463,
    "initial_stop": 0.007335289148096464,
    "trail_armed": true,
-   "last_price": 0.00994,
+   "last_price": 0.01004,
    "exit_deadline": "2026-11-18 00:01:42 MYT"
   },
   {
@@ -34,7 +34,7 @@
    "stop": 2.366990575767391,
    "initial_stop": 2.366990575767391,
    "trail_armed": false,
-   "last_price": 2.544,
+   "last_price": 2.531,
    "exit_deadline": "2026-11-18 00:01:42 MYT"
   },
   {
@@ -47,7 +47,7 @@
    "stop": 0.07234884314835655,
    "initial_stop": 0.07234884314835655,
    "trail_armed": false,
-   "last_price": 0.0758,
+   "last_price": 0.0755,
    "exit_deadline": "2026-11-18 02:17:22 MYT"
   },
   {
@@ -60,7 +60,7 @@
    "stop": 0.04321262641286835,
    "initial_stop": 0.04321262641286835,
    "trail_armed": false,
-   "last_price": 0.04529,
+   "last_price": 0.04506,
    "exit_deadline": "2026-11-18 02:32:20 MYT"
   }
  ]

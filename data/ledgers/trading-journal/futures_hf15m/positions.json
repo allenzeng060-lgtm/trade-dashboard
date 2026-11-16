@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 22:45:00 MYT",
-      "last_check_ms": 1794862368887,
-      "last_price": 0.018409,
+      "last_check_ms": 1794862674043,
+      "last_price": 0.018476,
       "last_funding_ms": 1794859200002
     },
     {
@@ -90,8 +90,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 23:15:00 MYT",
-      "last_check_ms": 1794862369208,
-      "last_price": 0.2476,
+      "last_check_ms": 1794862674288,
+      "last_price": 0.2468,
       "last_funding_ms": 1794859200002
     },
     {
@@ -133,8 +133,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 02:30:00 MYT",
-      "last_check_ms": 1794862369525,
-      "last_price": 0.04526,
+      "last_check_ms": 1794862674532,
+      "last_price": 0.04501,
       "last_funding_ms": 1794859200002
     },
     {
@@ -176,8 +176,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 04:15:00 MYT",
-      "last_check_ms": 1794862369837,
-      "last_price": 68.499
+      "last_check_ms": 1794862675008,
+      "last_price": 68.358
     },
     {
       "id": "FHF-20261117-0430-HUMAUSDT",
@@ -212,14 +212,14 @@
       "risk_usdt": 0.48261696302236756,
       "entry_fee": 0.004438382499,
       "funding": 0.0,
-      "best": 0.009914,
-      "high_since_entry": 0.009914,
+      "best": 0.010034,
+      "high_since_entry": 0.010034,
       "low_since_entry": 0.009437,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 04:30:00 MYT",
-      "last_check_ms": 1794862370152,
-      "last_price": 0.009817
+      "last_check_ms": 1794862675715,
+      "last_price": 0.009963
     },
     {
       "id": "FHF-20261117-0445-BULLAUSDT",
@@ -260,8 +260,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 04:45:00 MYT",
-      "last_check_ms": 1794862370775,
-      "last_price": 0.01853
+      "last_check_ms": 1794862675958,
+      "last_price": 0.0185
     }
   ]
 }
