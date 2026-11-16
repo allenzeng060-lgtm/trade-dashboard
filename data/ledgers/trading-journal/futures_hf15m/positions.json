@@ -5,7 +5,7 @@
   "rules": "hf-15m-v0.1",
   "cycle": 1,
   "start_equity_usdt": 100.0,
-  "wallet_usdt": 96.781234,
+  "wallet_usdt": 96.296928,
   "created": "2026-11-16 03:06:21 MYT",
   "positions": [
     {
@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 17:15:55 MYT",
-      "last_check_ms": 1794838826089,
-      "last_price": 0.05041,
+      "last_check_ms": 1794839130662,
+      "last_price": 0.05053,
       "last_funding_ms": 1794830400000
     },
     {
@@ -90,8 +90,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 17:46:04 MYT",
-      "last_check_ms": 1794838826637,
-      "last_price": 0.01379,
+      "last_check_ms": 1794839130942,
+      "last_price": 0.01367,
       "last_funding_ms": 1794830400000
     },
     {
@@ -133,8 +133,8 @@
       "trail_armed": true,
       "targets": [],
       "exit_deadline": "2026-11-17 17:46:04 MYT",
-      "last_check_ms": 1794838827189,
-      "last_price": 0.010122,
+      "last_check_ms": 1794839131238,
+      "last_price": 0.01008,
       "last_funding_ms": 1794830400000,
       "_last_logged_stop": 0.010225907892749504
     },
@@ -173,12 +173,12 @@
       "funding": -0.0011575,
       "best": 3861.05,
       "high_since_entry": 3861.05,
-      "low_since_entry": 3847.92,
+      "low_since_entry": 3846.93,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 19:00:00 MYT",
-      "last_check_ms": 1794838827986,
-      "last_price": 3851.35,
+      "last_check_ms": 1794839131641,
+      "last_price": 3848.93,
       "last_funding_ms": 1794830400000
     },
     {
@@ -220,8 +220,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 20:15:00 MYT",
-      "last_check_ms": 1794838828276,
-      "last_price": 872.66
+      "last_check_ms": 1794839131859,
+      "last_price": 870.13
     },
     {
       "id": "FHF-20261116-2130-RAREUSDT",
@@ -262,50 +262,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 21:30:00 MYT",
-      "last_check_ms": 1794838828570,
-      "last_price": 0.01606
-    },
-    {
-      "id": "FHF-20261116-2215-BLESSUSDT",
-      "symbol": "BLESSUSDT",
-      "side": "BUY",
-      "rules": "hf-15m-v0.1",
-      "cycle": 1,
-      "slippage": 0.0002,
-      "mode": "paper",
-      "status": "open",
-      "group": "合約高頻組",
-      "market": "usdm_perp",
-      "margin_type": "isolated",
-      "signal_tf": "15m",
-      "signal_bar_close_myt": "2026-11-16 22:15:00 MYT",
-      "vol_ratio": 18.78,
-      "breakout_level": 0.014985,
-      "entry_time": "2026-11-16 22:15:00 MYT",
-      "entry_ms": 1794838500000,
-      "entry_price": 0.0160202034,
-      "qty": 435.0,
-      "remaining_qty": 435.0,
-      "notional": 6.968788479,
-      "leverage": 1,
-      "margin": 6.968788479,
-      "liq_price": 0.0,
-      "mmr": 0.02,
-      "stop": 0.014925313272421142,
-      "initial_stop": 0.014925313272421142,
-      "R": 0.0010948901275788568,
-      "stop_pct": 6.834,
-      "risk_usdt": 0.4830078553730543,
-      "entry_fee": 0.0034843942394999997,
-      "funding": 0.0,
-      "best": 0.0169,
-      "high_since_entry": 0.0169,
-      "low_since_entry": 0.01575,
-      "trail_armed": false,
-      "targets": [],
-      "exit_deadline": "2026-11-17 22:15:00 MYT",
-      "last_check_ms": 1794838828856,
-      "last_price": 0.016541
+      "last_check_ms": 1794839132269,
+      "last_price": 0.01634
     },
     {
       "id": "FHF-20261116-2215-ETHUSDT",
@@ -342,12 +300,12 @@
       "funding": 0.0,
       "best": 1825.26,
       "high_since_entry": 1825.26,
-      "low_since_entry": 1818.17,
+      "low_since_entry": 1817.27,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 22:15:00 MYT",
-      "last_check_ms": 1794838829144,
-      "last_price": 1821.33
+      "last_check_ms": 1794839133075,
+      "last_price": 1818.07
     }
   ]
 }

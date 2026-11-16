@@ -164,3 +164,4 @@
 {"time": "2026-11-16 22:20:26 MYT", "kind": "open", "symbol": "BLESSUSDT", "side": "BUY", "entry": 0.0160202034, "stop": 0.014925313272421142, "qty": 435.0, "lev": 1, "liq": 0.0, "risk": 0.483}
 {"time": "2026-11-16 22:20:26 MYT", "kind": "open", "symbol": "ETHUSDT", "side": "BUY", "entry": 1824.824892, "stop": 1809.8529555245316, "qty": 0.013000000000000001, "lev": 3, "liq": 1221.43567068, "risk": 0.218}
 {"time": "2026-11-16 22:20:26 MYT", "kind": "skip", "symbol": "EVAAUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.29, "reason": "stop distance 12.18% > 10%"}
+{"time": "2026-11-16 22:25:33 MYT", "kind": "close", "symbol": "BLESSUSDT", "reason": "stop", "fill": 0.014922328209766657, "net": -0.4843, "R": -1.0}

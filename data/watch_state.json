@@ -151,7 +151,7 @@
       "initial_stop": 0.2618740822918936,
       "R": 0.00992448229189358,
       "targets": [],
-      "high_since_entry": 0.2578,
+      "high_since_entry": 0.2584,
       "low_since_entry": 0.2515,
       "exit_deadline": "2026-11-18 18:01:13 MYT",
       "market": "usdm_perp",
@@ -232,7 +232,7 @@
       "R": 11.678418461788127,
       "targets": [],
       "high_since_entry": 3861.05,
-      "low_since_entry": 3847.92,
+      "low_since_entry": 3846.93,
       "exit_deadline": "2026-11-17 19:00:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
@@ -278,26 +278,6 @@
       "group": "合約高頻組"
     },
     {
-      "id": "FHF-20261116-2215-BLESSUSDT",
-      "symbol": "BLESSUSDT",
-      "side": "BUY",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 0.0160202034,
-      "entry_time": "2026-11-16 22:15:00 MYT",
-      "qty": 435.0,
-      "remaining_qty": 435.0,
-      "stop": 0.014925313272421142,
-      "initial_stop": 0.014925313272421142,
-      "R": 0.0010948901275788568,
-      "targets": [],
-      "high_since_entry": 0.0169,
-      "low_since_entry": 0.01575,
-      "exit_deadline": "2026-11-17 22:15:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
       "id": "FHF-20261116-2215-ETHUSDT",
       "symbol": "ETHUSDT",
       "side": "BUY",
@@ -312,11 +292,11 @@
       "R": 14.971936475468585,
       "targets": [],
       "high_since_entry": 1825.26,
-      "low_since_entry": 1818.17,
+      "low_since_entry": 1817.27,
       "exit_deadline": "2026-11-17 22:15:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-16 22:20:31 MYT"
+  "paper_updated_at": "2026-11-16 22:25:34 MYT"
 }
