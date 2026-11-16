@@ -3,7 +3,7 @@
   "set": "4h",
   "mode": "paper",
   "rules": "v0.2",
-  "updated_at": "2026-11-17 03:57:23 MYT",
+  "updated_at": "2026-11-17 04:02:42 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -17,59 +17,67 @@
     "regime": "spot_level"
   },
   "wallet_usdt": 98.0049,
-  "unrealized_usdt": -1.9633,
-  "equity_usdt": 96.0416,
-  "pnl_pct": -3.958,
+  "unrealized_usdt": -2.1874,
+  "equity_usdt": 95.8175,
+  "pnl_pct": -4.182,
   "regime": {
     "allow": "SELL",
-    "btc_close": 64467.0,
+    "btc_close": 65068.01,
     "ref": 67568.0,
-    "reason": "BTC 4h close 64467.00 < filter 67568 → shorts only"
+    "reason": "BTC 4h close 65068.01 < filter 67568 → shorts only"
   },
   "last_scan": {
-    "time": "2026-11-17 00:01:07 MYT",
-    "bar_close": "2026-11-17 00:00:00 MYT",
+    "time": "2026-11-17 04:02:41 MYT",
+    "bar_close": "2026-11-17 04:00:00 MYT",
     "universe": 71,
     "breakouts": [
-      {
-        "symbol": "ZILUSDT",
-        "side": "SELL",
-        "tf": "4h",
-        "level": 0.001,
-        "close": 0.001,
-        "vol_ratio": 2.6496
-      },
       {
         "symbol": "AIOTUSDT",
         "side": "SELL",
         "tf": "4h",
-        "level": 0.1277,
-        "close": 0.0871,
-        "vol_ratio": 5.9527
+        "level": 0.0801,
+        "close": 0.0771,
+        "vol_ratio": 3.9587
       },
       {
-        "symbol": "BARDUSDT",
-        "side": "SELL",
-        "tf": "4h",
-        "level": 0.0984,
-        "close": 0.0948,
-        "vol_ratio": 0.2204
-      },
-      {
-        "symbol": "BLESSUSDT",
+        "symbol": "HUMAUSDT",
         "side": "BUY",
         "tf": "4h",
-        "level": 0.0131,
-        "close": 0.0185,
-        "vol_ratio": 55.7518
+        "level": 0.0087,
+        "close": 0.0089,
+        "vol_ratio": 15.9738
+      },
+      {
+        "symbol": "CROSSUSDT",
+        "side": "BUY",
+        "tf": "4h",
+        "level": 0.1343,
+        "close": 0.1405,
+        "vol_ratio": 10.077
+      },
+      {
+        "symbol": "ONUSDT",
+        "side": "BUY",
+        "tf": "4h",
+        "level": 0.0989,
+        "close": 0.1074,
+        "vol_ratio": 1.7703
       },
       {
         "symbol": "SPACEUSDT",
         "side": "BUY",
         "tf": "4h",
-        "level": 0.0032,
-        "close": 0.0036,
-        "vol_ratio": 36.8041
+        "level": 0.0038,
+        "close": 0.0043,
+        "vol_ratio": 31.4177
+      },
+      {
+        "symbol": "BTWUSDT",
+        "side": "SELL",
+        "tf": "4h",
+        "level": 0.3972,
+        "close": 0.3746,
+        "vol_ratio": 0.9632
       }
     ],
     "regime": "SELL"
@@ -90,8 +98,8 @@
       "initial_stop": 0.1366359626962965,
       "R": 0.007135962696296479,
       "trail_armed": false,
-      "funding": -0.00410811,
-      "last_price": 0.134,
+      "funding": -0.00433717,
+      "last_price": 0.1344,
       "exit_deadline": "2026-11-22 08:10:23 MYT",
       "signal_tf": "4h",
       "vol_ratio": 4.75
@@ -111,8 +119,8 @@
       "initial_stop": 0.00244163818240286,
       "R": 0.0001496381824028598,
       "trail_armed": false,
-      "funding": -0.04661321,
-      "last_price": 0.002337,
+      "funding": -0.05341687,
+      "last_price": 0.002345,
       "exit_deadline": "2026-11-22 08:10:23 MYT",
       "signal_tf": "4h",
       "vol_ratio": 4.67

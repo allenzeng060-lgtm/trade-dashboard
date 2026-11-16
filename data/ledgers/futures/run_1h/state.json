@@ -1,36 +1,52 @@
 {
   "last_regime": {
     "allow": "SELL",
-    "btc_close": 64467.0,
+    "btc_close": 65068.01,
     "ref": 67568.0,
     "mode": "spot_level",
     "new_low": false,
-    "reason": "BTC 4h close 64467.00 < filter 67568 → shorts only"
+    "reason": "BTC 4h close 65068.01 < filter 67568 → shorts only"
   },
   "last_scan": {
-    "time": "2026-11-17 03:02:16 MYT",
-    "bar_close": "2026-11-17 03:00:00 MYT",
+    "time": "2026-11-17 04:02:59 MYT",
+    "bar_close": "2026-11-17 04:00:00 MYT",
     "universe": 71,
     "breakouts": [
       {
-        "symbol": "CROSSUSDT",
+        "symbol": "1000PEPEUSDT",
         "side": "BUY",
         "tf": "1h",
-        "level": 0.1366,
-        "close": 0.1397,
-        "vol_ratio": 13.0567
+        "level": 0.0039,
+        "close": 0.0039,
+        "vol_ratio": 0.4246
       },
       {
-        "symbol": "SPACEUSDT",
-        "side": "BUY",
+        "symbol": "AIOTUSDT",
+        "side": "SELL",
         "tf": "1h",
-        "level": 0.0038,
-        "close": 0.0041,
-        "vol_ratio": 48.015
+        "level": 0.0801,
+        "close": 0.0771,
+        "vol_ratio": 3.1477
+      },
+      {
+        "symbol": "TACUSDT",
+        "side": "SELL",
+        "tf": "1h",
+        "level": 0.0012,
+        "close": 0.0012,
+        "vol_ratio": 0.8796
+      },
+      {
+        "symbol": "BTWUSDT",
+        "side": "SELL",
+        "tf": "1h",
+        "level": 0.3845,
+        "close": 0.3746,
+        "vol_ratio": 0.8455
       }
     ],
     "regime": "SELL"
   },
-  "last_scan_bar_ms": 1794855600000,
+  "last_scan_bar_ms": 1794859200000,
   "last_equity_ts": 1794857535.1052604
 }
