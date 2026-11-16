@@ -140,3 +140,4 @@
 {"time": "2026-11-16 21:05:23 MYT", "kind": "scan", "bar_close": "2026-11-16 21:00:00 MYT", "breakouts": 4, "vol_ok": 1, "allow": "ANY"}
 {"time": "2026-11-16 21:05:23 MYT", "kind": "skip", "symbol": "ZECUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 4.54, "reason": "already holding"}
 {"time": "2026-11-16 21:09:44 MYT", "kind": "trail_update", "symbol": "BLESSUSDT", "stop": 0.01325842253332456, "best": 0.01408}
+{"time": "2026-11-16 21:14:49 MYT", "kind": "trail_update", "symbol": "BLESSUSDT", "stop": 0.01345442253332456, "best": 0.014276}

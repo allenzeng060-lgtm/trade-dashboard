@@ -57,3 +57,4 @@
 2026-11-16 13:05:23,510 INFO decision scan {"bar_close": "2026-11-16 21:00:00 MYT", "breakouts": 4, "vol_ok": 1, "allow": "ANY"}
 2026-11-16 13:05:23,510 INFO decision skip {"symbol": "ZECUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 4.54, "reason": "already holding"}
 2026-11-16 13:09:44,539 INFO decision trail_update {"symbol": "BLESSUSDT", "stop": 0.01325842253332456, "best": 0.01408}
+2026-11-16 13:14:49,551 INFO decision trail_update {"symbol": "BLESSUSDT", "stop": 0.01345442253332456, "best": 0.014276}
