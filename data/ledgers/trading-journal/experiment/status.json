@@ -2,12 +2,12 @@
  "group": "現貨實驗組",
  "rules": "exp-v2-auto",
  "mode": "paper",
- "updated_at": "2026-11-16 22:40:36 MYT",
+ "updated_at": "2026-11-16 22:45:22 MYT",
  "cycle": 1,
  "refills": 0,
  "wallet_usdt": 100.0,
- "unrealized_usdt": 0.2517,
- "equity_usdt": 100.2517,
+ "unrealized_usdt": 0.226,
+ "equity_usdt": 100.226,
  "no_entry_window": false,
  "candidates_1h": 20,
  "positions": [
@@ -21,8 +21,47 @@
    "stop": 101.81398051600372,
    "initial_stop": 101.81398051600372,
    "trail_armed": false,
-   "last_price": 104.87,
+   "last_price": 105.23,
    "exit_deadline": "2026-11-17 09:15:41 MYT"
+  },
+  {
+   "id": "SX-20261116-2245-AAVEUSDT",
+   "symbol": "AAVEUSDT",
+   "entry_time": "2026-11-16 22:45:22 MYT",
+   "entry_price": 110.61528,
+   "qty": 0.22600855867290667,
+   "notional": 25.0,
+   "stop": 108.01593683426562,
+   "initial_stop": 108.01593683426562,
+   "trail_armed": false,
+   "last_price": 110.56,
+   "exit_deadline": "2026-11-17 22:45:22 MYT"
+  },
+  {
+   "id": "SX-20261116-2245-NEARUSDT",
+   "symbol": "NEARUSDT",
+   "entry_time": "2026-11-16 22:45:22 MYT",
+   "entry_price": 3.2326154999999996,
+   "qty": 7.733675718624749,
+   "notional": 25.0,
+   "stop": 3.1247093414388045,
+   "initial_stop": 3.1247093414388045,
+   "trail_armed": false,
+   "last_price": 3.231,
+   "exit_deadline": "2026-11-17 22:45:22 MYT"
+  },
+  {
+   "id": "SX-20261116-2245-BTCUSDT",
+   "symbol": "BTCUSDT",
+   "entry_time": "2026-11-16 22:45:22 MYT",
+   "entry_price": 65324.025689999995,
+   "qty": 0.00038270758325029374,
+   "notional": 25.0,
+   "stop": 64281.83221188598,
+   "initial_stop": 64281.83221188598,
+   "trail_armed": false,
+   "last_price": 65291.38,
+   "exit_deadline": "2026-11-17 22:45:22 MYT"
   }
  ]
 }

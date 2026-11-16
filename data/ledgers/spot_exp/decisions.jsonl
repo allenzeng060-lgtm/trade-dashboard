@@ -1,3 +1,6 @@
 {"time": "2026-11-16 18:15:59 MYT", "kind": "skip", "symbol": "GLMRUSDT", "vol_ratio": 2.31, "stop_pct": 11.4, "reason": "stop 11.40% outside 1-10%"}
 {"time": "2026-11-16 21:35:15 MYT", "kind": "skip", "symbol": "RAREUSDT", "vol_ratio": 4.3, "stop_pct": 17.72, "reason": "stop 17.72% outside 1-10%"}
 {"time": "2026-11-16 21:45:03 MYT", "kind": "skip", "symbol": "RAREUSDT", "vol_ratio": 3.28, "stop_pct": 17.96, "reason": "stop 17.96% outside 1-10%"}
+{"time": "2026-11-16 22:45:22 MYT", "kind": "open", "symbol": "AAVEUSDT", "vol_ratio": 10.31, "stop_pct": 2.35, "entry": 110.61528, "stop": 108.01593683426562, "notional": 25.0, "risk": 0.637}
+{"time": "2026-11-16 22:45:22 MYT", "kind": "open", "symbol": "NEARUSDT", "vol_ratio": 11.05, "stop_pct": 3.34, "entry": 3.2326154999999996, "stop": 3.1247093414388045, "notional": 25.0, "risk": 0.884}
+{"time": "2026-11-16 22:45:22 MYT", "kind": "open", "symbol": "BTCUSDT", "vol_ratio": 4.22, "stop_pct": 1.6, "entry": 65324.025689999995, "stop": 64281.83221188598, "notional": 25.0, "risk": 0.448}
