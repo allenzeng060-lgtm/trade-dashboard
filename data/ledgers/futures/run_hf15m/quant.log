@@ -230,3 +230,4 @@
 2026-11-16 20:17:44,146 INFO decision regime {"allow": "ANY", "btc_close": 65068.01, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
 2026-11-16 20:17:57,976 INFO decision scan {"bar_close": "2026-11-17 04:15:00 MYT", "breakouts": 4, "vol_ok": 1, "allow": "ANY"}
 2026-11-16 20:17:58,323 INFO decision open {"symbol": "HYPEUSDT", "side": "BUY", "entry": 68.7447462, "stop": 67.89475067675315, "qty": 0.34, "lev": 3, "liq": 46.29275838, "risk": 0.312}
+2026-11-16 20:22:43,271 INFO decision trail_update {"symbol": "BULLAUSDT", "stop": 0.017611025298509712, "best": 0.01872}
