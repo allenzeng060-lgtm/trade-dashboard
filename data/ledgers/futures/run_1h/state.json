@@ -8,45 +8,53 @@
     "reason": "BTC 4h close 64467.00 < filter 67568 → shorts only"
   },
   "last_scan": {
-    "time": "2026-11-17 01:01:36 MYT",
-    "bar_close": "2026-11-17 01:00:00 MYT",
-    "universe": 70,
+    "time": "2026-11-17 02:01:54 MYT",
+    "bar_close": "2026-11-17 02:00:00 MYT",
+    "universe": 71,
     "breakouts": [
       {
         "symbol": "TRXUSDT",
         "side": "BUY",
         "tf": "1h",
-        "level": 0.3065,
-        "close": 0.3066,
-        "vol_ratio": 1.3689
+        "level": 0.3067,
+        "close": 0.3069,
+        "vol_ratio": 0.8973
+      },
+      {
+        "symbol": "KAVAUSDT",
+        "side": "SELL",
+        "tf": "1h",
+        "level": 0.0275,
+        "close": 0.0272,
+        "vol_ratio": 0.6946
       },
       {
         "symbol": "ICPUSDT",
         "side": "BUY",
         "tf": "1h",
-        "level": 2.476,
-        "close": 2.51,
-        "vol_ratio": 4.6988
+        "level": 2.519,
+        "close": 2.531,
+        "vol_ratio": 3.9237
       },
       {
-        "symbol": "HUMAUSDT",
+        "symbol": "CROSSUSDT",
         "side": "BUY",
         "tf": "1h",
-        "level": 0.008,
-        "close": 0.0089,
-        "vol_ratio": 26.7476
+        "level": 0.1356,
+        "close": 0.136,
+        "vol_ratio": 6.731
       },
       {
-        "symbol": "PIEVERSEUSDT",
-        "side": "BUY",
+        "symbol": "BTWUSDT",
+        "side": "SELL",
         "tf": "1h",
-        "level": 2.0153,
-        "close": 2.0955,
-        "vol_ratio": 1.0032
+        "level": 0.3972,
+        "close": 0.3912,
+        "vol_ratio": 1.0911
       }
     ],
     "regime": "SELL"
   },
-  "last_scan_bar_ms": 1794848400000,
+  "last_scan_bar_ms": 1794852000000,
   "last_equity_ts": 1794850298.6595685
 }
