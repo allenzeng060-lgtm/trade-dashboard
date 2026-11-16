@@ -3,7 +3,7 @@
   "set": "1h",
   "mode": "paper",
   "rules": "v0.2-1h",
-  "updated_at": "2026-11-16 22:00:11 MYT",
+  "updated_at": "2026-11-16 22:05:25 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -17,9 +17,9 @@
     "regime": "spot_level"
   },
   "wallet_usdt": 100.0,
-  "unrealized_usdt": -0.7096,
-  "equity_usdt": 99.2904,
-  "pnl_pct": -0.71,
+  "unrealized_usdt": -0.5944,
+  "equity_usdt": 99.4056,
+  "pnl_pct": -0.594,
   "regime": {
     "allow": "SELL",
     "btc_close": 64448.32,
@@ -27,105 +27,49 @@
     "reason": "BTC 4h close 64448.32 < filter 67568 → shorts only"
   },
   "last_scan": {
-    "time": "2026-11-16 21:04:59 MYT",
-    "bar_close": "2026-11-16 21:00:00 MYT",
-    "universe": 67,
+    "time": "2026-11-16 22:05:24 MYT",
+    "bar_close": "2026-11-16 22:00:00 MYT",
+    "universe": 68,
     "breakouts": [
-      {
-        "symbol": "BCHUSDT",
-        "side": "SELL",
-        "tf": "1h",
-        "level": 204.57,
-        "close": 204.22,
-        "vol_ratio": 1.1255
-      },
-      {
-        "symbol": "ADAUSDT",
-        "side": "SELL",
-        "tf": "1h",
-        "level": 0.1509,
-        "close": 0.1508,
-        "vol_ratio": 1.1726
-      },
-      {
-        "symbol": "ZECUSDT",
-        "side": "SELL",
-        "tf": "1h",
-        "level": 871.52,
-        "close": 860.78,
-        "vol_ratio": 1.7605
-      },
       {
         "symbol": "ZILUSDT",
         "side": "SELL",
         "tf": "1h",
         "level": 0.001,
         "close": 0.001,
-        "vol_ratio": 3.1885
+        "vol_ratio": 2.9094
       },
       {
-        "symbol": "UNIUSDT",
-        "side": "SELL",
+        "symbol": "RAREUSDT",
+        "side": "BUY",
         "tf": "1h",
-        "level": 5.081,
-        "close": 5.068,
-        "vol_ratio": 1.1122
-      },
-      {
-        "symbol": "1000SHIBUSDT",
-        "side": "SELL",
-        "tf": "1h",
-        "level": 0.0038,
-        "close": 0.0038,
-        "vol_ratio": 0.9313
-      },
-      {
-        "symbol": "SUIUSDT",
-        "side": "SELL",
-        "tf": "1h",
-        "level": 0.7136,
-        "close": 0.7118,
-        "vol_ratio": 0.9687
-      },
-      {
-        "symbol": "ONDOUSDT",
-        "side": "SELL",
-        "tf": "1h",
-        "level": 0.3019,
-        "close": 0.3007,
-        "vol_ratio": 0.7729
-      },
-      {
-        "symbol": "ENAUSDT",
-        "side": "SELL",
-        "tf": "1h",
-        "level": 0.1159,
-        "close": 0.1155,
-        "vol_ratio": 0.9141
-      },
-      {
-        "symbol": "TAOUSDT",
-        "side": "SELL",
-        "tf": "1h",
-        "level": 187.25,
-        "close": 186.78,
-        "vol_ratio": 0.7493
-      },
-      {
-        "symbol": "HYPEUSDT",
-        "side": "SELL",
-        "tf": "1h",
-        "level": 65.712,
-        "close": 65.343,
-        "vol_ratio": 2.4351
+        "level": 0.0165,
+        "close": 0.0167,
+        "vol_ratio": 24.3751
       },
       {
         "symbol": "BARDUSDT",
         "side": "SELL",
         "tf": "1h",
-        "level": 0.0984,
-        "close": 0.0959,
-        "vol_ratio": 0.2952
+        "level": 0.0956,
+        "close": 0.0954,
+        "vol_ratio": 0.1993
+      },
+      {
+        "symbol": "BLESSUSDT",
+        "side": "BUY",
+        "tf": "1h",
+        "level": 0.0133,
+        "close": 0.0149,
+        "vol_ratio": 40.5922
+      },
+      {
+        "symbol": "SPACEUSDT",
+        "side": "BUY",
+        "tf": "1h",
+        "level": 0.0032,
+        "close": 0.0033,
+        "vol_ratio": 20.052
       }
     ],
     "regime": "SELL"
@@ -147,7 +91,7 @@
       "R": 0.002492937475089962,
       "trail_armed": false,
       "funding": -0.02675331,
-      "last_price": 0.3043,
+      "last_price": 0.30416,
       "exit_deadline": "2026-11-18 09:06:56 MYT",
       "signal_tf": "1h",
       "vol_ratio": 2.2
@@ -168,7 +112,7 @@
       "R": 0.00992448229189358,
       "trail_armed": false,
       "funding": -0.00459927,
-      "last_price": 0.2555,
+      "last_price": 0.2546,
       "exit_deadline": "2026-11-18 18:01:13 MYT",
       "signal_tf": "1h",
       "vol_ratio": 2.96

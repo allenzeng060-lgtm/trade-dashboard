@@ -1,12 +1,12 @@
 {
- "_t24_ts": 1794837615.0097585,
+ "_t24_ts": 1794837951.4734037,
  "cands": {
   "RAREUSDT": 1794835084.0,
   "AUDIOUSDT": 1794835474.0,
   "REQUSDT": 1794836004.0
  },
  "alerts_init": true,
- "alerts_offset": 199904,
+ "alerts_offset": 199956,
  "checked": {
   "SOPHUSDT": 1794769200000,
   "BANANAS31USDT": 1794769200000,
