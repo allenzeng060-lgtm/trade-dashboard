@@ -47,16 +47,19 @@ def run(cmd: list[str], cwd: Path | None = None, check: bool = True) -> subproce
 
 
 def set_paper_env(root: Path, writer: str, mode: str) -> None:
+    # Absolute paths only: children run with cwd=paper/ and must not resolve
+    # a relative data-repo/... against that directory.
+    root = Path(root).resolve()
     os.environ["PAPER_ROOT"] = str(root)
-    os.environ["PAPER_JOURNAL"] = str(root / "trading-journal")
-    os.environ["PAPER_FUTURES"] = str(root / "futures")
-    os.environ["PAPER_SPOT_EXP"] = str(root / "spot_exp")
-    os.environ["PAPER_WATCHER"] = str(root / "watcher")
-    os.environ["PAPER_LOCK"] = str(root / "trading-journal" / "writer_lock.json")
+    os.environ["PAPER_JOURNAL"] = str((root / "trading-journal").resolve())
+    os.environ["PAPER_FUTURES"] = str((root / "futures").resolve())
+    os.environ["PAPER_SPOT_EXP"] = str((root / "spot_exp").resolve())
+    os.environ["PAPER_WATCHER"] = str((root / "watcher").resolve())
+    os.environ["PAPER_LOCK"] = str((root / "trading-journal" / "writer_lock.json").resolve())
     os.environ["PAPER_WRITER"] = writer
     os.environ["PAPER_MODE"] = mode
-    os.environ["PAPER_ALERTS"] = str(root / "watcher" / "alerts.jsonl")
-    os.environ.setdefault("PAPER_CODE", str(HERE))
+    os.environ["PAPER_ALERTS"] = str((root / "watcher" / "alerts.jsonl").resolve())
+    os.environ["PAPER_CODE"] = str(Path(os.environ.get("PAPER_CODE") or HERE).resolve())
 
 
 def seed_tree(src_root: Path, dest_root: Path) -> None:
@@ -107,6 +110,47 @@ def seed_tree(src_root: Path, dest_root: Path) -> None:
                 shutil.copy2(src, dst)
 
 
+
+def _heartbeat_file(kind: str) -> Path:
+    if kind == "spot":
+        return paths.spot_exp_dir() / "heartbeat.json"
+    run = paths.futures_dir()
+    if kind == "1h":
+        run = run / "run_1h"
+    elif kind == "15m":
+        run = run / "run_hf15m"
+    return run / "heartbeat.json"
+
+
+def _heartbeat_check(kind: str, rec: dict) -> dict:
+    """Fail a live set that did not actually write its heartbeat under PAPER_ROOT."""
+    p = _heartbeat_file(kind)
+    info = {"heartbeat_path": str(p)}
+    try:
+        doc = json.loads(p.read_text(encoding="utf-8"))
+    except Exception as e:
+        info["heartbeat_error"] = type(e).__name__
+        if os.environ.get("PAPER_MODE") == "live":
+            rec["rc"] = rec.get("rc") or 3
+            log(f"set={kind} missing heartbeat at {p}")
+        return info
+    info["heartbeat_at"] = doc.get("updated_at")
+    info["standdown"] = bool(doc.get("standdown"))
+    ts = str(doc.get("updated_at") or "")
+    # Require this-cycle write: timestamp date+hour+minute close to now (within 3 min).
+    fresh = False
+    try:
+        hb = datetime.strptime(ts.replace(" MYT", ""), "%Y-%m-%d %H:%M:%S").replace(tzinfo=TZ)
+        fresh = abs((datetime.now(TZ) - hb).total_seconds()) <= 180
+    except Exception:
+        fresh = False
+    info["heartbeat_fresh"] = fresh
+    if os.environ.get("PAPER_MODE") == "live" and (info["standdown"] or not fresh):
+        rec["rc"] = rec.get("rc") or 3
+        log(f"set={kind} live write check failed standdown={info['standdown']} fresh={fresh} at={ts} path={p}")
+    return info
+
+
 def run_set(kind: str) -> dict:
     t0 = time.time()
     if kind == "spot":
@@ -117,16 +161,18 @@ def run_set(kind: str) -> dict:
         script = HERE / "quant.py"
         cmd = [sys.executable, "-u", str(script), "--once", "--profile", kind]
     log(f"start set={kind}")
-    proc = subprocess.run(cmd, cwd=str(HERE), text=True, capture_output=True)
+    proc = subprocess.run(cmd, cwd=str(HERE), text=True, capture_output=True, env=os.environ.copy())
     out = TOKEN_PAT.sub("[redacted]", (proc.stdout or "")[-4000:])
     err = TOKEN_PAT.sub("[redacted]", (proc.stderr or "")[-2000:])
     rec = {"set": kind, "rc": proc.returncode, "seconds": round(time.time() - t0, 2)}
     if proc.returncode != 0:
-        log(f"set={kind} FAILED rc={proc.returncode} stderr={err[-500:]}")
+        log(f"set={kind} FAILED rc={proc.returncode} stderr={err[-500:]} stdout={out[-300:]}")
         rec["stderr"] = err[-800:]
-    else:
-        log(f"set={kind} ok in {rec['seconds']}s")
         rec["stdout_tail"] = out[-800:]
+    else:
+        rec["stdout_tail"] = out[-800:]
+        log(f"set={kind} ok in {rec['seconds']}s stdout={out[-300:].replace(chr(10), ' ')}")
+    rec.update(_heartbeat_check(kind, rec))
     return rec
 
 
@@ -170,7 +216,7 @@ def main() -> int:
     a = ap.parse_args()
 
     writer = os.environ.get("PAPER_WRITER") or "github"
-    data_repo = Path(a.data_repo) if a.data_repo else None
+    data_repo = Path(a.data_repo).resolve() if a.data_repo else None
 
     if a.mode == "auto":
         lock_doc = {}
@@ -214,8 +260,10 @@ def main() -> int:
         if a.seed_from:
             seed_tree(Path(a.seed_from), dest)
 
+    dest = Path(dest).resolve()
     dest.mkdir(parents=True, exist_ok=True)
     set_paper_env(dest, writer=writer, mode=a.mode)
+    log(f"paths root={paths.root()} lock={paths.lock_path()} exists={paths.lock_path().exists()} lock_writer={paths.current_writer()} can_write={paths.can_write()} mode={paths.mode()}")
 
     lock_writer = paths.current_writer()
     if a.mode == "live" and lock_writer != writer:
@@ -249,7 +297,9 @@ def main() -> int:
         "time": now_myt(),
         "seconds": round(time.time() - t0, 2),
         "root": str(dest),
-        "results": [{"set": r.get("set"), "rc": r.get("rc"), "seconds": r.get("seconds")} for r in results],
+        "results": [{"set": r.get("set"), "rc": r.get("rc"), "seconds": r.get("seconds"),
+                      "standdown": r.get("standdown"), "heartbeat_at": r.get("heartbeat_at"),
+                      "heartbeat_fresh": r.get("heartbeat_fresh")} for r in results],
         "paper_only": True,
     }
     snap = snapshot.build_all()

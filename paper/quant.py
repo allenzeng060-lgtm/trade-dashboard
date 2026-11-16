@@ -591,7 +591,8 @@ class Quant:
     # ---------- cycle ----------
     def cycle(self) -> None:
         if not self.dry and not paths.can_write():
-            log.warning("standing down: writer_lock=%s expected=%s mode=%s", paths.current_writer(), paths.expected_writer(), paths.mode())
+            log.warning("standing down: writer_lock=%s expected=%s mode=%s root=%s", paths.current_writer(), paths.expected_writer(), paths.mode(), paths.root())
+            self.state["_standdown"] = True
             jsave(HEARTBEAT, {"ok": True, "updated_at": fmt(), "pid": os.getpid(), "standdown": True,
                               "writer": paths.current_writer(), "expected": paths.expected_writer()})
             return
@@ -658,9 +659,19 @@ def main() -> int:
     if a.once or a.dry_run:
         q.cycle()
         st = q.state.get("_status", {})
-        print(json.dumps({"regime": st.get("regime"), "last_scan": st.get("last_scan"), "positions": st.get("positions"),
-                          "equity": st.get("equity_usdt")}, ensure_ascii=False, indent=1))
-        return 0
+        stood = bool(q.state.get("_standdown"))
+        print(json.dumps({
+            "standdown": stood,
+            "writer": paths.current_writer(),
+            "expected": paths.expected_writer(),
+            "root": str(paths.root()),
+            "heartbeat": str(HEARTBEAT),
+            "regime": st.get("regime"),
+            "last_scan": st.get("last_scan"),
+            "positions": st.get("positions"),
+            "equity": st.get("equity_usdt"),
+        }, ensure_ascii=False, indent=1))
+        return 2 if stood else 0
     return q.run()
 
 
