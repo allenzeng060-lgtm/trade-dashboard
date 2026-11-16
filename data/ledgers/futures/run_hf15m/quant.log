@@ -23,3 +23,6 @@
 2026-11-16 11:34:09,152 INFO decision regime {"allow": "ANY", "btc_close": 64995.12, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
 2026-11-16 11:34:20,350 INFO decision scan {"bar_close": "2026-11-16 19:30:00 MYT", "breakouts": 5, "vol_ok": 1, "allow": "ANY"}
 2026-11-16 11:34:20,624 INFO decision open {"symbol": "BLESSUSDT", "side": "BUY", "entry": 0.012362472, "stop": 0.01154089453332456, "qty": 583.0, "lev": 1, "liq": 0.0, "risk": 0.486}
+2026-11-16 11:49:16,619 INFO decision regime {"allow": "ANY", "btc_close": 64995.12, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+2026-11-16 11:49:28,415 INFO decision scan {"bar_close": "2026-11-16 19:45:00 MYT", "breakouts": 3, "vol_ok": 1, "allow": "ANY"}
+2026-11-16 11:49:28,415 INFO decision skip {"symbol": "BLESSUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 6.15, "reason": "already holding"}

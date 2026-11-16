@@ -8,25 +8,17 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-16 19:34:20 MYT",
-    "bar_close": "2026-11-16 19:30:00 MYT",
+    "time": "2026-11-16 19:49:28 MYT",
+    "bar_close": "2026-11-16 19:45:00 MYT",
     "universe": 68,
     "breakouts": [
       {
         "symbol": "TRXUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.3041,
-        "close": 0.3041,
-        "vol_ratio": 0.7743
-      },
-      {
-        "symbol": "PAXGUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 3860.0,
-        "close": 3860.35,
-        "vol_ratio": 1.0652
+        "level": 0.3043,
+        "close": 0.3048,
+        "vol_ratio": 0.9361
       },
       {
         "symbol": "TACUSDT",
@@ -34,27 +26,19 @@
         "tf": "15m",
         "level": 0.0015,
         "close": 0.0015,
-        "vol_ratio": 0.3913
+        "vol_ratio": 0.6223
       },
       {
         "symbol": "BLESSUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.0123,
-        "close": 0.0124,
-        "vol_ratio": 6.9735
-      },
-      {
-        "symbol": "XAUTUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 3857.98,
-        "close": 3858.04,
-        "vol_ratio": 1.0214
+        "level": 0.0126,
+        "close": 0.013,
+        "vol_ratio": 6.1524
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794828600000,
+  "last_scan_bar_ms": 1794829500000,
   "last_equity_ts": 1794828860.6244295
 }
