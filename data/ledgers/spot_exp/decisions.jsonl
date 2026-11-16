@@ -13,3 +13,4 @@
 {"time": "2026-11-17 02:17:22 MYT", "kind": "open", "symbol": "ERAUSDT", "vol_ratio": 18.04, "stop_pct": 5.1, "entry": 0.0762381, "stop": 0.07234884314835655, "notional": 18.4, "risk": 0.975}
 {"time": "2026-11-17 02:32:20 MYT", "kind": "open", "symbol": "XPLUSDT", "vol_ratio": 2.08, "stop_pct": 4.25, "entry": 0.045132555, "stop": 0.04321262641286835, "notional": 21.91, "risk": 0.975}
 {"time": "2026-11-17 05:38:21 MYT", "kind": "close", "symbol": "HUMAUSDT", "reason": "trail_stop", "fill": 0.009756348533522415, "net": 1.9567, "R": 2.01}
+{"time": "2026-11-17 07:59:06 MYT", "kind": "open", "symbol": "SOXSBUSDT", "vol_ratio": 3.73, "stop_pct": 4.57, "entry": 60.890429999999995, "stop": 58.10504669770027, "notional": 20.85, "risk": 0.994}
