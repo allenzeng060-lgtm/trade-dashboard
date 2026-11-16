@@ -51,3 +51,7 @@
 2026-11-16 21:03:07,527 INFO decision scan {"bar_close": "2026-11-17 05:00:00 MYT", "breakouts": 4, "vol_ok": 2, "allow": "SELL"}
 2026-11-16 21:03:07,527 INFO decision skip {"symbol": "HUMAUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 16.24, "reason": "direction filter: BTC 4h close 65068.01 < filter 67568 → shorts only"}
 2026-11-16 21:03:07,527 INFO decision skip {"symbol": "CROSSUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 7.33, "reason": "direction filter: BTC 4h close 65068.01 < filter 67568 → shorts only"}
+2026-11-16 22:03:30,814 INFO decision regime {"allow": "SELL", "btc_close": 65068.01, "ref": 67568.0, "new_low": false, "reason": "BTC 4h close 65068.01 < filter 67568 → shorts only"}
+2026-11-16 22:03:41,544 INFO decision scan {"bar_close": "2026-11-17 06:00:00 MYT", "breakouts": 2, "vol_ok": 2, "allow": "SELL"}
+2026-11-16 22:03:41,544 INFO decision skip {"symbol": "CROSSUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 7.07, "reason": "direction filter: BTC 4h close 65068.01 < filter 67568 → shorts only"}
+2026-11-16 22:03:41,544 INFO decision skip {"symbol": "HYPEUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 2.12, "reason": "direction filter: BTC 4h close 65068.01 < filter 67568 → shorts only"}
