@@ -1,0 +1,36 @@
+{
+  "last_regime": {
+    "allow": "ANY",
+    "btc_close": 64995.12,
+    "ref": 67568.0,
+    "mode": "spot_level",
+    "new_low": false,
+    "reason": "both directions allowed (hf set; BTC filter only reported)"
+  },
+  "last_scan": {
+    "time": "2026-11-16 18:01:11 MYT",
+    "bar_close": "2026-11-16 18:00:00 MYT",
+    "universe": 68,
+    "breakouts": [
+      {
+        "symbol": "ZROUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 1.4139,
+        "close": 1.4206,
+        "vol_ratio": 1.1526
+      },
+      {
+        "symbol": "EVAAUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 3.3325,
+        "close": 3.464,
+        "vol_ratio": 3.6066
+      }
+    ],
+    "regime": "ANY"
+  },
+  "last_scan_bar_ms": 1794823200000,
+  "last_equity_ts": 1794822364.4285016
+}

@@ -1,0 +1,11 @@
+mode,日期(UTC+8),帳戶權益(USDT),當日已實現損益,累計損益,最大回撤%,資料來源
+paper-experiment,2026-11-14 21:20,100.00,0.00,0.00,0.00,實驗組起始基準（dante 2026-11-14 同意）
+paper-experiment,2026-11-16 03:06:25 MYT,100.00,,0.00,,定時快照（exp-v2-auto）
+paper-experiment,2026-11-16 05:10:20 MYT,100.00,,0.00,,定時快照（exp-v2-auto）
+paper-experiment,2026-11-16 07:12:08 MYT,100.00,,0.00,,定時快照（exp-v2-auto）
+paper-experiment,2026-11-16 09:06:39 MYT,100.00,,0.00,,定時快照（exp-v2-auto）
+paper-experiment,2026-11-16 09:15:41 MYT,99.96,,0.00,,開倉 MSTRBUSDT（exp-v2-auto）
+paper-experiment,2026-11-16 11:05:36 MYT,100.18,,0.00,,定時快照（exp-v2-auto）
+paper-experiment,2026-11-16 13:10:49 MYT,99.73,,0.00,,定時快照（exp-v2-auto）
+paper-experiment,2026-11-16 14:11:00 MYT,99.69,,0.00,,定時快照（exp-v2-auto）
+paper-experiment,2026-11-16 17:11:41 MYT,99.73,,0.00,,定時快照（exp-v2-auto）

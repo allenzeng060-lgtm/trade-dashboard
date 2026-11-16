@@ -1,0 +1,62 @@
+# 合約量化組（模擬盤）規則 v0.2（4h 組）
+
+**只模擬，不下真單、不用 API 金鑰、不碰真錢。** dante 2026-11-15 同意以模擬方式試跑。
+程式：`/workspace/futures/quant.py`（規則邏輯在 `core.py`），由 `/workspace/watcher/watchdog.sh` 監管，每 60 秒一輪，不經 AI 或人工判斷。
+
+## 帳戶
+- 起始 100 USDT，逐倉（isolated），幣安 USDT 本位永續合約（只用公開行情：`www.binance.com/fapi`，`fapi.binance.com` 在 box 會回 451）。
+- 交易費：吃單 0.05%／邊。資金費率：每 8 小時依幣安真實資金費率結算（多單在正費率時付、空單收）。
+
+## 方向濾網（與現貨團隊同一定義）
+- 用現貨 BTCUSDT 最近一根已收盤 4h 收盤價，對照現貨團隊的 BTC 濾網價位（自動讀 `pending_plans.json` 裡 btc_filter 的價位，讀不到用 67,568）。
+- 收盤 < 濾網 → **只做空**；收盤 ≥ 濾網且不是近 20 根 4h 收盤新低 → **只做多**；收盤 ≥ 濾網但是 20 根新低 → 不開新單。
+
+## 進場訊號（只看已收盤 K 線，每根 4h 收盤後 30 秒掃描；00:00 UTC 同時掃日線）
+- 做空：收盤 < 前 20 根最低價，且量比 ≥ 2（訊號 K 線成交額 ÷ 前 7 天平均；日線 7 根、4h 42 根）。
+- 做多：收盤 > 前 20 根最高價，量比 ≥ 2。
+- 流動性：24h 成交額 ≥ 2,000 萬 USDT；合約上線滿 30 天；排除指數、盤前與穩定幣合約。
+- 多檔同時觸發時按量比由高到低。訊號 K 線收盤超過 60 分鐘（例如 box 睡著）就不追。
+- 成交價：下一次價格檢查的最新成交價（last price）。
+
+## 風控與倉位
+- 停損 = 進場價 ± 1.5×ATR14（4h，Wilder）。停損距離 > 10% 不做。
+- 每筆風險 = 錢包餘額 2%（含雙邊手續費估算）。
+- 槓桿用最低需要的倍數（每格保證金上限 = 餘額 ÷ 3），最高 3 倍；總名目 ≤ 3×餘額；最多同時 3 檔；同一幣不重複開。
+- **v0.2 同方向上限：同一方向最多 1 檔**（例如已有空單就不再開第 2 筆空單）。原因：同一根 K 線同時觸發的山寨幣訊號高度相關，等於把同一個賭注下 3 次（11/15 08:10 ASTER／WIF／1000BONK 三筆空單即此例）。v0.2 上線時已持有的 WIF、1000BONK 照原停損續抱，不強制平倉；兩筆都平掉前不會開新的空單。
+- 預估強平價（逐倉近似，維持保證金率取幣安分級表第 1 檔，查不到用 0.5%）距離進場價必須 ≥ 2 倍停損距離，否則不做。
+- 數量向下取整到交易所步長，低於最小名目就不做。
+
+## 持倉管理
+- 獲利達 +2R → 停損移到進場價；之後停損 = 最佳價 ∓ 1 個停損距離，只往有利方向移。
+- 7 天到期以市價平倉。
+- 每輪用上次檢查後的 1 分 K（睡很久時改 5 分／15 分 K）逐根檢查：先檢查停損，再更新最佳價與移動停損。
+- 停損成交價 = 停損價與實際觀察到的價格中**較差者**（PLUME 教訓：睡醒才處理就照當下價成交）。
+- 逐倉虧損上限為保證金（模擬強平）。
+
+## 事件
+- 開倉／平倉寫入 `/workspace/futures/outbox.jsonl`，由 `gate.py` 以正常節流（10 分鐘合併）轉送喚醒網址，事件類型 `futures_open` / `futures_close`，標註「合約量化組」。
+- 持倉也會出現在 GitHub `data/watch_state.json` 的 `futures_positions`，GitHub Actions 與 Mac 備援監控在 box 睡著時看到停損或到期會叫醒（`futures_stop` / `futures_expiry`）。
+
+## 檔案
+| 檔案 | 說明 |
+| --- | --- |
+| `positions.json` | 錢包餘額與未平倉部位 |
+| `trades.csv` | 已平倉交易（含手續費、資金費、R 倍數） |
+| `equity.csv` | 權益快照（每小時與每次開平倉） |
+| `/workspace/futures/decisions.jsonl` | 每個決策（濾網、掃描、跳過原因、開平倉、資金費） |
+| `/workspace/futures/status.json` | 給看板用的即時摘要 |
+| `/workspace/futures/quant.log` | 程式日誌 |
+| `/workspace/futures/backtest/` | 歷史回測（僅供參考） |
+
+## 指令
+- 試跑（不寫檔）：`python3 /workspace/futures/quant.py --dry-run`
+- 停止／啟動：跟 watcher 一起，`/workspace/watcher/stop.sh`、`/workspace/watcher/start.sh`
+- 規則修改請改版號並記在下面。
+- 同一支程式另跑兩套（分開記帳）：`--profile 1h`（`/workspace/trading-journal/futures_1h/`）、`--profile 15m`（`/workspace/trading-journal/futures_hf15m/`），由 `/workspace/watcher/watchdog_extra.sh` 監管，說明見各自 README。
+- 本金補充：錢包 < 10 USDT 且沒有持倉 → 自動補回 100 USDT、輪次 +1，記在 `refills.jsonl`，累計統計見 `/workspace/trading-journal/lifetime_stats.json`（不因補充重置）。
+
+## 變更記錄
+| 時間 | 版本 | 內容 |
+| --- | --- | --- |
+| 2026-11-15 07:45 MYT | v0.1 | 建立（模擬） |
+| 2026-11-16 03:06 MYT | v0.2 | 新增同方向最多 1 檔（相關性上限）；本金 < 10 USDT 自動補回 100 USDT；平倉時更新 lifetime_stats.json。回測 180 天 top50：舊規則 −31.3 USDT／最大回撤 58%，新規則 +25.0／21%，前後半段都改善（−18.3→+3.0、−6.7→+14.2）；另一組 90 天 top40 資料亦然。詳見 `/workspace/trading-journal/review_20261116_losses.md`。備份 `*.bak-v0.2`。 |

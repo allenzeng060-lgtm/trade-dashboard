@@ -1,0 +1,164 @@
+{
+  "created": "2026-11-14 04:38 MYT",
+  "created_by": "Risk 風控官",
+  "rules_file": "/workspace/risk/rules_v1.2.md",
+  "source_review": "/workspace/reviewer/review_20261114_0433_MYT.md",
+  "equity_basis_usdt": "100.00（模擬，無持倉）",
+  "binance_filters": "四檔 minNotional 皆為 5 USDT（data-api.binance.vision exchangeInfo，2026-11-14 04:36 MYT）",
+  "execution_rules": [
+    "先觸發先成交：每次檢查依觸發時間先後處理；同一次檢查同時觸發多檔時，依 PLUMEUSDT、PENDLEUSDT、DEXEUSDT、BERAUSDT 順序。",
+    "同時持倉最多 3 檔：已有 3 檔持倉時，其餘計畫暫停不成交；有持倉出場後，若計畫仍未失效且未過 entry_expiry，可再成交。",
+    "成交前用當下即時淨值（現金＋持倉市值）重算：下單金額 ≤ 淨值 20% 且 ≤ notional_cap_usdt；含手續費風險 ≤ 淨值 2%；成交後總曝險 ≤ 淨值 60%。超過就把數量往下調到符合；調整後金額 < 5 USDT 就不下單。",
+    "同一標的已有持倉時不加碼。",
+    "熱停：連續 3 筆虧損或淨值從高點回撤 ≥ 10%，所有 pending 暫停，等復盤完成。",
+    "所有計畫都是逆大盤做多（Macro 判斷大環境偏空），只用於累積模擬樣本。",
+    "v1.2：成交前另須確認未平倉風險合計（含新單）≤ 淨值 6%，否則減量；減量後 < 5 USDT 就不下單。"
+  ],
+  "plans": [
+    {
+      "symbol": "PLUMEUSDT",
+      "side": "BUY",
+      "mode": "paper",
+      "rules_version": "v1.1",
+      "risk_verdict": "通過",
+      "trigger": "限價單掛 0.01360–0.01370（參考 0.01365）；成交前最近一根 4h 收盤須 ≥ 0.01350",
+      "btc_filter": "BTCUSDT 最近一根已收盤 4h 收盤 ≥ 67,568，且該根 4h 收盤未創新低",
+      "entry": "0.01365",
+      "stop": "0.01295",
+      "R": "0.00070",
+      "targets": [
+        "0.01444（出 50%）",
+        "0.01520（剩餘）"
+      ],
+      "qty": "1465",
+      "notional_usdt": "20.00",
+      "max_notional_usdt_if_filled_at_upper": "20.00",
+      "max_loss_usdt_incl_fees": "1.064",
+      "max_loss_usdt_worst_entry": "1.064",
+      "notional_cap_usdt": "20",
+      "trailing_stop": "未實現獲利達 2R 時停損移到進場價；之後停損 = 持倉期間最高價 − 1R（只上移）。計畫中較早的保本規則優先。",
+      "invalidation": [
+        "成交前任一根 4h 收盤 < 0.01350 → 撤單",
+        "持倉中觸及 0.01295 → 停損出場"
+      ],
+      "entry_expiry": "2026-11-17 04:36 MYT 前未成交即作廢",
+      "exit_deadline": "2026-11-20 23:59 MYT 前未達標一律出場（解鎖 11-21 08:00 MYT）",
+      "status": "filled_paper 2026-11-14 06:22 @0.0137 qty1459",
+      "v1_2_recheck": {
+        "time": "2026-11-14 09:12 MYT",
+        "stop_distance": "5.13%（已成交，以成交價 0.0137 計 5.47%）",
+        "result": "≤10%，維持（已持倉）"
+      }
+    },
+    {
+      "symbol": "PENDLEUSDT",
+      "side": "BUY",
+      "mode": "paper",
+      "rules_version": "v1.1",
+      "risk_verdict": "通過",
+      "trigger": "4h 收盤 > 1.600 後掛限價買，參考 1.610，上限 1.625（超過不追）",
+      "btc_filter": "BTCUSDT 最近一根已收盤 4h 收盤 ≥ 67,568，且該根 4h 收盤未創新低",
+      "entry": "1.610",
+      "stop": "1.495",
+      "R": "0.115",
+      "targets": [
+        "1.720（出 50%，剩餘停損移到保本 1.610）",
+        "1.840（剩餘）"
+      ],
+      "qty": "12.3",
+      "notional_usdt": "19.80",
+      "max_notional_usdt_if_filled_at_upper": "19.99",
+      "max_loss_usdt_incl_fees": "1.453",
+      "max_loss_usdt_worst_entry": "1.637",
+      "notional_cap_usdt": "20",
+      "trailing_stop": "未實現獲利達 2R 時停損移到進場價；之後停損 = 持倉期間最高價 − 1R（只上移）。計畫中較早的保本規則優先。",
+      "invalidation": [
+        "價格高於 1.625 不追",
+        "持倉中觸及 1.495 → 停損出場",
+        "持倉中 4h 收盤 < 1.55 → 出場"
+      ],
+      "entry_expiry": "2026-11-17 04:36 MYT 前未成交即作廢",
+      "exit_deadline": "持倉滿 7 天出場",
+      "status": "pending",
+      "v1_2_recheck": {
+        "time": "2026-11-14 09:12 MYT",
+        "stop_distance": "7.14%（以上限價 1.625 計 8.00%）",
+        "result": "≤10%，維持"
+      }
+    },
+    {
+      "symbol": "DEXEUSDT",
+      "side": "BUY",
+      "mode": "paper",
+      "rules_version": "v1.1",
+      "risk_verdict": "通過",
+      "trigger": "限價單掛 1.190–1.200（參考 1.195）；成交前最近一根 4h 收盤須 ≥ 1.180；進場前重查 GovPool 0xB562127efDC97B417B3116efF2C23A29857C0F0B：latestProposalId 仍為 8、DEXE 餘額仍為 48,472,110.155",
+      "btc_filter": "BTCUSDT 最近一根已收盤 4h 收盤 ≥ 67,568，且該根 4h 收盤未創新低",
+      "entry": "1.195",
+      "stop": "1.155",
+      "R": "0.040",
+      "targets": [
+        "1.273（出 50%）",
+        "1.296（剩餘）"
+      ],
+      "qty": "12.55",
+      "notional_usdt": "15.00",
+      "max_notional_usdt_if_filled_at_upper": "15.00",
+      "max_loss_usdt_incl_fees": "0.531",
+      "max_loss_usdt_worst_entry": "0.531",
+      "notional_cap_usdt": "15",
+      "trailing_stop": "未實現獲利達 2R 時停損移到進場價；之後停損 = 持倉期間最高價 − 1R（只上移）。計畫中較早的保本規則優先。",
+      "invalidation": [
+        "出現第 9 號以後的提案或金庫餘額減少 → 取消計畫；已持倉則出場",
+        "成交前 4h 收盤 < 1.180 → 撤單",
+        "跌破 1.175 雙底 → 失效／出場",
+        "持倉中觸及 1.155 → 停損出場",
+        "幣安出現任何 DEXE 公告 → 出場"
+      ],
+      "entry_expiry": "2026-11-17 04:36 MYT 前未成交即作廢",
+      "exit_deadline": "持倉滿 7 天出場",
+      "status": "invalidated 2026-11-14 13:08 MYT breakdown_below_1.175 (4h low 1.173)",
+      "v1_2_recheck": {
+        "time": "2026-11-14 09:12 MYT",
+        "stop_distance": "3.35%",
+        "result": "≤10%，維持"
+      }
+    },
+    {
+      "symbol": "BERAUSDT",
+      "side": "BUY",
+      "mode": "paper",
+      "rules_version": "v1.1",
+      "risk_verdict": "通過",
+      "trigger": "限價單掛 0.1045–0.1055（參考 0.1050）；成交前最近一根 4h 收盤須 ≥ 0.1040",
+      "btc_filter": "BTCUSDT 最近一根已收盤 4h 收盤 ≥ 67,568，且該根 4h 收盤未創新低",
+      "entry": "0.1050",
+      "stop": "0.0955",
+      "R": "0.0095",
+      "targets": [
+        "0.1215（出 50%）",
+        "0.1233（剩餘）"
+      ],
+      "qty": "114.285",
+      "notional_usdt": "12.00",
+      "max_notional_usdt_if_filled_at_upper": "12.00",
+      "max_loss_usdt_incl_fees": "1.109",
+      "max_loss_usdt_worst_entry": "1.109",
+      "notional_cap_usdt": "12",
+      "trailing_stop": "未實現獲利達 2R 時停損移到進場價；之後停損 = 持倉期間最高價 − 1R（只上移）。計畫中較早的保本規則優先。",
+      "invalidation": [
+        "成交前任一根 4h 收盤 < 0.1040 → 撤單",
+        "持倉中 4h 收盤 < 0.1000 或跌破 0.0965 → 出場",
+        "持倉中觸及 0.0955 → 停損出場"
+      ],
+      "entry_expiry": "2026-11-17 04:36 MYT 前未成交即作廢",
+      "exit_deadline": "持倉滿 7 天出場",
+      "status": "invalidated 2026-11-15 00:00 MYT pre_entry_4h_close_lt_0.104 (gate eval 01:10; last price 0.0982)",
+      "v1_2_recheck": {
+        "time": "2026-11-14 09:12 MYT",
+        "stop_distance": "9.05%（以區間上緣 0.1055 計 9.48%）",
+        "result": "≤10%，維持"
+      }
+    }
+  ]
+}
