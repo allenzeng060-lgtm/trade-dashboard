@@ -34,22 +34,23 @@
       "margin": 5.7078613439999994,
       "liq_price": 0.0,
       "mmr": 0.05,
-      "stop": 0.012103667298509712,
+      "stop": 0.014381025298509714,
       "initial_stop": 0.012103667298509712,
       "R": 0.001108974701490287,
       "stop_pct": 8.393,
       "risk_usdt": 0.4845453938522821,
       "entry_fee": 0.0028539306719999997,
       "funding": -0.00140844,
-      "best": 0.01517,
-      "high_since_entry": 0.01517,
+      "best": 0.01549,
+      "high_since_entry": 0.01549,
       "low_since_entry": 0.01245,
-      "trail_armed": false,
+      "trail_armed": true,
       "targets": [],
       "exit_deadline": "2026-11-17 17:46:04 MYT",
-      "last_check_ms": 1794852128577,
-      "last_price": 0.01508,
-      "last_funding_ms": 1794844800004
+      "last_check_ms": 1794852401950,
+      "last_price": 0.01521,
+      "last_funding_ms": 1794844800004,
+      "_last_logged_stop": 0.014381025298509714
     },
     {
       "id": "FHF-20261116-2245-BLESSUSDT",
@@ -90,8 +91,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 22:45:00 MYT",
-      "last_check_ms": 1794852128812,
-      "last_price": 0.018507,
+      "last_check_ms": 1794852402247,
+      "last_price": 0.019029,
       "last_funding_ms": 1794844800004
     },
     {
@@ -133,8 +134,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 23:15:00 MYT",
-      "last_check_ms": 1794852129042,
-      "last_price": 0.2462,
+      "last_check_ms": 1794852402537,
+      "last_price": 0.2468,
       "last_funding_ms": 1794844800004
     },
     {
@@ -176,9 +177,9 @@
       "trail_armed": true,
       "targets": [],
       "exit_deadline": "2026-11-18 00:00:00 MYT",
-      "last_check_ms": 1794852129273,
+      "last_check_ms": 1794852402835,
       "last_funding_ms": 1794844800004,
-      "last_price": 2.524,
+      "last_price": 2.543,
       "_last_logged_stop": 2.50742503227466
     },
     {
@@ -220,8 +221,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 01:30:00 MYT",
-      "last_check_ms": 1794852129508,
-      "last_price": 157.98
+      "last_check_ms": 1794852403383,
+      "last_price": 158.3
     }
   ]
 }
