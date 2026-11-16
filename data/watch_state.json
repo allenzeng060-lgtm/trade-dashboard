@@ -163,11 +163,11 @@
       "entry_time": "2026-11-16 17:46:04 MYT",
       "qty": 432.0,
       "remaining_qty": 432.0,
-      "stop": 0.01585102529850971,
+      "stop": 0.01594102529850971,
       "initial_stop": 0.012103667298509712,
       "R": 0.001108974701490287,
       "targets": [],
-      "high_since_entry": 0.01696,
+      "high_since_entry": 0.01705,
       "low_since_entry": 0.01245,
       "exit_deadline": "2026-11-17 17:46:04 MYT",
       "market": "usdm_perp",
@@ -214,26 +214,6 @@
       "group": "合約高頻組"
     },
     {
-      "id": "FHF-20261117-0215-ARIAUSDT",
-      "symbol": "ARIAUSDT",
-      "side": "SELL",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 0.198640264,
-      "entry_time": "2026-11-17 02:15:00 MYT",
-      "qty": 31.0,
-      "remaining_qty": 31.0,
-      "stop": 0.21339136973550427,
-      "initial_stop": 0.21339136973550427,
-      "R": 0.014751105735504241,
-      "targets": [],
-      "high_since_entry": 0.21068,
-      "low_since_entry": 0.18155,
-      "exit_deadline": "2026-11-18 02:15:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
       "id": "FHF-20261117-0230-XPLUSDT",
       "symbol": "XPLUSDT",
       "side": "BUY",
@@ -254,5 +234,5 @@
       "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-17 03:22:16 MYT"
+  "paper_updated_at": "2026-11-17 03:27:25 MYT"
 }
