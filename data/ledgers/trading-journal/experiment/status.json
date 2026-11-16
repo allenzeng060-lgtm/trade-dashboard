@@ -2,13 +2,13 @@
  "group": "現貨實驗組",
  "rules": "exp-v2-auto",
  "mode": "paper",
- "updated_at": "2026-11-16 23:46:14 MYT",
+ "updated_at": "2026-11-16 23:50:48 MYT",
  "cycle": 1,
  "refills": 0,
  "wallet_usdt": 97.4728,
  "unrealized_usdt": 0,
  "equity_usdt": 97.4728,
  "no_entry_window": false,
- "candidates_1h": 0,
+ "candidates_1h": 2,
  "positions": []
 }
