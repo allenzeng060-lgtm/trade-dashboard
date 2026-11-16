@@ -1,12 +1,12 @@
 {
- "_t24_ts": 1794859956.7456806,
+ "_t24_ts": 1794860282.64499,
  "cands": {
   "ZAMAUSDT": 1794858307.0,
-  "HUMAUSDT": 1794856467.0,
-  "CAKEUSDT": 1794856641.0
+  "CAKEUSDT": 1794859309.0,
+  "HYPEUSDT": 1794859299.0
  },
  "alerts_init": true,
- "alerts_offset": 199822,
+ "alerts_offset": 199817,
  "checked": {
   "SOPHUSDT": 1794852900000,
   "BANANAS31USDT": 1794769200000,
