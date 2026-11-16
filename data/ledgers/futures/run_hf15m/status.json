@@ -3,7 +3,7 @@
   "set": "15m",
   "mode": "paper",
   "rules": "hf-15m-v0.1",
-  "updated_at": "2026-11-17 01:02:01 MYT",
+  "updated_at": "2026-11-17 01:06:24 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -16,10 +16,10 @@
     "slip": 0.0002,
     "regime": "none"
   },
-  "wallet_usdt": 94.1709,
-  "unrealized_usdt": 2.0484,
-  "equity_usdt": 96.2193,
-  "pnl_pct": -3.781,
+  "wallet_usdt": 93.7201,
+  "unrealized_usdt": 2.7677,
+  "equity_usdt": 96.4878,
+  "pnl_pct": -3.512,
   "regime": {
     "allow": "ANY",
     "btc_close": 64467.0,
@@ -67,7 +67,7 @@
       "R": 0.001108974701490287,
       "trail_armed": false,
       "funding": -0.00140844,
-      "last_price": 0.01477,
+      "last_price": 0.0146,
       "exit_deadline": "2026-11-17 17:46:04 MYT",
       "signal_tf": "15m",
       "vol_ratio": 4.2
@@ -88,7 +88,7 @@
       "R": 0.0013959969224845614,
       "trail_armed": false,
       "funding": -0.00487017,
-      "last_price": 0.018483,
+      "last_price": 0.019388,
       "exit_deadline": "2026-11-17 22:45:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 9.23
@@ -130,7 +130,7 @@
       "R": 0.04233211583256344,
       "trail_armed": true,
       "funding": -0.00170706,
-      "last_price": 2.0921,
+      "last_price": 2.0908,
       "exit_deadline": "2026-11-17 23:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.47
@@ -151,31 +151,10 @@
       "R": 0.0475749677253405,
       "trail_armed": false,
       "funding": -0.0009174,
-      "last_price": 2.518,
+      "last_price": 2.53,
       "exit_deadline": "2026-11-18 00:00:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 7.4
-    },
-    {
-      "id": "FHF-20261117-0030-HUMAUSDT",
-      "symbol": "HUMAUSDT",
-      "side": "BUY",
-      "entry_time": "2026-11-17 00:30:00 MYT",
-      "entry_price": 0.0089727942,
-      "qty": 1029.0,
-      "notional": 9.2330052318,
-      "leverage": 2,
-      "margin": 4.6165026159,
-      "liq_price": 0.00457796,
-      "stop": 0.008524317082929589,
-      "initial_stop": 0.008524317082929589,
-      "R": 0.0004484771170704112,
-      "trail_armed": false,
-      "funding": 0.02141393,
-      "last_price": 0.008693,
-      "exit_deadline": "2026-11-18 00:30:00 MYT",
-      "signal_tf": "15m",
-      "vol_ratio": 30.21
     }
   ],
   "data_source": "www.binance.com /fapi (public)"
