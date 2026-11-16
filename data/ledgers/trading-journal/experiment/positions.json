@@ -27,8 +27,8 @@
    "best": 104.76,
    "risk_usdt": 0.5093889583404207,
    "trail_armed": false,
-   "last_check_ms": 1794832174350,
-   "last_price": 101.97,
+   "last_check_ms": 1794832493502,
+   "last_price": 102.38,
    "reason": "15m 收盤 103.74 > 前20根高 102.01，量比 2.01",
    "trigger": "watcher 多方警示（1h 內）",
    "exit_deadline": "2026-11-17 09:15:41 MYT"
