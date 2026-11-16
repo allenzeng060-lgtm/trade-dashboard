@@ -47,8 +47,8 @@
       "trail_armed": true,
       "targets": [],
       "exit_deadline": "2026-11-17 17:46:04 MYT",
-      "last_check_ms": 1794854231534,
-      "last_price": 0.01542,
+      "last_check_ms": 1794854516338,
+      "last_price": 0.0153,
       "last_funding_ms": 1794844800004,
       "_last_logged_stop": 0.014471025298509714
     },
@@ -91,8 +91,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 22:45:00 MYT",
-      "last_check_ms": 1794854231770,
-      "last_price": 0.018932,
+      "last_check_ms": 1794854516566,
+      "last_price": 0.018917,
       "last_funding_ms": 1794844800004
     },
     {
@@ -134,8 +134,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 23:15:00 MYT",
-      "last_check_ms": 1794854232003,
-      "last_price": 0.2493,
+      "last_check_ms": 1794854516793,
+      "last_price": 0.2488,
       "last_funding_ms": 1794844800004
     },
     {
@@ -173,12 +173,12 @@
       "funding": 0.0,
       "best": 159.45,
       "high_since_entry": 159.45,
-      "low_since_entry": 156.44,
+      "low_since_entry": 156.14,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 01:30:00 MYT",
-      "last_check_ms": 1794854232484,
-      "last_price": 156.45
+      "last_check_ms": 1794854517021,
+      "last_price": 156.21
     },
     {
       "id": "FHF-20261117-0215-ARIAUSDT",
@@ -214,13 +214,13 @@
       "entry_fee": 0.0030789240920000003,
       "funding": 0.0,
       "best": 0.18842,
-      "high_since_entry": 0.20134,
+      "high_since_entry": 0.20774,
       "low_since_entry": 0.18842,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 02:15:00 MYT",
-      "last_check_ms": 1794854232714,
-      "last_price": 0.20063
+      "last_check_ms": 1794854517391,
+      "last_price": 0.20582
     },
     {
       "id": "FHF-20261117-0230-XPLUSDT",
@@ -255,14 +255,14 @@
       "risk_usdt": 0.4716425203772688,
       "entry_fee": 0.01059356829,
       "funding": 0.0,
-      "best": 0.0451,
-      "high_since_entry": 0.0451,
+      "best": 0.04542,
+      "high_since_entry": 0.04542,
       "low_since_entry": 0.04477,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 02:30:00 MYT",
-      "last_check_ms": 1794854232945,
-      "last_price": 0.04507
+      "last_check_ms": 1794854517703,
+      "last_price": 0.04525
     }
   ]
 }
