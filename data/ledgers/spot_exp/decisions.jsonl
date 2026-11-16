@@ -11,3 +11,4 @@
 {"time": "2026-11-17 00:01:42 MYT", "kind": "open", "symbol": "HUMAUSDT", "vol_ratio": 16.89, "stop_pct": 9.71, "entry": 0.00812406, "stop": 0.007335289148096464, "notional": 9.85, "risk": 0.975}
 {"time": "2026-11-17 00:01:42 MYT", "kind": "open", "symbol": "ICPUSDT", "vol_ratio": 9.2, "stop_pct": 3.83, "entry": 2.46123, "stop": 2.366990575767391, "notional": 24.22, "risk": 0.975}
 {"time": "2026-11-17 02:17:22 MYT", "kind": "open", "symbol": "ERAUSDT", "vol_ratio": 18.04, "stop_pct": 5.1, "entry": 0.0762381, "stop": 0.07234884314835655, "notional": 18.4, "risk": 0.975}
+{"time": "2026-11-17 02:32:20 MYT", "kind": "open", "symbol": "XPLUSDT", "vol_ratio": 2.08, "stop_pct": 4.25, "entry": 0.045132555, "stop": 0.04321262641286835, "notional": 21.91, "risk": 0.975}

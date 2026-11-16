@@ -273,3 +273,9 @@
 {"time": "2026-11-17 02:21:48 MYT", "kind": "trail_update", "symbol": "BULLAUSDT", "stop": 0.014451025298509713, "best": 0.01556}
 {"time": "2026-11-17 02:21:50 MYT", "kind": "trail_update", "symbol": "SPACEUSDT", "stop": 0.004049319684866624, "best": 0.004245}
 {"time": "2026-11-17 02:26:51 MYT", "kind": "trail_update", "symbol": "SPACEUSDT", "stop": 0.0040503196848666245, "best": 0.004246}
+{"time": "2026-11-17 02:31:53 MYT", "kind": "trail_update", "symbol": "BULLAUSDT", "stop": 0.014471025298509714, "best": 0.01558}
+{"time": "2026-11-17 02:31:58 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64467.0, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-17 02:32:14 MYT", "kind": "scan", "bar_close": "2026-11-17 02:30:00 MYT", "breakouts": 7, "vol_ok": 2, "allow": "ANY"}
+{"time": "2026-11-17 02:32:14 MYT", "kind": "skip", "symbol": "SPACEUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 10.8, "reason": "already holding"}
+{"time": "2026-11-17 02:32:15 MYT", "kind": "open", "symbol": "XPLUSDT", "side": "BUY", "entry": 0.045079014, "stop": 0.04412011884221415, "qty": 470.0, "lev": 3, "liq": 0.03035624, "risk": 0.472}
+{"time": "2026-11-17 02:32:17 MYT", "kind": "close", "symbol": "SPACEUSDT", "reason": "trail_stop", "fill": 0.004049509620929651, "net": 0.4733, "R": 1.0}
