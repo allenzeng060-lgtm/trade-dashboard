@@ -3,7 +3,7 @@
   "set": "15m",
   "mode": "paper",
   "rules": "hf-15m-v0.1",
-  "updated_at": "2026-11-17 07:13:48 MYT",
+  "updated_at": "2026-11-17 07:19:10 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -17,9 +17,9 @@
     "regime": "none"
   },
   "wallet_usdt": 96.1156,
-  "unrealized_usdt": 1.727,
-  "equity_usdt": 97.8426,
-  "pnl_pct": -2.157,
+  "unrealized_usdt": 1.671,
+  "equity_usdt": 97.7866,
+  "pnl_pct": -2.213,
   "regime": {
     "allow": "ANY",
     "btc_close": 65068.01,
@@ -27,49 +27,33 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-17 07:04:21 MYT",
-    "bar_close": "2026-11-17 07:00:00 MYT",
+    "time": "2026-11-17 07:19:07 MYT",
+    "bar_close": "2026-11-17 07:15:00 MYT",
     "universe": 71,
     "breakouts": [
       {
-        "symbol": "TRXUSDT",
+        "symbol": "ICPUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 0.3052,
-        "close": 0.305,
-        "vol_ratio": 0.3026
-      },
-      {
-        "symbol": "ARBUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 0.1311,
-        "close": 0.1304,
-        "vol_ratio": 0.8493
-      },
-      {
-        "symbol": "JUPUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 0.2441,
-        "close": 0.2425,
-        "vol_ratio": 0.5468
+        "level": 2.496,
+        "close": 2.478,
+        "vol_ratio": 2.0138
       },
       {
         "symbol": "AKEUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 0.01,
-        "close": 0.01,
-        "vol_ratio": 0.2033
+        "level": 0.0099,
+        "close": 0.0099,
+        "vol_ratio": 0.3325
       },
       {
         "symbol": "LITUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 2.8314,
-        "close": 2.9034,
-        "vol_ratio": 1.0881
+        "level": 2.9145,
+        "close": 2.9755,
+        "vol_ratio": 1.3916
       }
     ],
     "regime": "ANY"
@@ -91,7 +75,7 @@
       "R": 0.0013959969224845614,
       "trail_armed": false,
       "funding": -0.01015033,
-      "last_price": 0.018561,
+      "last_price": 0.018538,
       "exit_deadline": "2026-11-17 22:45:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 9.23
@@ -112,7 +96,7 @@
       "R": 0.004354402619949679,
       "trail_armed": false,
       "funding": -0.00938222,
-      "last_price": 0.2425,
+      "last_price": 0.2426,
       "exit_deadline": "2026-11-17 23:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 5.94
@@ -133,7 +117,7 @@
       "R": 0.0009588951577858478,
       "trail_armed": false,
       "funding": -0.00105688,
-      "last_price": 0.04578,
+      "last_price": 0.04553,
       "exit_deadline": "2026-11-18 02:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.77
@@ -154,10 +138,31 @@
       "R": 0.0005096528888362112,
       "trail_armed": false,
       "funding": 0.03737969,
-      "last_price": 0.009885,
+      "last_price": 0.009949,
       "exit_deadline": "2026-11-18 04:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 5.1
+    },
+    {
+      "id": "FHF-20261117-0715-ICPUSDT",
+      "symbol": "ICPUSDT",
+      "side": "SELL",
+      "entry_time": "2026-11-17 07:15:00 MYT",
+      "entry_price": 2.4775044000000004,
+      "qty": 9.0,
+      "notional": 22.297539600000004,
+      "leverage": 3,
+      "margin": 7.432513200000002,
+      "liq_price": 3.27063287,
+      "stop": 2.5240904855705626,
+      "initial_stop": 2.5240904855705626,
+      "R": 0.04658608557056221,
+      "trail_armed": false,
+      "funding": 0.0,
+      "last_price": 2.471,
+      "exit_deadline": "2026-11-18 07:15:00 MYT",
+      "signal_tf": "15m",
+      "vol_ratio": 2.01
     }
   ],
   "data_source": "www.binance.com /fapi (public)"

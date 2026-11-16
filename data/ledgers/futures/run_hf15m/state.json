@@ -8,53 +8,37 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-17 07:04:21 MYT",
-    "bar_close": "2026-11-17 07:00:00 MYT",
+    "time": "2026-11-17 07:19:07 MYT",
+    "bar_close": "2026-11-17 07:15:00 MYT",
     "universe": 71,
     "breakouts": [
       {
-        "symbol": "TRXUSDT",
+        "symbol": "ICPUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 0.3052,
-        "close": 0.305,
-        "vol_ratio": 0.3026
-      },
-      {
-        "symbol": "ARBUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 0.1311,
-        "close": 0.1304,
-        "vol_ratio": 0.8493
-      },
-      {
-        "symbol": "JUPUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 0.2441,
-        "close": 0.2425,
-        "vol_ratio": 0.5468
+        "level": 2.496,
+        "close": 2.478,
+        "vol_ratio": 2.0138
       },
       {
         "symbol": "AKEUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 0.01,
-        "close": 0.01,
-        "vol_ratio": 0.2033
+        "level": 0.0099,
+        "close": 0.0099,
+        "vol_ratio": 0.3325
       },
       {
         "symbol": "LITUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 2.8314,
-        "close": 2.9034,
-        "vol_ratio": 1.0881
+        "level": 2.9145,
+        "close": 2.9755,
+        "vol_ratio": 1.3916
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794870000000,
-  "last_equity_ts": 1794867810.5405035
+  "last_scan_bar_ms": 1794870900000,
+  "last_equity_ts": 1794871147.807589
 }
