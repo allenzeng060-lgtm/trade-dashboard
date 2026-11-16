@@ -121,3 +121,9 @@
 {"time": "2026-11-16 20:04:53 MYT", "kind": "scan", "bar_close": "2026-11-16 20:00:00 MYT", "breakouts": 1, "vol_ok": 1, "allow": "ANY"}
 {"time": "2026-11-16 20:04:53 MYT", "kind": "skip", "symbol": "SKRUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.37, "reason": "already holding"}
 {"time": "2026-11-16 20:09:20 MYT", "kind": "close", "symbol": "EVAAUSDT", "reason": "stop", "fill": 3.405623001601385, "net": -0.4802, "R": -1.02}
+{"time": "2026-11-16 20:19:30 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64448.32, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-16 20:19:39 MYT", "kind": "scan", "bar_close": "2026-11-16 20:15:00 MYT", "breakouts": 13, "vol_ok": 4, "allow": "ANY"}
+{"time": "2026-11-16 20:19:39 MYT", "kind": "open", "symbol": "HYPEUSDT", "side": "SELL", "entry": 65.276942, "stop": 66.07145668767818, "qty": 0.36, "lev": 3, "liq": 86.17418086, "risk": 0.31}
+{"time": "2026-11-16 20:19:39 MYT", "kind": "open", "symbol": "BCHUSDT", "side": "SELL", "entry": 203.979196, "stop": 205.49354208400143, "qty": 0.11800000000000001, "lev": 3, "liq": 270.61916551, "risk": 0.203}
+{"time": "2026-11-16 20:19:39 MYT", "kind": "skip", "symbol": "BTCUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.7, "reason": "notional 0.00 < exchange min 50"}
+{"time": "2026-11-16 20:19:39 MYT", "kind": "open", "symbol": "ZECUSDT", "side": "SELL", "entry": 874.5150620000001, "stop": 886.9913221093672, "qty": 0.027, "lev": 3, "liq": 1154.47532937, "risk": 0.361}
