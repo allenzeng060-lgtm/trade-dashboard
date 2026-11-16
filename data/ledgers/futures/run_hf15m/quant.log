@@ -74,3 +74,5 @@
 2026-11-16 14:05:28,197 INFO decision close {"symbol": "BLESSUSDT", "reason": "trail_stop", "fill": 0.014863449248817896, "net": 1.4448, "R": 2.97}
 2026-11-16 14:05:30,950 INFO decision regime {"allow": "ANY", "btc_close": 64448.32, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
 2026-11-16 14:05:45,055 INFO decision scan {"bar_close": "2026-11-16 22:00:00 MYT", "breakouts": 1, "vol_ok": 0, "allow": "ANY"}
+2026-11-16 14:15:20,106 INFO decision close {"symbol": "HYPEUSDT", "reason": "stop", "fill": 66.08467097901571, "net": -0.3144, "R": -1.02}
+2026-11-16 14:15:20,744 INFO decision close {"symbol": "UNIUSDT", "reason": "stop", "fill": 5.107619423382333, "net": -0.2588, "R": -1.02}

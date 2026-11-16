@@ -238,26 +238,6 @@
       "group": "合約高頻組"
     },
     {
-      "id": "FHF-20261116-2015-HYPEUSDT",
-      "symbol": "HYPEUSDT",
-      "side": "SELL",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 65.276942,
-      "entry_time": "2026-11-16 20:15:00 MYT",
-      "qty": 0.36,
-      "remaining_qty": 0.36,
-      "stop": 66.07145668767818,
-      "initial_stop": 66.07145668767818,
-      "R": 0.7945146876781732,
-      "targets": [],
-      "high_since_entry": 66.049,
-      "low_since_entry": 64.826,
-      "exit_deadline": "2026-11-17 20:15:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
       "id": "FHF-20261116-2015-ZECUSDT",
       "symbol": "ZECUSDT",
       "side": "SELL",
@@ -278,26 +258,6 @@
       "group": "合約高頻組"
     },
     {
-      "id": "FHF-20261116-2030-UNIUSDT",
-      "symbol": "UNIUSDT",
-      "side": "SELL",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 5.0479902,
-      "entry_time": "2026-11-16 20:30:00 MYT",
-      "qty": 4.0,
-      "remaining_qty": 4.0,
-      "stop": 5.1065981037615815,
-      "initial_stop": 5.1065981037615815,
-      "R": 0.05860790376158165,
-      "targets": [],
-      "high_since_entry": 5.096,
-      "low_since_entry": 5.035,
-      "exit_deadline": "2026-11-17 20:30:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
       "id": "FHF-20261116-2130-RAREUSDT",
       "symbol": "RAREUSDT",
       "side": "BUY",
@@ -312,11 +272,11 @@
       "R": 0.0015079752627705245,
       "targets": [],
       "high_since_entry": 0.0181,
-      "low_since_entry": 0.016,
+      "low_since_entry": 0.01584,
       "exit_deadline": "2026-11-17 21:30:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-16 22:10:09 MYT"
+  "paper_updated_at": "2026-11-16 22:15:22 MYT"
 }
