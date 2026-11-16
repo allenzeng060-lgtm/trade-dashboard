@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 17:46:04 MYT",
-      "last_check_ms": 1794842684524,
-      "last_price": 0.01422,
+      "last_check_ms": 1794842748031,
+      "last_price": 0.01432,
       "last_funding_ms": 1794830400000
     },
     {
@@ -90,8 +90,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 19:00:00 MYT",
-      "last_check_ms": 1794842684848,
-      "last_price": 3848.25,
+      "last_check_ms": 1794842748342,
+      "last_price": 3848.76,
       "last_funding_ms": 1794830400000
     },
     {
@@ -133,8 +133,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 22:45:00 MYT",
-      "last_check_ms": 1794842685169,
-      "last_price": 0.018157
+      "last_check_ms": 1794842748651,
+      "last_price": 0.018014
     },
     {
       "id": "FHF-20261116-2315-JUPUSDT",
@@ -169,13 +169,13 @@
       "risk_usdt": 0.43750635581966707,
       "entry_fee": 0.011815636400000001,
       "funding": 0.0,
-      "best": 0.2471,
+      "best": 0.247,
       "high_since_entry": 0.2497,
-      "low_since_entry": 0.2471,
+      "low_since_entry": 0.247,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 23:15:00 MYT",
-      "last_check_ms": 1794842685799,
+      "last_check_ms": 1794842748959,
       "last_price": 0.2474
     },
     {
@@ -217,7 +217,7 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 23:15:00 MYT",
-      "last_check_ms": 1794842686125,
+      "last_check_ms": 1794842749278,
       "last_price": 70.09
     },
     {
@@ -259,8 +259,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 23:15:00 MYT",
-      "last_check_ms": 1794842686445,
-      "last_price": 0.002777
+      "last_check_ms": 1794842749584,
+      "last_price": 0.002776
     }
   ]
 }
