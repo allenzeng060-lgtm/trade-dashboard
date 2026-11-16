@@ -8,29 +8,61 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-16 18:01:11 MYT",
-    "bar_close": "2026-11-16 18:00:00 MYT",
+    "time": "2026-11-16 18:15:56 MYT",
+    "bar_close": "2026-11-16 18:15:00 MYT",
     "universe": 68,
     "breakouts": [
       {
         "symbol": "ZROUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 1.4139,
-        "close": 1.4206,
-        "vol_ratio": 1.1526
+        "level": 1.4219,
+        "close": 1.4385,
+        "vol_ratio": 1.8642
+      },
+      {
+        "symbol": "HYPEUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 67.02,
+        "close": 67.089,
+        "vol_ratio": 1.3644
+      },
+      {
+        "symbol": "ARIAUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 0.2072,
+        "close": 0.2047,
+        "vol_ratio": 0.9584
       },
       {
         "symbol": "EVAAUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 3.3325,
-        "close": 3.464,
-        "vol_ratio": 3.6066
+        "level": 3.4887,
+        "close": 3.6508,
+        "vol_ratio": 4.4523
+      },
+      {
+        "symbol": "SKRUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 0.0106,
+        "close": 0.0102,
+        "vol_ratio": 2.3123
+      },
+      {
+        "symbol": "BTWUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 0.4217,
+        "close": 0.4198,
+        "vol_ratio": 0.6967
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794823200000,
-  "last_equity_ts": 1794823560.4747713
+  "last_scan_bar_ms": 1794824100000,
+  "last_equity_ts": 1794824156.6393113
 }

@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 17:15:55 MYT",
-      "last_check_ms": 1794823741143,
-      "last_price": 0.05044
+      "last_check_ms": 1794824156639,
+      "last_price": 0.05051
     },
     {
       "id": "FHF-20261116-1715-XRPUSDT",
@@ -84,13 +84,13 @@
       "entry_fee": 0.012159687576,
       "funding": 0.0,
       "best": 0.9418,
-      "high_since_entry": 0.9471,
+      "high_since_entry": 0.9488,
       "low_since_entry": 0.9418,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 17:15:55 MYT",
-      "last_check_ms": 1794823741460,
-      "last_price": 0.9464
+      "last_check_ms": 1794824156848,
+      "last_price": 0.9483
     },
     {
       "id": "FHF-20261116-1715-ETHUSDT",
@@ -131,8 +131,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 17:15:55 MYT",
-      "last_check_ms": 1794823741782,
-      "last_price": 1799.87
+      "last_check_ms": 1794824157061,
+      "last_price": 1801.9
     },
     {
       "id": "FHF-20261116-1715-XLMUSDT",
@@ -173,8 +173,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 17:15:55 MYT",
-      "last_check_ms": 1794823742094,
-      "last_price": 0.13725
+      "last_check_ms": 1794824157274,
+      "last_price": 0.13735
     },
     {
       "id": "FHF-20261116-1746-BULLAUSDT",
@@ -215,8 +215,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 17:46:04 MYT",
-      "last_check_ms": 1794823742421,
-      "last_price": 0.01358
+      "last_check_ms": 1794824157484,
+      "last_price": 0.01343
     },
     {
       "id": "FHF-20261116-1746-SKRUSDT",
@@ -251,14 +251,56 @@
       "risk_usdt": 0.4844964810573837,
       "entry_fee": 0.004608263662900001,
       "funding": 0.0,
-      "best": 0.010288,
+      "best": 0.010162,
       "high_since_entry": 0.010875,
-      "low_since_entry": 0.010288,
+      "low_since_entry": 0.010162,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 17:46:04 MYT",
-      "last_check_ms": 1794823742746,
-      "last_price": 0.010395
+      "last_check_ms": 1794824157697,
+      "last_price": 0.010267
+    },
+    {
+      "id": "FHF-20261116-1815-EVAAUSDT",
+      "symbol": "EVAAUSDT",
+      "side": "BUY",
+      "rules": "hf-15m-v0.1",
+      "cycle": 1,
+      "slippage": 0.0002,
+      "mode": "paper",
+      "status": "open",
+      "group": "合約高頻組",
+      "market": "usdm_perp",
+      "margin_type": "isolated",
+      "signal_tf": "15m",
+      "signal_bar_close_myt": "2026-11-16 18:15:00 MYT",
+      "vol_ratio": 4.45,
+      "breakout_level": 3.4887,
+      "entry_time": "2026-11-16 18:15:00 MYT",
+      "entry_ms": 1794824100000,
+      "entry_price": 3.6515301599999996,
+      "qty": 1.9000000000000001,
+      "remaining_qty": 1.9000000000000001,
+      "notional": 6.937907303999999,
+      "leverage": 1,
+      "margin": 6.937907303999999,
+      "liq_price": 0.0,
+      "mmr": 0.05,
+      "stop": 3.406304262453876,
+      "initial_stop": 3.406304262453876,
+      "R": 0.24522589754612362,
+      "stop_pct": 6.716,
+      "risk_usdt": 0.4726341480389661,
+      "entry_fee": 0.003468953652,
+      "funding": 0.0,
+      "best": 3.661,
+      "high_since_entry": 3.661,
+      "low_since_entry": 3.6233,
+      "trail_armed": false,
+      "targets": [],
+      "exit_deadline": "2026-11-17 18:15:00 MYT",
+      "last_check_ms": 1794824157912,
+      "last_price": 3.6275
     }
   ]
 }
