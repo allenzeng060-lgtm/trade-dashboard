@@ -228,7 +228,7 @@
       "R": 11.678418461788127,
       "targets": [],
       "high_since_entry": 3861.05,
-      "low_since_entry": 3850.99,
+      "low_since_entry": 3850.0,
       "exit_deadline": "2026-11-17 19:00:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
@@ -287,7 +287,7 @@
       "initial_stop": 205.49354208400143,
       "R": 1.514346084001432,
       "targets": [],
-      "high_since_entry": 204.38,
+      "high_since_entry": 204.4,
       "low_since_entry": 203.19,
       "exit_deadline": "2026-11-17 20:15:00 MYT",
       "market": "usdm_perp",
@@ -308,7 +308,7 @@
       "R": 12.476260109367143,
       "targets": [],
       "high_since_entry": 878.13,
-      "low_since_entry": 866.64,
+      "low_since_entry": 856.51,
       "exit_deadline": "2026-11-17 20:15:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
@@ -327,32 +327,12 @@
       "initial_stop": 5.1065981037615815,
       "R": 0.05860790376158165,
       "targets": [],
-      "high_since_entry": 5.091,
+      "high_since_entry": 5.096,
       "low_since_entry": 5.035,
-      "exit_deadline": "2026-11-17 20:30:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
-      "id": "FHF-20261116-2030-LTCUSDT",
-      "symbol": "LTCUSDT",
-      "side": "SELL",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 43.951208,
-      "entry_time": "2026-11-16 20:30:00 MYT",
-      "qty": 0.547,
-      "remaining_qty": 0.547,
-      "stop": 44.286390766647614,
-      "initial_stop": 44.286390766647614,
-      "R": 0.3351827666476132,
-      "targets": [],
-      "high_since_entry": 44.25,
-      "low_since_entry": 43.94,
       "exit_deadline": "2026-11-17 20:30:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-16 20:44:41 MYT"
+  "paper_updated_at": "2026-11-16 20:49:51 MYT"
 }
