@@ -2,14 +2,14 @@
  "group": "現貨實驗組",
  "rules": "exp-v2-auto",
  "mode": "paper",
- "updated_at": "2026-11-16 18:18:37 MYT",
+ "updated_at": "2026-11-16 18:23:43 MYT",
  "cycle": 1,
  "refills": 0,
  "wallet_usdt": 100.0,
- "unrealized_usdt": -0.1484,
- "equity_usdt": 99.8516,
+ "unrealized_usdt": -0.1918,
+ "equity_usdt": 99.8082,
  "no_entry_window": false,
- "candidates_1h": 4,
+ "candidates_1h": 32,
  "positions": [
   {
    "id": "SX-20261116-0915-MSTRBUSDT",
@@ -21,7 +21,7 @@
    "stop": 101.81398051600372,
    "initial_stop": 101.81398051600372,
    "trail_armed": false,
-   "last_price": 103.21,
+   "last_price": 103.03,
    "exit_deadline": "2026-11-17 09:15:41 MYT"
   }
  ]
