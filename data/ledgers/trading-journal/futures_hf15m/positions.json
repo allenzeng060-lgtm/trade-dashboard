@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 22:45:00 MYT",
-      "last_check_ms": 1794864807813,
-      "last_price": 0.018606,
+      "last_check_ms": 1794865098157,
+      "last_price": 0.018573,
       "last_funding_ms": 1794859200002
     },
     {
@@ -90,8 +90,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 23:15:00 MYT",
-      "last_check_ms": 1794864808038,
-      "last_price": 0.2454,
+      "last_check_ms": 1794865098378,
+      "last_price": 0.2452,
       "last_funding_ms": 1794859200002
     },
     {
@@ -127,14 +127,14 @@
       "risk_usdt": 0.4716425203772688,
       "entry_fee": 0.01059356829,
       "funding": -0.00105688,
-      "best": 0.0455,
-      "high_since_entry": 0.0455,
+      "best": 0.04554,
+      "high_since_entry": 0.04554,
       "low_since_entry": 0.04442,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 02:30:00 MYT",
-      "last_check_ms": 1794864808248,
-      "last_price": 0.04541,
+      "last_check_ms": 1794865098788,
+      "last_price": 0.04545,
       "last_funding_ms": 1794859200002
     },
     {
@@ -170,14 +170,14 @@
       "risk_usdt": 0.3122271923729748,
       "entry_fee": 0.011686606854000001,
       "funding": 0.0,
-      "best": 68.99,
-      "high_since_entry": 68.99,
+      "best": 69.394,
+      "high_since_entry": 69.394,
       "low_since_entry": 68.215,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 04:15:00 MYT",
-      "last_check_ms": 1794864808464,
-      "last_price": 68.852
+      "last_check_ms": 1794865099193,
+      "last_price": 69.384
     },
     {
       "id": "FHF-20261117-0430-HUMAUSDT",
@@ -218,8 +218,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 04:30:00 MYT",
-      "last_check_ms": 1794864808676,
-      "last_price": 0.00987,
+      "last_check_ms": 1794865099599,
+      "last_price": 0.009928,
       "last_funding_ms": 1794862800000
     }
   ]
