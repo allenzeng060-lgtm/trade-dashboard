@@ -222,26 +222,6 @@
       "group": "合約高頻組"
     },
     {
-      "id": "FHF-20261117-0415-HYPEUSDT",
-      "symbol": "HYPEUSDT",
-      "side": "BUY",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 68.7447462,
-      "entry_time": "2026-11-17 04:15:00 MYT",
-      "qty": 0.34,
-      "remaining_qty": 0.34,
-      "stop": 70.19000447675316,
-      "initial_stop": 67.89475067675315,
-      "R": 0.8499955232468432,
-      "targets": [],
-      "high_since_entry": 71.04,
-      "low_since_entry": 68.215,
-      "exit_deadline": "2026-11-18 04:15:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
       "id": "FHF-20261117-0430-HUMAUSDT",
       "symbol": "HUMAUSDT",
       "side": "BUY",
@@ -262,5 +242,5 @@
       "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-17 06:18:46 MYT"
+  "paper_updated_at": "2026-11-17 06:23:32 MYT"
 }

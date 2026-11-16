@@ -1,9 +1,7 @@
 {
- "_t24_ts": 1794867525.4672997,
+ "_t24_ts": 1794867812.422436,
  "cands": {
-  "SOPHUSDT": 1794864016.0,
-  "SOXSBUSDT": 1794866869.0,
-  "ASTERUSDT": 1794864006.0
+  "SOXSBUSDT": 1794866869.0
  },
  "alerts_init": true,
  "alerts_offset": 199867,

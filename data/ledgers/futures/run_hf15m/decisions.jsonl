@@ -346,3 +346,4 @@
 {"time": "2026-11-17 06:03:55 MYT", "kind": "trail_update", "symbol": "HYPEUSDT", "stop": 70.19000447675316, "best": 71.04}
 {"time": "2026-11-17 06:18:29 MYT", "kind": "regime", "allow": "ANY", "btc_close": 65068.01, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
 {"time": "2026-11-17 06:18:42 MYT", "kind": "scan", "bar_close": "2026-11-17 06:15:00 MYT", "breakouts": 4, "vol_ok": 0, "allow": "ANY"}
+{"time": "2026-11-17 06:23:30 MYT", "kind": "close", "symbol": "HYPEUSDT", "reason": "trail_stop", "fill": 70.1759664758578, "net": 0.463, "R": 1.48}

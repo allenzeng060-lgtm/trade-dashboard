@@ -3,7 +3,7 @@
   "set": "15m",
   "mode": "paper",
   "rules": "hf-15m-v0.1",
-  "updated_at": "2026-11-17 06:18:44 MYT",
+  "updated_at": "2026-11-17 06:23:31 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -16,10 +16,10 @@
     "slip": 0.0002,
     "regime": "none"
   },
-  "wallet_usdt": 95.6526,
-  "unrealized_usdt": 1.7092,
-  "equity_usdt": 97.3618,
-  "pnl_pct": -2.638,
+  "wallet_usdt": 96.1156,
+  "unrealized_usdt": 1.0499,
+  "equity_usdt": 97.1655,
+  "pnl_pct": -2.834,
   "regime": {
     "allow": "ANY",
     "btc_close": 65068.01,
@@ -83,7 +83,7 @@
       "R": 0.0013959969224845614,
       "trail_armed": false,
       "funding": -0.01015033,
-      "last_price": 0.01809,
+      "last_price": 0.018105,
       "exit_deadline": "2026-11-17 22:45:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 9.23
@@ -104,7 +104,7 @@
       "R": 0.004354402619949679,
       "trail_armed": false,
       "funding": -0.00938222,
-      "last_price": 0.2461,
+      "last_price": 0.2454,
       "exit_deadline": "2026-11-17 23:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 5.94
@@ -125,31 +125,10 @@
       "R": 0.0009588951577858478,
       "trail_armed": false,
       "funding": -0.00105688,
-      "last_price": 0.04551,
+      "last_price": 0.04538,
       "exit_deadline": "2026-11-18 02:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.77
-    },
-    {
-      "id": "FHF-20261117-0415-HYPEUSDT",
-      "symbol": "HYPEUSDT",
-      "side": "BUY",
-      "entry_time": "2026-11-17 04:15:00 MYT",
-      "entry_price": 68.7447462,
-      "qty": 0.34,
-      "notional": 23.373213708,
-      "leverage": 3,
-      "margin": 7.7910712360000005,
-      "liq_price": 46.29275838,
-      "stop": 70.19000447675316,
-      "initial_stop": 67.89475067675315,
-      "R": 0.8499955232468432,
-      "trail_armed": true,
-      "funding": 0.0,
-      "last_price": 70.519,
-      "exit_deadline": "2026-11-18 04:15:00 MYT",
-      "signal_tf": "15m",
-      "vol_ratio": 2.58
     },
     {
       "id": "FHF-20261117-0430-HUMAUSDT",
@@ -167,7 +146,7 @@
       "R": 0.0005096528888362112,
       "trail_armed": false,
       "funding": 0.0259845,
-      "last_price": 0.009932,
+      "last_price": 0.009836,
       "exit_deadline": "2026-11-18 04:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 5.1
