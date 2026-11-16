@@ -62,3 +62,8 @@
 2026-11-16 13:24:53,768 INFO decision regime {"allow": "ANY", "btc_close": 64448.32, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
 2026-11-16 13:25:04,432 INFO decision scan {"bar_close": "2026-11-16 21:15:00 MYT", "breakouts": 4, "vol_ok": 1, "allow": "ANY"}
 2026-11-16 13:25:04,433 INFO decision skip {"symbol": "BLESSUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 12.77, "reason": "already holding"}
+2026-11-16 13:34:54,290 INFO decision trail_update {"symbol": "BLESSUSDT", "stop": 0.01416342253332456, "best": 0.014985}
+2026-11-16 13:34:54,786 INFO decision close {"symbol": "BCHUSDT", "reason": "stop", "fill": 205.53464079241823, "net": -0.2077, "R": -1.02}
+2026-11-16 13:34:57,154 INFO decision regime {"allow": "ANY", "btc_close": 64448.32, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+2026-11-16 13:35:11,207 INFO decision scan {"bar_close": "2026-11-16 21:30:00 MYT", "breakouts": 3, "vol_ok": 1, "allow": "ANY"}
+2026-11-16 13:35:11,487 INFO decision open {"symbol": "RAREUSDT", "side": "BUY", "entry": 0.01690338, "stop": 0.015395404737229475, "qty": 314.0, "lev": 1, "liq": 0.0, "risk": 0.479}
