@@ -34,23 +34,23 @@
       "margin": 5.7078613439999994,
       "liq_price": 0.0,
       "mmr": 0.05,
-      "stop": 0.014381025298509714,
+      "stop": 0.014451025298509713,
       "initial_stop": 0.012103667298509712,
       "R": 0.001108974701490287,
       "stop_pct": 8.393,
       "risk_usdt": 0.4845453938522821,
       "entry_fee": 0.0028539306719999997,
       "funding": -0.00140844,
-      "best": 0.01549,
-      "high_since_entry": 0.01549,
+      "best": 0.01556,
+      "high_since_entry": 0.01556,
       "low_since_entry": 0.01245,
       "trail_armed": true,
       "targets": [],
       "exit_deadline": "2026-11-17 17:46:04 MYT",
-      "last_check_ms": 1794853039349,
-      "last_price": 0.01539,
+      "last_check_ms": 1794853308474,
+      "last_price": 0.01549,
       "last_funding_ms": 1794844800004,
-      "_last_logged_stop": 0.014381025298509714
+      "_last_logged_stop": 0.014451025298509713
     },
     {
       "id": "FHF-20261116-2245-BLESSUSDT",
@@ -91,8 +91,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 22:45:00 MYT",
-      "last_check_ms": 1794853039564,
-      "last_price": 0.019164,
+      "last_check_ms": 1794853308694,
+      "last_price": 0.019023,
       "last_funding_ms": 1794844800004
     },
     {
@@ -134,8 +134,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 23:15:00 MYT",
-      "last_check_ms": 1794853039776,
-      "last_price": 0.2475,
+      "last_check_ms": 1794853309100,
+      "last_price": 0.2489,
       "last_funding_ms": 1794844800004
     },
     {
@@ -177,9 +177,9 @@
       "trail_armed": true,
       "targets": [],
       "exit_deadline": "2026-11-18 00:00:00 MYT",
-      "last_check_ms": 1794853039993,
+      "last_check_ms": 1794853309510,
       "last_funding_ms": 1794844800004,
-      "last_price": 2.518,
+      "last_price": 2.546,
       "_last_logged_stop": 2.50742503227466
     },
     {
@@ -221,8 +221,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 01:30:00 MYT",
-      "last_check_ms": 1794853040206,
-      "last_price": 158.17
+      "last_check_ms": 1794853309952,
+      "last_price": 158.63
     },
     {
       "id": "FHF-20261117-0215-SPACEUSDT",
@@ -250,21 +250,22 @@
       "margin": 4.5553133804999995,
       "liq_price": 0.00195217,
       "mmr": 0.015,
-      "stop": 0.003650088684866625,
+      "stop": 0.004049319684866624,
       "initial_stop": 0.003650088684866625,
       "R": 0.00019568031513337493,
       "stop_pct": 5.088,
       "risk_usdt": 0.4724455099786897,
       "entry_fee": 0.0045553133805,
       "funding": 0.0,
-      "best": 0.003939,
-      "high_since_entry": 0.003939,
+      "best": 0.004245,
+      "high_since_entry": 0.004245,
       "low_since_entry": 0.003836,
-      "trail_armed": false,
+      "trail_armed": true,
       "targets": [],
       "exit_deadline": "2026-11-18 02:15:00 MYT",
-      "last_check_ms": 1794853040419,
-      "last_price": 0.003899
+      "last_check_ms": 1794853310364,
+      "last_price": 0.004222,
+      "_last_logged_stop": 0.004049319684866624
     },
     {
       "id": "FHF-20261117-0215-ARIAUSDT",
@@ -300,13 +301,13 @@
       "entry_fee": 0.0030789240920000003,
       "funding": 0.0,
       "best": 0.18842,
-      "high_since_entry": 0.1997,
+      "high_since_entry": 0.20055,
       "low_since_entry": 0.18842,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 02:15:00 MYT",
-      "last_check_ms": 1794853040627,
-      "last_price": 0.1931
+      "last_check_ms": 1794853310956,
+      "last_price": 0.19866
     }
   ]
 }
