@@ -5,3 +5,5 @@
 {"time": "2026-11-16 22:45:22 MYT", "kind": "open", "symbol": "NEARUSDT", "vol_ratio": 11.05, "stop_pct": 3.34, "entry": 3.2326154999999996, "stop": 3.1247093414388045, "notional": 25.0, "risk": 0.884}
 {"time": "2026-11-16 22:45:22 MYT", "kind": "open", "symbol": "BTCUSDT", "vol_ratio": 4.22, "stop_pct": 1.6, "entry": 65324.025689999995, "stop": 64281.83221188598, "notional": 25.0, "risk": 0.448}
 {"time": "2026-11-16 23:10:31 MYT", "kind": "close", "symbol": "AAVEUSDT", "reason": "stop", "fill": 107.96192886584849, "net": -0.6491, "R": -1.02}
+{"time": "2026-11-16 23:24:48 MYT", "kind": "close", "symbol": "NEARUSDT", "reason": "stop", "fill": 3.123146986768085, "net": -0.8957, "R": -1.01}
+{"time": "2026-11-16 23:24:48 MYT", "kind": "close", "symbol": "BTCUSDT", "reason": "stop", "fill": 64249.69129578004, "net": -0.4607, "R": -1.03}

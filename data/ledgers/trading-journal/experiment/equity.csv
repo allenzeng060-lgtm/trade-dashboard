@@ -18,3 +18,5 @@ paper-experiment,2026-11-16 22:45:22 MYT,100.30,,0.00,,開倉 AAVEUSDT（exp-v2-
 paper-experiment,2026-11-16 22:45:22 MYT,100.26,,0.00,,開倉 NEARUSDT（exp-v2-auto）
 paper-experiment,2026-11-16 22:45:22 MYT,100.23,,0.00,,開倉 BTCUSDT（exp-v2-auto）
 paper-experiment,2026-11-16 23:10:31 MYT,98.47,,-0.65,,平倉 AAVEUSDT stop（exp-v2-auto）
+paper-experiment,2026-11-16 23:24:48 MYT,97.74,,-1.54,,平倉 NEARUSDT stop（exp-v2-auto）
+paper-experiment,2026-11-16 23:24:48 MYT,97.67,,-2.01,,平倉 BTCUSDT stop（exp-v2-auto）
