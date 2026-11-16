@@ -197,3 +197,5 @@
 2026-11-16 18:32:15,376 INFO decision open {"symbol": "XPLUSDT", "side": "BUY", "entry": 0.045079014, "stop": 0.04412011884221415, "qty": 470.0, "lev": 3, "liq": 0.03035624, "risk": 0.472}
 2026-11-16 18:32:17,820 INFO decision close {"symbol": "SPACEUSDT", "reason": "trail_stop", "fill": 0.004049509620929651, "net": 0.4733, "R": 1.0}
 2026-11-16 18:37:12,478 INFO decision close {"symbol": "ICPUSDT", "reason": "trail_stop", "fill": 2.506923547268205, "net": 0.4306, "R": 0.96}
+2026-11-16 18:47:04,743 INFO decision regime {"allow": "ANY", "btc_close": 64467.0, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+2026-11-16 18:47:14,579 INFO decision scan {"bar_close": "2026-11-17 02:45:00 MYT", "breakouts": 1, "vol_ok": 0, "allow": "ANY"}
