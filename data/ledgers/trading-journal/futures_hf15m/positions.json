@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 17:46:04 MYT",
-      "last_check_ms": 1794843058323,
-      "last_price": 0.01436,
+      "last_check_ms": 1794843343371,
+      "last_price": 0.01433,
       "last_funding_ms": 1794830400000
     },
     {
@@ -90,8 +90,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 19:00:00 MYT",
-      "last_check_ms": 1794843058567,
-      "last_price": 3848.28,
+      "last_check_ms": 1794843343662,
+      "last_price": 3849.63,
       "last_funding_ms": 1794830400000
     },
     {
@@ -133,8 +133,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 22:45:00 MYT",
-      "last_check_ms": 1794843058812,
-      "last_price": 0.018089
+      "last_check_ms": 1794843343946,
+      "last_price": 0.017733
     },
     {
       "id": "FHF-20261116-2315-JUPUSDT",
@@ -175,8 +175,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 23:15:00 MYT",
-      "last_check_ms": 1794843059056,
-      "last_price": 0.2475
+      "last_check_ms": 1794843344233,
+      "last_price": 0.2464
     },
     {
       "id": "FHF-20261116-2315-SOLUSDT",
@@ -212,13 +212,13 @@
       "entry_fee": 0.011585632410000003,
       "funding": 0.0,
       "best": 69.87,
-      "high_since_entry": 70.47,
+      "high_since_entry": 70.49,
       "low_since_entry": 69.87,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 23:15:00 MYT",
-      "last_check_ms": 1794843059299,
-      "last_price": 70.33
+      "last_check_ms": 1794843344533,
+      "last_price": 70.21
     },
     {
       "id": "FHF-20261116-2315-PUMPUSDT",
@@ -254,13 +254,13 @@
       "entry_fee": 0.0118820211204,
       "funding": 0.0,
       "best": 0.002768,
-      "high_since_entry": 0.002802,
+      "high_since_entry": 0.002807,
       "low_since_entry": 0.002768,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 23:15:00 MYT",
-      "last_check_ms": 1794843059540,
-      "last_price": 0.002794
+      "last_check_ms": 1794843344820,
+      "last_price": 0.002788
     },
     {
       "id": "FHF-20261116-2330-PIEVERSEUSDT",
@@ -297,12 +297,12 @@
       "funding": 0.0,
       "best": 2.0153,
       "high_since_entry": 2.0153,
-      "low_since_entry": 1.9937,
+      "low_since_entry": 1.99,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 23:30:00 MYT",
-      "last_check_ms": 1794843059780,
-      "last_price": 2.0061
+      "last_check_ms": 1794843345103,
+      "last_price": 1.9992
     }
   ]
 }
