@@ -279,3 +279,4 @@
 {"time": "2026-11-17 02:32:14 MYT", "kind": "skip", "symbol": "SPACEUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 10.8, "reason": "already holding"}
 {"time": "2026-11-17 02:32:15 MYT", "kind": "open", "symbol": "XPLUSDT", "side": "BUY", "entry": 0.045079014, "stop": 0.04412011884221415, "qty": 470.0, "lev": 3, "liq": 0.03035624, "risk": 0.472}
 {"time": "2026-11-17 02:32:17 MYT", "kind": "close", "symbol": "SPACEUSDT", "reason": "trail_stop", "fill": 0.004049509620929651, "net": 0.4733, "R": 1.0}
+{"time": "2026-11-17 02:37:12 MYT", "kind": "close", "symbol": "ICPUSDT", "reason": "trail_stop", "fill": 2.506923547268205, "net": 0.4306, "R": 0.96}

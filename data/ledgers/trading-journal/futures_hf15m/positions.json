@@ -5,7 +5,7 @@
   "rules": "hf-15m-v0.1",
   "cycle": 1,
   "start_equity_usdt": 100.0,
-  "wallet_usdt": 94.9649,
+  "wallet_usdt": 95.395538,
   "created": "2026-11-16 03:06:21 MYT",
   "positions": [
     {
@@ -47,8 +47,8 @@
       "trail_armed": true,
       "targets": [],
       "exit_deadline": "2026-11-17 17:46:04 MYT",
-      "last_check_ms": 1794853935377,
-      "last_price": 0.01543,
+      "last_check_ms": 1794854231534,
+      "last_price": 0.01542,
       "last_funding_ms": 1794844800004,
       "_last_logged_stop": 0.014471025298509714
     },
@@ -91,8 +91,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 22:45:00 MYT",
-      "last_check_ms": 1794853935695,
-      "last_price": 0.018873,
+      "last_check_ms": 1794854231770,
+      "last_price": 0.018932,
       "last_funding_ms": 1794844800004
     },
     {
@@ -134,53 +134,9 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 23:15:00 MYT",
-      "last_check_ms": 1794853936280,
-      "last_price": 0.2498,
+      "last_check_ms": 1794854232003,
+      "last_price": 0.2493,
       "last_funding_ms": 1794844800004
-    },
-    {
-      "id": "FHF-20261117-0000-ICPUSDT",
-      "symbol": "ICPUSDT",
-      "side": "BUY",
-      "rules": "hf-15m-v0.1",
-      "cycle": 1,
-      "slippage": 0.0002,
-      "mode": "paper",
-      "status": "open",
-      "group": "合約高頻組",
-      "market": "usdm_perp",
-      "margin_type": "isolated",
-      "signal_tf": "15m",
-      "signal_bar_close_myt": "2026-11-17 00:00:00 MYT",
-      "vol_ratio": 7.4,
-      "breakout_level": 2.439,
-      "entry_time": "2026-11-17 00:00:00 MYT",
-      "entry_ms": 1794844800000,
-      "entry_price": 2.4564912,
-      "qty": 9.0,
-      "remaining_qty": 9.0,
-      "notional": 22.108420799999998,
-      "leverage": 3,
-      "margin": 7.369473599999999,
-      "liq_price": 1.65420283,
-      "mmr": 0.01,
-      "stop": 2.50742503227466,
-      "initial_stop": 2.4089162322746596,
-      "R": 0.0475749677253405,
-      "stop_pct": 1.937,
-      "risk_usdt": 0.4500690429733004,
-      "entry_fee": 0.011054210399999998,
-      "funding": -0.0009174,
-      "best": 2.555,
-      "high_since_entry": 2.555,
-      "low_since_entry": 2.429,
-      "trail_armed": true,
-      "targets": [],
-      "exit_deadline": "2026-11-18 00:00:00 MYT",
-      "last_check_ms": 1794853936868,
-      "last_funding_ms": 1794844800004,
-      "last_price": 2.534,
-      "_last_logged_stop": 2.50742503227466
     },
     {
       "id": "FHF-20261117-0130-QNTUSDT",
@@ -217,12 +173,12 @@
       "funding": 0.0,
       "best": 159.45,
       "high_since_entry": 159.45,
-      "low_since_entry": 157.37,
+      "low_since_entry": 156.44,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 01:30:00 MYT",
-      "last_check_ms": 1794853937188,
-      "last_price": 157.72
+      "last_check_ms": 1794854232484,
+      "last_price": 156.45
     },
     {
       "id": "FHF-20261117-0215-ARIAUSDT",
@@ -263,8 +219,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 02:15:00 MYT",
-      "last_check_ms": 1794853937825,
-      "last_price": 0.19659
+      "last_check_ms": 1794854232714,
+      "last_price": 0.20063
     },
     {
       "id": "FHF-20261117-0230-XPLUSDT",
@@ -299,14 +255,14 @@
       "risk_usdt": 0.4716425203772688,
       "entry_fee": 0.01059356829,
       "funding": 0.0,
-      "best": 0.045079014,
-      "high_since_entry": 0.045079014,
-      "low_since_entry": 0.04491,
+      "best": 0.0451,
+      "high_since_entry": 0.0451,
+      "low_since_entry": 0.04477,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 02:30:00 MYT",
-      "last_check_ms": 1794853938142,
-      "last_price": 0.04503
+      "last_check_ms": 1794854232945,
+      "last_price": 0.04507
     }
   ]
 }
