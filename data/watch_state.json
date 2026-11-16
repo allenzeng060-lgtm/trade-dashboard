@@ -261,7 +261,27 @@
       "exit_deadline": "2026-11-18 07:15:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
+    },
+    {
+      "id": "FHF-20261117-0745-SPACEUSDT",
+      "symbol": "SPACEUSDT",
+      "side": "SELL",
+      "mode": "paper",
+      "status": "open",
+      "entry_price": 0.0037202558,
+      "entry_time": "2026-11-17 07:45:00 MYT",
+      "qty": 1697.0,
+      "remaining_qty": 1697.0,
+      "stop": 0.003999564321989963,
+      "initial_stop": 0.003999564321989963,
+      "R": 0.0002793085219899629,
+      "targets": [],
+      "high_since_entry": 0.003834,
+      "low_since_entry": 0.003691,
+      "exit_deadline": "2026-11-18 07:45:00 MYT",
+      "market": "usdm_perp",
+      "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-17 07:44:01 MYT"
+  "paper_updated_at": "2026-11-17 07:49:21 MYT"
 }
