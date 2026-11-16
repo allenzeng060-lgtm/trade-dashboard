@@ -1,0 +1,31 @@
+{
+  "mode": "shadow",
+  "writer": "github",
+  "lock_writer": "box",
+  "time": "2026-11-16 18:04:00 MYT",
+  "seconds": 35.95,
+  "root": "data-repo/data/shadow/ledgers",
+  "results": [
+    {
+      "set": "4h",
+      "rc": 0,
+      "seconds": 10.95
+    },
+    {
+      "set": "1h",
+      "rc": 0,
+      "seconds": 12.03
+    },
+    {
+      "set": "15m",
+      "rc": 0,
+      "seconds": 11.92
+    },
+    {
+      "set": "spot",
+      "rc": 0,
+      "seconds": 1.04
+    }
+  ],
+  "paper_only": true
+}

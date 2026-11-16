@@ -1,0 +1,728 @@
+{
+  "futures_quant": {
+    "group": "合約量化組",
+    "mode": "paper",
+    "rules": "v0.2",
+    "updated_at": "2026-11-16 18:01:58 MYT",
+    "wallet_usdt": 98.0049,
+    "unrealized_usdt": -1.02,
+    "equity_usdt": 96.9849,
+    "pnl_pct": -3.015,
+    "regime": {
+      "allow": "SELL",
+      "btc_close": 64995.12,
+      "ref": 67568.0,
+      "reason": "BTC 4h close 64995.12 < filter 67568 → shorts only"
+    },
+    "positions": [
+      {
+        "id": "FQ-20261115-0810-WIFUSDT",
+        "symbol": "WIFUSDT",
+        "side": "SELL",
+        "entry_time": "2026-11-15 08:10:23 MYT",
+        "entry_price": 0.1295,
+        "qty": 275.1,
+        "notional": 35.62545,
+        "leverage": 2,
+        "margin": 17.812725,
+        "liq_price": 0.19232673,
+        "stop": 0.1366359626962965,
+        "initial_stop": 0.1366359626962965,
+        "R": 0.007135962696296479,
+        "trail_armed": false,
+        "funding": -0.00387215,
+        "last_price": 0.1318,
+        "exit_deadline": "2026-11-22 08:10:23 MYT",
+        "signal_tf": "4h",
+        "vol_ratio": 4.75
+      },
+      {
+        "id": "FQ-20261115-0810-1000BONKUSDT",
+        "symbol": "1000BONKUSDT",
+        "side": "SELL",
+        "entry_time": "2026-11-15 08:10:23 MYT",
+        "entry_price": 0.002292,
+        "qty": 13157.0,
+        "notional": 30.155844000000002,
+        "leverage": 1,
+        "margin": 30.155844000000002,
+        "liq_price": 0.00453861,
+        "stop": 0.00244163818240286,
+        "initial_stop": 0.00244163818240286,
+        "R": 0.0001496381824028598,
+        "trail_armed": false,
+        "funding": -0.03355384,
+        "last_price": 0.002314,
+        "exit_deadline": "2026-11-22 08:10:23 MYT",
+        "signal_tf": "4h",
+        "vol_ratio": 4.67
+      }
+    ],
+    "last_scan": {
+      "time": "2026-11-16 17:11:56 MYT",
+      "bar_close": "2026-11-16 16:00:00 MYT",
+      "universe": 67,
+      "breakouts": [
+        {
+          "symbol": "EVAAUSDT",
+          "side": "BUY",
+          "tf": "4h",
+          "level": 2.8966,
+          "close": 2.9585,
+          "vol_ratio": 3.3056
+        }
+      ],
+      "regime": "SELL"
+    },
+    "equity_series": [
+      {
+        "t": "2026-11-15 07:40:15 MYT",
+        "equity": 100.0
+      },
+      {
+        "t": "2026-11-15 07:40:36 MYT",
+        "equity": 100.0
+      },
+      {
+        "t": "2026-11-15 08:10:23 MYT",
+        "equity": 99.9863
+      },
+      {
+        "t": "2026-11-15 08:10:23 MYT",
+        "equity": 99.9685
+      },
+      {
+        "t": "2026-11-15 08:10:23 MYT",
+        "equity": 99.9534
+      },
+      {
+        "t": "2026-11-15 09:10:47 MYT",
+        "equity": 101.7201
+      },
+      {
+        "t": "2026-11-15 11:26:38 MYT",
+        "equity": 97.0889
+      },
+      {
+        "t": "2026-11-15 13:14:30 MYT",
+        "equity": 97.2833
+      },
+      {
+        "t": "2026-11-15 15:14:50 MYT",
+        "equity": 96.5489
+      },
+      {
+        "t": "2026-11-15 15:18:39 MYT",
+        "equity": 96.3094
+      },
+      {
+        "t": "2026-11-15 17:07:21 MYT",
+        "equity": 95.4265
+      },
+      {
+        "t": "2026-11-15 18:14:53 MYT",
+        "equity": 94.8416
+      },
+      {
+        "t": "2026-11-15 19:37:40 MYT",
+        "equity": 95.1434
+      },
+      {
+        "t": "2026-11-15 21:11:11 MYT",
+        "equity": 94.8367
+      },
+      {
+        "t": "2026-11-16 01:11:44 MYT",
+        "equity": 96.0761
+      },
+      {
+        "t": "2026-11-16 02:31:57 MYT",
+        "equity": 96.5851
+      },
+      {
+        "t": "2026-11-16 05:10:36 MYT",
+        "equity": 95.4649
+      },
+      {
+        "t": "2026-11-16 07:12:07 MYT",
+        "equity": 95.6271
+      },
+      {
+        "t": "2026-11-16 09:07:06 MYT",
+        "equity": 96.6274
+      },
+      {
+        "t": "2026-11-16 11:05:36 MYT",
+        "equity": 96.0319
+      },
+      {
+        "t": "2026-11-16 13:11:02 MYT",
+        "equity": 96.83
+      },
+      {
+        "t": "2026-11-16 14:12:01 MYT",
+        "equity": 97.0636
+      },
+      {
+        "t": "2026-11-16 17:11:56 MYT",
+        "equity": 97.3342
+      }
+    ],
+    "recent_trades": [
+      {
+        "trade_id": "FQ-20261115-0810-ASTERUSDT",
+        "symbol": "ASTERUSDT",
+        "side": "SELL",
+        "signal_tf": "4h",
+        "entry_time_myt": "2026-11-15 08:10:23 MYT",
+        "entry_price": "0.4982",
+        "exit_time_myt": "2026-11-15 15:18:39 MYT",
+        "exit_price": "0.5339845298817029",
+        "exit_reason": "stop",
+        "leverage": "1",
+        "net_pnl": "-1.995091",
+        "R_multiple": "-0.999",
+        "funding": "0.001443",
+        "fees": "0.028385"
+      }
+    ],
+    "closed_trades": 1,
+    "win_rate": 0.0
+  },
+  "paper_sets": {
+    "futures_1h": {
+      "group": "合約1h組",
+      "rules": "v0.2-1h",
+      "updated_at": "2026-11-16 18:01:59 MYT",
+      "cycle": 1,
+      "refills": 0,
+      "wallet_usdt": 100.0,
+      "unrealized_usdt": 0.0563,
+      "equity_usdt": 100.0563,
+      "pnl_pct": 0.056,
+      "params": {
+        "tf": "1h",
+        "risk": 0.01,
+        "atr_mult": 2.0,
+        "max_pos": 5,
+        "max_same_dir": 2,
+        "expiry_days": 2,
+        "slip": 0.0002,
+        "regime": "spot_level"
+      },
+      "regime": {
+        "allow": "SELL",
+        "btc_close": 64995.12,
+        "ref": 67568.0,
+        "reason": "BTC 4h close 64995.12 < filter 67568 → shorts only"
+      },
+      "mode": "paper",
+      "positions": [
+        {
+          "id": "F1H-20261116-0906-TRXUSDT",
+          "symbol": "TRXUSDT",
+          "side": "SELL",
+          "entry_time": "2026-11-16 09:06:56 MYT",
+          "entry_price": 0.30284941800000004,
+          "qty": 198.0,
+          "notional": 59.96418476400001,
+          "leverage": 3,
+          "margin": 19.988061588000004,
+          "liq_price": 0.40119148,
+          "stop": 0.30534235547509,
+          "initial_stop": 0.30534235547509,
+          "R": 0.002492937475089962,
+          "trail_armed": false,
+          "funding": -0.02675331,
+          "last_price": 0.30229,
+          "exit_deadline": "2026-11-18 09:06:56 MYT",
+          "signal_tf": "1h",
+          "vol_ratio": 2.2
+        },
+        {
+          "id": "F1H-20261116-1801-JUPUSDT",
+          "symbol": "JUPUSDT",
+          "side": "SELL",
+          "entry_time": "2026-11-16 18:01:13 MYT",
+          "entry_price": 0.2519496,
+          "qty": 98.0,
+          "notional": 24.6910608,
+          "leverage": 2,
+          "margin": 12.3455304,
+          "liq_price": 0.37418257,
+          "stop": 0.2618740822918936,
+          "initial_stop": 0.2618740822918936,
+          "R": 0.00992448229189358,
+          "trail_armed": false,
+          "funding": 0.0,
+          "last_price": 0.2518,
+          "exit_deadline": "2026-11-18 18:01:13 MYT",
+          "signal_tf": "1h",
+          "vol_ratio": 2.96
+        }
+      ],
+      "recent_trades": []
+    },
+    "futures_hf15m": {
+      "group": "合約高頻組",
+      "rules": "hf-15m-v0.1",
+      "updated_at": "2026-11-16 18:01:58 MYT",
+      "cycle": 1,
+      "refills": 0,
+      "wallet_usdt": 96.9548,
+      "unrealized_usdt": 0.9349,
+      "equity_usdt": 97.8897,
+      "pnl_pct": -2.11,
+      "params": {
+        "tf": "15m",
+        "risk": 0.005,
+        "atr_mult": 1.5,
+        "max_pos": 12,
+        "max_same_dir": 6,
+        "expiry_days": 1,
+        "slip": 0.0002,
+        "regime": "none"
+      },
+      "regime": {
+        "allow": "ANY",
+        "btc_close": 64995.12,
+        "ref": 67568.0,
+        "reason": "both directions allowed (hf set; BTC filter only reported)"
+      },
+      "mode": "paper",
+      "positions": [
+        {
+          "id": "FHF-20261116-1715-MEGAUSDT",
+          "symbol": "MEGAUSDT",
+          "side": "BUY",
+          "entry_time": "2026-11-16 17:15:55 MYT",
+          "entry_price": 0.050370072,
+          "qty": 483.0,
+          "notional": 24.328744776,
+          "leverage": 3,
+          "margin": 8.109581592,
+          "liq_price": 0.03409142,
+          "stop": 0.04971975090703663,
+          "initial_stop": 0.04971975090703663,
+          "R": 0.0006503210929633691,
+          "trail_armed": false,
+          "funding": 0.0,
+          "last_price": 0.05044,
+          "exit_deadline": "2026-11-17 17:15:55 MYT",
+          "signal_tf": "15m",
+          "vol_ratio": 3.57
+        },
+        {
+          "id": "FHF-20261116-1715-XRPUSDT",
+          "symbol": "XRPUSDT",
+          "side": "SELL",
+          "entry_time": "2026-11-16 17:15:55 MYT",
+          "entry_price": 0.94261144,
+          "qty": 25.8,
+          "notional": 24.319375152,
+          "leverage": 3,
+          "margin": 8.106458384,
+          "liq_price": 1.25056244,
+          "stop": 0.9509309817093502,
+          "initial_stop": 0.9509309817093502,
+          "R": 0.008319541709350245,
+          "trail_armed": false,
+          "funding": 0.0,
+          "last_price": 0.945,
+          "exit_deadline": "2026-11-17 17:15:55 MYT",
+          "signal_tf": "15m",
+          "vol_ratio": 2.7
+        },
+        {
+          "id": "FHF-20261116-1715-ETHUSDT",
+          "symbol": "ETHUSDT",
+          "side": "SELL",
+          "entry_time": "2026-11-16 17:15:55 MYT",
+          "entry_price": 1791.461636,
+          "qty": 0.013000000000000001,
+          "notional": 23.289001268000003,
+          "leverage": 3,
+          "margin": 7.763000422666668,
+          "liq_price": 2379.09911819,
+          "stop": 1805.1337947746013,
+          "initial_stop": 1805.1337947746013,
+          "R": 13.67215877460136,
+          "trail_armed": false,
+          "funding": 0.0,
+          "last_price": 1798.08,
+          "exit_deadline": "2026-11-17 17:15:55 MYT",
+          "signal_tf": "15m",
+          "vol_ratio": 2.64
+        },
+        {
+          "id": "FHF-20261116-1715-EVAAUSDT",
+          "symbol": "EVAAUSDT",
+          "side": "BUY",
+          "entry_time": "2026-11-16 17:15:55 MYT",
+          "entry_price": 3.2463491399999995,
+          "qty": 2.6,
+          "notional": 8.440507764,
+          "leverage": 2,
+          "margin": 4.220253882,
+          "liq_price": 1.70860481,
+          "stop": 3.0640283119556164,
+          "initial_stop": 3.0640283119556164,
+          "R": 0.18232082804438296,
+          "trail_armed": false,
+          "funding": 0.0,
+          "last_price": 3.4872,
+          "exit_deadline": "2026-11-17 17:15:55 MYT",
+          "signal_tf": "15m",
+          "vol_ratio": 2.12
+        },
+        {
+          "id": "FHF-20261116-1715-XLMUSDT",
+          "symbol": "XLMUSDT",
+          "side": "SELL",
+          "entry_time": "2026-11-16 17:15:55 MYT",
+          "entry_price": 0.13667266,
+          "qty": 178.0,
+          "notional": 24.32773348,
+          "leverage": 3,
+          "margin": 8.109244493333334,
+          "liq_price": 0.18042595,
+          "stop": 0.13790086453983685,
+          "initial_stop": 0.13790086453983685,
+          "R": 0.0012282045398368411,
+          "trail_armed": false,
+          "funding": 0.0,
+          "last_price": 0.13719,
+          "exit_deadline": "2026-11-17 17:15:55 MYT",
+          "signal_tf": "15m",
+          "vol_ratio": 2.06
+        },
+        {
+          "id": "FHF-20261116-1746-BULLAUSDT",
+          "symbol": "BULLAUSDT",
+          "side": "BUY",
+          "entry_time": "2026-11-16 17:46:04 MYT",
+          "entry_price": 0.013212641999999998,
+          "qty": 432.0,
+          "notional": 5.7078613439999994,
+          "leverage": 1,
+          "margin": 5.7078613439999994,
+          "liq_price": 0.0,
+          "stop": 0.012103667298509712,
+          "initial_stop": 0.012103667298509712,
+          "R": 0.001108974701490287,
+          "trail_armed": false,
+          "funding": 0.0,
+          "last_price": 0.01395,
+          "exit_deadline": "2026-11-17 17:46:04 MYT",
+          "signal_tf": "15m",
+          "vol_ratio": 4.2
+        },
+        {
+          "id": "FHF-20261116-1746-SKRUSDT",
+          "symbol": "SKRUSDT",
+          "side": "SELL",
+          "entry_time": "2026-11-16 17:46:04 MYT",
+          "entry_price": 0.010804838600000002,
+          "qty": 853.0,
+          "notional": 9.216527325800001,
+          "leverage": 2,
+          "margin": 4.608263662900001,
+          "liq_price": 0.01581196,
+          "stop": 0.011361746492749505,
+          "initial_stop": 0.011361746492749505,
+          "R": 0.0005569078927495029,
+          "trail_armed": false,
+          "funding": 0.0,
+          "last_price": 0.010487,
+          "exit_deadline": "2026-11-17 17:46:04 MYT",
+          "signal_tf": "15m",
+          "vol_ratio": 2.58
+        }
+      ],
+      "recent_trades": [
+        {
+          "trade_id": "FHF-20261116-0721-PAXGUSDT",
+          "symbol": "PAXGUSDT",
+          "side": "BUY",
+          "entry_time_myt": "2026-11-16 07:21:37 MYT",
+          "entry_price": "3865.1028659999997",
+          "exit_time_myt": "2026-11-16 09:06:39 MYT",
+          "exit_price": "3854.918862",
+          "exit_reason": "trail_stop",
+          "leverage": "3",
+          "net_pnl": "-0.085072",
+          "R_multiple": "-1.014",
+          "fees": "0.02316"
+        },
+        {
+          "trade_id": "FHF-20261116-0721-XAUTUSDT",
+          "symbol": "XAUTUSDT",
+          "side": "BUY",
+          "entry_time_myt": "2026-11-16 07:21:37 MYT",
+          "entry_price": "3861.442134",
+          "exit_time_myt": "2026-11-16 09:06:39 MYT",
+          "exit_price": "3850.524443276024",
+          "exit_reason": "stop",
+          "leverage": "3",
+          "net_pnl": "-0.089806",
+          "R_multiple": "-1.069",
+          "fees": "0.023136"
+        },
+        {
+          "trade_id": "FHF-20261116-0915-NIGHTUSDT",
+          "symbol": "NIGHTUSDT",
+          "side": "SELL",
+          "entry_time_myt": "2026-11-16 09:15:54 MYT",
+          "entry_price": "0.047920414",
+          "exit_time_myt": "2026-11-16 13:10:48 MYT",
+          "exit_price": "0.04689516228729278",
+          "exit_reason": "trail_stop",
+          "leverage": "3",
+          "net_pnl": "0.506309",
+          "R_multiple": "1.065",
+          "fees": "0.024652"
+        },
+        {
+          "trade_id": "FHF-20261116-1105-AGTUSDT",
+          "symbol": "AGTUSDT",
+          "side": "SELL",
+          "entry_time_myt": "2026-11-16 11:05:49 MYT",
+          "entry_price": "0.027624474",
+          "exit_time_myt": "2026-11-16 13:10:48 MYT",
+          "exit_price": "0.028764026029697905",
+          "exit_reason": "stop",
+          "leverage": "2",
+          "net_pnl": "-0.500367",
+          "R_multiple": "-1.004",
+          "fees": "0.012095"
+        },
+        {
+          "trade_id": "FHF-20261116-1147-SKRUSDT",
+          "symbol": "SKRUSDT",
+          "side": "BUY",
+          "entry_time_myt": "2026-11-16 11:47:26 MYT",
+          "entry_price": "0.0119483892",
+          "exit_time_myt": "2026-11-16 13:10:49 MYT",
+          "exit_price": "0.011311329928880296",
+          "exit_reason": "stop",
+          "leverage": "2",
+          "net_pnl": "-0.377669",
+          "R_multiple": "-0.757",
+          "fees": "0.008978"
+        },
+        {
+          "trade_id": "FHF-20261116-1316-RAREUSDT",
+          "symbol": "RAREUSDT",
+          "side": "BUY",
+          "entry_time_myt": "2026-11-16 13:16:03 MYT",
+          "entry_price": "0.014382876",
+          "exit_time_myt": "2026-11-16 14:10:00 MYT",
+          "exit_price": "0.013203338460045256",
+          "exit_reason": "stop",
+          "leverage": "1",
+          "net_pnl": "-0.497619",
+          "R_multiple": "-1.002",
+          "fees": "0.005752"
+        },
+        {
+          "trade_id": "FHF-20261116-1505-SHELLUSDT",
+          "symbol": "SHELLUSDT",
+          "side": "BUY",
+          "entry_time_myt": "2026-11-16 15:05:03 MYT",
+          "entry_price": "0.028965792",
+          "exit_time_myt": "2026-11-16 17:11:40 MYT",
+          "exit_price": "0.026534692000000002",
+          "exit_reason": "stop",
+          "leverage": "2",
+          "net_pnl": "-1.043384",
+          "R_multiple": "-2.11",
+          "fees": "0.011794"
+        },
+        {
+          "trade_id": "FHF-20261116-1505-TACUSDT",
+          "symbol": "TACUSDT",
+          "side": "SELL",
+          "entry_time_myt": "2026-11-16 15:05:03 MYT",
+          "entry_price": "0.0012977403999999998",
+          "exit_time_myt": "2026-11-16 17:11:40 MYT",
+          "exit_price": "0.001383337179787415",
+          "exit_reason": "stop",
+          "leverage": "1",
+          "net_pnl": "-0.493837",
+          "R_multiple": "-0.998",
+          "fees": "0.007653"
+        },
+        {
+          "trade_id": "FHF-20261116-1715-HBARUSDT",
+          "symbol": "HBARUSDT",
+          "side": "SELL",
+          "entry_time_myt": "2026-11-16 17:15:55 MYT",
+          "entry_price": "0.057568484",
+          "exit_time_myt": "2026-11-16 17:43:47 MYT",
+          "exit_price": "0.05803954178752864",
+          "exit_reason": "stop",
+          "leverage": "3",
+          "net_pnl": "-0.223709",
+          "R_multiple": "-1.022",
+          "fees": "0.024451"
+        },
+        {
+          "trade_id": "FHF-20261116-1715-AAVEUSDT",
+          "symbol": "AAVEUSDT",
+          "side": "SELL",
+          "entry_time_myt": "2026-11-16 17:15:55 MYT",
+          "entry_price": "107.948406",
+          "exit_time_myt": "2026-11-16 17:43:48 MYT",
+          "exit_price": "109.04004063287114",
+          "exit_reason": "stop",
+          "leverage": "3",
+          "net_pnl": "-0.240026",
+          "R_multiple": "-1.019",
+          "fees": "0.021699"
+        }
+      ]
+    },
+    "spot_experiment": {
+      "group": "現貨實驗組",
+      "rules": "exp-v2-auto",
+      "updated_at": "2026-11-16 18:01:55 MYT",
+      "cycle": 1,
+      "refills": 0,
+      "wallet_usdt": 100.0,
+      "unrealized_usdt": -0.2159,
+      "equity_usdt": 99.7841,
+      "pnl_pct": null,
+      "params": null,
+      "regime": null,
+      "mode": "paper",
+      "positions": [
+        {
+          "id": "SX-20261116-0915-MSTRBUSDT",
+          "symbol": "MSTRBUSDT",
+          "entry_time": "2026-11-16 09:15:41 MYT",
+          "entry_price": 103.721835,
+          "qty": 0.2410292876133555,
+          "notional": 25.0,
+          "stop": 101.81398051600372,
+          "initial_stop": 101.81398051600372,
+          "trail_armed": false,
+          "last_price": 102.93,
+          "exit_deadline": "2026-11-17 09:15:41 MYT"
+        }
+      ],
+      "recent_trades": []
+    }
+  },
+  "lifetime_stats": {
+    "updated_at": "2026-11-16 18:04:00 MYT",
+    "mode": "paper",
+    "note": "累計統計（不因補充本金重置）。gross_profit=獲利單淨損益合計，gross_loss=虧損單淨損益合計，皆已扣手續費。",
+    "groups": {
+      "spot_formal": {
+        "label": "現貨正式組",
+        "trades": 1,
+        "wins": 0,
+        "losses": 1,
+        "win_rate_pct": 0.0,
+        "gross_profit_usdt": 0,
+        "gross_loss_usdt": -1.22,
+        "net_pnl_usdt": -1.22,
+        "profit_factor": 0.0,
+        "fees_paid_usdt": 0.0388,
+        "funding_usdt": 0.0,
+        "refills": 0,
+        "capital_injected_usdt": 100.0,
+        "current_cycle": 1,
+        "ledger": "data-repo/data/shadow/ledgers/trading-journal/trades.csv"
+      },
+      "spot_experiment": {
+        "label": "現貨實驗組",
+        "trades": 0,
+        "wins": 0,
+        "losses": 0,
+        "win_rate_pct": null,
+        "gross_profit_usdt": 0,
+        "gross_loss_usdt": 0,
+        "net_pnl_usdt": 0,
+        "profit_factor": null,
+        "fees_paid_usdt": 0,
+        "funding_usdt": 0,
+        "refills": 0,
+        "capital_injected_usdt": 100.0,
+        "current_cycle": 1,
+        "ledger": "data-repo/data/shadow/ledgers/trading-journal/experiment/trades.csv",
+        "current_equity_usdt": 99.7841
+      },
+      "futures_4h": {
+        "label": "合約量化組（4h）",
+        "trades": 1,
+        "wins": 0,
+        "losses": 1,
+        "win_rate_pct": 0.0,
+        "gross_profit_usdt": 0,
+        "gross_loss_usdt": -1.9951,
+        "net_pnl_usdt": -1.9951,
+        "profit_factor": 0.0,
+        "fees_paid_usdt": 0.0284,
+        "funding_usdt": 0.0014,
+        "refills": 0,
+        "capital_injected_usdt": 100.0,
+        "current_cycle": 1,
+        "ledger": "data-repo/data/shadow/ledgers/trading-journal/futures/trades.csv",
+        "current_equity_usdt": 96.9849
+      },
+      "futures_1h": {
+        "label": "合約1h組",
+        "trades": 0,
+        "wins": 0,
+        "losses": 0,
+        "win_rate_pct": null,
+        "gross_profit_usdt": 0,
+        "gross_loss_usdt": 0,
+        "net_pnl_usdt": 0,
+        "profit_factor": null,
+        "fees_paid_usdt": 0,
+        "funding_usdt": 0,
+        "refills": 0,
+        "capital_injected_usdt": 100.0,
+        "current_cycle": 1,
+        "ledger": "data-repo/data/shadow/ledgers/trading-journal/futures_1h/trades.csv",
+        "current_equity_usdt": 100.0563
+      },
+      "futures_hf15m": {
+        "label": "合約高頻組（15m）",
+        "trades": 10,
+        "wins": 1,
+        "losses": 9,
+        "win_rate_pct": 10.0,
+        "gross_profit_usdt": 0.5063,
+        "gross_loss_usdt": -3.5515,
+        "net_pnl_usdt": -3.0452,
+        "profit_factor": 0.143,
+        "fees_paid_usdt": 0.1634,
+        "funding_usdt": 0.1237,
+        "refills": 0,
+        "capital_injected_usdt": 100.0,
+        "current_cycle": 1,
+        "ledger": "data-repo/data/shadow/ledgers/trading-journal/futures_hf15m/trades.csv",
+        "current_equity_usdt": 97.8897
+      }
+    },
+    "total": {
+      "trades": 12,
+      "wins": 1,
+      "losses": 11,
+      "win_rate_pct": 8.3,
+      "gross_profit_usdt": 0.5063,
+      "gross_loss_usdt": -6.7666,
+      "net_pnl_usdt": -6.2603,
+      "profit_factor": 0.075,
+      "fees_paid_usdt": 0.2306,
+      "funding_usdt": 0.1251,
+      "refills": 0,
+      "capital_injected_usdt": 500.0
+    }
+  },
+  "paper_updated_at": "2026-11-16 18:04:00 MYT",
+  "paper_writer": "box"
+}
