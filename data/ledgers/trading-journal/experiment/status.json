@@ -2,14 +2,14 @@
  "group": "現貨實驗組",
  "rules": "exp-v2-auto",
  "mode": "paper",
- "updated_at": "2026-11-17 00:41:12 MYT",
+ "updated_at": "2026-11-17 00:51:30 MYT",
  "cycle": 1,
  "refills": 0,
  "wallet_usdt": 97.4728,
- "unrealized_usdt": 1.0473,
- "equity_usdt": 98.5201,
+ "unrealized_usdt": 1.0222,
+ "equity_usdt": 98.495,
  "no_entry_window": false,
- "candidates_1h": 2,
+ "candidates_1h": 1,
  "positions": [
   {
    "id": "SX-20261117-0001-HUMAUSDT",
@@ -21,7 +21,7 @@
    "stop": 0.007335289148096464,
    "initial_stop": 0.007335289148096464,
    "trail_armed": false,
-   "last_price": 0.00901,
+   "last_price": 0.0089,
    "exit_deadline": "2026-11-18 00:01:42 MYT"
   },
   {
@@ -34,7 +34,7 @@
    "stop": 2.366990575767391,
    "initial_stop": 2.366990575767391,
    "trail_armed": false,
-   "last_price": 2.462,
+   "last_price": 2.473,
    "exit_deadline": "2026-11-18 00:01:42 MYT"
   }
  ]
