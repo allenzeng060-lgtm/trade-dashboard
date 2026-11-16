@@ -276,3 +276,4 @@
 2026-11-16 23:19:07,807 INFO decision open {"symbol": "ICPUSDT", "side": "SELL", "entry": 2.4775044000000004, "stop": 2.5240904855705626, "qty": 9.0, "lev": 3, "liq": 3.27063287, "risk": 0.442}
 2026-11-16 23:34:00,279 INFO decision regime {"allow": "ANY", "btc_close": 65068.01, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
 2026-11-16 23:34:15,113 INFO decision scan {"bar_close": "2026-11-17 07:30:00 MYT", "breakouts": 4, "vol_ok": 0, "allow": "ANY"}
+2026-11-16 23:38:55,925 INFO decision trail_update {"symbol": "JUPUSDT", "stop": 0.2436544026199497, "best": 0.2393}
