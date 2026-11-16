@@ -85,3 +85,6 @@
 {"time": "2026-11-17 06:03:41 MYT", "kind": "scan", "bar_close": "2026-11-17 06:00:00 MYT", "breakouts": 2, "vol_ok": 2, "allow": "SELL"}
 {"time": "2026-11-17 06:03:41 MYT", "kind": "skip", "symbol": "CROSSUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 7.07, "reason": "direction filter: BTC 4h close 65068.01 < filter 67568 → shorts only"}
 {"time": "2026-11-17 06:03:41 MYT", "kind": "skip", "symbol": "HYPEUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 2.12, "reason": "direction filter: BTC 4h close 65068.01 < filter 67568 → shorts only"}
+{"time": "2026-11-17 07:03:55 MYT", "kind": "regime", "allow": "SELL", "btc_close": 65068.01, "ref": 67568.0, "new_low": false, "reason": "BTC 4h close 65068.01 < filter 67568 → shorts only"}
+{"time": "2026-11-17 07:04:06 MYT", "kind": "scan", "bar_close": "2026-11-17 07:00:00 MYT", "breakouts": 6, "vol_ok": 1, "allow": "SELL"}
+{"time": "2026-11-17 07:04:07 MYT", "kind": "skip", "symbol": "AIOTUSDT", "side": "SELL", "tf": "1h", "vol_ratio": 2.0, "reason": "stop distance 23.13% > 10%"}

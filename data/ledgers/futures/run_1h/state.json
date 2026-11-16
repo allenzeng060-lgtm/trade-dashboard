@@ -8,29 +8,61 @@
     "reason": "BTC 4h close 65068.01 < filter 67568 → shorts only"
   },
   "last_scan": {
-    "time": "2026-11-17 06:03:41 MYT",
-    "bar_close": "2026-11-17 06:00:00 MYT",
+    "time": "2026-11-17 07:04:06 MYT",
+    "bar_close": "2026-11-17 07:00:00 MYT",
     "universe": 71,
     "breakouts": [
       {
-        "symbol": "HYPEUSDT",
-        "side": "BUY",
+        "symbol": "ARBUSDT",
+        "side": "SELL",
         "tf": "1h",
-        "level": 69.248,
-        "close": 70.13,
-        "vol_ratio": 2.1159
+        "level": 0.1309,
+        "close": 0.1304,
+        "vol_ratio": 0.4124
       },
       {
-        "symbol": "CROSSUSDT",
+        "symbol": "JUPUSDT",
+        "side": "SELL",
+        "tf": "1h",
+        "level": 0.2446,
+        "close": 0.2425,
+        "vol_ratio": 1.0942
+      },
+      {
+        "symbol": "SHELLUSDT",
+        "side": "SELL",
+        "tf": "1h",
+        "level": 0.0257,
+        "close": 0.0257,
+        "vol_ratio": 0.1673
+      },
+      {
+        "symbol": "AIOTUSDT",
+        "side": "SELL",
+        "tf": "1h",
+        "level": 0.0753,
+        "close": 0.0737,
+        "vol_ratio": 2.0011
+      },
+      {
+        "symbol": "TACUSDT",
+        "side": "SELL",
+        "tf": "1h",
+        "level": 0.0012,
+        "close": 0.0012,
+        "vol_ratio": 0.4583
+      },
+      {
+        "symbol": "LITUSDT",
         "side": "BUY",
         "tf": "1h",
-        "level": 0.144,
-        "close": 0.1452,
-        "vol_ratio": 7.0733
+        "level": 2.8187,
+        "close": 2.9034,
+        "vol_ratio": 1.7921
       }
     ],
     "regime": "SELL"
   },
-  "last_scan_bar_ms": 1794866400000,
+  "last_scan_bar_ms": 1794870000000,
   "last_equity_ts": 1794868411.2004595
 }

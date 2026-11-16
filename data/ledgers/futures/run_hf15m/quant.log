@@ -268,3 +268,6 @@
 2026-11-16 22:33:47,553 INFO decision scan {"bar_close": "2026-11-17 06:30:00 MYT", "breakouts": 3, "vol_ok": 0, "allow": "ANY"}
 2026-11-16 22:48:40,428 INFO decision regime {"allow": "ANY", "btc_close": 65068.01, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
 2026-11-16 22:48:48,439 INFO decision scan {"bar_close": "2026-11-17 06:45:00 MYT", "breakouts": 2, "vol_ok": 0, "allow": "ANY"}
+2026-11-16 23:04:08,975 INFO decision funding {"symbol": "HUMAUSDT", "rate": "-0.00125313", "amount": 0.011395, "at": "2026-11-17 07:00:00 MYT"}
+2026-11-16 23:04:10,321 INFO decision regime {"allow": "ANY", "btc_close": 65068.01, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+2026-11-16 23:04:21,087 INFO decision scan {"bar_close": "2026-11-17 07:00:00 MYT", "breakouts": 5, "vol_ok": 0, "allow": "ANY"}
