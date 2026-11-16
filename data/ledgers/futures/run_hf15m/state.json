@@ -8,37 +8,45 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-17 06:03:54 MYT",
-    "bar_close": "2026-11-17 06:00:00 MYT",
+    "time": "2026-11-17 06:18:42 MYT",
+    "bar_close": "2026-11-17 06:15:00 MYT",
     "universe": 71,
     "breakouts": [
       {
-        "symbol": "TRXUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 0.3053,
-        "close": 0.3052,
-        "vol_ratio": 0.4683
-      },
-      {
-        "symbol": "VVVUSDT",
+        "symbol": "BTCUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 20.554,
-        "close": 20.651,
-        "vol_ratio": 1.2093
+        "level": 65388.0,
+        "close": 65419.6,
+        "vol_ratio": 0.7803
       },
       {
-        "symbol": "HYPEUSDT",
+        "symbol": "BCHUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 69.958,
-        "close": 70.13,
-        "vol_ratio": 4.2753
+        "level": 210.06,
+        "close": 210.24,
+        "vol_ratio": 0.8888
+      },
+      {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 595.12,
+        "close": 595.19,
+        "vol_ratio": 0.587
+      },
+      {
+        "symbol": "CROSSUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.1458,
+        "close": 0.1469,
+        "vol_ratio": 1.994
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794866400000,
+  "last_scan_bar_ms": 1794867300000,
   "last_equity_ts": 1794866635.8492095
 }
