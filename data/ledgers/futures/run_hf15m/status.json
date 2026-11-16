@@ -3,7 +3,7 @@
   "set": "15m",
   "mode": "paper",
   "rules": "hf-15m-v0.1",
-  "updated_at": "2026-11-17 01:11:21 MYT",
+  "updated_at": "2026-11-17 01:16:37 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -16,10 +16,10 @@
     "slip": 0.0002,
     "regime": "none"
   },
-  "wallet_usdt": 93.7201,
-  "unrealized_usdt": 2.2891,
-  "equity_usdt": 96.0092,
-  "pnl_pct": -3.991,
+  "wallet_usdt": 94.4916,
+  "unrealized_usdt": 1.181,
+  "equity_usdt": 95.6726,
+  "pnl_pct": -4.327,
   "regime": {
     "allow": "ANY",
     "btc_close": 64467.0,
@@ -27,27 +27,10 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-17 01:01:57 MYT",
-    "bar_close": "2026-11-17 01:00:00 MYT",
+    "time": "2026-11-17 01:16:35 MYT",
+    "bar_close": "2026-11-17 01:15:00 MYT",
     "universe": 70,
-    "breakouts": [
-      {
-        "symbol": "TRXUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 0.3065,
-        "close": 0.3066,
-        "vol_ratio": 1.1317
-      },
-      {
-        "symbol": "ICPUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 2.497,
-        "close": 2.51,
-        "vol_ratio": 4.2102
-      }
-    ],
+    "breakouts": [],
     "regime": "ANY"
   },
   "positions": [
@@ -67,7 +50,7 @@
       "R": 0.001108974701490287,
       "trail_armed": false,
       "funding": -0.00140844,
-      "last_price": 0.01419,
+      "last_price": 0.01418,
       "exit_deadline": "2026-11-17 17:46:04 MYT",
       "signal_tf": "15m",
       "vol_ratio": 4.2
@@ -88,7 +71,7 @@
       "R": 0.0013959969224845614,
       "trail_armed": false,
       "funding": -0.00487017,
-      "last_price": 0.019366,
+      "last_price": 0.019236,
       "exit_deadline": "2026-11-17 22:45:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 9.23
@@ -109,31 +92,10 @@
       "R": 0.004354402619949679,
       "trail_armed": false,
       "funding": -0.00449704,
-      "last_price": 0.2515,
+      "last_price": 0.2514,
       "exit_deadline": "2026-11-17 23:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 5.94
-    },
-    {
-      "id": "FHF-20261116-2330-PIEVERSEUSDT",
-      "symbol": "PIEVERSEUSDT",
-      "side": "BUY",
-      "entry_time": "2026-11-16 23:30:00 MYT",
-      "entry_price": 1.99549902,
-      "qty": 10.0,
-      "notional": 19.9549902,
-      "leverage": 3,
-      "margin": 6.6516634,
-      "liq_price": 1.36444377,
-      "stop": 2.0752678841674363,
-      "initial_stop": 1.9531669041674367,
-      "R": 0.04233211583256344,
-      "trail_armed": true,
-      "funding": -0.00170706,
-      "last_price": 2.0871,
-      "exit_deadline": "2026-11-17 23:30:00 MYT",
-      "signal_tf": "15m",
-      "vol_ratio": 2.47
     },
     {
       "id": "FHF-20261117-0000-ICPUSDT",
@@ -151,7 +113,7 @@
       "R": 0.0475749677253405,
       "trail_armed": false,
       "funding": -0.0009174,
-      "last_price": 2.51,
+      "last_price": 2.494,
       "exit_deadline": "2026-11-18 00:00:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 7.4
