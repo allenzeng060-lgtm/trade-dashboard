@@ -3,7 +3,7 @@
   "set": "15m",
   "mode": "paper",
   "rules": "hf-15m-v0.1",
-  "updated_at": "2026-11-17 00:01:40 MYT",
+  "updated_at": "2026-11-17 00:05:55 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -16,10 +16,10 @@
     "slip": 0.0002,
     "regime": "none"
   },
-  "wallet_usdt": 94.9669,
-  "unrealized_usdt": 0.8864,
-  "equity_usdt": 95.8533,
-  "pnl_pct": -4.147,
+  "wallet_usdt": 94.5147,
+  "unrealized_usdt": 1.034,
+  "equity_usdt": 95.5487,
+  "pnl_pct": -4.451,
   "regime": {
     "allow": "ANY",
     "btc_close": 64467.0,
@@ -75,7 +75,7 @@
       "R": 0.001108974701490287,
       "trail_armed": false,
       "funding": -0.00140844,
-      "last_price": 0.01442,
+      "last_price": 0.01463,
       "exit_deadline": "2026-11-17 17:46:04 MYT",
       "signal_tf": "15m",
       "vol_ratio": 4.2
@@ -96,7 +96,7 @@
       "R": 0.0013959969224845614,
       "trail_armed": false,
       "funding": -0.00487017,
-      "last_price": 0.018867,
+      "last_price": 0.018466,
       "exit_deadline": "2026-11-17 22:45:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 9.23
@@ -117,7 +117,7 @@
       "R": 0.004354402619949679,
       "trail_armed": false,
       "funding": -0.00449704,
-      "last_price": 0.2478,
+      "last_price": 0.2463,
       "exit_deadline": "2026-11-17 23:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 5.94
@@ -138,31 +138,10 @@
       "R": 0.9543417266044747,
       "trail_armed": false,
       "funding": -0.00079183,
-      "last_price": 70.78,
+      "last_price": 70.52,
       "exit_deadline": "2026-11-17 23:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 5.11
-    },
-    {
-      "id": "FHF-20261116-2315-PUMPUSDT",
-      "symbol": "PUMPUSDT",
-      "side": "SELL",
-      "entry_time": "2026-11-16 23:15:00 MYT",
-      "entry_price": 0.0027954408,
-      "qty": 8501.0,
-      "notional": 23.7640422408,
-      "leverage": 3,
-      "margin": 7.9213474135999995,
-      "liq_price": 0.00369035,
-      "stop": 0.00284524625264908,
-      "initial_stop": 0.00284524625264908,
-      "R": 4.98054526490799e-05,
-      "trail_armed": false,
-      "funding": -3.173e-05,
-      "last_price": 0.002833,
-      "exit_deadline": "2026-11-17 23:15:00 MYT",
-      "signal_tf": "15m",
-      "vol_ratio": 3.79
     },
     {
       "id": "FHF-20261116-2330-PIEVERSEUSDT",
@@ -180,7 +159,7 @@
       "R": 0.04233211583256344,
       "trail_armed": false,
       "funding": -0.00170706,
-      "last_price": 2.0055,
+      "last_price": 2.0025,
       "exit_deadline": "2026-11-17 23:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.47
@@ -201,7 +180,7 @@
       "R": 0.0475749677253405,
       "trail_armed": false,
       "funding": -0.0009174,
-      "last_price": 2.474,
+      "last_price": 2.439,
       "exit_deadline": "2026-11-18 00:00:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 7.4

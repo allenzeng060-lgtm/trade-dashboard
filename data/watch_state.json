@@ -215,28 +215,8 @@
       "initial_stop": 71.17029572660448,
       "R": 0.9543417266044747,
       "targets": [],
-      "high_since_entry": 70.95,
+      "high_since_entry": 70.98,
       "low_since_entry": 69.87,
-      "exit_deadline": "2026-11-17 23:15:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
-      "id": "FHF-20261116-2315-PUMPUSDT",
-      "symbol": "PUMPUSDT",
-      "side": "SELL",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 0.0027954408,
-      "entry_time": "2026-11-16 23:15:00 MYT",
-      "qty": 8501.0,
-      "remaining_qty": 8501.0,
-      "stop": 0.00284524625264908,
-      "initial_stop": 0.00284524625264908,
-      "R": 4.98054526490799e-05,
-      "targets": [],
-      "high_since_entry": 0.002838,
-      "low_since_entry": 0.002768,
       "exit_deadline": "2026-11-17 23:15:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
@@ -275,12 +255,12 @@
       "initial_stop": 2.4089162322746596,
       "R": 0.0475749677253405,
       "targets": [],
-      "high_since_entry": 2.48,
-      "low_since_entry": 2.455,
+      "high_since_entry": 2.497,
+      "low_since_entry": 2.437,
       "exit_deadline": "2026-11-18 00:00:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-17 00:01:42 MYT"
+  "paper_updated_at": "2026-11-17 00:05:56 MYT"
 }
