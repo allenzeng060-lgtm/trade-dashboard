@@ -3,7 +3,7 @@
   "set": "15m",
   "mode": "paper",
   "rules": "hf-15m-v0.1",
-  "updated_at": "2026-11-16 19:14:01 MYT",
+  "updated_at": "2026-11-16 19:19:19 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -17,9 +17,9 @@
     "regime": "none"
   },
   "wallet_usdt": 97.2232,
-  "unrealized_usdt": 0.4849,
-  "equity_usdt": 97.7081,
-  "pnl_pct": -2.292,
+  "unrealized_usdt": 0.4399,
+  "equity_usdt": 97.6631,
+  "pnl_pct": -2.337,
   "regime": {
     "allow": "ANY",
     "btc_close": 64995.12,
@@ -27,73 +27,41 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-16 19:04:13 MYT",
-    "bar_close": "2026-11-16 19:00:00 MYT",
-    "universe": 69,
+    "time": "2026-11-16 19:19:18 MYT",
+    "bar_close": "2026-11-16 19:15:00 MYT",
+    "universe": 68,
     "breakouts": [
       {
         "symbol": "TRXUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.3032,
-        "close": 0.3034,
-        "vol_ratio": 1.1947
+        "level": 0.3034,
+        "close": 0.3039,
+        "vol_ratio": 1.3189
       },
       {
-        "symbol": "SOLUSDT",
+        "symbol": "DOTUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 71.55,
-        "close": 71.62,
-        "vol_ratio": 0.8328
+        "level": 0.7297,
+        "close": 0.7307,
+        "vol_ratio": 1.2475
       },
       {
-        "symbol": "ARBUSDT",
+        "symbol": "PENGUUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.134,
-        "close": 0.1342,
-        "vol_ratio": 1.5263
+        "level": 0.0049,
+        "close": 0.0049,
+        "vol_ratio": 0.65
       },
       {
-        "symbol": "1000PEPEUSDT",
+        "symbol": "PIEVERSEUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.0038,
-        "close": 0.0038,
-        "vol_ratio": 1.9269
-      },
-      {
-        "symbol": "PAXGUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 3855.78,
-        "close": 3858.94,
-        "vol_ratio": 1.1104
-      },
-      {
-        "symbol": "HYPEUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 67.452,
-        "close": 67.51,
-        "vol_ratio": 0.9575
-      },
-      {
-        "symbol": "AKEUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 0.0113,
-        "close": 0.0114,
-        "vol_ratio": 1.2216
-      },
-      {
-        "symbol": "XAUTUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 3853.41,
-        "close": 3857.57,
-        "vol_ratio": 4.4431
+        "level": 1.9121,
+        "close": 1.9246,
+        "vol_ratio": 1.1023
       }
     ],
     "regime": "ANY"
@@ -115,7 +83,7 @@
       "R": 0.0006503210929633691,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 0.05048,
+      "last_price": 0.05042,
       "exit_deadline": "2026-11-17 17:15:55 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.57
@@ -136,7 +104,7 @@
       "R": 0.001108974701490287,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 0.0133,
+      "last_price": 0.01305,
       "exit_deadline": "2026-11-17 17:46:04 MYT",
       "signal_tf": "15m",
       "vol_ratio": 4.2
@@ -157,7 +125,7 @@
       "R": 0.0005569078927495029,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 0.010301,
+      "last_price": 0.010234,
       "exit_deadline": "2026-11-17 17:46:04 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.58
@@ -178,7 +146,7 @@
       "R": 0.24522589754612362,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 3.7537,
+      "last_price": 3.7145,
       "exit_deadline": "2026-11-17 18:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 4.45
@@ -199,7 +167,7 @@
       "R": 8.007613515508629,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 503.6,
+      "last_price": 505.07,
       "exit_deadline": "2026-11-17 18:45:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 31.41
@@ -220,7 +188,7 @@
       "R": 11.678418461788127,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 3856.86,
+      "last_price": 3859.11,
       "exit_deadline": "2026-11-17 19:00:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 4.44

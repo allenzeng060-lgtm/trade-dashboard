@@ -18,3 +18,5 @@
 2026-11-16 11:04:05,848 INFO decision regime {"allow": "ANY", "btc_close": 64995.12, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
 2026-11-16 11:04:13,694 INFO decision scan {"bar_close": "2026-11-16 19:00:00 MYT", "breakouts": 8, "vol_ok": 1, "allow": "ANY"}
 2026-11-16 11:04:13,992 INFO decision open {"symbol": "XAUTUSDT", "side": "BUY", "entry": 3858.341514, "stop": 3846.663095538212, "qty": 0.006, "lev": 3, "liq": 2598.20977374, "risk": 0.093}
+2026-11-16 11:19:10,000 INFO decision regime {"allow": "ANY", "btc_close": 64995.12, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+2026-11-16 11:19:18,447 INFO decision scan {"bar_close": "2026-11-16 19:15:00 MYT", "breakouts": 4, "vol_ok": 0, "allow": "ANY"}
