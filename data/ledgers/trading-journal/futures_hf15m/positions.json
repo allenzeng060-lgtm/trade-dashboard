@@ -5,7 +5,7 @@
   "rules": "hf-15m-v0.1",
   "cycle": 1,
   "start_equity_usdt": 100.0,
-  "wallet_usdt": 96.968524,
+  "wallet_usdt": 97.706423,
   "created": "2026-11-16 03:06:21 MYT",
   "positions": [
     {
@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 17:15:55 MYT",
-      "last_check_ms": 1794824920906,
-      "last_price": 0.05045
+      "last_check_ms": 1794825243411,
+      "last_price": 0.05037
     },
     {
       "id": "FHF-20261116-1746-BULLAUSDT",
@@ -89,8 +89,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 17:46:04 MYT",
-      "last_check_ms": 1794824922858,
-      "last_price": 0.01405
+      "last_check_ms": 1794825244046,
+      "last_price": 0.01403
     },
     {
       "id": "FHF-20261116-1746-SKRUSDT",
@@ -125,14 +125,14 @@
       "risk_usdt": 0.4844964810573837,
       "entry_fee": 0.004608263662900001,
       "funding": 0.0,
-      "best": 0.010162,
+      "best": 0.010072,
       "high_since_entry": 0.010875,
-      "low_since_entry": 0.010162,
+      "low_since_entry": 0.010072,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 17:46:04 MYT",
-      "last_check_ms": 1794824923159,
-      "last_price": 0.010298
+      "last_check_ms": 1794825244682,
+      "last_price": 0.010105
     },
     {
       "id": "FHF-20261116-1815-EVAAUSDT",
@@ -169,12 +169,12 @@
       "funding": 0.0,
       "best": 3.6788,
       "high_since_entry": 3.6788,
-      "low_since_entry": 3.5754,
+      "low_since_entry": 3.5512,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 18:15:00 MYT",
-      "last_check_ms": 1794824923718,
-      "last_price": 3.6152
+      "last_check_ms": 1794825245321,
+      "last_price": 3.5992
     }
   ]
 }

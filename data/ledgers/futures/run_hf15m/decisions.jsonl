@@ -88,3 +88,7 @@
 {"time": "2026-11-16 18:28:42 MYT", "kind": "close", "symbol": "XRPUSDT", "reason": "stop", "fill": 0.951121167905692, "net": -0.244, "R": -1.02}
 {"time": "2026-11-16 18:28:42 MYT", "kind": "close", "symbol": "ETHUSDT", "reason": "stop", "fill": 1805.4948215335562, "net": -0.2058, "R": -1.02}
 {"time": "2026-11-16 18:28:42 MYT", "kind": "close", "symbol": "XLMUSDT", "reason": "stop", "fill": 0.13792844471274482, "net": -0.248, "R": -1.02}
+{"time": "2026-11-16 18:33:46 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64995.12, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-16 18:34:03 MYT", "kind": "scan", "bar_close": "2026-11-16 18:30:00 MYT", "breakouts": 6, "vol_ok": 1, "allow": "ANY"}
+{"time": "2026-11-16 18:34:03 MYT", "kind": "open", "symbol": "LITUSDT", "side": "SELL", "entry": 2.51569676, "stop": 2.578430176430881, "qty": 7.4, "lev": 3, "liq": 3.32105183, "risk": 0.483}
+{"time": "2026-11-16 18:34:06 MYT", "kind": "close", "symbol": "LITUSDT", "reason": "trail_stop", "fill": 2.413516023114167, "net": 0.7379, "R": 1.53}
