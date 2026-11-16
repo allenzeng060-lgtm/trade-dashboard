@@ -3,7 +3,7 @@
   "set": "15m",
   "mode": "paper",
   "rules": "hf-15m-v0.1",
-  "updated_at": "2026-11-16 20:09:21 MYT",
+  "updated_at": "2026-11-16 20:14:22 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -17,9 +17,9 @@
     "regime": "none"
   },
   "wallet_usdt": 96.3297,
-  "unrealized_usdt": 0.711,
-  "equity_usdt": 97.0407,
-  "pnl_pct": -2.959,
+  "unrealized_usdt": 0.7804,
+  "equity_usdt": 97.1101,
+  "pnl_pct": -2.89,
   "regime": {
     "allow": "ANY",
     "btc_close": 64448.32,
@@ -59,7 +59,7 @@
       "R": 0.0006503210929633691,
       "trail_armed": false,
       "funding": -0.00121146,
-      "last_price": 0.0504,
+      "last_price": 0.05024,
       "exit_deadline": "2026-11-17 17:15:55 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.57
@@ -80,7 +80,7 @@
       "R": 0.001108974701490287,
       "trail_armed": false,
       "funding": -0.00109567,
-      "last_price": 0.01292,
+      "last_price": 0.01285,
       "exit_deadline": "2026-11-17 17:46:04 MYT",
       "signal_tf": "15m",
       "vol_ratio": 4.2
@@ -101,7 +101,7 @@
       "R": 0.0005569078927495029,
       "trail_armed": true,
       "funding": -0.10146257,
-      "last_price": 0.009811,
+      "last_price": 0.009854,
       "exit_deadline": "2026-11-17 17:46:04 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.58
@@ -122,7 +122,7 @@
       "R": 11.678418461788127,
       "trail_armed": false,
       "funding": -0.0011575,
-      "last_price": 3853.01,
+      "last_price": 3853.87,
       "exit_deadline": "2026-11-17 19:00:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 4.44
@@ -143,7 +143,7 @@
       "R": 0.0008215774666754396,
       "trail_armed": false,
       "funding": -0.0053121,
-      "last_price": 0.012665,
+      "last_price": 0.01301,
       "exit_deadline": "2026-11-17 19:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 6.97
