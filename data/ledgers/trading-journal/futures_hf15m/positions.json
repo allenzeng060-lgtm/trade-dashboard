@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 17:46:04 MYT",
-      "last_check_ms": 1794850311741,
-      "last_price": 0.01455,
+      "last_check_ms": 1794850589707,
+      "last_price": 0.01451,
       "last_funding_ms": 1794844800004
     },
     {
@@ -90,8 +90,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 22:45:00 MYT",
-      "last_check_ms": 1794850312059,
-      "last_price": 0.018712,
+      "last_check_ms": 1794850590023,
+      "last_price": 0.018871,
       "last_funding_ms": 1794844800004
     },
     {
@@ -133,8 +133,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 23:15:00 MYT",
-      "last_check_ms": 1794850312412,
-      "last_price": 0.2483,
+      "last_check_ms": 1794850590478,
+      "last_price": 0.2491,
       "last_funding_ms": 1794844800004
     },
     {
@@ -176,9 +176,9 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 00:00:00 MYT",
-      "last_check_ms": 1794850312728,
+      "last_check_ms": 1794850590795,
       "last_funding_ms": 1794844800004,
-      "last_price": 2.492
+      "last_price": 2.497
     },
     {
       "id": "FHF-20261117-0130-QNTUSDT",
@@ -215,12 +215,12 @@
       "funding": 0.0,
       "best": 158.71,
       "high_since_entry": 158.71,
-      "low_since_entry": 157.7,
+      "low_since_entry": 157.37,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 01:30:00 MYT",
-      "last_check_ms": 1794850313044,
-      "last_price": 157.91
+      "last_check_ms": 1794850591117,
+      "last_price": 158.05
     }
   ]
 }
