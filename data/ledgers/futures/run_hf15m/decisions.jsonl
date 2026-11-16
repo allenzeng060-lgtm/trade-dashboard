@@ -85,3 +85,6 @@
 {"time": "2026-11-16 18:15:56 MYT", "kind": "scan", "bar_close": "2026-11-16 18:15:00 MYT", "breakouts": 6, "vol_ok": 2, "allow": "ANY"}
 {"time": "2026-11-16 18:15:56 MYT", "kind": "open", "symbol": "EVAAUSDT", "side": "BUY", "entry": 3.6515301599999996, "stop": 3.406304262453876, "qty": 1.9000000000000001, "lev": 1, "liq": 0.0, "risk": 0.473}
 {"time": "2026-11-16 18:15:56 MYT", "kind": "skip", "symbol": "SKRUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.31, "reason": "already holding"}
+{"time": "2026-11-16 18:28:42 MYT", "kind": "close", "symbol": "XRPUSDT", "reason": "stop", "fill": 0.951121167905692, "net": -0.244, "R": -1.02}
+{"time": "2026-11-16 18:28:42 MYT", "kind": "close", "symbol": "ETHUSDT", "reason": "stop", "fill": 1805.4948215335562, "net": -0.2058, "R": -1.02}
+{"time": "2026-11-16 18:28:42 MYT", "kind": "close", "symbol": "XLMUSDT", "reason": "stop", "fill": 0.13792844471274482, "net": -0.248, "R": -1.02}

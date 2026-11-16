@@ -2,3 +2,6 @@
 2026-11-16 10:15:56,489 INFO decision scan {"bar_close": "2026-11-16 18:15:00 MYT", "breakouts": 6, "vol_ok": 2, "allow": "ANY"}
 2026-11-16 10:15:56,639 INFO decision open {"symbol": "EVAAUSDT", "side": "BUY", "entry": 3.6515301599999996, "stop": 3.406304262453876, "qty": 1.9000000000000001, "lev": 1, "liq": 0.0, "risk": 0.473}
 2026-11-16 10:15:56,639 INFO decision skip {"symbol": "SKRUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.31, "reason": "already holding"}
+2026-11-16 10:28:42,002 INFO decision close {"symbol": "XRPUSDT", "reason": "stop", "fill": 0.951121167905692, "net": -0.244, "R": -1.02}
+2026-11-16 10:28:42,299 INFO decision close {"symbol": "ETHUSDT", "reason": "stop", "fill": 1805.4948215335562, "net": -0.2058, "R": -1.02}
+2026-11-16 10:28:42,856 INFO decision close {"symbol": "XLMUSDT", "reason": "stop", "fill": 0.13792844471274482, "net": -0.248, "R": -1.02}
