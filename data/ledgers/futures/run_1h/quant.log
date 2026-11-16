@@ -1,0 +1,4 @@
+2026-11-16 11:03:54,677 INFO decision regime {"allow": "SELL", "btc_close": 64995.12, "ref": 67568.0, "new_low": false, "reason": "BTC 4h close 64995.12 < filter 67568 → shorts only"}
+2026-11-16 11:04:03,038 INFO decision scan {"bar_close": "2026-11-16 19:00:00 MYT", "breakouts": 3, "vol_ok": 2, "allow": "SELL"}
+2026-11-16 11:04:03,039 INFO decision skip {"symbol": "LITUSDT", "side": "SELL", "tf": "1h", "vol_ratio": 38.19, "reason": "same-direction cap 2 (v0.2 correlation cap)"}
+2026-11-16 11:04:03,039 INFO decision skip {"symbol": "EVAAUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 9.57, "reason": "direction filter: BTC 4h close 64995.12 < filter 67568 → shorts only"}

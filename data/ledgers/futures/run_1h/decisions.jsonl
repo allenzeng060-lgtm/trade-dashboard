@@ -28,3 +28,7 @@
 {"time": "2026-11-16 18:01:13 MYT", "kind": "skip", "symbol": "BLESSUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 39.27, "reason": "direction filter: BTC 4h close 64995.12 < filter 67568 → shorts only"}
 {"time": "2026-11-16 18:01:13 MYT", "kind": "skip", "symbol": "EVAAUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 9.18, "reason": "direction filter: BTC 4h close 64995.12 < filter 67568 → shorts only"}
 {"time": "2026-11-16 18:01:13 MYT", "kind": "open", "symbol": "JUPUSDT", "side": "SELL", "entry": 0.2519496, "stop": 0.2618740822918936, "qty": 98.0, "lev": 2, "liq": 0.37418257, "risk": 0.998}
+{"time": "2026-11-16 19:03:54 MYT", "kind": "regime", "allow": "SELL", "btc_close": 64995.12, "ref": 67568.0, "new_low": false, "reason": "BTC 4h close 64995.12 < filter 67568 → shorts only"}
+{"time": "2026-11-16 19:04:03 MYT", "kind": "scan", "bar_close": "2026-11-16 19:00:00 MYT", "breakouts": 3, "vol_ok": 2, "allow": "SELL"}
+{"time": "2026-11-16 19:04:03 MYT", "kind": "skip", "symbol": "LITUSDT", "side": "SELL", "tf": "1h", "vol_ratio": 38.19, "reason": "same-direction cap 2 (v0.2 correlation cap)"}
+{"time": "2026-11-16 19:04:03 MYT", "kind": "skip", "symbol": "EVAAUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 9.57, "reason": "direction filter: BTC 4h close 64995.12 < filter 67568 → shorts only"}

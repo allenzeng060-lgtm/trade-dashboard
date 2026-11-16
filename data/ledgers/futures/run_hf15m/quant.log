@@ -15,3 +15,6 @@
 2026-11-16 10:49:05,413 INFO decision open {"symbol": "XMRUSDT", "side": "BUY", "entry": 506.76133200000004, "stop": 498.7537184844914, "qty": 0.048, "lev": 3, "liq": 341.25342222, "risk": 0.408}
 2026-11-16 10:49:05,413 INFO decision skip {"symbol": "EVAAUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 2.39, "reason": "already holding"}
 2026-11-16 10:49:07,132 INFO decision close {"symbol": "LITUSDT", "reason": "stop", "fill": 2.590809944583, "net": -0.4833, "R": -1.01}
+2026-11-16 11:04:05,848 INFO decision regime {"allow": "ANY", "btc_close": 64995.12, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+2026-11-16 11:04:13,694 INFO decision scan {"bar_close": "2026-11-16 19:00:00 MYT", "breakouts": 8, "vol_ok": 1, "allow": "ANY"}
+2026-11-16 11:04:13,992 INFO decision open {"symbol": "XAUTUSDT", "side": "BUY", "entry": 3858.341514, "stop": 3846.663095538212, "qty": 0.006, "lev": 3, "liq": 2598.20977374, "risk": 0.093}

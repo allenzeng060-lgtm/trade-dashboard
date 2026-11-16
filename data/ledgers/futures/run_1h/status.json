@@ -3,7 +3,7 @@
   "set": "1h",
   "mode": "paper",
   "rules": "v0.2-1h",
-  "updated_at": "2026-11-16 19:00:19 MYT",
+  "updated_at": "2026-11-16 19:04:03 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -17,9 +17,9 @@
     "regime": "spot_level"
   },
   "wallet_usdt": 100.0,
-  "unrealized_usdt": -0.3666,
-  "equity_usdt": 99.6334,
-  "pnl_pct": -0.367,
+  "unrealized_usdt": -0.4637,
+  "equity_usdt": 99.5363,
+  "pnl_pct": -0.464,
   "regime": {
     "allow": "SELL",
     "btc_close": 64995.12,
@@ -27,97 +27,33 @@
     "reason": "BTC 4h close 64995.12 < filter 67568 → shorts only"
   },
   "last_scan": {
-    "time": "2026-11-16 18:01:13 MYT",
-    "bar_close": "2026-11-16 18:00:00 MYT",
-    "universe": 68,
+    "time": "2026-11-16 19:04:03 MYT",
+    "bar_close": "2026-11-16 19:00:00 MYT",
+    "universe": 69,
     "breakouts": [
-      {
-        "symbol": "BCHUSDT",
-        "side": "SELL",
-        "tf": "1h",
-        "level": 205.88,
-        "close": 205.06,
-        "vol_ratio": 0.9422
-      },
-      {
-        "symbol": "XRPUSDT",
-        "side": "SELL",
-        "tf": "1h",
-        "level": 0.9446,
-        "close": 0.9432,
-        "vol_ratio": 1.2247
-      },
-      {
-        "symbol": "LTCUSDT",
-        "side": "SELL",
-        "tf": "1h",
-        "level": 44.33,
-        "close": 44.18,
-        "vol_ratio": 0.9189
-      },
-      {
-        "symbol": "XLMUSDT",
-        "side": "SELL",
-        "tf": "1h",
-        "level": 0.1372,
-        "close": 0.1371,
-        "vol_ratio": 0.6574
-      },
-      {
-        "symbol": "ADAUSDT",
-        "side": "SELL",
-        "tf": "1h",
-        "level": 0.1514,
-        "close": 0.1513,
-        "vol_ratio": 1.0997
-      },
-      {
-        "symbol": "1000SHIBUSDT",
-        "side": "SELL",
-        "tf": "1h",
-        "level": 0.0039,
-        "close": 0.0038,
-        "vol_ratio": 1.6694
-      },
-      {
-        "symbol": "JUPUSDT",
-        "side": "SELL",
-        "tf": "1h",
-        "level": 0.2569,
-        "close": 0.2524,
-        "vol_ratio": 2.9631
-      },
-      {
-        "symbol": "ARIAUSDT",
-        "side": "SELL",
-        "tf": "1h",
-        "level": 0.2231,
-        "close": 0.2098,
-        "vol_ratio": 0.7288
-      },
-      {
-        "symbol": "BLESSUSDT",
-        "side": "BUY",
-        "tf": "1h",
-        "level": 0.01,
-        "close": 0.0108,
-        "vol_ratio": 39.271
-      },
       {
         "symbol": "EVAAUSDT",
         "side": "BUY",
         "tf": "1h",
-        "level": 3.2177,
-        "close": 3.464,
-        "vol_ratio": 9.1761
+        "level": 3.4887,
+        "close": 3.6714,
+        "vol_ratio": 9.5724
+      },
+      {
+        "symbol": "LITUSDT",
+        "side": "SELL",
+        "tf": "1h",
+        "level": 2.6812,
+        "close": 2.6087,
+        "vol_ratio": 38.1864
       },
       {
         "symbol": "BTWUSDT",
         "side": "SELL",
         "tf": "1h",
-        "level": 0.4273,
-        "close": 0.4237,
-        "vol_ratio": 1.1466
+        "level": 0.4217,
+        "close": 0.4141,
+        "vol_ratio": 0.8405
       }
     ],
     "regime": "SELL"
@@ -139,7 +75,7 @@
       "R": 0.002492937475089962,
       "trail_armed": false,
       "funding": -0.02675331,
-      "last_price": 0.30343,
+      "last_price": 0.30358,
       "exit_deadline": "2026-11-18 09:06:56 MYT",
       "signal_tf": "1h",
       "vol_ratio": 2.2
@@ -160,7 +96,7 @@
       "R": 0.00992448229189358,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 0.2536,
+      "last_price": 0.2545,
       "exit_deadline": "2026-11-18 18:01:13 MYT",
       "signal_tf": "1h",
       "vol_ratio": 2.96
