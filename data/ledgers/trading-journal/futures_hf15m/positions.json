@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 17:15:55 MYT",
-      "last_check_ms": 1794825243411,
-      "last_price": 0.05037
+      "last_check_ms": 1794825824691,
+      "last_price": 0.05066
     },
     {
       "id": "FHF-20261116-1746-BULLAUSDT",
@@ -89,8 +89,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 17:46:04 MYT",
-      "last_check_ms": 1794825244046,
-      "last_price": 0.01403
+      "last_check_ms": 1794825824923,
+      "last_price": 0.01367
     },
     {
       "id": "FHF-20261116-1746-SKRUSDT",
@@ -125,14 +125,14 @@
       "risk_usdt": 0.4844964810573837,
       "entry_fee": 0.004608263662900001,
       "funding": 0.0,
-      "best": 0.010072,
+      "best": 0.010041,
       "high_since_entry": 0.010875,
-      "low_since_entry": 0.010072,
+      "low_since_entry": 0.010041,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 17:46:04 MYT",
-      "last_check_ms": 1794825244682,
-      "last_price": 0.010105
+      "last_check_ms": 1794825825154,
+      "last_price": 0.01009
     },
     {
       "id": "FHF-20261116-1815-EVAAUSDT",
@@ -167,14 +167,14 @@
       "risk_usdt": 0.4726341480389661,
       "entry_fee": 0.003468953652,
       "funding": 0.0,
-      "best": 3.6788,
-      "high_since_entry": 3.6788,
+      "best": 3.774,
+      "high_since_entry": 3.774,
       "low_since_entry": 3.5512,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 18:15:00 MYT",
-      "last_check_ms": 1794825245321,
-      "last_price": 3.5992
+      "last_check_ms": 1794825825392,
+      "last_price": 3.7557
     }
   ]
 }
