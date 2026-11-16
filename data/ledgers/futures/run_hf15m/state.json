@@ -8,45 +8,45 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-17 04:17:57 MYT",
-    "bar_close": "2026-11-17 04:15:00 MYT",
+    "time": "2026-11-17 04:32:54 MYT",
+    "bar_close": "2026-11-17 04:30:00 MYT",
     "universe": 71,
     "breakouts": [
       {
-        "symbol": "VVVUSDT",
-        "side": "BUY",
+        "symbol": "KAVAUSDT",
+        "side": "SELL",
         "tf": "15m",
-        "level": 20.322,
-        "close": 20.34,
-        "vol_ratio": 1.5692
+        "level": 0.0268,
+        "close": 0.0267,
+        "vol_ratio": 0.7369
       },
       {
-        "symbol": "HYPEUSDT",
+        "symbol": "HUMAUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 68.581,
-        "close": 68.731,
-        "vol_ratio": 2.5819
+        "level": 0.0093,
+        "close": 0.0095,
+        "vol_ratio": 5.0975
       },
       {
         "symbol": "BULLAUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.0179,
-        "close": 0.0182,
-        "vol_ratio": 1.5509
+        "level": 0.0186,
+        "close": 0.0187,
+        "vol_ratio": 1.0501
       },
       {
         "symbol": "BTWUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 0.3724,
-        "close": 0.3698,
-        "vol_ratio": 1.038
+        "level": 0.3683,
+        "close": 0.3644,
+        "vol_ratio": 2.0642
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794860100000,
-  "last_equity_ts": 1794860278.3239248
+  "last_scan_bar_ms": 1794861000000,
+  "last_equity_ts": 1794861174.9429631
 }

@@ -3,7 +3,7 @@
   "set": "15m",
   "mode": "paper",
   "rules": "hf-15m-v0.1",
-  "updated_at": "2026-11-17 04:27:40 MYT",
+  "updated_at": "2026-11-17 04:32:57 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -16,10 +16,10 @@
     "slip": 0.0002,
     "regime": "none"
   },
-  "wallet_usdt": 94.6688,
-  "unrealized_usdt": 2.8312,
-  "equity_usdt": 97.5,
-  "pnl_pct": -2.5,
+  "wallet_usdt": 96.6149,
+  "unrealized_usdt": 0.4374,
+  "equity_usdt": 97.0524,
+  "pnl_pct": -2.948,
   "regime": {
     "allow": "ANY",
     "btc_close": 65068.01,
@@ -27,67 +27,46 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-17 04:17:57 MYT",
-    "bar_close": "2026-11-17 04:15:00 MYT",
+    "time": "2026-11-17 04:32:54 MYT",
+    "bar_close": "2026-11-17 04:30:00 MYT",
     "universe": 71,
     "breakouts": [
       {
-        "symbol": "VVVUSDT",
-        "side": "BUY",
+        "symbol": "KAVAUSDT",
+        "side": "SELL",
         "tf": "15m",
-        "level": 20.322,
-        "close": 20.34,
-        "vol_ratio": 1.5692
+        "level": 0.0268,
+        "close": 0.0267,
+        "vol_ratio": 0.7369
       },
       {
-        "symbol": "HYPEUSDT",
+        "symbol": "HUMAUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 68.581,
-        "close": 68.731,
-        "vol_ratio": 2.5819
+        "level": 0.0093,
+        "close": 0.0095,
+        "vol_ratio": 5.0975
       },
       {
         "symbol": "BULLAUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.0179,
-        "close": 0.0182,
-        "vol_ratio": 1.5509
+        "level": 0.0186,
+        "close": 0.0187,
+        "vol_ratio": 1.0501
       },
       {
         "symbol": "BTWUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 0.3724,
-        "close": 0.3698,
-        "vol_ratio": 1.038
+        "level": 0.3683,
+        "close": 0.3644,
+        "vol_ratio": 2.0642
       }
     ],
     "regime": "ANY"
   },
   "positions": [
-    {
-      "id": "FHF-20261116-1746-BULLAUSDT",
-      "symbol": "BULLAUSDT",
-      "side": "BUY",
-      "entry_time": "2026-11-16 17:46:04 MYT",
-      "entry_price": 0.013212641999999998,
-      "qty": 432.0,
-      "notional": 5.7078613439999994,
-      "leverage": 1,
-      "margin": 5.7078613439999994,
-      "liq_price": 0.0,
-      "stop": 0.01774102529850971,
-      "initial_stop": 0.012103667298509712,
-      "R": 0.001108974701490287,
-      "trail_armed": true,
-      "funding": -0.00191512,
-      "last_price": 0.01871,
-      "exit_deadline": "2026-11-17 17:46:04 MYT",
-      "signal_tf": "15m",
-      "vol_ratio": 4.2
-    },
     {
       "id": "FHF-20261116-2245-BLESSUSDT",
       "symbol": "BLESSUSDT",
@@ -104,7 +83,7 @@
       "R": 0.0013959969224845614,
       "trail_armed": false,
       "funding": -0.01015033,
-      "last_price": 0.017874,
+      "last_price": 0.017919,
       "exit_deadline": "2026-11-17 22:45:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 9.23
@@ -125,7 +104,7 @@
       "R": 0.004354402619949679,
       "trail_armed": false,
       "funding": -0.00938222,
-      "last_price": 0.2463,
+      "last_price": 0.2455,
       "exit_deadline": "2026-11-17 23:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 5.94
@@ -146,7 +125,7 @@
       "R": 0.0009588951577858478,
       "trail_armed": false,
       "funding": -0.00105688,
-      "last_price": 0.04505,
+      "last_price": 0.04497,
       "exit_deadline": "2026-11-18 02:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.77
@@ -167,10 +146,52 @@
       "R": 0.8499955232468432,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 68.839,
+      "last_price": 68.547,
       "exit_deadline": "2026-11-18 04:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.58
+    },
+    {
+      "id": "FHF-20261117-0430-HUMAUSDT",
+      "symbol": "HUMAUSDT",
+      "side": "BUY",
+      "entry_time": "2026-11-17 04:30:00 MYT",
+      "entry_price": 0.009544908599999999,
+      "qty": 930.0,
+      "notional": 8.876764997999999,
+      "leverage": 2,
+      "margin": 4.438382498999999,
+      "liq_price": 0.00486985,
+      "stop": 0.009035255711163788,
+      "initial_stop": 0.009035255711163788,
+      "R": 0.0005096528888362112,
+      "trail_armed": false,
+      "funding": 0.0,
+      "last_price": 0.009591,
+      "exit_deadline": "2026-11-18 04:30:00 MYT",
+      "signal_tf": "15m",
+      "vol_ratio": 5.1
+    },
+    {
+      "id": "FHF-20261117-0430-BTWUSDT",
+      "symbol": "BTWUSDT",
+      "side": "SELL",
+      "entry_time": "2026-11-17 04:30:00 MYT",
+      "entry_price": 0.36432712,
+      "qty": 27.0,
+      "notional": 9.83683224,
+      "leverage": 2,
+      "margin": 4.91841612,
+      "liq_price": 0.52046731,
+      "stop": 0.3816672740700377,
+      "initial_stop": 0.3816672740700377,
+      "R": 0.017340154070037674,
+      "trail_armed": false,
+      "funding": 0.0,
+      "last_price": 0.3651,
+      "exit_deadline": "2026-11-18 04:30:00 MYT",
+      "signal_tf": "15m",
+      "vol_ratio": 2.06
     }
   ],
   "data_source": "www.binance.com /fapi (public)"
