@@ -3,7 +3,7 @@
   "set": "1h",
   "mode": "paper",
   "rules": "v0.2-1h",
-  "updated_at": "2026-11-17 02:57:06 MYT",
+  "updated_at": "2026-11-17 03:02:16 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -17,9 +17,9 @@
     "regime": "spot_level"
   },
   "wallet_usdt": 99.4073,
-  "unrealized_usdt": 0.1989,
-  "equity_usdt": 99.6062,
-  "pnl_pct": -0.394,
+  "unrealized_usdt": 0.3055,
+  "equity_usdt": 99.7129,
+  "pnl_pct": -0.287,
   "regime": {
     "allow": "SELL",
     "btc_close": 64467.0,
@@ -27,49 +27,25 @@
     "reason": "BTC 4h close 64467.00 < filter 67568 → shorts only"
   },
   "last_scan": {
-    "time": "2026-11-17 02:01:54 MYT",
-    "bar_close": "2026-11-17 02:00:00 MYT",
+    "time": "2026-11-17 03:02:16 MYT",
+    "bar_close": "2026-11-17 03:00:00 MYT",
     "universe": 71,
     "breakouts": [
-      {
-        "symbol": "TRXUSDT",
-        "side": "BUY",
-        "tf": "1h",
-        "level": 0.3067,
-        "close": 0.3069,
-        "vol_ratio": 0.8973
-      },
-      {
-        "symbol": "KAVAUSDT",
-        "side": "SELL",
-        "tf": "1h",
-        "level": 0.0275,
-        "close": 0.0272,
-        "vol_ratio": 0.6946
-      },
-      {
-        "symbol": "ICPUSDT",
-        "side": "BUY",
-        "tf": "1h",
-        "level": 2.519,
-        "close": 2.531,
-        "vol_ratio": 3.9237
-      },
       {
         "symbol": "CROSSUSDT",
         "side": "BUY",
         "tf": "1h",
-        "level": 0.1356,
-        "close": 0.136,
-        "vol_ratio": 6.731
+        "level": 0.1366,
+        "close": 0.1397,
+        "vol_ratio": 13.0567
       },
       {
-        "symbol": "BTWUSDT",
-        "side": "SELL",
+        "symbol": "SPACEUSDT",
+        "side": "BUY",
         "tf": "1h",
-        "level": 0.3972,
-        "close": 0.3912,
-        "vol_ratio": 1.0911
+        "level": 0.0038,
+        "close": 0.0041,
+        "vol_ratio": 48.015
       }
     ],
     "regime": "SELL"
@@ -91,7 +67,7 @@
       "R": 0.00992448229189358,
       "trail_armed": false,
       "funding": -0.00923832,
-      "last_price": 0.2496,
+      "last_price": 0.2486,
       "exit_deadline": "2026-11-18 18:01:13 MYT",
       "signal_tf": "1h",
       "vol_ratio": 2.96
