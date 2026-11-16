@@ -2,12 +2,12 @@
  "group": "現貨實驗組",
  "rules": "exp-v2-auto",
  "mode": "paper",
- "updated_at": "2026-11-16 23:10:34 MYT",
+ "updated_at": "2026-11-16 23:16:00 MYT",
  "cycle": 1,
  "refills": 0,
  "wallet_usdt": 99.3509,
- "unrealized_usdt": -1.1927,
- "equity_usdt": 98.1582,
+ "unrealized_usdt": -1.3538,
+ "equity_usdt": 97.9971,
  "no_entry_window": false,
  "candidates_1h": 24,
  "positions": [
@@ -21,7 +21,7 @@
    "stop": 101.81398051600372,
    "initial_stop": 101.81398051600372,
    "trail_armed": false,
-   "last_price": 103.23,
+   "last_price": 103.1,
    "exit_deadline": "2026-11-17 09:15:41 MYT"
   },
   {
@@ -34,7 +34,7 @@
    "stop": 3.1247093414388045,
    "initial_stop": 3.1247093414388045,
    "trail_armed": false,
-   "last_price": 3.14,
+   "last_price": 3.134,
    "exit_deadline": "2026-11-17 22:45:22 MYT"
   },
   {
@@ -47,7 +47,7 @@
    "stop": 64281.83221188598,
    "initial_stop": 64281.83221188598,
    "trail_armed": false,
-   "last_price": 64584.83,
+   "last_price": 64367.04,
    "exit_deadline": "2026-11-17 22:45:22 MYT"
   }
  ]
