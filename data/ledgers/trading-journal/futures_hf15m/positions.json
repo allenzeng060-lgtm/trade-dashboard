@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 17:46:04 MYT",
-      "last_check_ms": 1794842748031,
-      "last_price": 0.01432,
+      "last_check_ms": 1794843058323,
+      "last_price": 0.01436,
       "last_funding_ms": 1794830400000
     },
     {
@@ -90,8 +90,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 19:00:00 MYT",
-      "last_check_ms": 1794842748342,
-      "last_price": 3848.76,
+      "last_check_ms": 1794843058567,
+      "last_price": 3848.28,
       "last_funding_ms": 1794830400000
     },
     {
@@ -133,8 +133,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 22:45:00 MYT",
-      "last_check_ms": 1794842748651,
-      "last_price": 0.018014
+      "last_check_ms": 1794843058812,
+      "last_price": 0.018089
     },
     {
       "id": "FHF-20261116-2315-JUPUSDT",
@@ -169,14 +169,14 @@
       "risk_usdt": 0.43750635581966707,
       "entry_fee": 0.011815636400000001,
       "funding": 0.0,
-      "best": 0.247,
+      "best": 0.2459,
       "high_since_entry": 0.2497,
-      "low_since_entry": 0.247,
+      "low_since_entry": 0.2459,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 23:15:00 MYT",
-      "last_check_ms": 1794842748959,
-      "last_price": 0.2474
+      "last_check_ms": 1794843059056,
+      "last_price": 0.2475
     },
     {
       "id": "FHF-20261116-2315-SOLUSDT",
@@ -211,14 +211,14 @@
       "risk_usdt": 0.3382615009843664,
       "entry_fee": 0.011585632410000003,
       "funding": 0.0,
-      "best": 69.9,
+      "best": 69.87,
       "high_since_entry": 70.47,
-      "low_since_entry": 69.9,
+      "low_since_entry": 69.87,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 23:15:00 MYT",
-      "last_check_ms": 1794842749278,
-      "last_price": 70.09
+      "last_check_ms": 1794843059299,
+      "last_price": 70.33
     },
     {
       "id": "FHF-20261116-2315-PUMPUSDT",
@@ -253,14 +253,56 @@
       "risk_usdt": 0.44737189328711313,
       "entry_fee": 0.0118820211204,
       "funding": 0.0,
-      "best": 0.002772,
-      "high_since_entry": 0.002799,
-      "low_since_entry": 0.002772,
+      "best": 0.002768,
+      "high_since_entry": 0.002802,
+      "low_since_entry": 0.002768,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 23:15:00 MYT",
-      "last_check_ms": 1794842749584,
-      "last_price": 0.002776
+      "last_check_ms": 1794843059540,
+      "last_price": 0.002794
+    },
+    {
+      "id": "FHF-20261116-2330-PIEVERSEUSDT",
+      "symbol": "PIEVERSEUSDT",
+      "side": "BUY",
+      "rules": "hf-15m-v0.1",
+      "cycle": 1,
+      "slippage": 0.0002,
+      "mode": "paper",
+      "status": "open",
+      "group": "合約高頻組",
+      "market": "usdm_perp",
+      "margin_type": "isolated",
+      "signal_tf": "15m",
+      "signal_bar_close_myt": "2026-11-16 23:30:00 MYT",
+      "vol_ratio": 2.47,
+      "breakout_level": 1.9758,
+      "entry_time": "2026-11-16 23:30:00 MYT",
+      "entry_ms": 1794843000000,
+      "entry_price": 1.99549902,
+      "qty": 10.0,
+      "remaining_qty": 10.0,
+      "notional": 19.9549902,
+      "leverage": 3,
+      "margin": 6.6516634,
+      "liq_price": 1.36444377,
+      "mmr": 0.025,
+      "stop": 1.9531669041674367,
+      "initial_stop": 1.9531669041674367,
+      "R": 0.04233211583256344,
+      "stop_pct": 2.121,
+      "risk_usdt": 0.4430644879464716,
+      "entry_fee": 0.0099774951,
+      "funding": 0.0,
+      "best": 2.0153,
+      "high_since_entry": 2.0153,
+      "low_since_entry": 1.9937,
+      "trail_armed": false,
+      "targets": [],
+      "exit_deadline": "2026-11-17 23:30:00 MYT",
+      "last_check_ms": 1794843059780,
+      "last_price": 2.0061
     }
   ]
 }

@@ -7,3 +7,4 @@
 {"time": "2026-11-16 23:10:31 MYT", "kind": "close", "symbol": "AAVEUSDT", "reason": "stop", "fill": 107.96192886584849, "net": -0.6491, "R": -1.02}
 {"time": "2026-11-16 23:24:48 MYT", "kind": "close", "symbol": "NEARUSDT", "reason": "stop", "fill": 3.123146986768085, "net": -0.8957, "R": -1.01}
 {"time": "2026-11-16 23:24:48 MYT", "kind": "close", "symbol": "BTCUSDT", "reason": "stop", "fill": 64249.69129578004, "net": -0.4607, "R": -1.03}
+{"time": "2026-11-16 23:31:01 MYT", "kind": "close", "symbol": "MSTRBUSDT", "reason": "stop", "fill": 101.76307352574572, "net": -0.5216, "R": -1.02}

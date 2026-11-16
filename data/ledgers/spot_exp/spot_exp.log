@@ -7,3 +7,4 @@
 2026-11-16 15:10:31,839 INFO decision close {"symbol": "AAVEUSDT", "reason": "stop", "fill": 107.96192886584849, "net": -0.6491, "R": -1.02}
 2026-11-16 15:24:48,633 INFO decision close {"symbol": "NEARUSDT", "reason": "stop", "fill": 3.123146986768085, "net": -0.8957, "R": -1.01}
 2026-11-16 15:24:48,799 INFO decision close {"symbol": "BTCUSDT", "reason": "stop", "fill": 64249.69129578004, "net": -0.4607, "R": -1.03}
+2026-11-16 15:31:01,211 INFO decision close {"symbol": "MSTRBUSDT", "reason": "stop", "fill": 101.76307352574572, "net": -0.5216, "R": -1.02}
