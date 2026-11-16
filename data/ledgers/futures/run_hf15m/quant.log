@@ -199,3 +199,4 @@
 2026-11-16 18:37:12,478 INFO decision close {"symbol": "ICPUSDT", "reason": "trail_stop", "fill": 2.506923547268205, "net": 0.4306, "R": 0.96}
 2026-11-16 18:47:04,743 INFO decision regime {"allow": "ANY", "btc_close": 64467.0, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
 2026-11-16 18:47:14,579 INFO decision scan {"bar_close": "2026-11-17 02:45:00 MYT", "breakouts": 1, "vol_ok": 0, "allow": "ANY"}
+2026-11-16 18:52:00,469 INFO decision trail_update {"symbol": "BULLAUSDT", "stop": 0.014801025298509714, "best": 0.01591}
