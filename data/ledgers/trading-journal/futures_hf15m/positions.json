@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 22:45:00 MYT",
-      "last_check_ms": 1794872957068,
-      "last_price": 0.019012,
+      "last_check_ms": 1794873242919,
+      "last_price": 0.019135,
       "last_funding_ms": 1794859200002
     },
     {
@@ -90,8 +90,8 @@
       "trail_armed": true,
       "targets": [],
       "exit_deadline": "2026-11-17 23:15:00 MYT",
-      "last_check_ms": 1794872957349,
-      "last_price": 0.24,
+      "last_check_ms": 1794873243246,
+      "last_price": 0.2409,
       "last_funding_ms": 1794859200002,
       "_last_logged_stop": 0.24275440261994968
     },
@@ -134,8 +134,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 02:30:00 MYT",
-      "last_check_ms": 1794872958156,
-      "last_price": 0.04517,
+      "last_check_ms": 1794873243572,
+      "last_price": 0.04534,
       "last_funding_ms": 1794859200002
     },
     {
@@ -177,8 +177,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 04:30:00 MYT",
-      "last_check_ms": 1794872958451,
-      "last_price": 0.009815,
+      "last_check_ms": 1794873243899,
+      "last_price": 0.009718,
       "last_funding_ms": 1794870000006
     },
     {
@@ -215,13 +215,13 @@
       "entry_fee": 0.011148769800000001,
       "funding": 0.0,
       "best": 2.454,
-      "high_since_entry": 2.482,
+      "high_since_entry": 2.492,
       "low_since_entry": 2.454,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 07:15:00 MYT",
-      "last_check_ms": 1794872959234,
-      "last_price": 2.473
+      "last_check_ms": 1794873244227,
+      "last_price": 2.49
     },
     {
       "id": "FHF-20261117-0745-SPACEUSDT",
@@ -262,8 +262,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 07:45:00 MYT",
-      "last_check_ms": 1794872959524,
-      "last_price": 0.003729
+      "last_check_ms": 1794873244552,
+      "last_price": 0.00381
     }
   ]
 }
