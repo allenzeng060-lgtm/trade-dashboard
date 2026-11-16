@@ -203,26 +203,6 @@
       "group": "合約高頻組"
     },
     {
-      "id": "FHF-20261116-2315-SOLUSDT",
-      "symbol": "SOLUSDT",
-      "side": "SELL",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 70.21595400000001,
-      "entry_time": "2026-11-16 23:15:00 MYT",
-      "qty": 0.33,
-      "remaining_qty": 0.33,
-      "stop": 71.17029572660448,
-      "initial_stop": 71.17029572660448,
-      "R": 0.9543417266044747,
-      "targets": [],
-      "high_since_entry": 70.98,
-      "low_since_entry": 69.87,
-      "exit_deadline": "2026-11-17 23:15:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
       "id": "FHF-20261116-2330-PIEVERSEUSDT",
       "symbol": "PIEVERSEUSDT",
       "side": "BUY",
@@ -236,7 +216,7 @@
       "initial_stop": 1.9531669041674367,
       "R": 0.04233211583256344,
       "targets": [],
-      "high_since_entry": 2.0153,
+      "high_since_entry": 2.024,
       "low_since_entry": 1.9701,
       "exit_deadline": "2026-11-17 23:30:00 MYT",
       "market": "usdm_perp",
@@ -263,5 +243,5 @@
       "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-17 00:21:05 MYT"
+  "paper_updated_at": "2026-11-17 00:26:04 MYT"
 }
