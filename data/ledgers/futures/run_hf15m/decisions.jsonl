@@ -309,3 +309,4 @@
 {"time": "2026-11-17 04:03:17 MYT", "kind": "scan", "bar_close": "2026-11-17 04:00:00 MYT", "breakouts": 8, "vol_ok": 1, "allow": "ANY"}
 {"time": "2026-11-17 04:03:17 MYT", "kind": "skip", "symbol": "AIOTUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.43, "reason": "stop distance 10.05% > 10%"}
 {"time": "2026-11-17 04:07:28 MYT", "kind": "trail_update", "symbol": "BULLAUSDT", "stop": 0.01704102529850971, "best": 0.01815}
+{"time": "2026-11-17 04:12:34 MYT", "kind": "trail_update", "symbol": "BULLAUSDT", "stop": 0.017541025298509712, "best": 0.01865}
