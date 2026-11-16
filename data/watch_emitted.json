@@ -1,7 +1,8 @@
 {
-  "updated_at": "2026-11-15 15:18:17 MYT",
+  "updated_at": "2026-11-16 20:06:21 MYT",
   "source": "github-actions",
   "emitted": {
-    "futures:position_stop:FQ-20261115-0810-ASTERUSDT:0.5339845298817029": 1794727097.262822
+    "futures:position_stop:FQ-20261115-0810-ASTERUSDT:0.5339845298817029": 1794727097.262822,
+    "futures:position_stop:FHF-20261116-1746-SKRUSDT:0.010225907892749504": 1794830781.712181
   }
 }
