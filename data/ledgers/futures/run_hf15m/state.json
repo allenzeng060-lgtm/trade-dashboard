@@ -8,37 +8,45 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-17 07:19:07 MYT",
-    "bar_close": "2026-11-17 07:15:00 MYT",
+    "time": "2026-11-17 07:34:15 MYT",
+    "bar_close": "2026-11-17 07:30:00 MYT",
     "universe": 71,
     "breakouts": [
       {
-        "symbol": "ICPUSDT",
+        "symbol": "DOGEUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 2.496,
-        "close": 2.478,
-        "vol_ratio": 2.0138
+        "level": 0.0589,
+        "close": 0.0589,
+        "vol_ratio": 0.3958
       },
       {
-        "symbol": "AKEUSDT",
+        "symbol": "KAVAUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 0.0099,
-        "close": 0.0099,
-        "vol_ratio": 0.3325
+        "level": 0.026,
+        "close": 0.026,
+        "vol_ratio": 0.7202
       },
       {
-        "symbol": "LITUSDT",
-        "side": "BUY",
+        "symbol": "AVAXUSDT",
+        "side": "SELL",
         "tf": "15m",
-        "level": 2.9145,
-        "close": 2.9755,
-        "vol_ratio": 1.3916
+        "level": 7.103,
+        "close": 7.101,
+        "vol_ratio": 0.7034
+      },
+      {
+        "symbol": "SKRUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 0.01,
+        "close": 0.01,
+        "vol_ratio": 0.3415
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794870900000,
+  "last_scan_bar_ms": 1794871800000,
   "last_equity_ts": 1794871147.807589
 }
