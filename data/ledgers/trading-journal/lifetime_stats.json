@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-16 22:25:34 MYT",
+ "updated_at": "2026-11-16 22:30:30 MYT",
  "mode": "paper",
  "note": "累計統計（不因補充本金重置）。gross_profit=獲利單淨損益合計，gross_loss=虧損單淨損益合計，皆已扣手續費。",
  "groups": {
@@ -36,7 +36,7 @@
    "capital_injected_usdt": 100.0,
    "current_cycle": 1,
    "ledger": "/home/runner/work/trade-dashboard/trade-dashboard/data-repo/data/ledgers/trading-journal/experiment/trades.csv",
-   "current_equity_usdt": 99.854
+   "current_equity_usdt": 100.0903
   },
   "futures_4h": {
    "label": "合約量化組（4h）",
@@ -54,25 +54,25 @@
    "capital_injected_usdt": 100.0,
    "current_cycle": 1,
    "ledger": "/home/runner/work/trade-dashboard/trade-dashboard/data-repo/data/ledgers/trading-journal/futures/trades.csv",
-   "current_equity_usdt": 97.1557
+   "current_equity_usdt": 96.9287
   },
   "futures_1h": {
    "label": "合約1h組",
-   "trades": 0,
+   "trades": 1,
    "wins": 0,
-   "losses": 0,
-   "win_rate_pct": null,
+   "losses": 1,
+   "win_rate_pct": 0.0,
    "gross_profit_usdt": 0,
-   "gross_loss_usdt": 0,
-   "net_pnl_usdt": 0,
-   "profit_factor": null,
-   "fees_paid_usdt": 0,
-   "funding_usdt": 0,
+   "gross_loss_usdt": -0.5927,
+   "net_pnl_usdt": -0.5927,
+   "profit_factor": 0.0,
+   "fees_paid_usdt": 0.0602,
+   "funding_usdt": -0.0268,
    "refills": 0,
    "capital_injected_usdt": 100.0,
    "current_cycle": 1,
    "ledger": "/home/runner/work/trade-dashboard/trade-dashboard/data-repo/data/ledgers/trading-journal/futures_1h/trades.csv",
-   "current_equity_usdt": 98.9372
+   "current_equity_usdt": 98.9151
   },
   "futures_hf15m": {
    "label": "合約高頻組（15m）",
@@ -90,20 +90,20 @@
    "capital_injected_usdt": 100.0,
    "current_cycle": 1,
    "ledger": "/home/runner/work/trade-dashboard/trade-dashboard/data-repo/data/ledgers/trading-journal/futures_hf15m/trades.csv",
-   "current_equity_usdt": 96.8194
+   "current_equity_usdt": 96.9056
   }
  },
  "total": {
-  "trades": 26,
+  "trades": 27,
   "wins": 4,
-  "losses": 22,
-  "win_rate_pct": 15.4,
+  "losses": 23,
+  "win_rate_pct": 14.8,
   "gross_profit_usdt": 3.4005,
-  "gross_loss_usdt": -10.3187,
-  "net_pnl_usdt": -6.9182,
-  "profit_factor": 0.33,
-  "fees_paid_usdt": 0.4803,
-  "funding_usdt": 0.1136,
+  "gross_loss_usdt": -10.9113,
+  "net_pnl_usdt": -7.5108,
+  "profit_factor": 0.312,
+  "fees_paid_usdt": 0.5405,
+  "funding_usdt": 0.0868,
   "refills": 0,
   "capital_injected_usdt": 500.0
  }

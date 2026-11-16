@@ -16,3 +16,4 @@
 2026-11-16 14:05:24,231 INFO decision skip {"symbol": "RAREUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 24.38, "reason": "direction filter: BTC 4h close 64448.32 < filter 67568 → shorts only"}
 2026-11-16 14:05:24,231 INFO decision skip {"symbol": "SPACEUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 20.05, "reason": "direction filter: BTC 4h close 64448.32 < filter 67568 → shorts only"}
 2026-11-16 14:05:24,231 INFO decision skip {"symbol": "ZILUSDT", "side": "SELL", "tf": "1h", "vol_ratio": 2.91, "reason": "same-direction cap 2 (v0.2 correlation cap)"}
+2026-11-16 14:30:27,068 INFO decision close {"symbol": "TRXUSDT", "reason": "stop", "fill": 0.30540342394618497, "net": -0.5927, "R": -1.07}

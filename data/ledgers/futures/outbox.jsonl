@@ -1,0 +1,1 @@
+{"id": "fq_20261116T223027_b9e4a4", "time": "2026-11-16 22:30:27 MYT", "type": "futures_close", "symbol": "TRXUSDT", "group": "合約1h組", "details": {"group": "合約1h組", "rules": "v0.2-1h", "side": "SELL", "reason": "stop", "entry": 0.30284941800000004, "exit": 0.30540342394618497, "net_pnl": -0.5927, "R": -1.07, "wallet": 99.41}}

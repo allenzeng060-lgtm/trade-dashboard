@@ -3,7 +3,7 @@
   "set": "1h",
   "mode": "paper",
   "rules": "v0.2-1h",
-  "updated_at": "2026-11-16 22:25:30 MYT",
+  "updated_at": "2026-11-16 22:30:27 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -16,10 +16,10 @@
     "slip": 0.0002,
     "regime": "spot_level"
   },
-  "wallet_usdt": 100.0,
-  "unrealized_usdt": -1.0628,
-  "equity_usdt": 98.9372,
-  "pnl_pct": -1.063,
+  "wallet_usdt": 99.4073,
+  "unrealized_usdt": -0.4923,
+  "equity_usdt": 98.9151,
+  "pnl_pct": -1.085,
   "regime": {
     "allow": "SELL",
     "btc_close": 64448.32,
@@ -76,27 +76,6 @@
   },
   "positions": [
     {
-      "id": "F1H-20261116-0906-TRXUSDT",
-      "symbol": "TRXUSDT",
-      "side": "SELL",
-      "entry_time": "2026-11-16 09:06:56 MYT",
-      "entry_price": 0.30284941800000004,
-      "qty": 198.0,
-      "notional": 59.96418476400001,
-      "leverage": 3,
-      "margin": 19.988061588000004,
-      "liq_price": 0.40119148,
-      "stop": 0.30534235547509,
-      "initial_stop": 0.30534235547509,
-      "R": 0.002492937475089962,
-      "trail_armed": false,
-      "funding": -0.02675331,
-      "last_price": 0.30486,
-      "exit_deadline": "2026-11-18 09:06:56 MYT",
-      "signal_tf": "1h",
-      "vol_ratio": 2.2
-    },
-    {
       "id": "F1H-20261116-1801-JUPUSDT",
       "symbol": "JUPUSDT",
       "side": "SELL",
@@ -112,7 +91,7 @@
       "R": 0.00992448229189358,
       "trail_armed": false,
       "funding": -0.00459927,
-      "last_price": 0.2578,
+      "last_price": 0.2567,
       "exit_deadline": "2026-11-18 18:01:13 MYT",
       "signal_tf": "1h",
       "vol_ratio": 2.96

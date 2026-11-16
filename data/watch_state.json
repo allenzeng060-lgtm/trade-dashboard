@@ -118,26 +118,6 @@
       "group": "合約量化組"
     },
     {
-      "id": "F1H-20261116-0906-TRXUSDT",
-      "symbol": "TRXUSDT",
-      "side": "SELL",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 0.30284941800000004,
-      "entry_time": "2026-11-16 09:06:56 MYT",
-      "qty": 198.0,
-      "remaining_qty": 198.0,
-      "stop": 0.30534235547509,
-      "initial_stop": 0.30534235547509,
-      "R": 0.002492937475089962,
-      "targets": [],
-      "high_since_entry": 0.30507,
-      "low_since_entry": 0.30193,
-      "exit_deadline": "2026-11-18 09:06:56 MYT",
-      "market": "usdm_perp",
-      "group": "合約1h組"
-    },
-    {
       "id": "F1H-20261116-1801-JUPUSDT",
       "symbol": "JUPUSDT",
       "side": "SELL",
@@ -291,12 +271,12 @@
       "initial_stop": 1809.8529555245316,
       "R": 14.971936475468585,
       "targets": [],
-      "high_since_entry": 1825.26,
+      "high_since_entry": 1828.75,
       "low_since_entry": 1817.27,
       "exit_deadline": "2026-11-17 22:15:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-16 22:25:34 MYT"
+  "paper_updated_at": "2026-11-16 22:30:30 MYT"
 }
