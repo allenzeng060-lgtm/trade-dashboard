@@ -291,3 +291,6 @@
 {"time": "2026-11-17 03:17:25 MYT", "kind": "scan", "bar_close": "2026-11-17 03:15:00 MYT", "breakouts": 4, "vol_ok": 0, "allow": "ANY"}
 {"time": "2026-11-17 03:27:21 MYT", "kind": "trail_update", "symbol": "BULLAUSDT", "stop": 0.01594102529850971, "best": 0.01705}
 {"time": "2026-11-17 03:27:22 MYT", "kind": "close", "symbol": "ARIAUSDT", "reason": "stop", "fill": 0.21343404800945137, "net": -0.465, "R": -1.0}
+{"time": "2026-11-17 03:32:15 MYT", "kind": "trail_update", "symbol": "BULLAUSDT", "stop": 0.01603102529850971, "best": 0.01714}
+{"time": "2026-11-17 03:32:16 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64467.0, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-17 03:32:27 MYT", "kind": "scan", "bar_close": "2026-11-17 03:30:00 MYT", "breakouts": 2, "vol_ok": 0, "allow": "ANY"}

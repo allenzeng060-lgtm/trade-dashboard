@@ -8,25 +8,17 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-17 03:17:25 MYT",
-    "bar_close": "2026-11-17 03:15:00 MYT",
+    "time": "2026-11-17 03:32:27 MYT",
+    "bar_close": "2026-11-17 03:30:00 MYT",
     "universe": 70,
     "breakouts": [
-      {
-        "symbol": "RAREUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 0.0138,
-        "close": 0.0137,
-        "vol_ratio": 0.5759
-      },
       {
         "symbol": "BULLAUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.0159,
-        "close": 0.0166,
-        "vol_ratio": 1.8126
+        "level": 0.017,
+        "close": 0.017,
+        "vol_ratio": 0.8937
       },
       {
         "symbol": "TACUSDT",
@@ -34,19 +26,11 @@
         "tf": "15m",
         "level": 0.0012,
         "close": 0.0012,
-        "vol_ratio": 0.4993
-      },
-      {
-        "symbol": "BTWUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 0.3845,
-        "close": 0.3837,
-        "vol_ratio": 1.3188
+        "vol_ratio": 0.2287
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794856500000,
+  "last_scan_bar_ms": 1794857400000,
   "last_equity_ts": 1794857242.7270334
 }
