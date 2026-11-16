@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 22:45:00 MYT",
-      "last_check_ms": 1794863004850,
-      "last_price": 0.018182,
+      "last_check_ms": 1794863273114,
+      "last_price": 0.018263,
       "last_funding_ms": 1794859200002
     },
     {
@@ -90,8 +90,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 23:15:00 MYT",
-      "last_check_ms": 1794863005142,
-      "last_price": 0.2467,
+      "last_check_ms": 1794863273419,
+      "last_price": 0.2457,
       "last_funding_ms": 1794859200002
     },
     {
@@ -133,8 +133,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 02:30:00 MYT",
-      "last_check_ms": 1794863005956,
-      "last_price": 0.04483,
+      "last_check_ms": 1794863273722,
+      "last_price": 0.0449,
       "last_funding_ms": 1794859200002
     },
     {
@@ -176,8 +176,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 04:15:00 MYT",
-      "last_check_ms": 1794863006445,
-      "last_price": 68.493
+      "last_check_ms": 1794863274296,
+      "last_price": 68.618
     },
     {
       "id": "FHF-20261117-0430-HUMAUSDT",
@@ -212,14 +212,14 @@
       "risk_usdt": 0.48261696302236756,
       "entry_fee": 0.004438382499,
       "funding": 0.01480824,
-      "best": 0.010171,
-      "high_since_entry": 0.010171,
+      "best": 0.010394,
+      "high_since_entry": 0.010394,
       "low_since_entry": 0.009437,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 04:30:00 MYT",
-      "last_check_ms": 1794863007002,
-      "last_price": 0.010103,
+      "last_check_ms": 1794863274602,
+      "last_price": 0.010294,
       "last_funding_ms": 1794862800000
     }
   ]
