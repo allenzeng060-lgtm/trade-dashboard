@@ -8,45 +8,45 @@
     "reason": "BTC 4h close 64467.00 < filter 67568 → shorts only"
   },
   "last_scan": {
-    "time": "2026-11-17 00:01:22 MYT",
-    "bar_close": "2026-11-17 00:00:00 MYT",
-    "universe": 71,
+    "time": "2026-11-17 01:01:36 MYT",
+    "bar_close": "2026-11-17 01:00:00 MYT",
+    "universe": 70,
     "breakouts": [
+      {
+        "symbol": "TRXUSDT",
+        "side": "BUY",
+        "tf": "1h",
+        "level": 0.3065,
+        "close": 0.3066,
+        "vol_ratio": 1.3689
+      },
       {
         "symbol": "ICPUSDT",
         "side": "BUY",
         "tf": "1h",
-        "level": 2.439,
-        "close": 2.456,
-        "vol_ratio": 5.6034
+        "level": 2.476,
+        "close": 2.51,
+        "vol_ratio": 4.6988
       },
       {
-        "symbol": "JUPUSDT",
-        "side": "SELL",
-        "tf": "1h",
-        "level": 0.2512,
-        "close": 0.2478,
-        "vol_ratio": 3.5789
-      },
-      {
-        "symbol": "BLESSUSDT",
+        "symbol": "HUMAUSDT",
         "side": "BUY",
         "tf": "1h",
-        "level": 0.0174,
-        "close": 0.0185,
-        "vol_ratio": 38.378
+        "level": 0.008,
+        "close": 0.0089,
+        "vol_ratio": 26.7476
       },
       {
         "symbol": "PIEVERSEUSDT",
         "side": "BUY",
         "tf": "1h",
-        "level": 1.9758,
-        "close": 1.9986,
-        "vol_ratio": 0.6416
+        "level": 2.0153,
+        "close": 2.0955,
+        "vol_ratio": 1.0032
       }
     ],
     "regime": "SELL"
   },
-  "last_scan_bar_ms": 1794844800000,
+  "last_scan_bar_ms": 1794848400000,
   "last_equity_ts": 1794846672.4967718
 }

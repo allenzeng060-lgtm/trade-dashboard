@@ -3,7 +3,7 @@
   "set": "1h",
   "mode": "paper",
   "rules": "v0.2-1h",
-  "updated_at": "2026-11-17 00:56:21 MYT",
+  "updated_at": "2026-11-17 01:01:37 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -17,9 +17,9 @@
     "regime": "spot_level"
   },
   "wallet_usdt": 99.4073,
-  "unrealized_usdt": 0.1597,
-  "equity_usdt": 99.567,
-  "pnl_pct": -0.433,
+  "unrealized_usdt": 0.0884,
+  "equity_usdt": 99.4957,
+  "pnl_pct": -0.504,
   "regime": {
     "allow": "SELL",
     "btc_close": 64467.0,
@@ -27,41 +27,41 @@
     "reason": "BTC 4h close 64467.00 < filter 67568 → shorts only"
   },
   "last_scan": {
-    "time": "2026-11-17 00:01:22 MYT",
-    "bar_close": "2026-11-17 00:00:00 MYT",
-    "universe": 71,
+    "time": "2026-11-17 01:01:36 MYT",
+    "bar_close": "2026-11-17 01:00:00 MYT",
+    "universe": 70,
     "breakouts": [
+      {
+        "symbol": "TRXUSDT",
+        "side": "BUY",
+        "tf": "1h",
+        "level": 0.3065,
+        "close": 0.3066,
+        "vol_ratio": 1.3689
+      },
       {
         "symbol": "ICPUSDT",
         "side": "BUY",
         "tf": "1h",
-        "level": 2.439,
-        "close": 2.456,
-        "vol_ratio": 5.6034
+        "level": 2.476,
+        "close": 2.51,
+        "vol_ratio": 4.6988
       },
       {
-        "symbol": "JUPUSDT",
-        "side": "SELL",
-        "tf": "1h",
-        "level": 0.2512,
-        "close": 0.2478,
-        "vol_ratio": 3.5789
-      },
-      {
-        "symbol": "BLESSUSDT",
+        "symbol": "HUMAUSDT",
         "side": "BUY",
         "tf": "1h",
-        "level": 0.0174,
-        "close": 0.0185,
-        "vol_ratio": 38.378
+        "level": 0.008,
+        "close": 0.0089,
+        "vol_ratio": 26.7476
       },
       {
         "symbol": "PIEVERSEUSDT",
         "side": "BUY",
         "tf": "1h",
-        "level": 1.9758,
-        "close": 1.9986,
-        "vol_ratio": 0.6416
+        "level": 2.0153,
+        "close": 2.0955,
+        "vol_ratio": 1.0032
       }
     ],
     "regime": "SELL"
@@ -83,7 +83,7 @@
       "R": 0.00992448229189358,
       "trail_armed": false,
       "funding": -0.00923832,
-      "last_price": 0.25,
+      "last_price": 0.2508,
       "exit_deadline": "2026-11-18 18:01:13 MYT",
       "signal_tf": "1h",
       "vol_ratio": 2.96

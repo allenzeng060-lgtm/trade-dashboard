@@ -61,3 +61,7 @@
 {"time": "2026-11-17 00:01:22 MYT", "kind": "skip", "symbol": "BLESSUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 38.38, "reason": "direction filter: BTC 4h close 64467.00 < filter 67568 → shorts only"}
 {"time": "2026-11-17 00:01:22 MYT", "kind": "skip", "symbol": "ICPUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 5.6, "reason": "direction filter: BTC 4h close 64467.00 < filter 67568 → shorts only"}
 {"time": "2026-11-17 00:01:22 MYT", "kind": "skip", "symbol": "JUPUSDT", "side": "SELL", "tf": "1h", "vol_ratio": 3.58, "reason": "already holding"}
+{"time": "2026-11-17 01:01:18 MYT", "kind": "regime", "allow": "SELL", "btc_close": 64467.0, "ref": 67568.0, "new_low": false, "reason": "BTC 4h close 64467.00 < filter 67568 → shorts only"}
+{"time": "2026-11-17 01:01:36 MYT", "kind": "scan", "bar_close": "2026-11-17 01:00:00 MYT", "breakouts": 4, "vol_ok": 2, "allow": "SELL"}
+{"time": "2026-11-17 01:01:36 MYT", "kind": "skip", "symbol": "HUMAUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 26.75, "reason": "direction filter: BTC 4h close 64467.00 < filter 67568 → shorts only"}
+{"time": "2026-11-17 01:01:36 MYT", "kind": "skip", "symbol": "ICPUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 4.7, "reason": "direction filter: BTC 4h close 64467.00 < filter 67568 → shorts only"}
