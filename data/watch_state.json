@@ -253,32 +253,12 @@
       "initial_stop": 0.009035255711163788,
       "R": 0.0005096528888362112,
       "targets": [],
-      "high_since_entry": 0.010034,
+      "high_since_entry": 0.010171,
       "low_since_entry": 0.009437,
       "exit_deadline": "2026-11-18 04:30:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
-    },
-    {
-      "id": "FHF-20261117-0445-BULLAUSDT",
-      "symbol": "BULLAUSDT",
-      "side": "BUY",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 0.019163832,
-      "entry_time": "2026-11-17 04:45:00 MYT",
-      "qty": 406.0,
-      "remaining_qty": 406.0,
-      "stop": 0.017998693127810293,
-      "initial_stop": 0.017998693127810293,
-      "R": 0.0011651388721897055,
-      "targets": [],
-      "high_since_entry": 0.01944,
-      "low_since_entry": 0.01822,
-      "exit_deadline": "2026-11-18 04:45:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-17 04:57:58 MYT"
+  "paper_updated_at": "2026-11-17 05:03:29 MYT"
 }
