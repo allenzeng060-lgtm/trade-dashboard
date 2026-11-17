@@ -50,3 +50,8 @@
 {"time": "2026-11-17 20:04:15 MYT", "kind": "skip", "symbol": "FHEUSDT", "side": "BUY", "tf": "4h", "vol_ratio": 144.5, "reason": "direction filter: BTC 4h close 64995.54 < filter 67568 → shorts only"}
 {"time": "2026-11-17 20:04:15 MYT", "kind": "skip", "symbol": "1000LUNCUSDT", "side": "BUY", "tf": "4h", "vol_ratio": 50.62, "reason": "direction filter: BTC 4h close 64995.54 < filter 67568 → shorts only"}
 {"time": "2026-11-17 20:04:15 MYT", "kind": "skip", "symbol": "MMTUSDT", "side": "BUY", "tf": "4h", "vol_ratio": 26.07, "reason": "direction filter: BTC 4h close 64995.54 < filter 67568 → shorts only"}
+{"time": "2026-11-18 00:00:31 MYT", "kind": "funding", "symbol": "WIFUSDT", "rate": "0.00001070", "amount": 0.00039, "at": "2026-11-18 00:00:00 MYT"}
+{"time": "2026-11-18 00:00:31 MYT", "kind": "funding", "symbol": "1000BONKUSDT", "rate": "-0.00003566", "amount": -0.001096, "at": "2026-11-18 00:00:00 MYT"}
+{"time": "2026-11-18 00:00:33 MYT", "kind": "regime", "allow": "SELL", "btc_close": 64115.09, "ref": 67568.0, "new_low": false, "reason": "BTC 4h close 64115.09 < filter 67568 → shorts only"}
+{"time": "2026-11-18 00:00:47 MYT", "kind": "scan", "bar_close": "2026-11-18 00:00:00 MYT", "breakouts": 3, "vol_ok": 1, "allow": "SELL"}
+{"time": "2026-11-18 00:00:47 MYT", "kind": "skip", "symbol": "BREVUSDT", "side": "BUY", "tf": "4h", "vol_ratio": 1612.99, "reason": "direction filter: BTC 4h close 64115.09 < filter 67568 → shorts only"}

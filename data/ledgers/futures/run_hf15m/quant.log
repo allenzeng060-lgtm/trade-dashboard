@@ -644,3 +644,15 @@
 2026-11-17 15:50:31,863 INFO decision trail_update {"symbol": "ICPUSDT", "stop": 2.2865860855705624, "best": 2.24}
 2026-11-17 15:50:32,660 INFO decision close {"symbol": "ARIAUSDT", "reason": "stop", "fill": 0.21462314269235824, "net": -0.4412, "R": -1.0}
 2026-11-17 15:50:32,939 INFO decision close {"symbol": "TRXUSDT", "reason": "stop", "fill": 0.307215530454398, "net": -0.0747, "R": -1.06}
+2026-11-17 16:01:05,316 INFO decision funding {"symbol": "ICPUSDT", "rate": "0.00001216", "amount": 0.00025, "at": "2026-11-18 00:00:00 MYT"}
+2026-11-17 16:01:05,603 INFO decision funding {"symbol": "ONUSDT", "rate": "0.00005000", "amount": 0.000536, "at": "2026-11-18 00:00:00 MYT"}
+2026-11-17 16:01:05,884 INFO decision funding {"symbol": "CROSSUSDT", "rate": "0.00005000", "amount": -0.000418, "at": "2026-11-18 00:00:00 MYT"}
+2026-11-17 16:01:06,169 INFO decision funding {"symbol": "ASTERUSDT", "rate": "0.00005000", "amount": 0.000784, "at": "2026-11-18 00:00:00 MYT"}
+2026-11-17 16:01:06,456 INFO decision funding {"symbol": "WLDUSDT", "rate": "-0.00019157", "amount": -0.004375, "at": "2026-11-18 00:00:00 MYT"}
+2026-11-17 16:01:06,739 INFO decision funding {"symbol": "ETHUSDT", "rate": "-0.00001778", "amount": -0.000381, "at": "2026-11-18 00:00:00 MYT"}
+2026-11-17 16:01:07,029 INFO decision funding {"symbol": "PAXGUSDT", "rate": "0.00005000", "amount": -0.000966, "at": "2026-11-18 00:00:00 MYT"}
+2026-11-17 16:01:08,100 INFO decision regime {"allow": "ANY", "btc_close": 64115.09, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+2026-11-17 16:01:17,751 INFO decision scan {"bar_close": "2026-11-18 00:00:00 MYT", "breakouts": 5, "vol_ok": 3, "allow": "ANY"}
+2026-11-17 16:01:18,415 INFO decision open {"symbol": "FILUSDT", "side": "SELL", "entry": 0.58618274, "stop": 0.594618667438499, "qty": 38.400000000000006, "lev": 3, "liq": 0.7738386, "risk": 0.347}
+2026-11-17 16:01:18,415 INFO decision skip {"symbol": "1000PEPEUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 13.48, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+2026-11-17 16:01:18,415 INFO decision skip {"symbol": "LITUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 3.35, "reason": "same-direction cap 6 (v0.2 correlation cap)"}

@@ -164,6 +164,26 @@
       "group": "合約1h組"
     },
     {
+      "id": "F1H-20261118-0000-APTUSDT",
+      "symbol": "APTUSDT",
+      "side": "SELL",
+      "mode": "paper",
+      "status": "open",
+      "entry_price": 0.44111175999999996,
+      "entry_time": "2026-11-18 00:00:00 MYT",
+      "qty": 68.5,
+      "remaining_qty": 68.5,
+      "stop": 0.45500905742055003,
+      "initial_stop": 0.45500905742055003,
+      "R": 0.013897297420550047,
+      "targets": [],
+      "high_since_entry": 0.4414,
+      "low_since_entry": 0.4401,
+      "exit_deadline": "2026-11-20 00:00:00 MYT",
+      "market": "usdm_perp",
+      "group": "合約1h組"
+    },
+    {
       "id": "FHF-20261117-0715-ICPUSDT",
       "symbol": "ICPUSDT",
       "side": "SELL",
@@ -257,7 +277,7 @@
       "initial_stop": 0.2646322759651138,
       "R": 0.003684475965113808,
       "targets": [],
-      "high_since_entry": 0.2615,
+      "high_since_entry": 0.2627,
       "low_since_entry": 0.2562,
       "exit_deadline": "2026-11-18 23:45:00 MYT",
       "market": "usdm_perp",
@@ -277,7 +297,7 @@
       "initial_stop": 1797.164293578585,
       "R": 18.940009578585226,
       "targets": [],
-      "high_since_entry": 1780.81,
+      "high_since_entry": 1786.55,
       "low_since_entry": 1750.05,
       "exit_deadline": "2026-11-18 23:45:00 MYT",
       "market": "usdm_perp",
@@ -302,7 +322,27 @@
       "exit_deadline": "2026-11-18 23:45:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
+    },
+    {
+      "id": "FHF-20261118-0000-FILUSDT",
+      "symbol": "FILUSDT",
+      "side": "SELL",
+      "mode": "paper",
+      "status": "open",
+      "entry_price": 0.58618274,
+      "entry_time": "2026-11-18 00:00:00 MYT",
+      "qty": 38.400000000000006,
+      "remaining_qty": 38.400000000000006,
+      "stop": 0.594618667438499,
+      "initial_stop": 0.594618667438499,
+      "R": 0.008435927438499018,
+      "targets": [],
+      "high_since_entry": 0.5868,
+      "low_since_entry": 0.5852,
+      "exit_deadline": "2026-11-19 00:00:00 MYT",
+      "market": "usdm_perp",
+      "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-17 23:55:36 MYT"
+  "paper_updated_at": "2026-11-18 00:01:22 MYT"
 }
