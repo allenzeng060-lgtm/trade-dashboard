@@ -177,7 +177,7 @@
       "initial_stop": 0.45500905742055003,
       "R": 0.013897297420550047,
       "targets": [],
-      "high_since_entry": 0.443,
+      "high_since_entry": 0.4451,
       "low_since_entry": 0.4401,
       "exit_deadline": "2026-11-20 00:00:00 MYT",
       "market": "usdm_perp",
@@ -224,26 +224,6 @@
       "group": "合約高頻組"
     },
     {
-      "id": "FHF-20261117-2345-WLDUSDT",
-      "symbol": "WLDUSDT",
-      "side": "SELL",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 0.2609478,
-      "entry_time": "2026-11-17 23:45:00 MYT",
-      "qty": 87.0,
-      "remaining_qty": 87.0,
-      "stop": 0.2646322759651138,
-      "initial_stop": 0.2646322759651138,
-      "R": 0.003684475965113808,
-      "targets": [],
-      "high_since_entry": 0.2637,
-      "low_since_entry": 0.2562,
-      "exit_deadline": "2026-11-18 23:45:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
       "id": "FHF-20261117-2345-ETHUSDT",
       "symbol": "ETHUSDT",
       "side": "SELL",
@@ -257,7 +237,7 @@
       "initial_stop": 1797.164293578585,
       "R": 18.940009578585226,
       "targets": [],
-      "high_since_entry": 1793.8,
+      "high_since_entry": 1796.96,
       "low_since_entry": 1750.05,
       "exit_deadline": "2026-11-18 23:45:00 MYT",
       "market": "usdm_perp",
@@ -278,7 +258,7 @@
       "R": 14.330180716637864,
       "targets": [],
       "high_since_entry": 3877.5,
-      "low_since_entry": 3858.91,
+      "low_since_entry": 3858.58,
       "exit_deadline": "2026-11-18 23:45:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
@@ -297,12 +277,12 @@
       "initial_stop": 0.594618667438499,
       "R": 0.008435927438499018,
       "targets": [],
-      "high_since_entry": 0.5912,
+      "high_since_entry": 0.5931,
       "low_since_entry": 0.5852,
       "exit_deadline": "2026-11-19 00:00:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-18 00:05:38 MYT"
+  "paper_updated_at": "2026-11-18 00:10:42 MYT"
 }

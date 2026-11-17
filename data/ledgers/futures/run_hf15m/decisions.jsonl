@@ -741,3 +741,4 @@
 {"time": "2026-11-18 00:01:18 MYT", "kind": "skip", "symbol": "LITUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 3.35, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
 {"time": "2026-11-18 00:05:35 MYT", "kind": "close", "symbol": "ICPUSDT", "reason": "trail_stop", "fill": 2.2870434027876767, "net": 1.6974, "R": 3.84}
 {"time": "2026-11-18 00:05:35 MYT", "kind": "close", "symbol": "CROSSUSDT", "reason": "stop", "fill": 0.1485351633903386, "net": -0.4507, "R": -1.0}
+{"time": "2026-11-18 00:10:39 MYT", "kind": "close", "symbol": "WLDUSDT", "reason": "stop", "fill": 0.2646852024203068, "net": -0.3524, "R": -1.03}
