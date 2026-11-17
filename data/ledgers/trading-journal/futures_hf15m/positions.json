@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 02:30:00 MYT",
-      "last_check_ms": 1794911298024,
-      "last_price": 0.04485,
+      "last_check_ms": 1794911620183,
+      "last_price": 0.04494,
       "last_funding_ms": 1794902400000
     },
     {
@@ -90,8 +90,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 07:15:00 MYT",
-      "last_check_ms": 1794911298270,
-      "last_price": 2.407,
+      "last_check_ms": 1794911620493,
+      "last_price": 2.406,
       "last_funding_ms": 1794902400000
     },
     {
@@ -133,8 +133,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 11:30:00 MYT",
-      "last_check_ms": 1794911298514,
-      "last_price": 0.2647,
+      "last_check_ms": 1794911620803,
+      "last_price": 0.2651,
       "last_funding_ms": 1794902400000
     },
     {
@@ -176,8 +176,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 11:45:00 MYT",
-      "last_check_ms": 1794911298756,
-      "last_price": 21.198,
+      "last_check_ms": 1794911621651,
+      "last_price": 21.201,
       "last_funding_ms": 1794902400000
     },
     {
@@ -219,8 +219,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 17:15:00 MYT",
-      "last_check_ms": 1794911299014,
-      "last_price": 0.0999
+      "last_check_ms": 1794911622230,
+      "last_price": 0.1001
     },
     {
       "id": "FHF-20261117-1715-TAOUSDT",
@@ -261,8 +261,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 17:15:00 MYT",
-      "last_check_ms": 1794911299484,
-      "last_price": 190.93
+      "last_check_ms": 1794911622813,
+      "last_price": 191.28
     },
     {
       "id": "FHF-20261117-1730-FILUSDT",
@@ -303,8 +303,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 17:30:00 MYT",
-      "last_check_ms": 1794911299728,
-      "last_price": 0.6023
+      "last_check_ms": 1794911623393,
+      "last_price": 0.6024
     },
     {
       "id": "FHF-20261117-1815-ETHUSDT",
@@ -345,8 +345,50 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 18:15:00 MYT",
-      "last_check_ms": 1794911299970,
-      "last_price": 1792.44
+      "last_check_ms": 1794911623970,
+      "last_price": 1794.01
+    },
+    {
+      "id": "FHF-20261117-1830-PIEVERSEUSDT",
+      "symbol": "PIEVERSEUSDT",
+      "side": "SELL",
+      "rules": "hf-15m-v0.1",
+      "cycle": 1,
+      "slippage": 0.0002,
+      "mode": "paper",
+      "status": "open",
+      "group": "合約高頻組",
+      "market": "usdm_perp",
+      "margin_type": "isolated",
+      "signal_tf": "15m",
+      "signal_bar_close_myt": "2026-11-17 18:30:00 MYT",
+      "vol_ratio": 2.02,
+      "breakout_level": 1.8342,
+      "entry_time": "2026-11-17 18:30:00 MYT",
+      "entry_ms": 1794911400000,
+      "entry_price": 1.79234146,
+      "qty": 11.0,
+      "remaining_qty": 11.0,
+      "notional": 19.71575606,
+      "leverage": 3,
+      "margin": 6.571918686666667,
+      "liq_price": 2.33150109,
+      "mmr": 0.025,
+      "stop": 1.829924270972865,
+      "initial_stop": 1.829924270972865,
+      "R": 0.03758281097286477,
+      "stop_pct": 2.097,
+      "risk_usdt": 0.43333338222186324,
+      "entry_fee": 0.009857878030000001,
+      "funding": 0.0,
+      "best": 1.777,
+      "high_since_entry": 1.8011,
+      "low_since_entry": 1.777,
+      "trail_armed": false,
+      "targets": [],
+      "exit_deadline": "2026-11-18 18:30:00 MYT",
+      "last_check_ms": 1794911624823,
+      "last_price": 1.7957
     }
   ]
 }
