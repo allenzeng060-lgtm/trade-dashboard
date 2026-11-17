@@ -796,3 +796,6 @@
 {"time": "2026-11-18 03:47:27 MYT", "kind": "scan", "bar_close": "2026-11-18 03:45:00 MYT", "breakouts": 4, "vol_ok": 1, "allow": "ANY"}
 {"time": "2026-11-18 03:47:27 MYT", "kind": "skip", "symbol": "PENGUUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 7.99, "reason": "already holding"}
 {"time": "2026-11-18 03:52:15 MYT", "kind": "close", "symbol": "PENGUUSDT", "reason": "trail_stop", "fill": 0.004999321366729565, "net": 1.2199, "R": 3.03}
+{"time": "2026-11-18 04:02:28 MYT", "kind": "funding", "symbol": "ZROUSDT", "rate": "-0.00000841", "amount": -0.000189, "at": "2026-11-18 04:00:00 MYT"}
+{"time": "2026-11-18 04:02:29 MYT", "kind": "regime", "allow": "ANY", "btc_close": 63753.75, "ref": 67568.0, "new_low": true, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-18 04:02:38 MYT", "kind": "scan", "bar_close": "2026-11-18 04:00:00 MYT", "breakouts": 4, "vol_ok": 0, "allow": "ANY"}

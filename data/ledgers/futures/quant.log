@@ -55,3 +55,8 @@
 2026-11-17 16:00:33,118 INFO decision regime {"allow": "SELL", "btc_close": 64115.09, "ref": 67568.0, "new_low": false, "reason": "BTC 4h close 64115.09 < filter 67568 → shorts only"}
 2026-11-17 16:00:47,130 INFO decision scan {"bar_close": "2026-11-18 00:00:00 MYT", "breakouts": 3, "vol_ok": 1, "allow": "SELL"}
 2026-11-17 16:00:47,130 INFO decision skip {"symbol": "BREVUSDT", "side": "BUY", "tf": "4h", "vol_ratio": 1612.99, "reason": "direction filter: BTC 4h close 64115.09 < filter 67568 → shorts only"}
+2026-11-17 20:01:59,554 INFO decision funding {"symbol": "WIFUSDT", "rate": "0.00000536", "amount": 0.000197, "at": "2026-11-18 04:00:00 MYT"}
+2026-11-17 20:01:59,799 INFO decision funding {"symbol": "1000BONKUSDT", "rate": "-0.00003933", "amount": -0.001217, "at": "2026-11-18 04:00:00 MYT"}
+2026-11-17 20:02:00,605 INFO decision regime {"allow": "SELL", "btc_close": 63753.75, "ref": 67568.0, "new_low": true, "reason": "BTC 4h close 63753.75 < filter 67568 → shorts only"}
+2026-11-17 20:02:12,725 INFO decision scan {"bar_close": "2026-11-18 04:00:00 MYT", "breakouts": 1, "vol_ok": 1, "allow": "SELL"}
+2026-11-17 20:02:12,725 INFO decision skip {"symbol": "MMTUSDT", "side": "BUY", "tf": "4h", "vol_ratio": 35.23, "reason": "direction filter: BTC 4h close 63753.75 < filter 67568 → shorts only"}

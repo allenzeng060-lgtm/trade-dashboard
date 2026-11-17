@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 00:00:00 MYT",
-      "last_check_ms": 1794945432284,
-      "last_price": 0.5925
+      "last_check_ms": 1794945758898,
+      "last_price": 0.5906
     },
     {
       "id": "FHF-20261118-0100-AAVEUSDT",
@@ -89,8 +89,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 01:00:00 MYT",
-      "last_check_ms": 1794945432576,
-      "last_price": 110.6
+      "last_check_ms": 1794945759117,
+      "last_price": 110.26
     },
     {
       "id": "FHF-20261118-0100-ZROUSDT",
@@ -124,15 +124,16 @@
       "stop_pct": 1.881,
       "risk_usdt": 0.44736106131091763,
       "entry_fee": 0.011288671814000001,
-      "funding": 0.0,
+      "funding": -0.00018856,
       "best": 1.373,
       "high_since_entry": 1.4238,
       "low_since_entry": 1.373,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 01:00:00 MYT",
-      "last_check_ms": 1794945432896,
-      "last_price": 1.3932
+      "last_check_ms": 1794945759338,
+      "last_price": 1.3938,
+      "last_funding_ms": 1794945600000
     }
   ]
 }
