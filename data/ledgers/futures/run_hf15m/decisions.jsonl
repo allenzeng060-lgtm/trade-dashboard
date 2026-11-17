@@ -645,3 +645,4 @@
 {"time": "2026-11-17 21:34:49 MYT", "kind": "scan", "bar_close": "2026-11-17 21:30:00 MYT", "breakouts": 8, "vol_ok": 1, "allow": "ANY"}
 {"time": "2026-11-17 21:34:50 MYT", "kind": "open", "symbol": "BREVUSDT", "side": "BUY", "entry": 0.076345266, "stop": 0.07343683545759647, "qty": 150.0, "lev": 2, "liq": 0.03875394, "risk": 0.447}
 {"time": "2026-11-17 21:39:33 MYT", "kind": "trail_update", "symbol": "ICPUSDT", "stop": 2.3805860855705623, "best": 2.334}
+{"time": "2026-11-17 21:44:38 MYT", "kind": "trail_update", "symbol": "ICPUSDT", "stop": 2.377586085570562, "best": 2.331}

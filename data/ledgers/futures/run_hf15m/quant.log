@@ -562,3 +562,4 @@
 2026-11-17 13:34:49,694 INFO decision scan {"bar_close": "2026-11-17 21:30:00 MYT", "breakouts": 8, "vol_ok": 1, "allow": "ANY"}
 2026-11-17 13:34:50,029 INFO decision open {"symbol": "BREVUSDT", "side": "BUY", "entry": 0.076345266, "stop": 0.07343683545759647, "qty": 150.0, "lev": 2, "liq": 0.03875394, "risk": 0.447}
 2026-11-17 13:39:33,180 INFO decision trail_update {"symbol": "ICPUSDT", "stop": 2.3805860855705623, "best": 2.334}
+2026-11-17 13:44:38,992 INFO decision trail_update {"symbol": "ICPUSDT", "stop": 2.377586085570562, "best": 2.331}
