@@ -244,26 +244,6 @@
       "group": "合約高頻組"
     },
     {
-      "id": "FHF-20261117-1845-CROSSUSDT",
-      "symbol": "CROSSUSDT",
-      "side": "SELL",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 0.142951404,
-      "entry_time": "2026-11-17 18:45:00 MYT",
-      "qty": 63.0,
-      "remaining_qty": 63.0,
-      "stop": 0.1499883036722521,
-      "initial_stop": 0.1499883036722521,
-      "R": 0.007036899672252089,
-      "targets": [],
-      "high_since_entry": 0.14924,
-      "low_since_entry": 0.14015,
-      "exit_deadline": "2026-11-18 18:45:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
       "id": "FHF-20261117-1945-AVAXUSDT",
       "symbol": "AVAXUSDT",
       "side": "BUY",
@@ -322,7 +302,27 @@
       "exit_deadline": "2026-11-18 19:45:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
+    },
+    {
+      "id": "FHF-20261117-2030-TRUMPUSDT",
+      "symbol": "TRUMPUSDT",
+      "side": "BUY",
+      "mode": "paper",
+      "status": "open",
+      "entry_price": 0.9861972,
+      "entry_time": "2026-11-17 20:30:00 MYT",
+      "qty": 22.93,
+      "remaining_qty": 22.93,
+      "stop": 0.9757547553827264,
+      "initial_stop": 0.9757547553827264,
+      "R": 0.010442444617273595,
+      "targets": [],
+      "high_since_entry": 0.988,
+      "low_since_entry": 0.983,
+      "exit_deadline": "2026-11-18 20:30:00 MYT",
+      "market": "usdm_perp",
+      "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-17 20:29:16 MYT"
+  "paper_updated_at": "2026-11-17 20:34:24 MYT"
 }
