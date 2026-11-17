@@ -705,3 +705,21 @@
 {"time": "2026-11-17 23:35:45 MYT", "kind": "scan", "bar_close": "2026-11-17 23:30:00 MYT", "breakouts": 3, "vol_ok": 1, "allow": "ANY"}
 {"time": "2026-11-17 23:35:45 MYT", "kind": "skip", "symbol": "TRXUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 4.14, "reason": "already holding"}
 {"time": "2026-11-17 23:40:25 MYT", "kind": "trail_update", "symbol": "ICPUSDT", "stop": 2.3435860855705624, "best": 2.297}
+{"time": "2026-11-17 23:45:35 MYT", "kind": "trail_update", "symbol": "ICPUSDT", "stop": 2.3205860855705622, "best": 2.274}
+{"time": "2026-11-17 23:45:37 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64995.54, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-17 23:45:47 MYT", "kind": "scan", "bar_close": "2026-11-17 23:45:00 MYT", "breakouts": 19, "vol_ok": 15, "allow": "ANY"}
+{"time": "2026-11-17 23:45:48 MYT", "kind": "open", "symbol": "WLDUSDT", "side": "SELL", "entry": 0.2609478, "stop": 0.2646322759651138, "qty": 87.0, "lev": 3, "liq": 0.34448554, "risk": 0.343}
+{"time": "2026-11-17 23:45:48 MYT", "kind": "open", "symbol": "ETHUSDT", "side": "SELL", "entry": 1778.224284, "stop": 1797.164293578585, "qty": 0.012, "lev": 3, "liq": 2361.51963347, "risk": 0.249}
+{"time": "2026-11-17 23:45:48 MYT", "kind": "skip", "symbol": "FILUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 4.24, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+{"time": "2026-11-17 23:45:48 MYT", "kind": "skip", "symbol": "PENGUUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 4.0, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+{"time": "2026-11-17 23:45:48 MYT", "kind": "open", "symbol": "PAXGUSDT", "side": "BUY", "entry": 3872.7744, "stop": 3858.444219283362, "qty": 0.005, "lev": 3, "liq": 2607.92888889, "risk": 0.091}
+{"time": "2026-11-17 23:45:48 MYT", "kind": "skip", "symbol": "NEARUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 3.57, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+{"time": "2026-11-17 23:45:48 MYT", "kind": "skip", "symbol": "1000PEPEUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 3.42, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+{"time": "2026-11-17 23:45:48 MYT", "kind": "skip", "symbol": "BCHUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 3.18, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+{"time": "2026-11-17 23:45:48 MYT", "kind": "skip", "symbol": "LTCUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 3.17, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+{"time": "2026-11-17 23:45:48 MYT", "kind": "skip", "symbol": "AVAXUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 3.12, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+{"time": "2026-11-17 23:45:48 MYT", "kind": "skip", "symbol": "HYPEUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.87, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+{"time": "2026-11-17 23:45:48 MYT", "kind": "skip", "symbol": "ENAUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.8, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+{"time": "2026-11-17 23:45:48 MYT", "kind": "skip", "symbol": "ICPUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.31, "reason": "already holding"}
+{"time": "2026-11-17 23:45:48 MYT", "kind": "skip", "symbol": "XMRUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.25, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+{"time": "2026-11-17 23:45:48 MYT", "kind": "skip", "symbol": "ARBUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.22, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
