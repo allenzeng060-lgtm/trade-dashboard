@@ -322,7 +322,27 @@
       "exit_deadline": "2026-11-18 14:15:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
+    },
+    {
+      "id": "FHF-20261117-1445-龙虾USDT",
+      "symbol": "龙虾USDT",
+      "side": "BUY",
+      "mode": "paper",
+      "status": "open",
+      "entry_price": 0.02130426,
+      "entry_time": "2026-11-17 14:45:00 MYT",
+      "qty": 370.0,
+      "remaining_qty": 370.0,
+      "stop": 0.020080914214459827,
+      "initial_stop": 0.020080914214459827,
+      "R": 0.0012233457855401705,
+      "targets": [],
+      "high_since_entry": 0.02135,
+      "low_since_entry": 0.02066,
+      "exit_deadline": "2026-11-18 14:45:00 MYT",
+      "market": "usdm_perp",
+      "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-17 14:41:52 MYT"
+  "paper_updated_at": "2026-11-17 14:47:04 MYT"
 }
