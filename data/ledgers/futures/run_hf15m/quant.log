@@ -593,3 +593,10 @@
 2026-11-17 14:40:02,003 INFO decision trail_update {"symbol": "TRXUSDT", "stop": 0.30754089654345984, "best": 0.30806}
 2026-11-17 14:45:01,765 INFO decision trail_update {"symbol": "BREVUSDT", "stop": 0.09500618622601077, "best": 0.09888}
 2026-11-17 14:45:02,089 INFO decision trail_update {"symbol": "TRXUSDT", "stop": 0.30764089654345983, "best": 0.30816}
+2026-11-17 14:50:04,259 INFO decision close {"symbol": "BREVUSDT", "reason": "trail_stop", "fill": 0.09577702698876557, "net": 1.2317, "R": 2.75}
+2026-11-17 14:50:04,552 INFO decision close {"symbol": "TRXUSDT", "reason": "trail_stop", "fill": 0.3075793683641511, "net": 0.0417, "R": 0.69}
+2026-11-17 14:50:05,872 INFO decision regime {"allow": "ANY", "btc_close": 64995.54, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+2026-11-17 14:50:15,130 INFO decision scan {"bar_close": "2026-11-17 22:45:00 MYT", "breakouts": 7, "vol_ok": 3, "allow": "ANY"}
+2026-11-17 14:50:15,439 INFO decision open {"symbol": "BREVUSDT", "side": "BUY", "entry": 0.097229442, "stop": 0.09151277876971813, "qty": 77.0, "lev": 2, "liq": 0.04935505, "risk": 0.447}
+2026-11-17 14:50:15,439 INFO decision open {"symbol": "TRXUSDT", "side": "BUY", "entry": 0.307931574, "stop": 0.30727698585156826, "qty": 73.0, "lev": 3, "liq": 0.20663082, "risk": 0.07}
+2026-11-17 14:50:15,439 INFO decision skip {"symbol": "PENGUUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 3.8, "reason": "already holding"}
