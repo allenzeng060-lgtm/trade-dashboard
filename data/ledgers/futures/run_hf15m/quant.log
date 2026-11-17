@@ -659,3 +659,5 @@
 2026-11-17 16:05:35,524 INFO decision close {"symbol": "ICPUSDT", "reason": "trail_stop", "fill": 2.2870434027876767, "net": 1.6974, "R": 3.84}
 2026-11-17 16:05:35,998 INFO decision close {"symbol": "CROSSUSDT", "reason": "stop", "fill": 0.1485351633903386, "net": -0.4507, "R": -1.0}
 2026-11-17 16:10:39,623 INFO decision close {"symbol": "WLDUSDT", "reason": "stop", "fill": 0.2646852024203068, "net": -0.3524, "R": -1.03}
+2026-11-17 16:15:43,006 INFO decision regime {"allow": "ANY", "btc_close": 64115.09, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+2026-11-17 16:15:51,336 INFO decision scan {"bar_close": "2026-11-18 00:15:00 MYT", "breakouts": 0, "vol_ok": 0, "allow": "ANY"}
