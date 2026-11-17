@@ -656,3 +656,5 @@
 2026-11-17 16:01:18,415 INFO decision open {"symbol": "FILUSDT", "side": "SELL", "entry": 0.58618274, "stop": 0.594618667438499, "qty": 38.400000000000006, "lev": 3, "liq": 0.7738386, "risk": 0.347}
 2026-11-17 16:01:18,415 INFO decision skip {"symbol": "1000PEPEUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 13.48, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
 2026-11-17 16:01:18,415 INFO decision skip {"symbol": "LITUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 3.35, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+2026-11-17 16:05:35,524 INFO decision close {"symbol": "ICPUSDT", "reason": "trail_stop", "fill": 2.2870434027876767, "net": 1.6974, "R": 3.84}
+2026-11-17 16:05:35,998 INFO decision close {"symbol": "CROSSUSDT", "reason": "stop", "fill": 0.1485351633903386, "net": -0.4507, "R": -1.0}
