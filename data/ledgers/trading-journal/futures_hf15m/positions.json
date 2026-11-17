@@ -5,7 +5,7 @@
   "rules": "hf-15m-v0.1",
   "cycle": 1,
   "start_equity_usdt": 100.0,
-  "wallet_usdt": 95.634006,
+  "wallet_usdt": 96.160018,
   "created": "2026-11-16 03:06:21 MYT",
   "positions": [
     {
@@ -47,53 +47,9 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 22:45:00 MYT",
-      "last_check_ms": 1794875060191,
-      "last_price": 0.018892,
+      "last_check_ms": 1794875355622,
+      "last_price": 0.018863,
       "last_funding_ms": 1794873600000
-    },
-    {
-      "id": "FHF-20261116-2315-JUPUSDT",
-      "symbol": "JUPUSDT",
-      "side": "SELL",
-      "rules": "hf-15m-v0.1",
-      "cycle": 1,
-      "slippage": 0.0002,
-      "mode": "paper",
-      "status": "open",
-      "group": "合約高頻組",
-      "market": "usdm_perp",
-      "margin_type": "isolated",
-      "signal_tf": "15m",
-      "signal_bar_close_myt": "2026-11-16 23:15:00 MYT",
-      "vol_ratio": 5.94,
-      "breakout_level": 0.2515,
-      "entry_time": "2026-11-16 23:15:00 MYT",
-      "entry_ms": 1794842100000,
-      "entry_price": 0.24875024,
-      "qty": 95.0,
-      "remaining_qty": 95.0,
-      "notional": 23.6312728,
-      "leverage": 3,
-      "margin": 7.877090933333334,
-      "liq_price": 0.32838316,
-      "mmr": 0.01,
-      "stop": 0.24275440261994968,
-      "initial_stop": 0.2531046426199497,
-      "R": 0.004354402619949679,
-      "stop_pct": 1.751,
-      "risk_usdt": 0.43750635581966707,
-      "entry_fee": 0.011815636400000001,
-      "funding": -0.01563111,
-      "best": 0.2384,
-      "high_since_entry": 0.2523,
-      "low_since_entry": 0.2384,
-      "trail_armed": true,
-      "targets": [],
-      "exit_deadline": "2026-11-17 23:15:00 MYT",
-      "last_check_ms": 1794875060516,
-      "last_price": 0.2425,
-      "last_funding_ms": 1794873600000,
-      "_last_logged_stop": 0.24275440261994968
     },
     {
       "id": "FHF-20261117-0230-XPLUSDT",
@@ -134,8 +90,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 02:30:00 MYT",
-      "last_check_ms": 1794875060846,
-      "last_price": 0.04527,
+      "last_check_ms": 1794875356429,
+      "last_price": 0.04545,
       "last_funding_ms": 1794873600000
     },
     {
@@ -177,8 +133,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 04:30:00 MYT",
-      "last_check_ms": 1794875061165,
-      "last_price": 0.009755,
+      "last_check_ms": 1794875356757,
+      "last_price": 0.009726,
       "last_funding_ms": 1794873600000
     },
     {
@@ -220,8 +176,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 07:15:00 MYT",
-      "last_check_ms": 1794875061480,
-      "last_price": 2.484,
+      "last_check_ms": 1794875357207,
+      "last_price": 2.483,
       "last_funding_ms": 1794873600000
     },
     {
@@ -263,8 +219,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 08:15:00 MYT",
-      "last_check_ms": 1794875061798,
-      "last_price": 0.09093
+      "last_check_ms": 1794875357537,
+      "last_price": 0.09036
     }
   ]
 }

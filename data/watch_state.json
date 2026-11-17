@@ -184,26 +184,6 @@
       "group": "合約高頻組"
     },
     {
-      "id": "FHF-20261116-2315-JUPUSDT",
-      "symbol": "JUPUSDT",
-      "side": "SELL",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 0.24875024,
-      "entry_time": "2026-11-16 23:15:00 MYT",
-      "qty": 95.0,
-      "remaining_qty": 95.0,
-      "stop": 0.24275440261994968,
-      "initial_stop": 0.2531046426199497,
-      "R": 0.004354402619949679,
-      "targets": [],
-      "high_since_entry": 0.2523,
-      "low_since_entry": 0.2384,
-      "exit_deadline": "2026-11-17 23:15:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
       "id": "FHF-20261117-0230-XPLUSDT",
       "symbol": "XPLUSDT",
       "side": "BUY",
@@ -284,5 +264,5 @@
       "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-17 08:24:24 MYT"
+  "paper_updated_at": "2026-11-17 08:29:20 MYT"
 }
