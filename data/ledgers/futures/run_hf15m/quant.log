@@ -614,3 +614,5 @@
 2026-11-17 15:20:39,242 INFO decision open {"symbol": "ASTERUSDT", "side": "SELL", "entry": 0.54219154, "stop": 0.5572545732604782, "qty": 29.0, "lev": 3, "liq": 0.71576441, "risk": 0.453}
 2026-11-17 15:20:39,242 INFO decision open {"symbol": "1000PEPEUSDT", "side": "SELL", "entry": 0.00379134158, "stop": 0.0038336914728533253, "qty": 5973.0, "lev": 3, "liq": 0.00502248, "risk": 0.276}
 2026-11-17 15:20:39,242 INFO decision skip {"symbol": "EVAAUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.04, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+2026-11-17 15:25:18,851 INFO decision close {"symbol": "BREVUSDT", "reason": "trail_stop", "fill": 0.11086116010236419, "net": 1.0416, "R": 2.33}
+2026-11-17 15:25:19,825 INFO decision close {"symbol": "PENGUUSDT", "reason": "stop", "fill": 0.004655014018087613, "net": -0.3181, "R": -1.01}
