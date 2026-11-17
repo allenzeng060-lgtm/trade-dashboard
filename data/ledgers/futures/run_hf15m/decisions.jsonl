@@ -639,3 +639,8 @@
 {"time": "2026-11-17 21:24:32 MYT", "kind": "close", "symbol": "KAVAUSDT", "reason": "stop", "fill": 0.02809025197369867, "net": -0.4548, "R": -1.01}
 {"time": "2026-11-17 21:24:32 MYT", "kind": "close", "symbol": "XMRUSDT", "reason": "stop", "fill": 514.7540630632277, "net": -0.239, "R": -1.02}
 {"time": "2026-11-17 21:29:31 MYT", "kind": "trail_update", "symbol": "ICPUSDT", "stop": 2.4075860855705624, "best": 2.361}
+{"time": "2026-11-17 21:34:31 MYT", "kind": "trail_update", "symbol": "ICPUSDT", "stop": 2.385586085570562, "best": 2.339}
+{"time": "2026-11-17 21:34:32 MYT", "kind": "close", "symbol": "TRUMPUSDT", "reason": "stop", "fill": 0.9755596044316499, "net": -0.2664, "R": -1.02}
+{"time": "2026-11-17 21:34:34 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64995.54, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-17 21:34:49 MYT", "kind": "scan", "bar_close": "2026-11-17 21:30:00 MYT", "breakouts": 8, "vol_ok": 1, "allow": "ANY"}
+{"time": "2026-11-17 21:34:50 MYT", "kind": "open", "symbol": "BREVUSDT", "side": "BUY", "entry": 0.076345266, "stop": 0.07343683545759647, "qty": 150.0, "lev": 2, "liq": 0.03875394, "risk": 0.447}

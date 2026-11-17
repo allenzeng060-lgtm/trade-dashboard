@@ -3,7 +3,7 @@
   "set": "15m",
   "mode": "paper",
   "rules": "hf-15m-v0.1",
-  "updated_at": "2026-11-17 21:29:32 MYT",
+  "updated_at": "2026-11-17 21:34:53 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -16,10 +16,10 @@
     "slip": 0.0002,
     "regime": "none"
   },
-  "wallet_usdt": 89.7906,
-  "unrealized_usdt": 1.0442,
-  "equity_usdt": 90.8348,
-  "pnl_pct": -9.165,
+  "wallet_usdt": 89.5242,
+  "unrealized_usdt": 1.3711,
+  "equity_usdt": 90.8953,
+  "pnl_pct": -9.105,
   "regime": {
     "allow": "ANY",
     "btc_close": 64995.54,
@@ -27,81 +27,73 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-17 21:19:36 MYT",
-    "bar_close": "2026-11-17 21:15:00 MYT",
+    "time": "2026-11-17 21:34:49 MYT",
+    "bar_close": "2026-11-17 21:30:00 MYT",
     "universe": 71,
     "breakouts": [
       {
         "symbol": "BCHUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 212.0,
-        "close": 212.63,
-        "vol_ratio": 2.1177
+        "level": 213.19,
+        "close": 213.43,
+        "vol_ratio": 1.3036
       },
       {
         "symbol": "XRPUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.9743,
-        "close": 0.9745,
-        "vol_ratio": 1.5158
+        "level": 0.9765,
+        "close": 0.9776,
+        "vol_ratio": 1.7495
       },
       {
-        "symbol": "XMRUSDT",
+        "symbol": "TRXUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 517.5,
-        "close": 519.69,
-        "vol_ratio": 4.3721
-      },
-      {
-        "symbol": "SOLUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 73.86,
-        "close": 73.91,
-        "vol_ratio": 1.3531
-      },
-      {
-        "symbol": "AVAXUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 7.251,
-        "close": 7.261,
-        "vol_ratio": 1.5167
+        "level": 0.306,
+        "close": 0.3062,
+        "vol_ratio": 0.9656
       },
       {
         "symbol": "ICPUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 2.383,
-        "close": 2.38,
-        "vol_ratio": 0.5411
+        "level": 2.379,
+        "close": 2.359,
+        "vol_ratio": 0.863
       },
       {
-        "symbol": "SUIUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 0.739,
-        "close": 0.7393,
-        "vol_ratio": 1.5512
-      },
-      {
-        "symbol": "ONDOUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 0.3104,
-        "close": 0.3107,
-        "vol_ratio": 1.9901
-      },
-      {
-        "symbol": "SOPHUSDT",
+        "symbol": "RAREUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 0.0009,
-        "close": 0.0009,
-        "vol_ratio": 1.3302
+        "level": 0.0131,
+        "close": 0.013,
+        "vol_ratio": 0.5648
+      },
+      {
+        "symbol": "HUMAUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 0.008,
+        "close": 0.0079,
+        "vol_ratio": 1.5543
+      },
+      {
+        "symbol": "ARIAUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 0.2122,
+        "close": 0.2059,
+        "vol_ratio": 1.5721
+      },
+      {
+        "symbol": "BREVUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.072,
+        "close": 0.0763,
+        "vol_ratio": 87.8316
       }
     ],
     "regime": "ANY"
@@ -123,7 +115,7 @@
       "R": 0.0009588951577858478,
       "trail_armed": false,
       "funding": -0.00531358,
-      "last_price": 0.04489,
+      "last_price": 0.04464,
       "exit_deadline": "2026-11-18 02:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.77
@@ -139,12 +131,12 @@
       "leverage": 3,
       "margin": 7.432513200000002,
       "liq_price": 3.27063287,
-      "stop": 2.4075860855705624,
+      "stop": 2.385586085570562,
       "initial_stop": 2.5240904855705626,
       "R": 0.04658608557056221,
       "trail_armed": true,
       "funding": 0.00443816,
-      "last_price": 2.363,
+      "last_price": 2.342,
       "exit_deadline": "2026-11-18 07:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.01
@@ -165,7 +157,7 @@
       "R": 0.0041255181993001405,
       "trail_armed": false,
       "funding": 0.00053352,
-      "last_price": 0.0974,
+      "last_price": 0.0976,
       "exit_deadline": "2026-11-18 17:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.52
@@ -186,7 +178,7 @@
       "R": 0.05890589792866615,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 7.269,
+      "last_price": 7.234,
       "exit_deadline": "2026-11-18 19:45:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 6.29
@@ -207,31 +199,31 @@
       "R": 0.11500888484763656,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 7.501,
+      "last_price": 7.485,
       "exit_deadline": "2026-11-18 19:45:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 4.55
     },
     {
-      "id": "FHF-20261117-2030-TRUMPUSDT",
-      "symbol": "TRUMPUSDT",
+      "id": "FHF-20261117-2130-BREVUSDT",
+      "symbol": "BREVUSDT",
       "side": "BUY",
-      "entry_time": "2026-11-17 20:30:00 MYT",
-      "entry_price": 0.9861972,
-      "qty": 22.93,
-      "notional": 22.613501796,
-      "leverage": 3,
-      "margin": 7.537833932000001,
-      "liq_price": 0.66410586,
-      "stop": 0.9757547553827264,
-      "initial_stop": 0.9757547553827264,
-      "R": 0.010442444617273595,
+      "entry_time": "2026-11-17 21:30:00 MYT",
+      "entry_price": 0.076345266,
+      "qty": 150.0,
+      "notional": 11.4517899,
+      "leverage": 2,
+      "margin": 5.72589495,
+      "liq_price": 0.03875394,
+      "stop": 0.07343683545759647,
+      "initial_stop": 0.07343683545759647,
+      "R": 0.002908430542403532,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 0.978,
-      "exit_deadline": "2026-11-18 20:30:00 MYT",
+      "last_price": 0.07771,
+      "exit_deadline": "2026-11-18 21:30:00 MYT",
       "signal_tf": "15m",
-      "vol_ratio": 3.71
+      "vol_ratio": 87.83
     }
   ],
   "data_source": "www.binance.com /fapi (public)"

@@ -193,12 +193,12 @@
       "entry_time": "2026-11-17 07:15:00 MYT",
       "qty": 9.0,
       "remaining_qty": 9.0,
-      "stop": 2.4075860855705624,
+      "stop": 2.385586085570562,
       "initial_stop": 2.5240904855705626,
       "R": 0.04658608557056221,
       "targets": [],
       "high_since_entry": 2.507,
-      "low_since_entry": 2.361,
+      "low_since_entry": 2.339,
       "exit_deadline": "2026-11-18 07:15:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
@@ -264,25 +264,25 @@
       "group": "合約高頻組"
     },
     {
-      "id": "FHF-20261117-2030-TRUMPUSDT",
-      "symbol": "TRUMPUSDT",
+      "id": "FHF-20261117-2130-BREVUSDT",
+      "symbol": "BREVUSDT",
       "side": "BUY",
       "mode": "paper",
       "status": "open",
-      "entry_price": 0.9861972,
-      "entry_time": "2026-11-17 20:30:00 MYT",
-      "qty": 22.93,
-      "remaining_qty": 22.93,
-      "stop": 0.9757547553827264,
-      "initial_stop": 0.9757547553827264,
-      "R": 0.010442444617273595,
+      "entry_price": 0.076345266,
+      "entry_time": "2026-11-17 21:30:00 MYT",
+      "qty": 150.0,
+      "remaining_qty": 150.0,
+      "stop": 0.07343683545759647,
+      "initial_stop": 0.07343683545759647,
+      "R": 0.002908430542403532,
       "targets": [],
-      "high_since_entry": 0.989,
-      "low_since_entry": 0.976,
-      "exit_deadline": "2026-11-18 20:30:00 MYT",
+      "high_since_entry": 0.07878,
+      "low_since_entry": 0.0754,
+      "exit_deadline": "2026-11-18 21:30:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-17 21:29:33 MYT"
+  "paper_updated_at": "2026-11-17 21:34:54 MYT"
 }
