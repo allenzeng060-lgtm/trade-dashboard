@@ -428,3 +428,10 @@
 {"time": "2026-11-17 11:30:44 MYT", "kind": "open", "symbol": "WLDUSDT", "side": "BUY", "entry": 0.26475294, "stop": 0.26202775313266147, "qty": 90.0, "lev": 3, "liq": 0.17828481, "risk": 0.269}
 {"time": "2026-11-17 11:35:28 MYT", "kind": "trail_update", "symbol": "AAVEUSDT", "stop": 112.65231888481205, "best": 113.66}
 {"time": "2026-11-17 11:40:32 MYT", "kind": "trail_update", "symbol": "INJUSDT", "stop": 7.187259955965704, "best": 7.283}
+{"time": "2026-11-17 11:45:31 MYT", "kind": "close", "symbol": "HUMAUSDT", "reason": "stop", "fill": 0.009033448660021556, "net": -0.4216, "R": -0.87}
+{"time": "2026-11-17 11:45:32 MYT", "kind": "close", "symbol": "AAVEUSDT", "reason": "trail_stop", "fill": 112.62978842103509, "net": 0.2771, "R": 1.24}
+{"time": "2026-11-17 11:45:34 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64882.87, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-17 11:45:47 MYT", "kind": "scan", "bar_close": "2026-11-17 11:45:00 MYT", "breakouts": 4, "vol_ok": 3, "allow": "ANY"}
+{"time": "2026-11-17 11:45:48 MYT", "kind": "skip", "symbol": "BLESSUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 4.74, "reason": "stop distance 13.71% > 10%"}
+{"time": "2026-11-17 11:45:48 MYT", "kind": "open", "symbol": "VVVUSDT", "side": "BUY", "entry": 21.0072006, "stop": 20.68437101744807, "qty": 1.1300000000000001, "lev": 3, "liq": 14.29061265, "risk": 0.388}
+{"time": "2026-11-17 11:45:48 MYT", "kind": "open", "symbol": "ONUSDT", "side": "BUY", "entry": 0.10842167999999999, "stop": 0.10484637187498508, "qty": 129.0, "lev": 2, "liq": 0.05503639, "risk": 0.475}
