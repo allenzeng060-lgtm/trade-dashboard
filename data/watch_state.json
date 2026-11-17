@@ -284,26 +284,6 @@
       "group": "合約高頻組"
     },
     {
-      "id": "FHF-20261117-1715-TAOUSDT",
-      "symbol": "TAOUSDT",
-      "side": "SELL",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 190.481896,
-      "entry_time": "2026-11-17 17:15:00 MYT",
-      "qty": 0.12,
-      "remaining_qty": 0.12,
-      "stop": 192.0113669890957,
-      "initial_stop": 192.0113669890957,
-      "R": 1.5294709890957099,
-      "targets": [],
-      "high_since_entry": 191.62,
-      "low_since_entry": 189.35,
-      "exit_deadline": "2026-11-18 17:15:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
       "id": "FHF-20261117-1730-FILUSDT",
       "symbol": "FILUSDT",
       "side": "SELL",
@@ -357,12 +337,12 @@
       "initial_stop": 0.1499883036722521,
       "R": 0.007036899672252089,
       "targets": [],
-      "high_since_entry": 0.1455,
+      "high_since_entry": 0.14658,
       "low_since_entry": 0.14015,
       "exit_deadline": "2026-11-18 18:45:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-17 19:08:40 MYT"
+  "paper_updated_at": "2026-11-17 19:13:40 MYT"
 }

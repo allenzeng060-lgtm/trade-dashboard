@@ -3,7 +3,7 @@
   "set": "15m",
   "mode": "paper",
   "rules": "hf-15m-v0.1",
-  "updated_at": "2026-11-17 19:08:38 MYT",
+  "updated_at": "2026-11-17 19:13:38 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -16,10 +16,10 @@
     "slip": 0.0002,
     "regime": "none"
   },
-  "wallet_usdt": 91.4453,
-  "unrealized_usdt": 0.8792,
-  "equity_usdt": 92.3246,
-  "pnl_pct": -7.675,
+  "wallet_usdt": 91.2342,
+  "unrealized_usdt": 1.0392,
+  "equity_usdt": 92.2734,
+  "pnl_pct": -7.727,
   "regime": {
     "allow": "ANY",
     "btc_close": 64740.14,
@@ -155,7 +155,7 @@
       "R": 0.0009588951577858478,
       "trail_armed": false,
       "funding": -0.00424935,
-      "last_price": 0.04484,
+      "last_price": 0.04493,
       "exit_deadline": "2026-11-18 02:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.77
@@ -176,7 +176,7 @@
       "R": 0.04658608557056221,
       "trail_armed": false,
       "funding": 0.00443816,
-      "last_price": 2.392,
+      "last_price": 2.399,
       "exit_deadline": "2026-11-18 07:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.01
@@ -197,7 +197,7 @@
       "R": 0.002725186867338522,
       "trail_armed": false,
       "funding": 0.00361754,
-      "last_price": 0.2643,
+      "last_price": 0.2661,
       "exit_deadline": "2026-11-18 11:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.63
@@ -218,7 +218,7 @@
       "R": 0.3228295825519326,
       "trail_armed": false,
       "funding": -0.00241028,
-      "last_price": 21.123,
+      "last_price": 21.216,
       "exit_deadline": "2026-11-18 11:45:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.22
@@ -239,31 +239,10 @@
       "R": 0.0041255181993001405,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 0.0976,
+      "last_price": 0.0982,
       "exit_deadline": "2026-11-18 17:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.52
-    },
-    {
-      "id": "FHF-20261117-1715-TAOUSDT",
-      "symbol": "TAOUSDT",
-      "side": "SELL",
-      "entry_time": "2026-11-17 17:15:00 MYT",
-      "entry_price": 190.481896,
-      "qty": 0.12,
-      "notional": 22.85782752,
-      "leverage": 3,
-      "margin": 7.61927584,
-      "liq_price": 251.46124884,
-      "stop": 192.0113669890957,
-      "initial_stop": 192.0113669890957,
-      "R": 1.5294709890957099,
-      "trail_armed": false,
-      "funding": 0.0,
-      "last_price": 191.45,
-      "exit_deadline": "2026-11-18 17:15:00 MYT",
-      "signal_tf": "15m",
-      "vol_ratio": 2.02
     },
     {
       "id": "FHF-20261117-1730-FILUSDT",
@@ -281,7 +260,7 @@
       "R": 0.005664930380409621,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 0.6017,
+      "last_price": 0.6039,
       "exit_deadline": "2026-11-18 17:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.04
@@ -302,7 +281,7 @@
       "R": 11.849483046600824,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 1793.92,
+      "last_price": 1799.38,
       "exit_deadline": "2026-11-18 18:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.44
@@ -323,7 +302,7 @@
       "R": 0.007036899672252089,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 0.1439,
+      "last_price": 0.14376,
       "exit_deadline": "2026-11-18 18:45:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.13
