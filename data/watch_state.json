@@ -298,7 +298,7 @@
       "R": 0.002725186867338522,
       "targets": [],
       "high_since_entry": 0.2659,
-      "low_since_entry": 0.2642,
+      "low_since_entry": 0.264,
       "exit_deadline": "2026-11-18 11:30:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
@@ -317,32 +317,12 @@
       "initial_stop": 20.68437101744807,
       "R": 0.3228295825519326,
       "targets": [],
-      "high_since_entry": 21.102,
+      "high_since_entry": 21.228,
       "low_since_entry": 20.972,
-      "exit_deadline": "2026-11-18 11:45:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
-      "id": "FHF-20261117-1145-ONUSDT",
-      "symbol": "ONUSDT",
-      "side": "BUY",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 0.10842167999999999,
-      "entry_time": "2026-11-17 11:45:00 MYT",
-      "qty": 129.0,
-      "remaining_qty": 129.0,
-      "stop": 0.10484637187498508,
-      "initial_stop": 0.10484637187498508,
-      "R": 0.0035753081250149204,
-      "targets": [],
-      "high_since_entry": 0.1092,
-      "low_since_entry": 0.1057,
       "exit_deadline": "2026-11-18 11:45:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-17 11:50:36 MYT"
+  "paper_updated_at": "2026-11-17 11:55:47 MYT"
 }

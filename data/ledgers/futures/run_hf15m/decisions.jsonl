@@ -436,3 +436,4 @@
 {"time": "2026-11-17 11:45:48 MYT", "kind": "open", "symbol": "VVVUSDT", "side": "BUY", "entry": 21.0072006, "stop": 20.68437101744807, "qty": 1.1300000000000001, "lev": 3, "liq": 14.29061265, "risk": 0.388}
 {"time": "2026-11-17 11:45:48 MYT", "kind": "open", "symbol": "ONUSDT", "side": "BUY", "entry": 0.10842167999999999, "stop": 0.10484637187498508, "qty": 129.0, "lev": 2, "liq": 0.05503639, "risk": 0.475}
 {"time": "2026-11-17 11:50:34 MYT", "kind": "close", "symbol": "INJUSDT", "reason": "trail_stop", "fill": 7.185822503974511, "net": 0.2946, "R": 0.87}
+{"time": "2026-11-17 11:55:45 MYT", "kind": "close", "symbol": "ONUSDT", "reason": "stop", "fill": 0.10482540260061009, "net": -0.4777, "R": -1.01}
