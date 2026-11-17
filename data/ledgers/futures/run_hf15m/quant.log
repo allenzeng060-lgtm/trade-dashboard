@@ -327,3 +327,5 @@
 2026-11-17 02:35:22,919 INFO decision open {"symbol": "BULLAUSDT", "side": "SELL", "entry": 0.016016796, "stop": 0.01731771598818295, "qty": 365.0, "lev": 1, "liq": 0.03050818, "risk": 0.481}
 2026-11-17 02:50:13,862 INFO decision regime {"allow": "ANY", "btc_close": 64882.87, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
 2026-11-17 02:50:24,461 INFO decision scan {"bar_close": "2026-11-17 10:45:00 MYT", "breakouts": 3, "vol_ok": 0, "allow": "ANY"}
+2026-11-17 03:00:03,328 INFO decision funding {"symbol": "HUMAUSDT", "rate": "-0.00053348", "amount": 0.004611, "at": "2026-11-17 11:00:00 MYT"}
+2026-11-17 03:00:05,287 INFO decision close {"symbol": "BLESSUSDT", "reason": "stop", "fill": 0.017935046644653667, "net": -0.4822, "R": -1.0}

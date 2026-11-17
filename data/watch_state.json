@@ -258,7 +258,7 @@
       "R": 3.882182528186357e-05,
       "targets": [],
       "high_since_entry": 0.00279,
-      "low_since_entry": 0.002738,
+      "low_since_entry": 0.002737,
       "exit_deadline": "2026-11-18 09:15:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
@@ -304,26 +304,6 @@
       "group": "合約高頻組"
     },
     {
-      "id": "FHF-20261117-1030-BLESSUSDT",
-      "symbol": "BLESSUSDT",
-      "side": "SELL",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 0.016709657399999998,
-      "entry_time": "2026-11-17 10:30:00 MYT",
-      "qty": 388.0,
-      "remaining_qty": 388.0,
-      "stop": 0.01793146035258315,
-      "initial_stop": 0.01793146035258315,
-      "R": 0.0012218029525831527,
-      "targets": [],
-      "high_since_entry": 0.017758,
-      "low_since_entry": 0.015842,
-      "exit_deadline": "2026-11-18 10:30:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
       "id": "FHF-20261117-1030-BULLAUSDT",
       "symbol": "BULLAUSDT",
       "side": "SELL",
@@ -344,5 +324,5 @@
       "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-17 10:55:29 MYT"
+  "paper_updated_at": "2026-11-17 11:00:07 MYT"
 }

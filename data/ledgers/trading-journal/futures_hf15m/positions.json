@@ -5,7 +5,7 @@
   "rules": "hf-15m-v0.1",
   "cycle": 1,
   "start_equity_usdt": 100.0,
-  "wallet_usdt": 96.352066,
+  "wallet_usdt": 95.869894,
   "created": "2026-11-16 03:06:21 MYT",
   "positions": [
     {
@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 02:30:00 MYT",
-      "last_check_ms": 1794884125155,
-      "last_price": 0.04483,
+      "last_check_ms": 1794884402996,
+      "last_price": 0.0449,
       "last_funding_ms": 1794873600000
     },
     {
@@ -83,16 +83,16 @@
       "stop_pct": 5.34,
       "risk_usdt": 0.48261696302236756,
       "entry_fee": 0.004438382499,
-      "funding": 0.05807663,
+      "funding": 0.06268772,
       "best": 0.010394,
       "high_since_entry": 0.010394,
       "low_since_entry": 0.009071,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 04:30:00 MYT",
-      "last_check_ms": 1794884125370,
-      "last_price": 0.009411,
-      "last_funding_ms": 1794880800000
+      "last_check_ms": 1794884403219,
+      "last_price": 0.009294,
+      "last_funding_ms": 1794884400003
     },
     {
       "id": "FHF-20261117-0715-ICPUSDT",
@@ -133,8 +133,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 07:15:00 MYT",
-      "last_check_ms": 1794884125586,
-      "last_price": 2.459,
+      "last_check_ms": 1794884403623,
+      "last_price": 2.473,
       "last_funding_ms": 1794873600000
     },
     {
@@ -170,14 +170,14 @@
       "risk_usdt": 0.36226746422414524,
       "entry_fee": 0.0120189897212,
       "funding": 0.0,
-      "best": 0.002738,
+      "best": 0.002737,
       "high_since_entry": 0.00279,
-      "low_since_entry": 0.002738,
+      "low_since_entry": 0.002737,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 09:15:00 MYT",
-      "last_check_ms": 1794884125995,
-      "last_price": 0.002747
+      "last_check_ms": 1794884403845,
+      "last_price": 0.002749
     },
     {
       "id": "FHF-20261117-0945-BTWUSDT",
@@ -218,8 +218,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 09:45:00 MYT",
-      "last_check_ms": 1794884126397,
-      "last_price": 0.3435
+      "last_check_ms": 1794884404249,
+      "last_price": 0.3422
     },
     {
       "id": "FHF-20261117-1015-ZROUSDT",
@@ -260,50 +260,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 10:15:00 MYT",
-      "last_check_ms": 1794884126618,
-      "last_price": 1.5252
-    },
-    {
-      "id": "FHF-20261117-1030-BLESSUSDT",
-      "symbol": "BLESSUSDT",
-      "side": "SELL",
-      "rules": "hf-15m-v0.1",
-      "cycle": 1,
-      "slippage": 0.0002,
-      "mode": "paper",
-      "status": "open",
-      "group": "合約高頻組",
-      "market": "usdm_perp",
-      "margin_type": "isolated",
-      "signal_tf": "15m",
-      "signal_bar_close_myt": "2026-11-17 10:30:00 MYT",
-      "vol_ratio": 4.63,
-      "breakout_level": 0.01758,
-      "entry_time": "2026-11-17 10:30:00 MYT",
-      "entry_ms": 1794882600000,
-      "entry_price": 0.016709657399999998,
-      "qty": 388.0,
-      "remaining_qty": 388.0,
-      "notional": 6.483347071199999,
-      "leverage": 1,
-      "margin": 6.483347071199999,
-      "liq_price": 0.03276403,
-      "mmr": 0.02,
-      "stop": 0.01793146035258315,
-      "initial_stop": 0.01793146035258315,
-      "R": 0.0012218029525831527,
-      "stop_pct": 7.312,
-      "risk_usdt": 0.4807799224462644,
-      "entry_fee": 0.0032416735355999997,
-      "funding": 0.0,
-      "best": 0.015842,
-      "high_since_entry": 0.017758,
-      "low_since_entry": 0.015842,
-      "trail_armed": false,
-      "targets": [],
-      "exit_deadline": "2026-11-18 10:30:00 MYT",
-      "last_check_ms": 1794884126837,
-      "last_price": 0.017398
+      "last_check_ms": 1794884404467,
+      "last_price": 1.5304
     },
     {
       "id": "FHF-20261117-1030-BULLAUSDT",
@@ -344,8 +302,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 10:30:00 MYT",
-      "last_check_ms": 1794884127237,
-      "last_price": 0.01587
+      "last_check_ms": 1794884405291,
+      "last_price": 0.01586
     }
   ]
 }
