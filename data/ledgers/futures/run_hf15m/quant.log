@@ -303,3 +303,6 @@
 2026-11-17 01:04:50,983 INFO decision funding {"symbol": "HUMAUSDT", "rate": "-0.00098092", "amount": 0.008573, "at": "2026-11-17 09:00:00 MYT"}
 2026-11-17 01:04:52,930 INFO decision regime {"allow": "ANY", "btc_close": 64882.87, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
 2026-11-17 01:05:07,723 INFO decision scan {"bar_close": "2026-11-17 09:00:00 MYT", "breakouts": 4, "vol_ok": 0, "allow": "ANY"}
+2026-11-17 01:16:04,402 INFO decision regime {"allow": "ANY", "btc_close": 64882.87, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+2026-11-17 01:16:13,164 INFO decision scan {"bar_close": "2026-11-17 09:15:00 MYT", "breakouts": 4, "vol_ok": 1, "allow": "ANY"}
+2026-11-17 01:16:13,681 INFO decision open {"symbol": "PUMPUSDT", "side": "SELL", "entry": 0.0027604478, "stop": 0.0027992696252818637, "qty": 8708.0, "lev": 3, "liq": 0.00364416, "risk": 0.362}
