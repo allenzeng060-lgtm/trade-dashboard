@@ -484,3 +484,4 @@
 2026-11-17 10:33:39,450 INFO decision scan {"bar_close": "2026-11-17 18:30:00 MYT", "breakouts": 5, "vol_ok": 2, "allow": "ANY"}
 2026-11-17 10:33:39,450 INFO decision skip {"symbol": "ETHUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.61, "reason": "already holding"}
 2026-11-17 10:33:40,182 INFO decision open {"symbol": "PIEVERSEUSDT", "side": "SELL", "entry": 1.79234146, "stop": 1.829924270972865, "qty": 11.0, "lev": 3, "liq": 2.33150109, "risk": 0.433}
+2026-11-17 10:38:27,858 INFO decision close {"symbol": "PIEVERSEUSDT", "reason": "stop", "fill": 1.8302902558270595, "net": -0.4374, "R": -1.01}
