@@ -177,7 +177,7 @@
       "initial_stop": 0.010468460509220427,
       "R": 0.0008093927092204283,
       "targets": [],
-      "high_since_entry": 0.009823,
+      "high_since_entry": 0.009829,
       "low_since_entry": 0.009429,
       "exit_deadline": "2026-11-19 09:00:00 MYT",
       "market": "usdm_perp",
@@ -278,7 +278,7 @@
       "R": 0.002725186867338522,
       "targets": [],
       "high_since_entry": 0.2659,
-      "low_since_entry": 0.2639,
+      "low_since_entry": 0.2633,
       "exit_deadline": "2026-11-18 11:30:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
@@ -302,47 +302,7 @@
       "exit_deadline": "2026-11-18 11:45:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
-    },
-    {
-      "id": "FHF-20261117-1200-NEARUSDT",
-      "symbol": "NEARUSDT",
-      "side": "BUY",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 3.2786556,
-      "entry_time": "2026-11-17 12:00:00 MYT",
-      "qty": 7.0,
-      "remaining_qty": 7.0,
-      "stop": 3.23815607261625,
-      "initial_stop": 3.23815607261625,
-      "R": 0.040499527383749866,
-      "targets": [],
-      "high_since_entry": 3.279,
-      "low_since_entry": 3.244,
-      "exit_deadline": "2026-11-18 12:00:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
-      "id": "FHF-20261117-1215-AKEUSDT",
-      "symbol": "AKEUSDT",
-      "side": "BUY",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 0.010772153999999999,
-      "entry_time": "2026-11-17 12:15:00 MYT",
-      "qty": 1055.0,
-      "remaining_qty": 1055.0,
-      "stop": 0.010334249356729166,
-      "initial_stop": 0.010334249356729166,
-      "R": 0.00043790464327083387,
-      "targets": [],
-      "high_since_entry": 0.010806,
-      "low_since_entry": 0.010353,
-      "exit_deadline": "2026-11-18 12:15:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-17 12:26:08 MYT"
+  "paper_updated_at": "2026-11-17 12:31:12 MYT"
 }
