@@ -8,61 +8,29 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-17 17:33:10 MYT",
-    "bar_close": "2026-11-17 17:30:00 MYT",
+    "time": "2026-11-17 17:48:23 MYT",
+    "bar_close": "2026-11-17 17:45:00 MYT",
     "universe": 69,
     "breakouts": [
       {
-        "symbol": "DOGEUSDT",
-        "side": "SELL",
+        "symbol": "XMRUSDT",
+        "side": "BUY",
         "tf": "15m",
-        "level": 0.0585,
-        "close": 0.0585,
-        "vol_ratio": 1.0952
+        "level": 509.74,
+        "close": 510.8,
+        "vol_ratio": 0.899
       },
       {
-        "symbol": "DOTUSDT",
+        "symbol": "ICPUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 0.7275,
-        "close": 0.726,
-        "vol_ratio": 1.1024
-      },
-      {
-        "symbol": "FILUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 0.6036,
-        "close": 0.6029,
-        "vol_ratio": 3.0449
-      },
-      {
-        "symbol": "1000PEPEUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 0.0038,
-        "close": 0.0038,
-        "vol_ratio": 1.3794
-      },
-      {
-        "symbol": "BULLAUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 0.0127,
-        "close": 0.0124,
-        "vol_ratio": 0.5283
-      },
-      {
-        "symbol": "SPACEUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 0.0035,
-        "close": 0.0035,
-        "vol_ratio": 0.8741
+        "level": 2.422,
+        "close": 2.418,
+        "vol_ratio": 0.5905
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794907800000,
+  "last_scan_bar_ms": 1794908700000,
   "last_equity_ts": 1794907990.9639125
 }
