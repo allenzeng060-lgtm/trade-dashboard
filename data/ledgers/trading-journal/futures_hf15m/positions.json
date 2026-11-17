@@ -42,13 +42,13 @@
       "entry_fee": 0.011023794800000002,
       "funding": 0.0,
       "best": 109.42,
-      "high_since_entry": 111.83,
+      "high_since_entry": 111.89,
       "low_since_entry": 109.42,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 01:00:00 MYT",
-      "last_check_ms": 1794955098475,
-      "last_price": 111.69
+      "last_check_ms": 1794955400713,
+      "last_price": 111.73
     },
     {
       "id": "FHF-20261118-0530-ONDOUSDT",
@@ -89,8 +89,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794955098795,
-      "last_price": 0.3084
+      "last_check_ms": 1794955401095,
+      "last_price": 0.3086
     },
     {
       "id": "FHF-20261118-0530-ADAUSDT",
@@ -131,8 +131,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794955099122,
-      "last_price": 0.1544
+      "last_check_ms": 1794955401412,
+      "last_price": 0.1545
     },
     {
       "id": "FHF-20261118-0530-XRPUSDT",
@@ -173,8 +173,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794955099448,
-      "last_price": 0.9722
+      "last_check_ms": 1794955401725,
+      "last_price": 0.9723
     },
     {
       "id": "FHF-20261118-0530-AVAXUSDT",
@@ -215,8 +215,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794955099764,
-      "last_price": 7.195
+      "last_check_ms": 1794955402042,
+      "last_price": 7.202
     }
   ]
 }
