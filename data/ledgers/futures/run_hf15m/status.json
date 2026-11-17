@@ -3,7 +3,7 @@
   "set": "15m",
   "mode": "paper",
   "rules": "hf-15m-v0.1",
-  "updated_at": "2026-11-17 16:42:36 MYT",
+  "updated_at": "2026-11-17 16:47:51 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -17,9 +17,9 @@
     "regime": "none"
   },
   "wallet_usdt": 91.7701,
-  "unrealized_usdt": 1.1616,
-  "equity_usdt": 92.9317,
-  "pnl_pct": -7.068,
+  "unrealized_usdt": 1.239,
+  "equity_usdt": 93.009,
+  "pnl_pct": -6.991,
   "regime": {
     "allow": "ANY",
     "btc_close": 64740.14,
@@ -27,17 +27,17 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-17 16:32:54 MYT",
-    "bar_close": "2026-11-17 16:30:00 MYT",
+    "time": "2026-11-17 16:47:49 MYT",
+    "bar_close": "2026-11-17 16:45:00 MYT",
     "universe": 70,
     "breakouts": [
       {
         "symbol": "XMRUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 503.52,
-        "close": 506.66,
-        "vol_ratio": 1.3906
+        "level": 506.66,
+        "close": 507.91,
+        "vol_ratio": 0.943
       },
       {
         "symbol": "1000PEPEUSDT",
@@ -45,31 +45,31 @@
         "tf": "15m",
         "level": 0.0039,
         "close": 0.0039,
-        "vol_ratio": 0.7236
+        "vol_ratio": 1.6539
       },
       {
         "symbol": "INITUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 0.0969,
-        "close": 0.0965,
-        "vol_ratio": 0.824
+        "level": 0.0962,
+        "close": 0.0955,
+        "vol_ratio": 0.9733
       },
       {
-        "symbol": "SPACEUSDT",
+        "symbol": "AIOTUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 0.0036,
-        "close": 0.0036,
-        "vol_ratio": 0.5468
+        "level": 0.0778,
+        "close": 0.0765,
+        "vol_ratio": 0.7889
       },
       {
-        "symbol": "BTWUSDT",
-        "side": "BUY",
+        "symbol": "HYPEUSDT",
+        "side": "SELL",
         "tf": "15m",
-        "level": 0.4866,
-        "close": 0.525,
-        "vol_ratio": 5.4598
+        "level": 69.12,
+        "close": 69.084,
+        "vol_ratio": 1.0426
       }
     ],
     "regime": "ANY"
@@ -91,7 +91,7 @@
       "R": 0.0009588951577858478,
       "trail_armed": false,
       "funding": -0.00424935,
-      "last_price": 0.04494,
+      "last_price": 0.04491,
       "exit_deadline": "2026-11-18 02:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.77
@@ -112,7 +112,7 @@
       "R": 0.04658608557056221,
       "trail_armed": false,
       "funding": 0.00443816,
-      "last_price": 2.443,
+      "last_price": 2.444,
       "exit_deadline": "2026-11-18 07:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.01
@@ -133,7 +133,7 @@
       "R": 0.022584297874237637,
       "trail_armed": false,
       "funding": -0.00241715,
-      "last_price": 1.4977,
+      "last_price": 1.4956,
       "exit_deadline": "2026-11-18 10:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.39
@@ -154,7 +154,7 @@
       "R": 0.0013009199881829515,
       "trail_armed": true,
       "funding": 0.00060646,
-      "last_price": 0.01328,
+      "last_price": 0.01325,
       "exit_deadline": "2026-11-18 10:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.24
@@ -175,7 +175,7 @@
       "R": 0.002725186867338522,
       "trail_armed": false,
       "funding": 0.00361754,
-      "last_price": 0.2659,
+      "last_price": 0.266,
       "exit_deadline": "2026-11-18 11:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.63
@@ -196,7 +196,7 @@
       "R": 0.3228295825519326,
       "trail_armed": false,
       "funding": -0.00241028,
-      "last_price": 21.26,
+      "last_price": 21.217,
       "exit_deadline": "2026-11-18 11:45:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.22
@@ -217,7 +217,7 @@
       "R": 0.0374632147832835,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 0.5029,
+      "last_price": 0.5139,
       "exit_deadline": "2026-11-18 16:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 5.46
