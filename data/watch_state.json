@@ -278,7 +278,7 @@
       "R": 1.7029877628917702,
       "targets": [],
       "high_since_entry": 111.31,
-      "low_since_entry": 110.05,
+      "low_since_entry": 109.72,
       "exit_deadline": "2026-11-19 01:00:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
@@ -302,7 +302,27 @@
       "exit_deadline": "2026-11-19 01:00:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
+    },
+    {
+      "id": "FHF-20261118-0130-MMTUSDT",
+      "symbol": "MMTUSDT",
+      "side": "BUY",
+      "mode": "paper",
+      "status": "open",
+      "entry_price": 0.14582916,
+      "entry_time": "2026-11-18 01:30:00 MYT",
+      "qty": 50.0,
+      "remaining_qty": 50.0,
+      "stop": 0.1369322056895957,
+      "initial_stop": 0.1369322056895957,
+      "R": 0.00889695431040434,
+      "targets": [],
+      "high_since_entry": 0.1488,
+      "low_since_entry": 0.1438,
+      "exit_deadline": "2026-11-19 01:30:00 MYT",
+      "market": "usdm_perp",
+      "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-18 01:26:10 MYT"
+  "paper_updated_at": "2026-11-18 01:31:30 MYT"
 }

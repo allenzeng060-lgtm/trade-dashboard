@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 17:15:00 MYT",
-      "last_check_ms": 1794936367360,
-      "last_price": 0.1023,
+      "last_check_ms": 1794936686029,
+      "last_price": 0.1018,
       "last_funding_ms": 1794931200000
     },
     {
@@ -90,8 +90,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 23:15:00 MYT",
-      "last_check_ms": 1794936367649,
-      "last_price": 0.547,
+      "last_check_ms": 1794936686317,
+      "last_price": 0.5462,
       "last_funding_ms": 1794931200000
     },
     {
@@ -133,8 +133,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 23:45:00 MYT",
-      "last_check_ms": 1794936367941,
-      "last_price": 1785.91,
+      "last_check_ms": 1794936686859,
+      "last_price": 1783.4,
       "last_funding_ms": 1794931200000
     },
     {
@@ -176,8 +176,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 00:00:00 MYT",
-      "last_check_ms": 1794936368236,
-      "last_price": 0.5855
+      "last_check_ms": 1794936687402,
+      "last_price": 0.5841
     },
     {
       "id": "FHF-20261118-0100-AAVEUSDT",
@@ -212,14 +212,14 @@
       "risk_usdt": 0.36281544095464324,
       "entry_fee": 0.011023794800000002,
       "funding": 0.0,
-      "best": 110.05,
+      "best": 109.72,
       "high_since_entry": 111.31,
-      "low_since_entry": 110.05,
+      "low_since_entry": 109.72,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 01:00:00 MYT",
-      "last_check_ms": 1794936368533,
-      "last_price": 110.22
+      "last_check_ms": 1794936687684,
+      "last_price": 109.91
     },
     {
       "id": "FHF-20261118-0100-ZROUSDT",
@@ -260,8 +260,50 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 01:00:00 MYT",
-      "last_check_ms": 1794936368830,
-      "last_price": 1.4175
+      "last_check_ms": 1794936687973,
+      "last_price": 1.4146
+    },
+    {
+      "id": "FHF-20261118-0130-MMTUSDT",
+      "symbol": "MMTUSDT",
+      "side": "BUY",
+      "rules": "hf-15m-v0.1",
+      "cycle": 1,
+      "slippage": 0.0002,
+      "mode": "paper",
+      "status": "open",
+      "group": "合約高頻組",
+      "market": "usdm_perp",
+      "margin_type": "isolated",
+      "signal_tf": "15m",
+      "signal_bar_close_myt": "2026-11-18 01:30:00 MYT",
+      "vol_ratio": 7.3,
+      "breakout_level": 0.1439,
+      "entry_time": "2026-11-18 01:30:00 MYT",
+      "entry_ms": 1794936600000,
+      "entry_price": 0.14582916,
+      "qty": 50.0,
+      "remaining_qty": 50.0,
+      "notional": 7.291458,
+      "leverage": 1,
+      "margin": 7.291458,
+      "liq_price": 0.0,
+      "mmr": 0.015,
+      "stop": 0.1369322056895957,
+      "initial_stop": 0.1369322056895957,
+      "R": 0.00889695431040434,
+      "stop_pct": 6.101,
+      "risk_usdt": 0.4519167496624569,
+      "entry_fee": 0.0036457290000000003,
+      "funding": 0.0,
+      "best": 0.1488,
+      "high_since_entry": 0.1488,
+      "low_since_entry": 0.1438,
+      "trail_armed": false,
+      "targets": [],
+      "exit_deadline": "2026-11-19 01:30:00 MYT",
+      "last_check_ms": 1794936688502,
+      "last_price": 0.1476
     }
   ]
 }
