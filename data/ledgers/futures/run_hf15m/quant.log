@@ -738,3 +738,5 @@
 2026-11-17 21:48:11,726 INFO decision scan {"bar_close": "2026-11-18 05:45:00 MYT", "breakouts": 1, "vol_ok": 0, "allow": "ANY"}
 2026-11-17 22:03:27,969 INFO decision regime {"allow": "ANY", "btc_close": 63753.75, "ref": 67568.0, "new_low": true, "reason": "both directions allowed (hf set; BTC filter only reported)"}
 2026-11-17 22:03:41,046 INFO decision scan {"bar_close": "2026-11-18 06:00:00 MYT", "breakouts": 1, "vol_ok": 0, "allow": "ANY"}
+2026-11-17 22:18:12,607 INFO decision regime {"allow": "ANY", "btc_close": 63753.75, "ref": 67568.0, "new_low": true, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+2026-11-17 22:18:21,782 INFO decision scan {"bar_close": "2026-11-18 06:15:00 MYT", "breakouts": 2, "vol_ok": 0, "allow": "ANY"}
