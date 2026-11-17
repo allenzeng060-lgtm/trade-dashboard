@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 02:30:00 MYT",
-      "last_check_ms": 1794890455345,
-      "last_price": 0.04527,
+      "last_check_ms": 1794890778226,
+      "last_price": 0.04525,
       "last_funding_ms": 1794888000002
     },
     {
@@ -90,8 +90,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 07:15:00 MYT",
-      "last_check_ms": 1794890455564,
-      "last_price": 2.458,
+      "last_check_ms": 1794890778438,
+      "last_price": 2.453,
       "last_funding_ms": 1794873600000
     },
     {
@@ -133,8 +133,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 10:15:00 MYT",
-      "last_check_ms": 1794890455784,
-      "last_price": 1.519,
+      "last_check_ms": 1794890778649,
+      "last_price": 1.517,
       "last_funding_ms": 1794888000002
     },
     {
@@ -176,8 +176,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 10:30:00 MYT",
-      "last_check_ms": 1794890456188,
-      "last_price": 0.01512,
+      "last_check_ms": 1794890778861,
+      "last_price": 0.01517,
       "last_funding_ms": 1794888000002
     },
     {
@@ -219,8 +219,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 11:30:00 MYT",
-      "last_check_ms": 1794890456412,
-      "last_price": 0.265
+      "last_check_ms": 1794890779072,
+      "last_price": 0.2651
     },
     {
       "id": "FHF-20261117-1145-VVVUSDT",
@@ -255,15 +255,57 @@
       "risk_usdt": 0.38835316624754207,
       "entry_fee": 0.011869068339000002,
       "funding": -0.00119786,
-      "best": 21.284,
-      "high_since_entry": 21.284,
+      "best": 21.324,
+      "high_since_entry": 21.324,
       "low_since_entry": 20.972,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 11:45:00 MYT",
-      "last_check_ms": 1794890456635,
-      "last_price": 21.251,
+      "last_check_ms": 1794890779288,
+      "last_price": 21.279,
       "last_funding_ms": 1794888000002
+    },
+    {
+      "id": "FHF-20261117-1245-TRUMPUSDT",
+      "symbol": "TRUMPUSDT",
+      "side": "BUY",
+      "rules": "hf-15m-v0.1",
+      "cycle": 1,
+      "slippage": 0.0002,
+      "mode": "paper",
+      "status": "open",
+      "group": "合約高頻組",
+      "market": "usdm_perp",
+      "margin_type": "isolated",
+      "signal_tf": "15m",
+      "signal_bar_close_myt": "2026-11-17 12:45:00 MYT",
+      "vol_ratio": 2.01,
+      "breakout_level": 0.965,
+      "entry_time": "2026-11-17 12:45:00 MYT",
+      "entry_ms": 1794890700000,
+      "entry_price": 0.9711942,
+      "qty": 24.17,
+      "remaining_qty": 24.17,
+      "notional": 23.473763814,
+      "leverage": 3,
+      "margin": 7.8245879380000005,
+      "liq_price": 0.65400283,
+      "mmr": 0.01,
+      "stop": 0.9604703433033548,
+      "initial_stop": 0.9604703433033548,
+      "R": 0.010723856696645207,
+      "stop_pct": 1.104,
+      "risk_usdt": 0.2825397823637357,
+      "entry_fee": 0.011736881907,
+      "funding": 0.0,
+      "best": 0.972,
+      "high_since_entry": 0.972,
+      "low_since_entry": 0.97,
+      "trail_armed": false,
+      "targets": [],
+      "exit_deadline": "2026-11-18 12:45:00 MYT",
+      "last_check_ms": 1794890779507,
+      "last_price": 0.972
     }
   ]
 }

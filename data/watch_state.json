@@ -297,12 +297,32 @@
       "initial_stop": 20.68437101744807,
       "R": 0.3228295825519326,
       "targets": [],
-      "high_since_entry": 21.284,
+      "high_since_entry": 21.324,
       "low_since_entry": 20.972,
       "exit_deadline": "2026-11-18 11:45:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
+    },
+    {
+      "id": "FHF-20261117-1245-TRUMPUSDT",
+      "symbol": "TRUMPUSDT",
+      "side": "BUY",
+      "mode": "paper",
+      "status": "open",
+      "entry_price": 0.9711942,
+      "entry_time": "2026-11-17 12:45:00 MYT",
+      "qty": 24.17,
+      "remaining_qty": 24.17,
+      "stop": 0.9604703433033548,
+      "initial_stop": 0.9604703433033548,
+      "R": 0.010723856696645207,
+      "targets": [],
+      "high_since_entry": 0.972,
+      "low_since_entry": 0.97,
+      "exit_deadline": "2026-11-18 12:45:00 MYT",
+      "market": "usdm_perp",
+      "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-17 12:40:58 MYT"
+  "paper_updated_at": "2026-11-17 12:46:21 MYT"
 }

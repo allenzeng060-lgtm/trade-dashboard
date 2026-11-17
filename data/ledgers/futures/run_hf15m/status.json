@@ -3,7 +3,7 @@
   "set": "15m",
   "mode": "paper",
   "rules": "hf-15m-v0.1",
-  "updated_at": "2026-11-17 12:40:57 MYT",
+  "updated_at": "2026-11-17 12:46:19 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -17,9 +17,9 @@
     "regime": "none"
   },
   "wallet_usdt": 93.915,
-  "unrealized_usdt": 1.0375,
-  "equity_usdt": 94.9525,
-  "pnl_pct": -5.048,
+  "unrealized_usdt": 1.0639,
+  "equity_usdt": 94.9789,
+  "pnl_pct": -5.021,
   "regime": {
     "allow": "ANY",
     "btc_close": 65056.52,
@@ -27,25 +27,49 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-17 12:31:08 MYT",
-    "bar_close": "2026-11-17 12:30:00 MYT",
+    "time": "2026-11-17 12:46:17 MYT",
+    "bar_close": "2026-11-17 12:45:00 MYT",
     "universe": 70,
     "breakouts": [
+      {
+        "symbol": "XMRUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 496.65,
+        "close": 498.96,
+        "vol_ratio": 0.6891
+      },
+      {
+        "symbol": "TAOUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 194.2,
+        "close": 194.61,
+        "vol_ratio": 0.8127
+      },
       {
         "symbol": "TRUMPUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.962,
-        "close": 0.963,
-        "vol_ratio": 1.4482
+        "level": 0.965,
+        "close": 0.971,
+        "vol_ratio": 2.0125
       },
       {
         "symbol": "BULLAUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 0.0156,
-        "close": 0.0153,
-        "vol_ratio": 2.0527
+        "level": 0.0152,
+        "close": 0.0151,
+        "vol_ratio": 0.8528
+      },
+      {
+        "symbol": "LITUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 3.0546,
+        "close": 3.0566,
+        "vol_ratio": 0.3605
       }
     ],
     "regime": "ANY"
@@ -67,7 +91,7 @@
       "R": 0.0009588951577858478,
       "trail_armed": false,
       "funding": -0.00318986,
-      "last_price": 0.04527,
+      "last_price": 0.04525,
       "exit_deadline": "2026-11-18 02:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.77
@@ -88,7 +112,7 @@
       "R": 0.04658608557056221,
       "trail_armed": false,
       "funding": 0.00224145,
-      "last_price": 2.458,
+      "last_price": 2.453,
       "exit_deadline": "2026-11-18 07:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.01
@@ -109,7 +133,7 @@
       "R": 0.022584297874237637,
       "trail_armed": false,
       "funding": -0.00121664,
-      "last_price": 1.519,
+      "last_price": 1.517,
       "exit_deadline": "2026-11-18 10:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.39
@@ -130,7 +154,7 @@
       "R": 0.0013009199881829515,
       "trail_armed": false,
       "funding": 0.00036605,
-      "last_price": 0.01512,
+      "last_price": 0.01517,
       "exit_deadline": "2026-11-18 10:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.24
@@ -151,7 +175,7 @@
       "R": 0.002725186867338522,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 0.265,
+      "last_price": 0.2651,
       "exit_deadline": "2026-11-18 11:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.63
@@ -172,10 +196,31 @@
       "R": 0.3228295825519326,
       "trail_armed": false,
       "funding": -0.00119786,
-      "last_price": 21.251,
+      "last_price": 21.279,
       "exit_deadline": "2026-11-18 11:45:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.22
+    },
+    {
+      "id": "FHF-20261117-1245-TRUMPUSDT",
+      "symbol": "TRUMPUSDT",
+      "side": "BUY",
+      "entry_time": "2026-11-17 12:45:00 MYT",
+      "entry_price": 0.9711942,
+      "qty": 24.17,
+      "notional": 23.473763814,
+      "leverage": 3,
+      "margin": 7.8245879380000005,
+      "liq_price": 0.65400283,
+      "stop": 0.9604703433033548,
+      "initial_stop": 0.9604703433033548,
+      "R": 0.010723856696645207,
+      "trail_armed": false,
+      "funding": 0.0,
+      "last_price": 0.972,
+      "exit_deadline": "2026-11-18 12:45:00 MYT",
+      "signal_tf": "15m",
+      "vol_ratio": 2.01
     }
   ],
   "data_source": "www.binance.com /fapi (public)"

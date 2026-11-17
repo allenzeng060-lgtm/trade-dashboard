@@ -8,29 +8,53 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-17 12:31:08 MYT",
-    "bar_close": "2026-11-17 12:30:00 MYT",
+    "time": "2026-11-17 12:46:17 MYT",
+    "bar_close": "2026-11-17 12:45:00 MYT",
     "universe": 70,
     "breakouts": [
+      {
+        "symbol": "XMRUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 496.65,
+        "close": 498.96,
+        "vol_ratio": 0.6891
+      },
+      {
+        "symbol": "TAOUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 194.2,
+        "close": 194.61,
+        "vol_ratio": 0.8127
+      },
       {
         "symbol": "TRUMPUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.962,
-        "close": 0.963,
-        "vol_ratio": 1.4482
+        "level": 0.965,
+        "close": 0.971,
+        "vol_ratio": 2.0125
       },
       {
         "symbol": "BULLAUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 0.0156,
-        "close": 0.0153,
-        "vol_ratio": 2.0527
+        "level": 0.0152,
+        "close": 0.0151,
+        "vol_ratio": 0.8528
+      },
+      {
+        "symbol": "LITUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 3.0546,
+        "close": 3.0566,
+        "vol_ratio": 0.3605
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794889800000,
-  "last_equity_ts": 1794889853.365392
+  "last_scan_bar_ms": 1794890700000,
+  "last_equity_ts": 1794890778.2260833
 }
