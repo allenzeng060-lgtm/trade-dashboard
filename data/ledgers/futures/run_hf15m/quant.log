@@ -679,3 +679,6 @@
 2026-11-17 17:31:26,028 INFO decision skip {"symbol": "VVVUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.43, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
 2026-11-17 17:46:20,636 INFO decision regime {"allow": "ANY", "btc_close": 64115.09, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
 2026-11-17 17:46:36,643 INFO decision scan {"bar_close": "2026-11-18 01:45:00 MYT", "breakouts": 0, "vol_ok": 0, "allow": "ANY"}
+2026-11-17 18:01:41,598 INFO decision regime {"allow": "ANY", "btc_close": 64115.09, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+2026-11-17 18:01:53,359 INFO decision scan {"bar_close": "2026-11-18 02:00:00 MYT", "breakouts": 2, "vol_ok": 1, "allow": "ANY"}
+2026-11-17 18:01:53,668 INFO decision open {"symbol": "KAVAUSDT", "side": "BUY", "entry": 0.029625924, "stop": 0.028585787940343044, "qty": 424.70000000000005, "lev": 2, "liq": 0.01503854, "risk": 0.454}

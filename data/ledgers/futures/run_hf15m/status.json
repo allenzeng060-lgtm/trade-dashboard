@@ -3,7 +3,7 @@
   "set": "15m",
   "mode": "paper",
   "rules": "hf-15m-v0.1",
-  "updated_at": "2026-11-18 01:56:22 MYT",
+  "updated_at": "2026-11-18 02:01:55 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -17,9 +17,9 @@
     "regime": "none"
   },
   "wallet_usdt": 90.8381,
-  "unrealized_usdt": -0.8552,
-  "equity_usdt": 89.9828,
-  "pnl_pct": -10.017,
+  "unrealized_usdt": -0.7159,
+  "equity_usdt": 90.1222,
+  "pnl_pct": -9.878,
   "regime": {
     "allow": "ANY",
     "btc_close": 64115.09,
@@ -27,10 +27,27 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-18 01:46:36 MYT",
-    "bar_close": "2026-11-18 01:45:00 MYT",
+    "time": "2026-11-18 02:01:53 MYT",
+    "bar_close": "2026-11-18 02:00:00 MYT",
     "universe": 75,
-    "breakouts": [],
+    "breakouts": [
+      {
+        "symbol": "KAVAUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.0295,
+        "close": 0.0296,
+        "vol_ratio": 2.8306
+      },
+      {
+        "symbol": "AKEUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 0.0105,
+        "close": 0.0105,
+        "vol_ratio": 0.4339
+      }
+    ],
     "regime": "ANY"
   },
   "positions": [
@@ -50,7 +67,7 @@
       "R": 0.0041255181993001405,
       "trail_armed": false,
       "funding": 0.00106974,
-      "last_price": 0.1015,
+      "last_price": 0.1019,
       "exit_deadline": "2026-11-18 17:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.52
@@ -71,7 +88,7 @@
       "R": 0.015063033260478226,
       "trail_armed": false,
       "funding": 0.00078431,
-      "last_price": 0.5477,
+      "last_price": 0.5484,
       "exit_deadline": "2026-11-18 23:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 4.99
@@ -92,7 +109,7 @@
       "R": 18.940009578585226,
       "trail_armed": false,
       "funding": -0.00038084,
-      "last_price": 1786.92,
+      "last_price": 1785.06,
       "exit_deadline": "2026-11-18 23:45:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 4.28
@@ -113,7 +130,7 @@
       "R": 0.008435927438499018,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 0.5863,
+      "last_price": 0.5842,
       "exit_deadline": "2026-11-19 00:00:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 15.57
@@ -134,7 +151,7 @@
       "R": 1.7029877628917702,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 110.26,
+      "last_price": 110.02,
       "exit_deadline": "2026-11-19 01:00:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.84
@@ -155,7 +172,7 @@
       "R": 0.026370896395461745,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 1.4124,
+      "last_price": 1.4066,
       "exit_deadline": "2026-11-19 01:00:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.08
@@ -176,10 +193,31 @@
       "R": 0.00889695431040434,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 0.1415,
+      "last_price": 0.1391,
       "exit_deadline": "2026-11-19 01:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 7.3
+    },
+    {
+      "id": "FHF-20261118-0200-KAVAUSDT",
+      "symbol": "KAVAUSDT",
+      "side": "BUY",
+      "entry_time": "2026-11-18 02:00:00 MYT",
+      "entry_price": 0.029625924,
+      "qty": 424.70000000000005,
+      "notional": 12.582129922800002,
+      "leverage": 2,
+      "margin": 6.291064961400001,
+      "liq_price": 0.01503854,
+      "stop": 0.028585787940343044,
+      "initial_stop": 0.028585787940343044,
+      "R": 0.0010401360596569579,
+      "trail_armed": false,
+      "funding": 0.0,
+      "last_price": 0.02982,
+      "exit_deadline": "2026-11-19 02:00:00 MYT",
+      "signal_tf": "15m",
+      "vol_ratio": 2.83
     }
   ],
   "data_source": "www.binance.com /fapi (public)"

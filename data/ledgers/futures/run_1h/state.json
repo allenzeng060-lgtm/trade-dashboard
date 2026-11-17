@@ -8,37 +8,29 @@
     "reason": "BTC 4h close 64115.09 < filter 67568 → shorts only"
   },
   "last_scan": {
-    "time": "2026-11-18 01:01:22 MYT",
-    "bar_close": "2026-11-18 01:00:00 MYT",
+    "time": "2026-11-18 02:01:37 MYT",
+    "bar_close": "2026-11-18 02:00:00 MYT",
     "universe": 75,
     "breakouts": [
       {
-        "symbol": "ICPUSDT",
-        "side": "SELL",
+        "symbol": "KAVAUSDT",
+        "side": "BUY",
         "tf": "1h",
-        "level": 2.24,
-        "close": 2.232,
-        "vol_ratio": 2.1304
+        "level": 0.0295,
+        "close": 0.0296,
+        "vol_ratio": 1.2031
       },
       {
-        "symbol": "ZROUSDT",
+        "symbol": "HUMAUSDT",
         "side": "SELL",
         "tf": "1h",
-        "level": 1.412,
-        "close": 1.4026,
-        "vol_ratio": 1.1924
-      },
-      {
-        "symbol": "SOPHUSDT",
-        "side": "SELL",
-        "tf": "1h",
-        "level": 0.0009,
-        "close": 0.0009,
-        "vol_ratio": 0.2799
+        "level": 0.0075,
+        "close": 0.0073,
+        "vol_ratio": 1.1375
       }
     ],
     "regime": "SELL"
   },
-  "last_scan_bar_ms": 1794934800000,
-  "last_equity_ts": 1794934882.737711
+  "last_scan_bar_ms": 1794938400000,
+  "last_equity_ts": 1794938498.2759838
 }

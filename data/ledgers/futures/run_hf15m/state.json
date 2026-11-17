@@ -8,12 +8,29 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-18 01:46:36 MYT",
-    "bar_close": "2026-11-18 01:45:00 MYT",
+    "time": "2026-11-18 02:01:53 MYT",
+    "bar_close": "2026-11-18 02:00:00 MYT",
     "universe": 75,
-    "breakouts": [],
+    "breakouts": [
+      {
+        "symbol": "KAVAUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.0295,
+        "close": 0.0296,
+        "vol_ratio": 2.8306
+      },
+      {
+        "symbol": "AKEUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 0.0105,
+        "close": 0.0105,
+        "vol_ratio": 0.4339
+      }
+    ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794937500000,
-  "last_equity_ts": 1794936686.0289428
+  "last_scan_bar_ms": 1794938400000,
+  "last_equity_ts": 1794938513.6684027
 }
