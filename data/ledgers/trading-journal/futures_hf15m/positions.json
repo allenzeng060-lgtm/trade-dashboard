@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 02:30:00 MYT",
-      "last_check_ms": 1794899838294,
-      "last_price": 0.04521,
+      "last_check_ms": 1794900121758,
+      "last_price": 0.04519,
       "last_funding_ms": 1794888000002
     },
     {
@@ -90,8 +90,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 07:15:00 MYT",
-      "last_check_ms": 1794899838541,
-      "last_price": 2.461,
+      "last_check_ms": 1794900122045,
+      "last_price": 2.465,
       "last_funding_ms": 1794873600000
     },
     {
@@ -133,8 +133,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 10:15:00 MYT",
-      "last_check_ms": 1794899838786,
-      "last_price": 1.5036,
+      "last_check_ms": 1794900122405,
+      "last_price": 1.5058,
       "last_funding_ms": 1794888000002
     },
     {
@@ -176,8 +176,8 @@
       "trail_armed": true,
       "targets": [],
       "exit_deadline": "2026-11-18 10:30:00 MYT",
-      "last_check_ms": 1794899839029,
-      "last_price": 0.0133,
+      "last_check_ms": 1794900122703,
+      "last_price": 0.01331,
       "last_funding_ms": 1794888000002,
       "_last_logged_stop": 0.014440919988182952
     },
@@ -220,8 +220,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 11:30:00 MYT",
-      "last_check_ms": 1794899839270,
-      "last_price": 0.2665
+      "last_check_ms": 1794900123019,
+      "last_price": 0.2669
     },
     {
       "id": "FHF-20261117-1145-VVVUSDT",
@@ -262,8 +262,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 11:45:00 MYT",
-      "last_check_ms": 1794899839512,
-      "last_price": 21.39,
+      "last_check_ms": 1794900123312,
+      "last_price": 21.453,
       "last_funding_ms": 1794888000002
     },
     {
@@ -292,21 +292,22 @@
       "margin": 4.2018401999999995,
       "liq_price": 0.22114948,
       "mmr": 0.05,
-      "stop": 0.3976602433437864,
+      "stop": 0.4523762233437864,
       "initial_stop": 0.3976602433437864,
       "R": 0.022523776656213565,
       "stop_pct": 5.36,
       "risk_usdt": 0.45865397575770916,
       "entry_fee": 0.004201840199999999,
       "funding": 0.0,
-      "best": 0.4622,
-      "high_since_entry": 0.4622,
+      "best": 0.4749,
+      "high_since_entry": 0.4749,
       "low_since_entry": 0.4026,
-      "trail_armed": false,
+      "trail_armed": true,
       "targets": [],
       "exit_deadline": "2026-11-18 14:15:00 MYT",
-      "last_check_ms": 1794899839756,
-      "last_price": 0.4435
+      "last_check_ms": 1794900123601,
+      "last_price": 0.4731,
+      "_last_logged_stop": 0.4523762233437864
     },
     {
       "id": "FHF-20261117-1445-龙虾USDT",
@@ -347,8 +348,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 14:45:00 MYT",
-      "last_check_ms": 1794899839998,
-      "last_price": 0.02095
+      "last_check_ms": 1794900123951,
+      "last_price": 0.0213
     }
   ]
 }
