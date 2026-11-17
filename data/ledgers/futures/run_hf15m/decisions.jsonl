@@ -667,3 +667,8 @@
 {"time": "2026-11-17 22:20:08 MYT", "kind": "open", "symbol": "TRXUSDT", "side": "BUY", "entry": 0.306701328, "stop": 0.30618222454345984, "qty": 73.0, "lev": 3, "liq": 0.20580529, "risk": 0.06}
 {"time": "2026-11-17 22:24:52 MYT", "kind": "trail_update", "symbol": "ICPUSDT", "stop": 2.3675860855705624, "best": 2.321}
 {"time": "2026-11-17 22:30:01 MYT", "kind": "trail_update", "symbol": "ICPUSDT", "stop": 2.358586085570562, "best": 2.312}
+{"time": "2026-11-17 22:35:01 MYT", "kind": "trail_update", "symbol": "ICPUSDT", "stop": 2.3525860855705623, "best": 2.306}
+{"time": "2026-11-17 22:35:02 MYT", "kind": "close", "symbol": "INJUSDT", "reason": "stop", "fill": 7.413013815809332, "net": -0.3719, "R": -1.01}
+{"time": "2026-11-17 22:35:05 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64995.54, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-17 22:35:18 MYT", "kind": "scan", "bar_close": "2026-11-17 22:30:00 MYT", "breakouts": 4, "vol_ok": 1, "allow": "ANY"}
+{"time": "2026-11-17 22:35:18 MYT", "kind": "open", "symbol": "PENGUUSDT", "side": "SELL", "entry": 0.004674065000000001, "stop": 0.00472534717237634, "qty": 4775.0, "lev": 3, "liq": 0.00617038, "risk": 0.267}
