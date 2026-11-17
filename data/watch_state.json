@@ -177,7 +177,7 @@
       "initial_stop": 0.010468460509220427,
       "R": 0.0008093927092204283,
       "targets": [],
-      "high_since_entry": 0.009695,
+      "high_since_entry": 0.009722,
       "low_since_entry": 0.009429,
       "exit_deadline": "2026-11-19 09:00:00 MYT",
       "market": "usdm_perp",
@@ -237,7 +237,7 @@
       "initial_stop": 0.3589553932779611,
       "R": 0.016523893277961027,
       "targets": [],
-      "high_since_entry": 0.3489,
+      "high_since_entry": 0.3512,
       "low_since_entry": 0.331,
       "exit_deadline": "2026-11-18 09:45:00 MYT",
       "market": "usdm_perp",
@@ -317,12 +317,32 @@
       "initial_stop": 20.68437101744807,
       "R": 0.3228295825519326,
       "targets": [],
-      "high_since_entry": 21.228,
+      "high_since_entry": 21.253,
       "low_since_entry": 20.972,
       "exit_deadline": "2026-11-18 11:45:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
+    },
+    {
+      "id": "FHF-20261117-1200-NEARUSDT",
+      "symbol": "NEARUSDT",
+      "side": "BUY",
+      "mode": "paper",
+      "status": "open",
+      "entry_price": 3.2786556,
+      "entry_time": "2026-11-17 12:00:00 MYT",
+      "qty": 7.0,
+      "remaining_qty": 7.0,
+      "stop": 3.23815607261625,
+      "initial_stop": 3.23815607261625,
+      "R": 0.040499527383749866,
+      "targets": [],
+      "high_since_entry": 3.279,
+      "low_since_entry": 3.268,
+      "exit_deadline": "2026-11-18 12:00:00 MYT",
+      "market": "usdm_perp",
+      "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-17 11:55:47 MYT"
+  "paper_updated_at": "2026-11-17 12:01:28 MYT"
 }

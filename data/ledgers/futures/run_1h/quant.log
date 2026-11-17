@@ -70,3 +70,8 @@
 2026-11-17 02:05:09,073 INFO decision skip {"symbol": "CROSSUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 11.8, "reason": "direction filter: BTC 4h close 64882.87 < filter 67568 → shorts only"}
 2026-11-17 03:05:16,149 INFO decision regime {"allow": "SELL", "btc_close": 64882.87, "ref": 67568.0, "new_low": false, "reason": "BTC 4h close 64882.87 < filter 67568 → shorts only"}
 2026-11-17 03:05:28,531 INFO decision scan {"bar_close": "2026-11-17 11:00:00 MYT", "breakouts": 4, "vol_ok": 0, "allow": "SELL"}
+2026-11-17 04:00:56,496 INFO decision funding {"symbol": "JUPUSDT", "rate": "-0.00015523", "amount": -0.003769, "at": "2026-11-17 12:00:00 MYT"}
+2026-11-17 04:00:56,777 INFO decision funding {"symbol": "SKRUSDT", "rate": "-0.00188281", "amount": -0.02216, "at": "2026-11-17 12:00:00 MYT"}
+2026-11-17 04:00:57,924 INFO decision regime {"allow": "SELL", "btc_close": 65056.52, "ref": 67568.0, "new_low": false, "reason": "BTC 4h close 65056.52 < filter 67568 → shorts only"}
+2026-11-17 04:01:09,443 INFO decision scan {"bar_close": "2026-11-17 12:00:00 MYT", "breakouts": 10, "vol_ok": 1, "allow": "SELL"}
+2026-11-17 04:01:09,443 INFO decision skip {"symbol": "AAVEUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 2.93, "reason": "direction filter: BTC 4h close 65056.52 < filter 67568 → shorts only"}

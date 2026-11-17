@@ -1,52 +1,100 @@
 {
   "last_regime": {
     "allow": "SELL",
-    "btc_close": 64882.87,
+    "btc_close": 65056.52,
     "ref": 67568.0,
     "mode": "spot_level",
     "new_low": false,
-    "reason": "BTC 4h close 64882.87 < filter 67568 → shorts only"
+    "reason": "BTC 4h close 65056.52 < filter 67568 → shorts only"
   },
   "last_scan": {
-    "time": "2026-11-17 11:05:28 MYT",
-    "bar_close": "2026-11-17 11:00:00 MYT",
-    "universe": 69,
+    "time": "2026-11-17 12:01:09 MYT",
+    "bar_close": "2026-11-17 12:00:00 MYT",
+    "universe": 70,
     "breakouts": [
+      {
+        "symbol": "ZECUSDT",
+        "side": "BUY",
+        "tf": "1h",
+        "level": 916.0,
+        "close": 922.3,
+        "vol_ratio": 0.7598
+      },
+      {
+        "symbol": "UNIUSDT",
+        "side": "BUY",
+        "tf": "1h",
+        "level": 5.253,
+        "close": 5.267,
+        "vol_ratio": 0.8868
+      },
+      {
+        "symbol": "NEARUSDT",
+        "side": "BUY",
+        "tf": "1h",
+        "level": 3.262,
+        "close": 3.278,
+        "vol_ratio": 1.1817
+      },
+      {
+        "symbol": "AAVEUSDT",
+        "side": "BUY",
+        "tf": "1h",
+        "level": 110.8,
+        "close": 112.3,
+        "vol_ratio": 2.9346
+      },
       {
         "symbol": "INJUSDT",
         "side": "BUY",
         "tf": "1h",
-        "level": 6.989,
-        "close": 7.088,
-        "vol_ratio": 1.1019
+        "level": 7.106,
+        "close": 7.195,
+        "vol_ratio": 1.983
       },
       {
-        "symbol": "ZROUSDT",
+        "symbol": "TAOUSDT",
         "side": "BUY",
         "tf": "1h",
-        "level": 1.5036,
-        "close": 1.5304,
-        "vol_ratio": 1.9737
+        "level": 193.0,
+        "close": 193.84,
+        "vol_ratio": 0.6816
       },
       {
-        "symbol": "INITUSDT",
+        "symbol": "TRUMPUSDT",
         "side": "BUY",
         "tf": "1h",
-        "level": 0.1033,
-        "close": 0.1033,
-        "vol_ratio": 0.1128
+        "level": 0.954,
+        "close": 0.96,
+        "vol_ratio": 0.6139
       },
       {
-        "symbol": "PUMPUSDT",
-        "side": "SELL",
+        "symbol": "VVVUSDT",
+        "side": "BUY",
         "tf": "1h",
-        "level": 0.0028,
-        "close": 0.0027,
-        "vol_ratio": 0.8015
+        "level": 20.836,
+        "close": 21.201,
+        "vol_ratio": 1.647
+      },
+      {
+        "symbol": "ASTERUSDT",
+        "side": "BUY",
+        "tf": "1h",
+        "level": 0.5825,
+        "close": 0.5848,
+        "vol_ratio": 0.57
+      },
+      {
+        "symbol": "NIGHTUSDT",
+        "side": "BUY",
+        "tf": "1h",
+        "level": 0.0482,
+        "close": 0.0493,
+        "vol_ratio": 1.7432
       }
     ],
     "regime": "SELL"
   },
-  "last_scan_bar_ms": 1794884400000,
+  "last_scan_bar_ms": 1794888000000,
   "last_equity_ts": 1794884728.97942
 }

@@ -354,3 +354,12 @@
 2026-11-17 03:45:48,291 INFO decision open {"symbol": "ONUSDT", "side": "BUY", "entry": 0.10842167999999999, "stop": 0.10484637187498508, "qty": 129.0, "lev": 2, "liq": 0.05503639, "risk": 0.475}
 2026-11-17 03:50:34,244 INFO decision close {"symbol": "INJUSDT", "reason": "trail_stop", "fill": 7.185822503974511, "net": 0.2946, "R": 0.87}
 2026-11-17 03:55:45,629 INFO decision close {"symbol": "ONUSDT", "reason": "stop", "fill": 0.10482540260061009, "net": -0.4777, "R": -1.01}
+2026-11-17 04:01:10,584 INFO decision funding {"symbol": "XPLUSDT", "rate": "0.00005000", "amount": -0.001067, "at": "2026-11-17 12:00:00 MYT"}
+2026-11-17 04:01:11,124 INFO decision funding {"symbol": "BTWUSDT", "rate": "0.00005000", "amount": 0.000486, "at": "2026-11-17 12:00:00 MYT"}
+2026-11-17 04:01:11,516 INFO decision funding {"symbol": "ZROUSDT", "rate": "0.00005000", "amount": -0.001217, "at": "2026-11-17 12:00:00 MYT"}
+2026-11-17 04:01:11,783 INFO decision funding {"symbol": "BULLAUSDT", "rate": "0.00006145", "amount": 0.000366, "at": "2026-11-17 12:00:00 MYT"}
+2026-11-17 04:01:12,327 INFO decision funding {"symbol": "VVVUSDT", "rate": "0.00005000", "amount": -0.001198, "at": "2026-11-17 12:00:00 MYT"}
+2026-11-17 04:01:13,769 INFO decision regime {"allow": "ANY", "btc_close": 65056.52, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+2026-11-17 04:01:23,832 INFO decision scan {"bar_close": "2026-11-17 12:00:00 MYT", "breakouts": 7, "vol_ok": 2, "allow": "ANY"}
+2026-11-17 04:01:24,130 INFO decision skip {"symbol": "BLESSUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 4.19, "reason": "stop distance 15.58% > 10%"}
+2026-11-17 04:01:24,131 INFO decision open {"symbol": "NEARUSDT", "side": "BUY", "entry": 3.2786556, "stop": 3.23815607261625, "qty": 7.0, "lev": 3, "liq": 2.20784889, "risk": 0.306}

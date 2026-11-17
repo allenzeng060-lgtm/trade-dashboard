@@ -32,3 +32,8 @@
 {"time": "2026-11-17 08:04:24 MYT", "kind": "skip", "symbol": "EVAAUSDT", "side": "BUY", "tf": "1d", "vol_ratio": 5.79, "reason": "direction filter: BTC 4h close 64882.87 < filter 67568 → shorts only"}
 {"time": "2026-11-17 08:04:24 MYT", "kind": "skip", "symbol": "ZILUSDT", "side": "SELL", "tf": "1d", "vol_ratio": 3.06, "reason": "same-direction cap 1 (v0.2 correlation cap)"}
 {"time": "2026-11-17 08:04:24 MYT", "kind": "skip", "symbol": "BULLAUSDT", "side": "SELL", "tf": "1d", "vol_ratio": 2.39, "reason": "same-direction cap 1 (v0.2 correlation cap)"}
+{"time": "2026-11-17 12:00:41 MYT", "kind": "funding", "symbol": "WIFUSDT", "rate": "-0.00000301", "amount": -0.000112, "at": "2026-11-17 12:00:00 MYT"}
+{"time": "2026-11-17 12:00:41 MYT", "kind": "funding", "symbol": "1000BONKUSDT", "rate": "-0.00002463", "amount": -0.000775, "at": "2026-11-17 12:00:00 MYT"}
+{"time": "2026-11-17 12:00:43 MYT", "kind": "regime", "allow": "SELL", "btc_close": 65056.52, "ref": 67568.0, "new_low": false, "reason": "BTC 4h close 65056.52 < filter 67568 → shorts only"}
+{"time": "2026-11-17 12:00:55 MYT", "kind": "scan", "bar_close": "2026-11-17 12:00:00 MYT", "breakouts": 3, "vol_ok": 1, "allow": "SELL"}
+{"time": "2026-11-17 12:00:55 MYT", "kind": "skip", "symbol": "CROSSUSDT", "side": "BUY", "tf": "4h", "vol_ratio": 12.25, "reason": "direction filter: BTC 4h close 65056.52 < filter 67568 → shorts only"}

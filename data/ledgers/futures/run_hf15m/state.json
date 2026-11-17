@@ -1,52 +1,76 @@
 {
   "last_regime": {
     "allow": "ANY",
-    "btc_close": 64882.87,
+    "btc_close": 65056.52,
     "ref": 67568.0,
     "mode": "spot_level",
     "new_low": false,
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-17 11:45:47 MYT",
-    "bar_close": "2026-11-17 11:45:00 MYT",
+    "time": "2026-11-17 12:01:23 MYT",
+    "bar_close": "2026-11-17 12:00:00 MYT",
     "universe": 70,
     "breakouts": [
       {
-        "symbol": "VVVUSDT",
+        "symbol": "SOLUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 20.966,
-        "close": 21.003,
-        "vol_ratio": 3.2208
+        "level": 72.76,
+        "close": 72.78,
+        "vol_ratio": 0.6055
       },
       {
-        "symbol": "SOPHUSDT",
+        "symbol": "UNIUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.001,
-        "close": 0.001,
-        "vol_ratio": 1.0174
+        "level": 5.266,
+        "close": 5.267,
+        "vol_ratio": 1.1447
+      },
+      {
+        "symbol": "NEARUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 3.253,
+        "close": 3.278,
+        "vol_ratio": 2.573
+      },
+      {
+        "symbol": "ARBUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.133,
+        "close": 0.1334,
+        "vol_ratio": 1.1033
+      },
+      {
+        "symbol": "ARIAUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.2206,
+        "close": 0.2221,
+        "vol_ratio": 0.3609
+      },
+      {
+        "symbol": "ASTERUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.5825,
+        "close": 0.5848,
+        "vol_ratio": 0.7407
       },
       {
         "symbol": "BLESSUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 0.0155,
-        "close": 0.0131,
-        "vol_ratio": 4.7372
-      },
-      {
-        "symbol": "ONUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 0.1073,
-        "close": 0.1084,
-        "vol_ratio": 2.7925
+        "level": 0.0128,
+        "close": 0.0121,
+        "vol_ratio": 4.1883
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794887100000,
-  "last_equity_ts": 1794887745.6296248
+  "last_scan_bar_ms": 1794888000000,
+  "last_equity_ts": 1794888084.131586
 }
