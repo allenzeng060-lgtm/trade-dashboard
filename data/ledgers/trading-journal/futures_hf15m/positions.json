@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 22:45:00 MYT",
-      "last_check_ms": 1794880488247,
-      "last_price": 0.018526,
+      "last_check_ms": 1794880790091,
+      "last_price": 0.017948,
       "last_funding_ms": 1794873600000
     },
     {
@@ -90,8 +90,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 02:30:00 MYT",
-      "last_check_ms": 1794880488574,
-      "last_price": 0.04532,
+      "last_check_ms": 1794880790317,
+      "last_price": 0.04536,
       "last_funding_ms": 1794873600000
     },
     {
@@ -133,8 +133,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 04:30:00 MYT",
-      "last_check_ms": 1794880488899,
-      "last_price": 0.009534,
+      "last_check_ms": 1794880790539,
+      "last_price": 0.009522,
       "last_funding_ms": 1794877200000
     },
     {
@@ -176,8 +176,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 07:15:00 MYT",
-      "last_check_ms": 1794880489224,
-      "last_price": 2.465,
+      "last_check_ms": 1794880790762,
+      "last_price": 2.469,
       "last_funding_ms": 1794873600000
     },
     {
@@ -213,14 +213,14 @@
       "risk_usdt": 0.36226746422414524,
       "entry_fee": 0.0120189897212,
       "funding": 0.0,
-      "best": 0.002758,
+      "best": 0.002757,
       "high_since_entry": 0.00279,
-      "low_since_entry": 0.002758,
+      "low_since_entry": 0.002757,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 09:15:00 MYT",
-      "last_check_ms": 1794880489549,
-      "last_price": 0.00277
+      "last_check_ms": 1794880790981,
+      "last_price": 0.002764
     },
     {
       "id": "FHF-20261117-0945-BTWUSDT",
@@ -261,8 +261,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 09:45:00 MYT",
-      "last_check_ms": 1794880489875,
-      "last_price": 0.3447
+      "last_check_ms": 1794880791390,
+      "last_price": 0.3433
     }
   ]
 }
