@@ -427,3 +427,4 @@
 {"time": "2026-11-17 11:30:43 MYT", "kind": "skip", "symbol": "INJUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 3.17, "reason": "already holding"}
 {"time": "2026-11-17 11:30:44 MYT", "kind": "open", "symbol": "WLDUSDT", "side": "BUY", "entry": 0.26475294, "stop": 0.26202775313266147, "qty": 90.0, "lev": 3, "liq": 0.17828481, "risk": 0.269}
 {"time": "2026-11-17 11:35:28 MYT", "kind": "trail_update", "symbol": "AAVEUSDT", "stop": 112.65231888481205, "best": 113.66}
+{"time": "2026-11-17 11:40:32 MYT", "kind": "trail_update", "symbol": "INJUSDT", "stop": 7.187259955965704, "best": 7.283}
