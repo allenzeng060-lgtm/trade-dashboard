@@ -583,3 +583,4 @@
 2026-11-17 14:20:08,656 INFO decision skip {"symbol": "BREVUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 27.12, "reason": "already holding"}
 2026-11-17 14:20:08,818 INFO decision open {"symbol": "TRXUSDT", "side": "BUY", "entry": 0.306701328, "stop": 0.30618222454345984, "qty": 73.0, "lev": 3, "liq": 0.20580529, "risk": 0.06}
 2026-11-17 14:24:52,427 INFO decision trail_update {"symbol": "ICPUSDT", "stop": 2.3675860855705624, "best": 2.321}
+2026-11-17 14:30:01,449 INFO decision trail_update {"symbol": "ICPUSDT", "stop": 2.358586085570562, "best": 2.312}

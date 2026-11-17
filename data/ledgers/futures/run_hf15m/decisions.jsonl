@@ -666,3 +666,4 @@
 {"time": "2026-11-17 22:20:08 MYT", "kind": "skip", "symbol": "BREVUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 27.12, "reason": "already holding"}
 {"time": "2026-11-17 22:20:08 MYT", "kind": "open", "symbol": "TRXUSDT", "side": "BUY", "entry": 0.306701328, "stop": 0.30618222454345984, "qty": 73.0, "lev": 3, "liq": 0.20580529, "risk": 0.06}
 {"time": "2026-11-17 22:24:52 MYT", "kind": "trail_update", "symbol": "ICPUSDT", "stop": 2.3675860855705624, "best": 2.321}
+{"time": "2026-11-17 22:30:01 MYT", "kind": "trail_update", "symbol": "ICPUSDT", "stop": 2.358586085570562, "best": 2.312}
