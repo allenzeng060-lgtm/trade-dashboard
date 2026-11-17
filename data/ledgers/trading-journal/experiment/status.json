@@ -2,27 +2,13 @@
  "group": "現貨實驗組",
  "rules": "exp-v2-auto",
  "mode": "paper",
- "updated_at": "2026-11-18 02:32:08 MYT",
+ "updated_at": "2026-11-18 02:36:42 MYT",
  "cycle": 1,
  "refills": 0,
- "wallet_usdt": 96.4554,
- "unrealized_usdt": 0.0545,
- "equity_usdt": 96.5099,
+ "wallet_usdt": 96.3316,
+ "unrealized_usdt": 0,
+ "equity_usdt": 96.3316,
  "no_entry_window": true,
  "candidates_1h": 0,
- "positions": [
-  {
-   "id": "SX-20261117-0232-XPLUSDT",
-   "symbol": "XPLUSDT",
-   "entry_time": "2026-11-17 02:32:20 MYT",
-   "entry_price": 0.045132555,
-   "qty": 485.35604321836405,
-   "notional": 21.905358315135192,
-   "stop": 0.04321262641286835,
-   "initial_stop": 0.04321262641286835,
-   "trail_armed": false,
-   "last_price": 0.04529,
-   "exit_deadline": "2026-11-18 02:32:20 MYT"
-  }
- ]
+ "positions": []
 }

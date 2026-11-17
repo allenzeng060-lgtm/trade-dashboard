@@ -690,3 +690,4 @@
 2026-11-17 18:32:05,421 INFO decision scan {"bar_close": "2026-11-18 02:30:00 MYT", "breakouts": 3, "vol_ok": 2, "allow": "ANY"}
 2026-11-17 18:32:05,754 INFO decision open {"symbol": "MMTUSDT", "side": "BUY", "entry": 0.14982995999999998, "stop": 0.13962653057329313, "qty": 43.0, "lev": 1, "liq": 0.0, "risk": 0.445}
 2026-11-17 18:32:05,754 INFO decision open {"symbol": "ARIAUSDT", "side": "BUY", "entry": 0.241818354, "stop": 0.23040540115296085, "qty": 38.0, "lev": 2, "liq": 0.12727282, "risk": 0.443}
+2026-11-17 18:36:38,181 INFO decision close {"symbol": "ONUSDT", "reason": "stop", "fill": 0.10442633929094, "net": -0.4578, "R": -1.0}

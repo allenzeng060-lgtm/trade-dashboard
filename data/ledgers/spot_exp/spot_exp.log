@@ -17,3 +17,4 @@
 2026-11-17 01:16:16,422 INFO decision close {"symbol": "SOXSBUSDT", "reason": "stop", "fill": 58.07599417435142, "net": -1.0042, "R": -1.01}
 2026-11-17 07:12:06,965 INFO decision close {"symbol": "ERAUSDT", "reason": "stop", "fill": 0.07231266872678237, "net": -0.9835, "R": -1.01}
 2026-11-17 13:24:33,803 INFO decision close {"symbol": "ICPUSDT", "reason": "stop", "fill": 2.3658070804795073, "net": -0.9864, "R": -1.01}
+2026-11-17 18:36:42,679 INFO decision close {"symbol": "XPLUSDT", "reason": "expiry_24h", "fill": 0.044967505000000005, "net": -0.1238, "R": -0.13}

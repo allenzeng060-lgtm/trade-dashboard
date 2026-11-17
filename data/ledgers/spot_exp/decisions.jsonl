@@ -17,3 +17,4 @@
 {"time": "2026-11-17 09:16:16 MYT", "kind": "close", "symbol": "SOXSBUSDT", "reason": "stop", "fill": 58.07599417435142, "net": -1.0042, "R": -1.01}
 {"time": "2026-11-17 15:12:06 MYT", "kind": "close", "symbol": "ERAUSDT", "reason": "stop", "fill": 0.07231266872678237, "net": -0.9835, "R": -1.01}
 {"time": "2026-11-17 21:24:33 MYT", "kind": "close", "symbol": "ICPUSDT", "reason": "stop", "fill": 2.3658070804795073, "net": -0.9864, "R": -1.01}
+{"time": "2026-11-18 02:36:42 MYT", "kind": "close", "symbol": "XPLUSDT", "reason": "expiry_24h", "fill": 0.044967505000000005, "net": -0.1238, "R": -0.13}
