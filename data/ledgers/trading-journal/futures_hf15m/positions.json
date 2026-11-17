@@ -42,13 +42,13 @@
       "entry_fee": 0.007861777330000002,
       "funding": 0.00078431,
       "best": 0.5317,
-      "high_since_entry": 0.556,
+      "high_since_entry": 0.5567,
       "low_since_entry": 0.5317,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 23:15:00 MYT",
-      "last_check_ms": 1794941222007,
-      "last_price": 0.5513,
+      "last_check_ms": 1794941504872,
+      "last_price": 0.5555,
       "last_funding_ms": 1794931200000
     },
     {
@@ -90,8 +90,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 00:00:00 MYT",
-      "last_check_ms": 1794941222297,
-      "last_price": 0.5818
+      "last_check_ms": 1794941505190,
+      "last_price": 0.5831
     },
     {
       "id": "FHF-20261118-0100-AAVEUSDT",
@@ -132,8 +132,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 01:00:00 MYT",
-      "last_check_ms": 1794941223092,
-      "last_price": 110.55
+      "last_check_ms": 1794941505510,
+      "last_price": 110.6
     },
     {
       "id": "FHF-20261118-0100-ZROUSDT",
@@ -174,8 +174,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 01:00:00 MYT",
-      "last_check_ms": 1794941223374,
-      "last_price": 1.3953
+      "last_check_ms": 1794941505844,
+      "last_price": 1.3955
     },
     {
       "id": "FHF-20261118-0200-KAVAUSDT",
@@ -216,8 +216,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 02:00:00 MYT",
-      "last_check_ms": 1794941223914,
-      "last_price": 0.0301
+      "last_check_ms": 1794941506159,
+      "last_price": 0.02944
     },
     {
       "id": "FHF-20261118-0230-MMTUSDT",
@@ -254,12 +254,12 @@
       "funding": 0.0,
       "best": 0.1524,
       "high_since_entry": 0.1524,
-      "low_since_entry": 0.1431,
+      "low_since_entry": 0.1412,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 02:30:00 MYT",
-      "last_check_ms": 1794941224706,
-      "last_price": 0.1441
+      "last_check_ms": 1794941506476,
+      "last_price": 0.1421
     },
     {
       "id": "FHF-20261118-0230-ARIAUSDT",
@@ -300,8 +300,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 02:30:00 MYT",
-      "last_check_ms": 1794941225512,
-      "last_price": 0.25345
+      "last_check_ms": 1794941506796,
+      "last_price": 0.25068
     }
   ]
 }
