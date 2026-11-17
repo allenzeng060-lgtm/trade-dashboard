@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 01:00:00 MYT",
-      "last_check_ms": 1794947257227,
-      "last_price": 110.81
+      "last_check_ms": 1794947568698,
+      "last_price": 110.65
     },
     {
       "id": "FHF-20261118-0100-ZROUSDT",
@@ -89,8 +89,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 01:00:00 MYT",
-      "last_check_ms": 1794947257444,
-      "last_price": 1.3996,
+      "last_check_ms": 1794947569013,
+      "last_price": 1.398,
       "last_funding_ms": 1794945600000
     }
   ]
