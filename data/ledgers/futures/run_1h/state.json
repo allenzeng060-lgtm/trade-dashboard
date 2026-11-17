@@ -8,37 +8,53 @@
     "reason": "BTC 4h close 64740.14 < filter 67568 → shorts only"
   },
   "last_scan": {
-    "time": "2026-11-17 16:03:50 MYT",
-    "bar_close": "2026-11-17 16:00:00 MYT",
-    "universe": 71,
+    "time": "2026-11-17 17:02:53 MYT",
+    "bar_close": "2026-11-17 17:00:00 MYT",
+    "universe": 69,
     "breakouts": [
       {
-        "symbol": "ASTERUSDT",
-        "side": "BUY",
-        "tf": "1h",
-        "level": 0.5866,
-        "close": 0.5954,
-        "vol_ratio": 0.5117
-      },
-      {
-        "symbol": "AKEUSDT",
+        "symbol": "OPUSDT",
         "side": "SELL",
         "tf": "1h",
-        "level": 0.0094,
-        "close": 0.0093,
-        "vol_ratio": 0.3416
+        "level": 0.0769,
+        "close": 0.0765,
+        "vol_ratio": 1.335
       },
       {
-        "symbol": "EVAAUSDT",
+        "symbol": "PENGUUSDT",
+        "side": "SELL",
+        "tf": "1h",
+        "level": 0.0048,
+        "close": 0.0048,
+        "vol_ratio": 0.5903
+      },
+      {
+        "symbol": "INITUSDT",
+        "side": "SELL",
+        "tf": "1h",
+        "level": 0.0969,
+        "close": 0.0951,
+        "vol_ratio": 0.1799
+      },
+      {
+        "symbol": "PIEVERSEUSDT",
+        "side": "SELL",
+        "tf": "1h",
+        "level": 1.9067,
+        "close": 1.9065,
+        "vol_ratio": 0.5306
+      },
+      {
+        "symbol": "BTWUSDT",
         "side": "BUY",
         "tf": "1h",
-        "level": 3.9777,
-        "close": 4.0404,
-        "vol_ratio": 5.4703
+        "level": 0.4866,
+        "close": 0.5187,
+        "vol_ratio": 4.4488
       }
     ],
     "regime": "SELL"
   },
-  "last_scan_bar_ms": 1794902400000,
+  "last_scan_bar_ms": 1794906000000,
   "last_equity_ts": 1794902853.6020162
 }

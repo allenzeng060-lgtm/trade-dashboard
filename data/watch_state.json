@@ -238,7 +238,7 @@
       "R": 0.022584297874237637,
       "targets": [],
       "high_since_entry": 1.5452,
-      "low_since_entry": 1.4911,
+      "low_since_entry": 1.4906,
       "exit_deadline": "2026-11-18 10:15:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
@@ -253,12 +253,12 @@
       "entry_time": "2026-11-17 10:30:00 MYT",
       "qty": 365.0,
       "remaining_qty": 365.0,
-      "stop": 0.014170919988182951,
+      "stop": 0.01413091998818295,
       "initial_stop": 0.01731771598818295,
       "R": 0.0013009199881829515,
       "targets": [],
       "high_since_entry": 0.01677,
-      "low_since_entry": 0.01287,
+      "low_since_entry": 0.01283,
       "exit_deadline": "2026-11-18 10:30:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
@@ -317,12 +317,32 @@
       "initial_stop": 0.48764178521671653,
       "R": 0.0374632147832835,
       "targets": [],
-      "high_since_entry": 0.5297,
+      "high_since_entry": 0.5367,
       "low_since_entry": 0.4877,
       "exit_deadline": "2026-11-18 16:30:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
+    },
+    {
+      "id": "FHF-20261117-1700-INITUSDT",
+      "symbol": "INITUSDT",
+      "side": "SELL",
+      "mode": "paper",
+      "status": "open",
+      "entry_price": 0.09508098000000001,
+      "entry_time": "2026-11-17 17:00:00 MYT",
+      "qty": 204.0,
+      "remaining_qty": 204.0,
+      "stop": 0.09722543346340813,
+      "initial_stop": 0.09722543346340813,
+      "R": 0.002144453463408116,
+      "targets": [],
+      "high_since_entry": 0.09564,
+      "low_since_entry": 0.09477,
+      "exit_deadline": "2026-11-18 17:00:00 MYT",
+      "market": "usdm_perp",
+      "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-17 16:57:54 MYT"
+  "paper_updated_at": "2026-11-17 17:03:14 MYT"
 }
