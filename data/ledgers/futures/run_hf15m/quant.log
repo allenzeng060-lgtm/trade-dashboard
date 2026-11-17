@@ -418,3 +418,4 @@
 2026-11-17 07:32:25,722 INFO decision scan {"bar_close": "2026-11-17 15:30:00 MYT", "breakouts": 3, "vol_ok": 2, "allow": "ANY"}
 2026-11-17 07:32:25,722 INFO decision skip {"symbol": "BTWUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 3.11, "reason": "already holding"}
 2026-11-17 07:32:26,068 INFO decision open {"symbol": "EVAAUSDT", "side": "BUY", "entry": 3.995799, "stop": 3.776844780015058, "qty": 2.0, "lev": 2, "liq": 2.10305211, "risk": 0.446}
+2026-11-17 07:42:12,879 INFO decision trail_update {"symbol": "BTWUSDT", "stop": 0.4640762233437864, "best": 0.4866}
