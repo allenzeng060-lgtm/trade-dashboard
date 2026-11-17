@@ -8,61 +8,29 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-18 01:01:38 MYT",
-    "bar_close": "2026-11-18 01:00:00 MYT",
+    "time": "2026-11-18 01:16:21 MYT",
+    "bar_close": "2026-11-18 01:15:00 MYT",
     "universe": 75,
     "breakouts": [
-      {
-        "symbol": "AAVEUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 110.54,
-        "close": 110.26,
-        "vol_ratio": 3.8432
-      },
-      {
-        "symbol": "ICPUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 2.233,
-        "close": 2.232,
-        "vol_ratio": 1.1997
-      },
-      {
-        "symbol": "ZROUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 1.412,
-        "close": 1.4026,
-        "vol_ratio": 2.0838
-      },
       {
         "symbol": "VVVUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 20.578,
-        "close": 20.5,
-        "vol_ratio": 1.5783
+        "level": 20.466,
+        "close": 20.396,
+        "vol_ratio": 2.7285
       },
       {
         "symbol": "ARIAUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.2203,
-        "close": 0.2257,
-        "vol_ratio": 1.4447
-      },
-      {
-        "symbol": "LITUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 2.864,
-        "close": 2.8606,
-        "vol_ratio": 1.2467
+        "level": 0.2269,
+        "close": 0.2282,
+        "vol_ratio": 1.3852
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794934800000,
+  "last_scan_bar_ms": 1794935700000,
   "last_equity_ts": 1794934899.0338771
 }

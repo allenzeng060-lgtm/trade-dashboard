@@ -670,3 +670,6 @@
 2026-11-17 17:01:38,690 INFO decision scan {"bar_close": "2026-11-18 01:00:00 MYT", "breakouts": 6, "vol_ok": 2, "allow": "ANY"}
 2026-11-17 17:01:39,033 INFO decision open {"symbol": "AAVEUSDT", "side": "SELL", "entry": 110.237948, "stop": 111.94093576289177, "qty": 0.2, "lev": 3, "liq": 145.52864422, "risk": 0.363}
 2026-11-17 17:01:39,033 INFO decision open {"symbol": "ZROUSDT", "side": "SELL", "entry": 1.40231948, "stop": 1.4286903763954617, "qty": 16.1, "lev": 3, "liq": 1.85124684, "risk": 0.447}
+2026-11-17 17:16:06,795 INFO decision regime {"allow": "ANY", "btc_close": 64115.09, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+2026-11-17 17:16:21,489 INFO decision scan {"bar_close": "2026-11-18 01:15:00 MYT", "breakouts": 2, "vol_ok": 1, "allow": "ANY"}
+2026-11-17 17:16:21,489 INFO decision skip {"symbol": "VVVUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.73, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
