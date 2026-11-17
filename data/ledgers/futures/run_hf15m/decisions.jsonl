@@ -611,3 +611,4 @@
 {"time": "2026-11-17 20:19:18 MYT", "kind": "scan", "bar_close": "2026-11-17 20:15:00 MYT", "breakouts": 3, "vol_ok": 0, "allow": "ANY"}
 {"time": "2026-11-17 20:24:03 MYT", "kind": "trail_update", "symbol": "WLDUSDT", "stop": 0.2688748131326615, "best": 0.2716}
 {"time": "2026-11-17 20:24:04 MYT", "kind": "close", "symbol": "VVVUSDT", "reason": "trail_stop", "fill": 21.537861983364575, "net": 0.572, "R": 1.47}
+{"time": "2026-11-17 20:29:13 MYT", "kind": "trail_update", "symbol": "WLDUSDT", "stop": 0.26967481313266145, "best": 0.2724}
