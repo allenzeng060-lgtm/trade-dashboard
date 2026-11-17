@@ -768,3 +768,4 @@
 {"time": "2026-11-18 02:16:34 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64115.09, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
 {"time": "2026-11-18 02:16:47 MYT", "kind": "scan", "bar_close": "2026-11-18 02:15:00 MYT", "breakouts": 4, "vol_ok": 0, "allow": "ANY"}
 {"time": "2026-11-18 02:16:49 MYT", "kind": "close", "symbol": "MMTUSDT", "reason": "stop", "fill": 0.13690481924845777, "net": -0.4533, "R": -1.0}
+{"time": "2026-11-18 02:26:45 MYT", "kind": "close", "symbol": "ETHUSDT", "reason": "stop", "fill": 1797.5237264373009, "net": -0.2534, "R": -1.02}

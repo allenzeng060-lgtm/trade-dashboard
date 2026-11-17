@@ -197,7 +197,7 @@
       "initial_stop": 0.10440545819930014,
       "R": 0.0041255181993001405,
       "targets": [],
-      "high_since_entry": 0.1027,
+      "high_since_entry": 0.1034,
       "low_since_entry": 0.0965,
       "exit_deadline": "2026-11-18 17:15:00 MYT",
       "market": "usdm_perp",
@@ -220,26 +220,6 @@
       "high_since_entry": 0.556,
       "low_since_entry": 0.5317,
       "exit_deadline": "2026-11-18 23:15:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
-      "id": "FHF-20261117-2345-ETHUSDT",
-      "symbol": "ETHUSDT",
-      "side": "SELL",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 1778.224284,
-      "entry_time": "2026-11-17 23:45:00 MYT",
-      "qty": 0.012,
-      "remaining_qty": 0.012,
-      "stop": 1797.164293578585,
-      "initial_stop": 1797.164293578585,
-      "R": 18.940009578585226,
-      "targets": [],
-      "high_since_entry": 1796.96,
-      "low_since_entry": 1750.05,
-      "exit_deadline": "2026-11-18 23:45:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
     },
@@ -277,7 +257,7 @@
       "initial_stop": 111.94093576289177,
       "R": 1.7029877628917702,
       "targets": [],
-      "high_since_entry": 111.31,
+      "high_since_entry": 111.43,
       "low_since_entry": 109.42,
       "exit_deadline": "2026-11-19 01:00:00 MYT",
       "market": "usdm_perp",
@@ -324,5 +304,5 @@
       "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-18 02:21:35 MYT"
+  "paper_updated_at": "2026-11-18 02:26:47 MYT"
 }
