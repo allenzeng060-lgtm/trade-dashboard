@@ -674,3 +674,5 @@
 {"time": "2026-11-17 22:35:18 MYT", "kind": "open", "symbol": "PENGUUSDT", "side": "SELL", "entry": 0.004674065000000001, "stop": 0.00472534717237634, "qty": 4775.0, "lev": 3, "liq": 0.00617038, "risk": 0.267}
 {"time": "2026-11-17 22:40:01 MYT", "kind": "trail_update", "symbol": "BREVUSDT", "stop": 0.09157618622601077, "best": 0.09545}
 {"time": "2026-11-17 22:40:02 MYT", "kind": "trail_update", "symbol": "TRXUSDT", "stop": 0.30754089654345984, "best": 0.30806}
+{"time": "2026-11-17 22:45:01 MYT", "kind": "trail_update", "symbol": "BREVUSDT", "stop": 0.09500618622601077, "best": 0.09888}
+{"time": "2026-11-17 22:45:02 MYT", "kind": "trail_update", "symbol": "TRXUSDT", "stop": 0.30764089654345983, "best": 0.30816}
