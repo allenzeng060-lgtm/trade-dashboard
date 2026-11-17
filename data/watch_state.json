@@ -302,27 +302,7 @@
       "exit_deadline": "2026-11-18 11:45:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
-    },
-    {
-      "id": "FHF-20261117-1530-EVAAUSDT",
-      "symbol": "EVAAUSDT",
-      "side": "BUY",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 3.995799,
-      "entry_time": "2026-11-17 15:30:00 MYT",
-      "qty": 2.0,
-      "remaining_qty": 2.0,
-      "stop": 3.776844780015058,
-      "initial_stop": 3.776844780015058,
-      "R": 0.21895421998494208,
-      "targets": [],
-      "high_since_entry": 4.1999,
-      "low_since_entry": 3.8058,
-      "exit_deadline": "2026-11-18 15:30:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-17 16:17:49 MYT"
+  "paper_updated_at": "2026-11-17 16:22:28 MYT"
 }
