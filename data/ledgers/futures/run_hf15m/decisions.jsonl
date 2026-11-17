@@ -723,3 +723,7 @@
 {"time": "2026-11-17 23:45:48 MYT", "kind": "skip", "symbol": "ICPUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.31, "reason": "already holding"}
 {"time": "2026-11-17 23:45:48 MYT", "kind": "skip", "symbol": "XMRUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.25, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
 {"time": "2026-11-17 23:45:48 MYT", "kind": "skip", "symbol": "ARBUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.22, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+{"time": "2026-11-17 23:50:31 MYT", "kind": "close", "symbol": "XPLUSDT", "reason": "stop", "fill": 0.04411129481844571, "net": -0.4811, "R": -1.02}
+{"time": "2026-11-17 23:50:31 MYT", "kind": "trail_update", "symbol": "ICPUSDT", "stop": 2.2865860855705624, "best": 2.24}
+{"time": "2026-11-17 23:50:32 MYT", "kind": "close", "symbol": "ARIAUSDT", "reason": "stop", "fill": 0.21462314269235824, "net": -0.4412, "R": -1.0}
+{"time": "2026-11-17 23:50:32 MYT", "kind": "close", "symbol": "TRXUSDT", "reason": "stop", "fill": 0.307215530454398, "net": -0.0747, "R": -1.06}

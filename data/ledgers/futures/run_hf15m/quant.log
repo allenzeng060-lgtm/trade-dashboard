@@ -640,3 +640,7 @@
 2026-11-17 15:45:48,153 INFO decision skip {"symbol": "ICPUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.31, "reason": "already holding"}
 2026-11-17 15:45:48,153 INFO decision skip {"symbol": "XMRUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.25, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
 2026-11-17 15:45:48,153 INFO decision skip {"symbol": "ARBUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.22, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+2026-11-17 15:50:31,577 INFO decision close {"symbol": "XPLUSDT", "reason": "stop", "fill": 0.04411129481844571, "net": -0.4811, "R": -1.02}
+2026-11-17 15:50:31,863 INFO decision trail_update {"symbol": "ICPUSDT", "stop": 2.2865860855705624, "best": 2.24}
+2026-11-17 15:50:32,660 INFO decision close {"symbol": "ARIAUSDT", "reason": "stop", "fill": 0.21462314269235824, "net": -0.4412, "R": -1.0}
+2026-11-17 15:50:32,939 INFO decision close {"symbol": "TRXUSDT", "reason": "stop", "fill": 0.307215530454398, "net": -0.0747, "R": -1.06}
