@@ -677,3 +677,5 @@
 2026-11-17 17:31:25,594 INFO decision scan {"bar_close": "2026-11-18 01:30:00 MYT", "breakouts": 4, "vol_ok": 2, "allow": "ANY"}
 2026-11-17 17:31:26,028 INFO decision open {"symbol": "MMTUSDT", "side": "BUY", "entry": 0.14582916, "stop": 0.1369322056895957, "qty": 50.0, "lev": 1, "liq": 0.0, "risk": 0.452}
 2026-11-17 17:31:26,028 INFO decision skip {"symbol": "VVVUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.43, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+2026-11-17 17:46:20,636 INFO decision regime {"allow": "ANY", "btc_close": 64115.09, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+2026-11-17 17:46:36,643 INFO decision scan {"bar_close": "2026-11-18 01:45:00 MYT", "breakouts": 0, "vol_ok": 0, "allow": "ANY"}
