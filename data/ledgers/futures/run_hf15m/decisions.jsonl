@@ -538,3 +538,5 @@
 {"time": "2026-11-17 17:18:02 MYT", "kind": "scan", "bar_close": "2026-11-17 17:15:00 MYT", "breakouts": 14, "vol_ok": 2, "allow": "ANY"}
 {"time": "2026-11-17 17:18:03 MYT", "kind": "open", "symbol": "ONUSDT", "side": "SELL", "entry": 0.10027994, "stop": 0.10440545819930014, "qty": 108.0, "lev": 2, "liq": 0.14819696, "risk": 0.457}
 {"time": "2026-11-17 17:18:03 MYT", "kind": "open", "symbol": "TAOUSDT", "side": "SELL", "entry": 190.481896, "stop": 192.0113669890957, "qty": 0.12, "lev": 3, "liq": 251.46124884, "risk": 0.206}
+{"time": "2026-11-17 17:22:51 MYT", "kind": "trail_update", "symbol": "BULLAUSDT", "stop": 0.013890919988182952, "best": 0.01259}
+{"time": "2026-11-17 17:22:52 MYT", "kind": "close", "symbol": "BTWUSDT", "reason": "stop", "fill": 0.4875442568596732, "net": -0.4568, "R": -1.0}

@@ -238,7 +238,7 @@
       "R": 0.022584297874237637,
       "targets": [],
       "high_since_entry": 1.5452,
-      "low_since_entry": 1.4906,
+      "low_since_entry": 1.4881,
       "exit_deadline": "2026-11-18 10:15:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
@@ -253,12 +253,12 @@
       "entry_time": "2026-11-17 10:30:00 MYT",
       "qty": 365.0,
       "remaining_qty": 365.0,
-      "stop": 0.013980919988182952,
+      "stop": 0.013890919988182952,
       "initial_stop": 0.01731771598818295,
       "R": 0.0013009199881829515,
       "targets": [],
       "high_since_entry": 0.01677,
-      "low_since_entry": 0.01268,
+      "low_since_entry": 0.01259,
       "exit_deadline": "2026-11-18 10:30:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
@@ -278,7 +278,7 @@
       "R": 0.002725186867338522,
       "targets": [],
       "high_since_entry": 0.2679,
-      "low_since_entry": 0.263,
+      "low_since_entry": 0.2626,
       "exit_deadline": "2026-11-18 11:30:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
@@ -304,26 +304,6 @@
       "group": "合約高頻組"
     },
     {
-      "id": "FHF-20261117-1630-BTWUSDT",
-      "symbol": "BTWUSDT",
-      "side": "BUY",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 0.525105,
-      "entry_time": "2026-11-17 16:30:00 MYT",
-      "qty": 12.0,
-      "remaining_qty": 12.0,
-      "stop": 0.48764178521671653,
-      "initial_stop": 0.48764178521671653,
-      "R": 0.0374632147832835,
-      "targets": [],
-      "high_since_entry": 0.5367,
-      "low_since_entry": 0.4877,
-      "exit_deadline": "2026-11-18 16:30:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
       "id": "FHF-20261117-1700-INITUSDT",
       "symbol": "INITUSDT",
       "side": "SELL",
@@ -338,7 +318,7 @@
       "R": 0.002144453463408116,
       "targets": [],
       "high_since_entry": 0.09564,
-      "low_since_entry": 0.09362,
+      "low_since_entry": 0.09351,
       "exit_deadline": "2026-11-18 17:00:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
@@ -378,11 +358,11 @@
       "R": 1.5294709890957099,
       "targets": [],
       "high_since_entry": 190.51,
-      "low_since_entry": 190.2,
+      "low_since_entry": 189.35,
       "exit_deadline": "2026-11-18 17:15:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-17 17:18:07 MYT"
+  "paper_updated_at": "2026-11-17 17:22:56 MYT"
 }

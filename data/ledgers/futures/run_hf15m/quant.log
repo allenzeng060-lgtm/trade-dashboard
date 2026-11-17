@@ -455,3 +455,5 @@
 2026-11-17 09:18:02,724 INFO decision scan {"bar_close": "2026-11-17 17:15:00 MYT", "breakouts": 14, "vol_ok": 2, "allow": "ANY"}
 2026-11-17 09:18:03,158 INFO decision open {"symbol": "ONUSDT", "side": "SELL", "entry": 0.10027994, "stop": 0.10440545819930014, "qty": 108.0, "lev": 2, "liq": 0.14819696, "risk": 0.457}
 2026-11-17 09:18:03,159 INFO decision open {"symbol": "TAOUSDT", "side": "SELL", "entry": 190.481896, "stop": 192.0113669890957, "qty": 0.12, "lev": 3, "liq": 251.46124884, "risk": 0.206}
+2026-11-17 09:22:51,994 INFO decision trail_update {"symbol": "BULLAUSDT", "stop": 0.013890919988182952, "best": 0.01259}
+2026-11-17 09:22:52,973 INFO decision close {"symbol": "BTWUSDT", "reason": "stop", "fill": 0.4875442568596732, "net": -0.4568, "R": -1.0}
