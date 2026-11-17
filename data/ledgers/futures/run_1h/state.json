@@ -8,45 +8,37 @@
     "reason": "BTC 4h close 64740.14 < filter 67568 → shorts only"
   },
   "last_scan": {
-    "time": "2026-11-17 18:03:26 MYT",
-    "bar_close": "2026-11-17 18:00:00 MYT",
-    "universe": 70,
+    "time": "2026-11-17 19:03:56 MYT",
+    "bar_close": "2026-11-17 19:00:00 MYT",
+    "universe": 69,
     "breakouts": [
       {
-        "symbol": "XMRUSDT",
-        "side": "BUY",
-        "tf": "1h",
-        "level": 509.32,
-        "close": 511.35,
-        "vol_ratio": 1.0344
-      },
-      {
-        "symbol": "PENGUUSDT",
+        "symbol": "ETHUSDT",
         "side": "SELL",
         "tf": "1h",
-        "level": 0.0048,
-        "close": 0.0048,
-        "vol_ratio": 1.0581
+        "level": 1799.8,
+        "close": 1788.06,
+        "vol_ratio": 1.747
       },
       {
-        "symbol": "BULLAUSDT",
+        "symbol": "JCTUSDT",
         "side": "SELL",
         "tf": "1h",
-        "level": 0.0129,
-        "close": 0.0121,
-        "vol_ratio": 0.7477
+        "level": 0.0021,
+        "close": 0.0021,
+        "vol_ratio": 0.1892
       },
       {
         "symbol": "PIEVERSEUSDT",
         "side": "SELL",
         "tf": "1h",
-        "level": 1.9034,
-        "close": 1.8741,
-        "vol_ratio": 0.5788
+        "level": 1.8693,
+        "close": 1.8641,
+        "vol_ratio": 1.9531
       }
     ],
     "regime": "SELL"
   },
-  "last_scan_bar_ms": 1794909600000,
+  "last_scan_bar_ms": 1794913200000,
   "last_equity_ts": 1794910099.893582
 }

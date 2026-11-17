@@ -488,3 +488,5 @@
 2026-11-17 10:48:30,186 INFO decision regime {"allow": "ANY", "btc_close": 64740.14, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
 2026-11-17 10:48:42,371 INFO decision scan {"bar_close": "2026-11-17 18:45:00 MYT", "breakouts": 5, "vol_ok": 1, "allow": "ANY"}
 2026-11-17 10:48:42,579 INFO decision open {"symbol": "CROSSUSDT", "side": "SELL", "entry": 0.142951404, "stop": 0.1499883036722521, "qty": 63.0, "lev": 2, "liq": 0.21022265, "risk": 0.453}
+2026-11-17 11:04:01,793 INFO decision regime {"allow": "ANY", "btc_close": 64740.14, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+2026-11-17 11:04:10,838 INFO decision scan {"bar_close": "2026-11-17 19:00:00 MYT", "breakouts": 13, "vol_ok": 0, "allow": "ANY"}
