@@ -278,7 +278,7 @@
       "R": 3.882182528186357e-05,
       "targets": [],
       "high_since_entry": 0.00279,
-      "low_since_entry": 0.002751,
+      "low_since_entry": 0.002738,
       "exit_deadline": "2026-11-18 09:15:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
@@ -302,7 +302,27 @@
       "exit_deadline": "2026-11-18 09:45:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
+    },
+    {
+      "id": "FHF-20261117-1015-ZROUSDT",
+      "symbol": "ZROUSDT",
+      "side": "BUY",
+      "mode": "paper",
+      "status": "open",
+      "entry_price": 1.50670128,
+      "entry_time": "2026-11-17 10:15:00 MYT",
+      "qty": 16.0,
+      "remaining_qty": 16.0,
+      "stop": 1.4841169821257623,
+      "initial_stop": 1.4841169821257623,
+      "R": 0.022584297874237637,
+      "targets": [],
+      "high_since_entry": 1.5227,
+      "low_since_entry": 1.5037,
+      "exit_deadline": "2026-11-18 10:15:00 MYT",
+      "market": "usdm_perp",
+      "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-17 10:15:04 MYT"
+  "paper_updated_at": "2026-11-17 10:20:17 MYT"
 }
