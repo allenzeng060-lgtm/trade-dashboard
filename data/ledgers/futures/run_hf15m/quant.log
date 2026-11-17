@@ -306,3 +306,6 @@
 2026-11-17 01:16:04,402 INFO decision regime {"allow": "ANY", "btc_close": 64882.87, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
 2026-11-17 01:16:13,164 INFO decision scan {"bar_close": "2026-11-17 09:15:00 MYT", "breakouts": 4, "vol_ok": 1, "allow": "ANY"}
 2026-11-17 01:16:13,681 INFO decision open {"symbol": "PUMPUSDT", "side": "SELL", "entry": 0.0027604478, "stop": 0.0027992696252818637, "qty": 8708.0, "lev": 3, "liq": 0.00364416, "risk": 0.362}
+2026-11-17 01:34:43,628 INFO decision trail_update {"symbol": "AIOTUSDT", "stop": 0.09738536803865923, "best": 0.10364}
+2026-11-17 01:34:45,750 INFO decision regime {"allow": "ANY", "btc_close": 64882.87, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+2026-11-17 01:35:00,033 INFO decision scan {"bar_close": "2026-11-17 09:30:00 MYT", "breakouts": 3, "vol_ok": 0, "allow": "ANY"}

@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 22:45:00 MYT",
-      "last_check_ms": 1794878979747,
-      "last_price": 0.019043,
+      "last_check_ms": 1794879300033,
+      "last_price": 0.018956,
       "last_funding_ms": 1794873600000
     },
     {
@@ -90,8 +90,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 02:30:00 MYT",
-      "last_check_ms": 1794878980223,
-      "last_price": 0.045,
+      "last_check_ms": 1794879300508,
+      "last_price": 0.04514,
       "last_funding_ms": 1794873600000
     },
     {
@@ -133,8 +133,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 04:30:00 MYT",
-      "last_check_ms": 1794878980470,
-      "last_price": 0.0094,
+      "last_check_ms": 1794879301064,
+      "last_price": 0.009638,
       "last_funding_ms": 1794877200000
     },
     {
@@ -176,8 +176,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 07:15:00 MYT",
-      "last_check_ms": 1794878980945,
-      "last_price": 2.463,
+      "last_check_ms": 1794879301536,
+      "last_price": 2.459,
       "last_funding_ms": 1794873600000
     },
     {
@@ -206,21 +206,22 @@
       "margin": 6.6080713499999995,
       "liq_price": 0.0,
       "mmr": 0.03,
-      "stop": 0.08185298603865923,
+      "stop": 0.09738536803865923,
       "initial_stop": 0.08185298603865923,
       "R": 0.006254631961340766,
       "stop_pct": 7.099,
       "risk_usdt": 0.47547091975200717,
       "entry_fee": 0.0033040356749999998,
       "funding": 0.0,
-      "best": 0.10025,
-      "high_since_entry": 0.10025,
+      "best": 0.10364,
+      "high_since_entry": 0.10364,
       "low_since_entry": 0.08581,
-      "trail_armed": false,
+      "trail_armed": true,
       "targets": [],
       "exit_deadline": "2026-11-18 08:15:00 MYT",
-      "last_check_ms": 1794878981202,
-      "last_price": 0.09806
+      "last_check_ms": 1794879302010,
+      "last_price": 0.10264,
+      "_last_logged_stop": 0.09738536803865923
     },
     {
       "id": "FHF-20261117-0915-PUMPUSDT",
@@ -261,8 +262,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 09:15:00 MYT",
-      "last_check_ms": 1794878981676,
-      "last_price": 0.002763
+      "last_check_ms": 1794879302712,
+      "last_price": 0.002773
     }
   ]
 }
