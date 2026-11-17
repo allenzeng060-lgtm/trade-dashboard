@@ -15,3 +15,4 @@
 2026-11-16 21:38:21,170 INFO decision close {"symbol": "HUMAUSDT", "reason": "trail_stop", "fill": 0.009756348533522415, "net": 1.9567, "R": 2.01}
 2026-11-16 23:59:06,922 INFO decision open {"symbol": "SOXSBUSDT", "vol_ratio": 3.73, "stop_pct": 4.57, "entry": 60.890429999999995, "stop": 58.10504669770027, "notional": 20.85, "risk": 0.994}
 2026-11-17 01:16:16,422 INFO decision close {"symbol": "SOXSBUSDT", "reason": "stop", "fill": 58.07599417435142, "net": -1.0042, "R": -1.01}
+2026-11-17 07:12:06,965 INFO decision close {"symbol": "ERAUSDT", "reason": "stop", "fill": 0.07231266872678237, "net": -0.9835, "R": -1.01}

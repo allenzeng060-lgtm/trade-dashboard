@@ -407,3 +407,4 @@
 2026-11-17 07:02:10,842 INFO decision regime {"allow": "ANY", "btc_close": 65056.52, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
 2026-11-17 07:02:19,828 INFO decision scan {"bar_close": "2026-11-17 15:00:00 MYT", "breakouts": 6, "vol_ok": 1, "allow": "ANY"}
 2026-11-17 07:02:19,828 INFO decision skip {"symbol": "龙虾USDT", "side": "BUY", "tf": "15m", "vol_ratio": 24.34, "reason": "already holding"}
+2026-11-17 07:12:02,900 INFO decision trail_update {"symbol": "BULLAUSDT", "stop": 0.014440919988182952, "best": 0.01314}
