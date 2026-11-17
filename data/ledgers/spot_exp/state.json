@@ -1,10 +1,10 @@
 {
- "_t24_ts": 1794874770.8961258,
+ "_t24_ts": 1794875063.4690676,
  "cands": {
   "SOXSBUSDT": 1794872376.0
  },
  "alerts_init": true,
- "alerts_offset": 199834,
+ "alerts_offset": 199975,
  "checked": {
   "SOPHUSDT": 1794867300000,
   "BANANAS31USDT": 1794769200000,

@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 22:45:00 MYT",
-      "last_check_ms": 1794874767347,
-      "last_price": 0.018948,
+      "last_check_ms": 1794875060191,
+      "last_price": 0.018892,
       "last_funding_ms": 1794873600000
     },
     {
@@ -90,8 +90,8 @@
       "trail_armed": true,
       "targets": [],
       "exit_deadline": "2026-11-17 23:15:00 MYT",
-      "last_check_ms": 1794874767675,
-      "last_price": 0.242,
+      "last_check_ms": 1794875060516,
+      "last_price": 0.2425,
       "last_funding_ms": 1794873600000,
       "_last_logged_stop": 0.24275440261994968
     },
@@ -134,8 +134,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 02:30:00 MYT",
-      "last_check_ms": 1794874767997,
-      "last_price": 0.04529,
+      "last_check_ms": 1794875060846,
+      "last_price": 0.04527,
       "last_funding_ms": 1794873600000
     },
     {
@@ -177,8 +177,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 04:30:00 MYT",
-      "last_check_ms": 1794874768319,
-      "last_price": 0.009847,
+      "last_check_ms": 1794875061165,
+      "last_price": 0.009755,
       "last_funding_ms": 1794873600000
     },
     {
@@ -220,8 +220,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 07:15:00 MYT",
-      "last_check_ms": 1794874768648,
-      "last_price": 2.499,
+      "last_check_ms": 1794875061480,
+      "last_price": 2.484,
       "last_funding_ms": 1794873600000
     },
     {
@@ -257,14 +257,14 @@
       "risk_usdt": 0.47547091975200717,
       "entry_fee": 0.0033040356749999998,
       "funding": 0.0,
-      "best": 0.0899,
-      "high_since_entry": 0.0899,
+      "best": 0.09148,
+      "high_since_entry": 0.09148,
       "low_since_entry": 0.08678,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 08:15:00 MYT",
-      "last_check_ms": 1794874768972,
-      "last_price": 0.0882
+      "last_check_ms": 1794875061798,
+      "last_price": 0.09093
     }
   ]
 }
