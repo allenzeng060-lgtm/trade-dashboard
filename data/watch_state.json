@@ -178,7 +178,7 @@
       "R": 0.0008093927092204283,
       "targets": [],
       "high_since_entry": 0.009688,
-      "low_since_entry": 0.009556,
+      "low_since_entry": 0.009448,
       "exit_deadline": "2026-11-19 09:00:00 MYT",
       "market": "usdm_perp",
       "group": "合約1h組"
@@ -264,26 +264,6 @@
       "group": "合約高頻組"
     },
     {
-      "id": "FHF-20261117-0815-AIOTUSDT",
-      "symbol": "AIOTUSDT",
-      "side": "BUY",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 0.088107618,
-      "entry_time": "2026-11-17 08:15:00 MYT",
-      "qty": 75.0,
-      "remaining_qty": 75.0,
-      "stop": 0.09738536803865923,
-      "initial_stop": 0.08185298603865923,
-      "R": 0.006254631961340766,
-      "targets": [],
-      "high_since_entry": 0.10364,
-      "low_since_entry": 0.08581,
-      "exit_deadline": "2026-11-18 08:15:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
       "id": "FHF-20261117-0915-PUMPUSDT",
       "symbol": "PUMPUSDT",
       "side": "SELL",
@@ -297,12 +277,12 @@
       "initial_stop": 0.0027992696252818637,
       "R": 3.882182528186357e-05,
       "targets": [],
-      "high_since_entry": 0.002778,
+      "high_since_entry": 0.002783,
       "low_since_entry": 0.002758,
       "exit_deadline": "2026-11-18 09:15:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-17 09:35:04 MYT"
+  "paper_updated_at": "2026-11-17 09:39:47 MYT"
 }

@@ -3,7 +3,7 @@
   "set": "15m",
   "mode": "paper",
   "rules": "hf-15m-v0.1",
-  "updated_at": "2026-11-17 09:35:03 MYT",
+  "updated_at": "2026-11-17 09:39:45 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -16,10 +16,10 @@
     "slip": 0.0002,
     "regime": "none"
   },
-  "wallet_usdt": 96.16,
-  "unrealized_usdt": 1.8928,
-  "equity_usdt": 98.0528,
-  "pnl_pct": -1.947,
+  "wallet_usdt": 96.8474,
+  "unrealized_usdt": 0.7504,
+  "equity_usdt": 97.5978,
+  "pnl_pct": -2.402,
   "regime": {
     "allow": "ANY",
     "btc_close": 64882.87,
@@ -75,7 +75,7 @@
       "R": 0.0013959969224845614,
       "trail_armed": false,
       "funding": -0.01407624,
-      "last_price": 0.018956,
+      "last_price": 0.018885,
       "exit_deadline": "2026-11-17 22:45:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 9.23
@@ -96,7 +96,7 @@
       "R": 0.0009588951577858478,
       "trail_armed": false,
       "funding": -0.00212296,
-      "last_price": 0.04514,
+      "last_price": 0.04533,
       "exit_deadline": "2026-11-18 02:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.77
@@ -117,7 +117,7 @@
       "R": 0.0005096528888362112,
       "trail_armed": false,
       "funding": 0.05262558,
-      "last_price": 0.009638,
+      "last_price": 0.009658,
       "exit_deadline": "2026-11-18 04:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 5.1
@@ -138,31 +138,10 @@
       "R": 0.04658608557056221,
       "trail_armed": false,
       "funding": 0.00224145,
-      "last_price": 2.459,
+      "last_price": 2.466,
       "exit_deadline": "2026-11-18 07:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.01
-    },
-    {
-      "id": "FHF-20261117-0815-AIOTUSDT",
-      "symbol": "AIOTUSDT",
-      "side": "BUY",
-      "entry_time": "2026-11-17 08:15:00 MYT",
-      "entry_price": 0.088107618,
-      "qty": 75.0,
-      "notional": 6.6080713499999995,
-      "leverage": 1,
-      "margin": 6.6080713499999995,
-      "liq_price": 0.0,
-      "stop": 0.09738536803865923,
-      "initial_stop": 0.08185298603865923,
-      "R": 0.006254631961340766,
-      "trail_armed": true,
-      "funding": 0.0,
-      "last_price": 0.10264,
-      "exit_deadline": "2026-11-18 08:15:00 MYT",
-      "signal_tf": "15m",
-      "vol_ratio": 5.07
     },
     {
       "id": "FHF-20261117-0915-PUMPUSDT",
@@ -180,7 +159,7 @@
       "R": 3.882182528186357e-05,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 0.002773,
+      "last_price": 0.002783,
       "exit_deadline": "2026-11-18 09:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 4.05
