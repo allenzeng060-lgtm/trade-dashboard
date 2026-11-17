@@ -555,3 +555,4 @@
 2026-11-17 13:24:29,760 INFO decision trail_update {"symbol": "ICPUSDT", "stop": 2.410586085570562, "best": 2.364}
 2026-11-17 13:24:32,358 INFO decision close {"symbol": "KAVAUSDT", "reason": "stop", "fill": 0.02809025197369867, "net": -0.4548, "R": -1.01}
 2026-11-17 13:24:32,610 INFO decision close {"symbol": "XMRUSDT", "reason": "stop", "fill": 514.7540630632277, "net": -0.239, "R": -1.02}
+2026-11-17 13:29:31,260 INFO decision trail_update {"symbol": "ICPUSDT", "stop": 2.4075860855705624, "best": 2.361}

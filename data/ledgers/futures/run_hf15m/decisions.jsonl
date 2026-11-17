@@ -638,3 +638,4 @@
 {"time": "2026-11-17 21:24:29 MYT", "kind": "trail_update", "symbol": "ICPUSDT", "stop": 2.410586085570562, "best": 2.364}
 {"time": "2026-11-17 21:24:32 MYT", "kind": "close", "symbol": "KAVAUSDT", "reason": "stop", "fill": 0.02809025197369867, "net": -0.4548, "R": -1.01}
 {"time": "2026-11-17 21:24:32 MYT", "kind": "close", "symbol": "XMRUSDT", "reason": "stop", "fill": 514.7540630632277, "net": -0.239, "R": -1.02}
+{"time": "2026-11-17 21:29:31 MYT", "kind": "trail_update", "symbol": "ICPUSDT", "stop": 2.4075860855705624, "best": 2.361}
