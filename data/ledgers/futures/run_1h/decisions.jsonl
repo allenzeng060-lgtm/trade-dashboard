@@ -172,3 +172,5 @@
 {"time": "2026-11-18 04:02:26 MYT", "kind": "scan", "bar_close": "2026-11-18 04:00:00 MYT", "breakouts": 2, "vol_ok": 0, "allow": "SELL"}
 {"time": "2026-11-18 05:02:41 MYT", "kind": "regime", "allow": "SELL", "btc_close": 63753.75, "ref": 67568.0, "new_low": true, "reason": "BTC 4h close 63753.75 < filter 67568 → shorts only"}
 {"time": "2026-11-18 05:02:53 MYT", "kind": "scan", "bar_close": "2026-11-18 05:00:00 MYT", "breakouts": 1, "vol_ok": 0, "allow": "SELL"}
+{"time": "2026-11-18 06:03:05 MYT", "kind": "regime", "allow": "SELL", "btc_close": 63753.75, "ref": 67568.0, "new_low": true, "reason": "BTC 4h close 63753.75 < filter 67568 → shorts only"}
+{"time": "2026-11-18 06:03:23 MYT", "kind": "scan", "bar_close": "2026-11-18 06:00:00 MYT", "breakouts": 0, "vol_ok": 0, "allow": "SELL"}

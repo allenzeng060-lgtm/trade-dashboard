@@ -8,21 +8,21 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-18 05:48:11 MYT",
-    "bar_close": "2026-11-18 05:45:00 MYT",
+    "time": "2026-11-18 06:03:41 MYT",
+    "bar_close": "2026-11-18 06:00:00 MYT",
     "universe": 75,
     "breakouts": [
       {
-        "symbol": "CROSSUSDT",
-        "side": "BUY",
+        "symbol": "UNIUSDT",
+        "side": "SELL",
         "tf": "15m",
-        "level": 0.1559,
-        "close": 0.157,
-        "vol_ratio": 0.5743
+        "level": 5.209,
+        "close": 5.201,
+        "vol_ratio": 1.0596
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794951900000,
+  "last_scan_bar_ms": 1794952800000,
   "last_equity_ts": 1794951188.2609184
 }

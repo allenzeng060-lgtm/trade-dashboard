@@ -8,21 +8,12 @@
     "reason": "BTC 4h close 63753.75 < filter 67568 → shorts only"
   },
   "last_scan": {
-    "time": "2026-11-18 05:02:53 MYT",
-    "bar_close": "2026-11-18 05:00:00 MYT",
+    "time": "2026-11-18 06:03:23 MYT",
+    "bar_close": "2026-11-18 06:00:00 MYT",
     "universe": 75,
-    "breakouts": [
-      {
-        "symbol": "XPLUSDT",
-        "side": "BUY",
-        "tf": "1h",
-        "level": 0.0456,
-        "close": 0.0457,
-        "vol_ratio": 0.6197
-      }
-    ],
+    "breakouts": [],
     "regime": "SELL"
   },
-  "last_scan_bar_ms": 1794949200000,
-  "last_equity_ts": 1794949374.5072737
+  "last_scan_bar_ms": 1794952800000,
+  "last_equity_ts": 1794953004.1657383
 }
