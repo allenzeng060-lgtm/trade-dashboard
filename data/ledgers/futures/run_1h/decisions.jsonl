@@ -98,3 +98,5 @@
 {"time": "2026-11-17 10:04:55 MYT", "kind": "regime", "allow": "SELL", "btc_close": 64882.87, "ref": 67568.0, "new_low": false, "reason": "BTC 4h close 64882.87 < filter 67568 → shorts only"}
 {"time": "2026-11-17 10:05:09 MYT", "kind": "scan", "bar_close": "2026-11-17 10:00:00 MYT", "breakouts": 5, "vol_ok": 1, "allow": "SELL"}
 {"time": "2026-11-17 10:05:09 MYT", "kind": "skip", "symbol": "CROSSUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 11.8, "reason": "direction filter: BTC 4h close 64882.87 < filter 67568 → shorts only"}
+{"time": "2026-11-17 11:05:16 MYT", "kind": "regime", "allow": "SELL", "btc_close": 64882.87, "ref": 67568.0, "new_low": false, "reason": "BTC 4h close 64882.87 < filter 67568 → shorts only"}
+{"time": "2026-11-17 11:05:28 MYT", "kind": "scan", "bar_close": "2026-11-17 11:00:00 MYT", "breakouts": 4, "vol_ok": 0, "allow": "SELL"}

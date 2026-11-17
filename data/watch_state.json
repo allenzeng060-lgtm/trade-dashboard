@@ -297,7 +297,7 @@
       "initial_stop": 1.4841169821257623,
       "R": 0.022584297874237637,
       "targets": [],
-      "high_since_entry": 1.5328,
+      "high_since_entry": 1.5436,
       "low_since_entry": 1.5037,
       "exit_deadline": "2026-11-18 10:15:00 MYT",
       "market": "usdm_perp",
@@ -322,7 +322,27 @@
       "exit_deadline": "2026-11-18 10:30:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
+    },
+    {
+      "id": "FHF-20261117-1100-INJUSDT",
+      "symbol": "INJUSDT",
+      "side": "BUY",
+      "mode": "paper",
+      "status": "open",
+      "entry_price": 7.0894176,
+      "entry_time": "2026-11-17 11:00:00 MYT",
+      "qty": 3.3000000000000003,
+      "remaining_qty": 3.3000000000000003,
+      "stop": 6.993677555965704,
+      "initial_stop": 6.993677555965704,
+      "R": 0.09574004403429605,
+      "targets": [],
+      "high_since_entry": 7.134,
+      "low_since_entry": 7.071,
+      "exit_deadline": "2026-11-18 11:00:00 MYT",
+      "market": "usdm_perp",
+      "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-17 11:00:27 MYT"
+  "paper_updated_at": "2026-11-17 11:05:46 MYT"
 }

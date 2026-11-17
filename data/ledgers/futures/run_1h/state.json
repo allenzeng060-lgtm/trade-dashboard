@@ -8,53 +8,45 @@
     "reason": "BTC 4h close 64882.87 < filter 67568 → shorts only"
   },
   "last_scan": {
-    "time": "2026-11-17 10:05:09 MYT",
-    "bar_close": "2026-11-17 10:00:00 MYT",
-    "universe": 71,
+    "time": "2026-11-17 11:05:28 MYT",
+    "bar_close": "2026-11-17 11:00:00 MYT",
+    "universe": 69,
     "breakouts": [
+      {
+        "symbol": "INJUSDT",
+        "side": "BUY",
+        "tf": "1h",
+        "level": 6.989,
+        "close": 7.088,
+        "vol_ratio": 1.1019
+      },
       {
         "symbol": "ZROUSDT",
         "side": "BUY",
         "tf": "1h",
-        "level": 1.482,
-        "close": 1.5027,
-        "vol_ratio": 1.1707
+        "level": 1.5036,
+        "close": 1.5304,
+        "vol_ratio": 1.9737
+      },
+      {
+        "symbol": "INITUSDT",
+        "side": "BUY",
+        "tf": "1h",
+        "level": 0.1033,
+        "close": 0.1033,
+        "vol_ratio": 0.1128
       },
       {
         "symbol": "PUMPUSDT",
         "side": "SELL",
         "tf": "1h",
         "level": 0.0028,
-        "close": 0.0028,
-        "vol_ratio": 1.2842
-      },
-      {
-        "symbol": "CROSSUSDT",
-        "side": "BUY",
-        "tf": "1h",
-        "level": 0.1515,
-        "close": 0.1521,
-        "vol_ratio": 11.8003
-      },
-      {
-        "symbol": "SKRUSDT",
-        "side": "SELL",
-        "tf": "1h",
-        "level": 0.0096,
-        "close": 0.0096,
-        "vol_ratio": 1.9047
-      },
-      {
-        "symbol": "BTWUSDT",
-        "side": "SELL",
-        "tf": "1h",
-        "level": 0.3562,
-        "close": 0.343,
-        "vol_ratio": 1.314
+        "close": 0.0027,
+        "vol_ratio": 0.8015
       }
     ],
     "regime": "SELL"
   },
-  "last_scan_bar_ms": 1794880800000,
-  "last_equity_ts": 1794881109.7274892
+  "last_scan_bar_ms": 1794884400000,
+  "last_equity_ts": 1794884728.97942
 }

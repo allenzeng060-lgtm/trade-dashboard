@@ -3,7 +3,7 @@
   "set": "15m",
   "mode": "paper",
   "rules": "hf-15m-v0.1",
-  "updated_at": "2026-11-17 11:00:25 MYT",
+  "updated_at": "2026-11-17 11:05:45 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -17,9 +17,9 @@
     "regime": "none"
   },
   "wallet_usdt": 95.8699,
-  "unrealized_usdt": 0.3387,
-  "equity_usdt": 96.2086,
-  "pnl_pct": -3.791,
+  "unrealized_usdt": 0.6279,
+  "equity_usdt": 96.4978,
+  "pnl_pct": -3.502,
   "regime": {
     "allow": "ANY",
     "btc_close": 64882.87,
@@ -27,33 +27,17 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-17 10:50:24 MYT",
-    "bar_close": "2026-11-17 10:45:00 MYT",
-    "universe": 70,
+    "time": "2026-11-17 11:05:42 MYT",
+    "bar_close": "2026-11-17 11:00:00 MYT",
+    "universe": 69,
     "breakouts": [
       {
         "symbol": "INJUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 7.042,
-        "close": 7.053,
-        "vol_ratio": 1.7224
-      },
-      {
-        "symbol": "INITUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 0.1027,
-        "close": 0.1029,
-        "vol_ratio": 0.9095
-      },
-      {
-        "symbol": "XPLUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 0.0449,
-        "close": 0.0448,
-        "vol_ratio": 0.8223
+        "level": 7.065,
+        "close": 7.088,
+        "vol_ratio": 2.0146
       }
     ],
     "regime": "ANY"
@@ -75,7 +59,7 @@
       "R": 0.0009588951577858478,
       "trail_armed": false,
       "funding": -0.00212296,
-      "last_price": 0.0449,
+      "last_price": 0.04501,
       "exit_deadline": "2026-11-18 02:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.77
@@ -117,7 +101,7 @@
       "R": 0.04658608557056221,
       "trail_armed": false,
       "funding": 0.00224145,
-      "last_price": 2.469,
+      "last_price": 2.472,
       "exit_deadline": "2026-11-18 07:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.01
@@ -159,7 +143,7 @@
       "R": 0.016523893277961027,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 0.3417,
+      "last_price": 0.3395,
       "exit_deadline": "2026-11-18 09:45:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.41
@@ -180,7 +164,7 @@
       "R": 0.022584297874237637,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 1.5315,
+      "last_price": 1.5343,
       "exit_deadline": "2026-11-18 10:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.39
@@ -201,10 +185,31 @@
       "R": 0.0013009199881829515,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 0.01589,
+      "last_price": 0.01572,
       "exit_deadline": "2026-11-18 10:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.24
+    },
+    {
+      "id": "FHF-20261117-1100-INJUSDT",
+      "symbol": "INJUSDT",
+      "side": "BUY",
+      "entry_time": "2026-11-17 11:00:00 MYT",
+      "entry_price": 7.0894176,
+      "qty": 3.3000000000000003,
+      "notional": 23.39507808,
+      "leverage": 3,
+      "margin": 7.79835936,
+      "liq_price": 4.77401859,
+      "stop": 6.993677555965704,
+      "initial_stop": 6.993677555965704,
+      "R": 0.09574004403429605,
+      "trail_armed": false,
+      "funding": 0.0,
+      "last_price": 7.128,
+      "exit_deadline": "2026-11-18 11:00:00 MYT",
+      "signal_tf": "15m",
+      "vol_ratio": 2.01
     }
   ],
   "data_source": "www.binance.com /fapi (public)"

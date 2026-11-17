@@ -3,7 +3,7 @@
   "set": "1h",
   "mode": "paper",
   "rules": "v0.2-1h",
-  "updated_at": "2026-11-17 11:00:22 MYT",
+  "updated_at": "2026-11-17 11:05:28 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -17,9 +17,9 @@
     "regime": "spot_level"
   },
   "wallet_usdt": 99.4073,
-  "unrealized_usdt": 1.0234,
-  "equity_usdt": 100.4308,
-  "pnl_pct": 0.431,
+  "unrealized_usdt": 1.076,
+  "equity_usdt": 100.4833,
+  "pnl_pct": 0.483,
   "regime": {
     "allow": "SELL",
     "btc_close": 64882.87,
@@ -27,49 +27,41 @@
     "reason": "BTC 4h close 64882.87 < filter 67568 → shorts only"
   },
   "last_scan": {
-    "time": "2026-11-17 10:05:09 MYT",
-    "bar_close": "2026-11-17 10:00:00 MYT",
-    "universe": 71,
+    "time": "2026-11-17 11:05:28 MYT",
+    "bar_close": "2026-11-17 11:00:00 MYT",
+    "universe": 69,
     "breakouts": [
+      {
+        "symbol": "INJUSDT",
+        "side": "BUY",
+        "tf": "1h",
+        "level": 6.989,
+        "close": 7.088,
+        "vol_ratio": 1.1019
+      },
       {
         "symbol": "ZROUSDT",
         "side": "BUY",
         "tf": "1h",
-        "level": 1.482,
-        "close": 1.5027,
-        "vol_ratio": 1.1707
+        "level": 1.5036,
+        "close": 1.5304,
+        "vol_ratio": 1.9737
+      },
+      {
+        "symbol": "INITUSDT",
+        "side": "BUY",
+        "tf": "1h",
+        "level": 0.1033,
+        "close": 0.1033,
+        "vol_ratio": 0.1128
       },
       {
         "symbol": "PUMPUSDT",
         "side": "SELL",
         "tf": "1h",
         "level": 0.0028,
-        "close": 0.0028,
-        "vol_ratio": 1.2842
-      },
-      {
-        "symbol": "CROSSUSDT",
-        "side": "BUY",
-        "tf": "1h",
-        "level": 0.1515,
-        "close": 0.1521,
-        "vol_ratio": 11.8003
-      },
-      {
-        "symbol": "SKRUSDT",
-        "side": "SELL",
-        "tf": "1h",
-        "level": 0.0096,
-        "close": 0.0096,
-        "vol_ratio": 1.9047
-      },
-      {
-        "symbol": "BTWUSDT",
-        "side": "SELL",
-        "tf": "1h",
-        "level": 0.3562,
-        "close": 0.343,
-        "vol_ratio": 1.314
+        "close": 0.0027,
+        "vol_ratio": 0.8015
       }
     ],
     "regime": "SELL"
@@ -91,7 +83,7 @@
       "R": 0.00992448229189358,
       "trail_armed": false,
       "funding": -0.02072399,
-      "last_price": 0.2418,
+      "last_price": 0.2413,
       "exit_deadline": "2026-11-18 18:01:13 MYT",
       "signal_tf": "1h",
       "vol_ratio": 2.96
@@ -112,7 +104,7 @@
       "R": 0.0008093927092204283,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 0.009588,
+      "last_price": 0.009598,
       "exit_deadline": "2026-11-19 09:00:00 MYT",
       "signal_tf": "1h",
       "vol_ratio": 3.85
