@@ -242,7 +242,27 @@
       "exit_deadline": "2026-11-19 07:00:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
+    },
+    {
+      "id": "FHF-20261118-0715-BNBUSDT",
+      "symbol": "BNBUSDT",
+      "side": "BUY",
+      "mode": "paper",
+      "status": "open",
+      "entry_price": 598.91976,
+      "entry_time": "2026-11-18 07:15:00 MYT",
+      "qty": 0.03,
+      "remaining_qty": 0.03,
+      "stop": 595.4230973145357,
+      "initial_stop": 595.4230973145357,
+      "R": 3.496662685464335,
+      "targets": [],
+      "high_since_entry": 598.91976,
+      "low_since_entry": 597.01,
+      "exit_deadline": "2026-11-19 07:15:00 MYT",
+      "market": "usdm_perp",
+      "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-18 07:13:34 MYT"
+  "paper_updated_at": "2026-11-18 07:18:49 MYT"
 }

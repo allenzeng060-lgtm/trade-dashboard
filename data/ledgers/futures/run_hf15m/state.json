@@ -8,29 +8,253 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-18 07:04:05 MYT",
-    "bar_close": "2026-11-18 07:00:00 MYT",
+    "time": "2026-11-18 07:18:46 MYT",
+    "bar_close": "2026-11-18 07:15:00 MYT",
     "universe": 74,
     "breakouts": [
+      {
+        "symbol": "BTCUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 64859.7,
+        "close": 65129.7,
+        "vol_ratio": 1.9953
+      },
+      {
+        "symbol": "ETHUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 1820.31,
+        "close": 1830.11,
+        "vol_ratio": 2.7057
+      },
+      {
+        "symbol": "BCHUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 211.24,
+        "close": 212.76,
+        "vol_ratio": 2.1072
+      },
+      {
+        "symbol": "XRPUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.9766,
+        "close": 0.9874,
+        "vol_ratio": 4.7785
+      },
+      {
+        "symbol": "LTCUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 45.12,
+        "close": 45.32,
+        "vol_ratio": 1.9243
+      },
+      {
+        "symbol": "LINKUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 9.278,
+        "close": 9.364,
+        "vol_ratio": 3.4192
+      },
+      {
+        "symbol": "XLMUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.1404,
+        "close": 0.1415,
+        "vol_ratio": 2.9688
+      },
+      {
+        "symbol": "ADAUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.1552,
+        "close": 0.1559,
+        "vol_ratio": 2.3316
+      },
+      {
+        "symbol": "ZECUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 952.92,
+        "close": 968.25,
+        "vol_ratio": 2.9769
+      },
+      {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 594.98,
+        "close": 598.8,
+        "vol_ratio": 7.0745
+      },
+      {
+        "symbol": "DOGEUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.0599,
+        "close": 0.0602,
+        "vol_ratio": 2.5407
+      },
+      {
+        "symbol": "SOLUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 74.19,
+        "close": 75.38,
+        "vol_ratio": 4.7131
+      },
+      {
+        "symbol": "AVAXUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 7.248,
+        "close": 7.294,
+        "vol_ratio": 2.5931
+      },
+      {
+        "symbol": "NEARUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 3.34,
+        "close": 3.378,
+        "vol_ratio": 2.1403
+      },
+      {
+        "symbol": "AAVEUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 111.97,
+        "close": 113.13,
+        "vol_ratio": 1.9341
+      },
+      {
+        "symbol": "FILUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.6052,
+        "close": 0.6104,
+        "vol_ratio": 1.5789
+      },
+      {
+        "symbol": "OPUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.0781,
+        "close": 0.079,
+        "vol_ratio": 4.9247
+      },
+      {
+        "symbol": "INJUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 7.277,
+        "close": 7.383,
+        "vol_ratio": 1.4781
+      },
+      {
+        "symbol": "ICPUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 2.291,
+        "close": 2.295,
+        "vol_ratio": 1.3557
+      },
+      {
+        "symbol": "QNTUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 155.55,
+        "close": 156.3,
+        "vol_ratio": 1.5269
+      },
+      {
+        "symbol": "ARBUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.1335,
+        "close": 0.1345,
+        "vol_ratio": 2.2787
+      },
+      {
+        "symbol": "SUIUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.7355,
+        "close": 0.7415,
+        "vol_ratio": 2.5661
+      },
+      {
+        "symbol": "1000PEPEUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.0038,
+        "close": 0.0039,
+        "vol_ratio": 1.8373
+      },
+      {
+        "symbol": "WLDUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.2696,
+        "close": 0.2708,
+        "vol_ratio": 1.472
+      },
+      {
+        "symbol": "ONDOUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.3095,
+        "close": 0.3122,
+        "vol_ratio": 2.2491
+      },
+      {
+        "symbol": "JUPUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.259,
+        "close": 0.2615,
+        "vol_ratio": 0.8943
+      },
+      {
+        "symbol": "ENAUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.1183,
+        "close": 0.1188,
+        "vol_ratio": 2.2108
+      },
       {
         "symbol": "TAOUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 194.76,
-        "close": 194.85,
-        "vol_ratio": 2.6724
+        "level": 195.39,
+        "close": 197.65,
+        "vol_ratio": 3.2602
       },
       {
-        "symbol": "RAREUSDT",
-        "side": "SELL",
+        "symbol": "ZROUSDT",
+        "side": "BUY",
         "tf": "15m",
-        "level": 0.0123,
-        "close": 0.0122,
-        "vol_ratio": 0.2852
+        "level": 1.4287,
+        "close": 1.4308,
+        "vol_ratio": 1.1945
+      },
+      {
+        "symbol": "TRUMPUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.972,
+        "close": 0.979,
+        "vol_ratio": 1.1593
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794956400000,
-  "last_equity_ts": 1794956645.4207604
+  "last_scan_bar_ms": 1794957300000,
+  "last_equity_ts": 1794957526.5926244
 }
