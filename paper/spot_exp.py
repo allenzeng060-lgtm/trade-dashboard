@@ -66,6 +66,9 @@ MIN_QVOL = 3_000_000.0
 LOOKBACK, VOL_N, VOL_MIN = 20, 96, 2.0
 EXPIRY_H = 24
 COOLDOWN_S = 4 * 3600
+# 2026-11-17 Chief: leveraged / inverse stock tokens (e.g. SOXSBUSDT) are excluded from new entries.
+# Existing positions are still managed by the original stop / trailing-stop rules.
+LEV_STOCK = {"BITX","CONL","ETHU","FNGD","FNGU","INTW","KORU","LABD","LABU","MSTU","MSTX","MUU","MVLL","NVDD","NVDL","NVDU","SKDD","SKUU","SNXX","SOXL","SOXS","SPXL","SPXS","SPXU","SQQQ","TMF","TNA","TQQQ","TSLQ","TSLL","TZA","UPRO","UVXY"}
 ALERT_WINDOW_S = 3600
 REFILL_BELOW = 10.0
 NO_ENTRY_WINDOWS = [("2026-11-17 21:00", "2026-11-19 05:20")]
@@ -217,7 +220,7 @@ class Bot:
         cool = self.state.setdefault("cooldown", {})
         for sym in sorted(cands, key=lambda s: -cands[s]):
             if len(d["positions"]) >= MAX_POS: break
-            if sym in EXCLUDE or sym.endswith(("UPUSDT", "DOWNUSDT", "BULLUSDT", "BEARUSDT")) or not sym.endswith("USDT"): continue
+            if sym in EXCLUDE or sym.endswith(("UPUSDT", "DOWNUSDT", "BULLUSDT", "BEARUSDT")) or not sym.endswith("USDT") or (sym.endswith("BUSDT") and sym[:-5] in LEV_STOCK): continue
             if any(p["symbol"] == sym for p in d["positions"]): continue
             if time.time() - cool.get(sym, 0) < COOLDOWN_S: continue
             if done.get(sym) == bar: continue
