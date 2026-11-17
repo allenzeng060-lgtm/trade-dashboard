@@ -577,3 +577,8 @@
 2026-11-17 14:05:07,558 INFO decision open {"symbol": "BREVUSDT", "side": "BUY", "entry": 0.084786954, "stop": 0.08091314022601077, "qty": 113.0, "lev": 2, "liq": 0.04303906, "risk": 0.447}
 2026-11-17 14:05:07,559 INFO decision skip {"symbol": "ARIAUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.39, "reason": "already holding"}
 2026-11-17 14:09:49,971 INFO decision close {"symbol": "ASTERUSDT", "reason": "stop", "fill": 0.5759039826752378, "net": -0.4509, "R": -1.01}
+2026-11-17 14:19:52,293 INFO decision trail_update {"symbol": "ICPUSDT", "stop": 2.3765860855705623, "best": 2.33}
+2026-11-17 14:19:55,410 INFO decision regime {"allow": "ANY", "btc_close": 64995.54, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+2026-11-17 14:20:08,656 INFO decision scan {"bar_close": "2026-11-17 22:15:00 MYT", "breakouts": 2, "vol_ok": 2, "allow": "ANY"}
+2026-11-17 14:20:08,656 INFO decision skip {"symbol": "BREVUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 27.12, "reason": "already holding"}
+2026-11-17 14:20:08,818 INFO decision open {"symbol": "TRXUSDT", "side": "BUY", "entry": 0.306701328, "stop": 0.30618222454345984, "qty": 73.0, "lev": 3, "liq": 0.20580529, "risk": 0.06}

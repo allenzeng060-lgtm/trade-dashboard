@@ -193,12 +193,12 @@
       "entry_time": "2026-11-17 07:15:00 MYT",
       "qty": 9.0,
       "remaining_qty": 9.0,
-      "stop": 2.377586085570562,
+      "stop": 2.3765860855705623,
       "initial_stop": 2.5240904855705626,
       "R": 0.04658608557056221,
       "targets": [],
       "high_since_entry": 2.507,
-      "low_since_entry": 2.331,
+      "low_since_entry": 2.33,
       "exit_deadline": "2026-11-18 07:15:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
@@ -302,7 +302,27 @@
       "exit_deadline": "2026-11-18 22:00:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
+    },
+    {
+      "id": "FHF-20261117-2215-TRXUSDT",
+      "symbol": "TRXUSDT",
+      "side": "BUY",
+      "mode": "paper",
+      "status": "open",
+      "entry_price": 0.306701328,
+      "entry_time": "2026-11-17 22:15:00 MYT",
+      "qty": 73.0,
+      "remaining_qty": 73.0,
+      "stop": 0.30618222454345984,
+      "initial_stop": 0.30618222454345984,
+      "R": 0.0005191034565401496,
+      "targets": [],
+      "high_since_entry": 0.306701328,
+      "low_since_entry": 0.3065,
+      "exit_deadline": "2026-11-18 22:15:00 MYT",
+      "market": "usdm_perp",
+      "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-17 22:14:52 MYT"
+  "paper_updated_at": "2026-11-17 22:20:13 MYT"
 }
