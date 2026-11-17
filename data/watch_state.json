@@ -193,12 +193,12 @@
       "entry_time": "2026-11-17 07:15:00 MYT",
       "qty": 9.0,
       "remaining_qty": 9.0,
-      "stop": 2.350586085570562,
+      "stop": 2.3435860855705624,
       "initial_stop": 2.5240904855705626,
       "R": 0.04658608557056221,
       "targets": [],
       "high_since_entry": 2.507,
-      "low_since_entry": 2.304,
+      "low_since_entry": 2.297,
       "exit_deadline": "2026-11-18 07:15:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
@@ -304,5 +304,5 @@
       "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-17 23:35:50 MYT"
+  "paper_updated_at": "2026-11-17 23:40:28 MYT"
 }
