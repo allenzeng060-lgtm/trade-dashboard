@@ -8,37 +8,29 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-17 14:02:02 MYT",
-    "bar_close": "2026-11-17 14:00:00 MYT",
+    "time": "2026-11-17 14:16:47 MYT",
+    "bar_close": "2026-11-17 14:15:00 MYT",
     "universe": 70,
     "breakouts": [
-      {
-        "symbol": "ICPUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 2.442,
-        "close": 2.435,
-        "vol_ratio": 0.4891
-      },
       {
         "symbol": "JUPUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.2509,
-        "close": 0.2515,
-        "vol_ratio": 0.8596
+        "level": 0.2518,
+        "close": 0.2539,
+        "vol_ratio": 1.319
       },
       {
         "symbol": "BTWUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.3888,
-        "close": 0.3927,
-        "vol_ratio": 1.4775
+        "level": 0.3969,
+        "close": 0.4201,
+        "vol_ratio": 5.1807
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794895200000,
-  "last_equity_ts": 1794895596.25407
+  "last_scan_bar_ms": 1794896100000,
+  "last_equity_ts": 1794896208.245822
 }

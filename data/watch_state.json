@@ -302,7 +302,27 @@
       "exit_deadline": "2026-11-18 11:45:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
+    },
+    {
+      "id": "FHF-20261117-1415-BTWUSDT",
+      "symbol": "BTWUSDT",
+      "side": "BUY",
+      "mode": "paper",
+      "status": "open",
+      "entry_price": 0.42018402,
+      "entry_time": "2026-11-17 14:15:00 MYT",
+      "qty": 20.0,
+      "remaining_qty": 20.0,
+      "stop": 0.3976602433437864,
+      "initial_stop": 0.3976602433437864,
+      "R": 0.022523776656213565,
+      "targets": [],
+      "high_since_entry": 0.4218,
+      "low_since_entry": 0.4055,
+      "exit_deadline": "2026-11-18 14:15:00 MYT",
+      "market": "usdm_perp",
+      "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-17 14:11:39 MYT"
+  "paper_updated_at": "2026-11-17 14:16:51 MYT"
 }
