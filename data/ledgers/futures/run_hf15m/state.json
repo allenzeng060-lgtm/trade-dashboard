@@ -8,45 +8,165 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-17 11:20:40 MYT",
-    "bar_close": "2026-11-17 11:15:00 MYT",
+    "time": "2026-11-17 11:30:43 MYT",
+    "bar_close": "2026-11-17 11:30:00 MYT",
     "universe": 69,
     "breakouts": [
+      {
+        "symbol": "XRPUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.9636,
+        "close": 0.9637,
+        "vol_ratio": 1.318
+      },
+      {
+        "symbol": "LTCUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 44.94,
+        "close": 44.97,
+        "vol_ratio": 0.7577
+      },
+      {
+        "symbol": "XLMUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.1386,
+        "close": 0.1393,
+        "vol_ratio": 1.0946
+      },
+      {
+        "symbol": "ADAUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.154,
+        "close": 0.1543,
+        "vol_ratio": 1.106
+      },
+      {
+        "symbol": "ZECUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 916.0,
+        "close": 919.16,
+        "vol_ratio": 1.363
+      },
+      {
+        "symbol": "DOTUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.7374,
+        "close": 0.742,
+        "vol_ratio": 1.1612
+      },
+      {
+        "symbol": "SOLUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 72.28,
+        "close": 72.48,
+        "vol_ratio": 1.1386
+      },
+      {
+        "symbol": "UNIUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 5.202,
+        "close": 5.228,
+        "vol_ratio": 1.3468
+      },
+      {
+        "symbol": "NEARUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 3.209,
+        "close": 3.225,
+        "vol_ratio": 1.5506
+      },
       {
         "symbol": "AAVEUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 110.33,
-        "close": 111.11,
-        "vol_ratio": 2.1748
+        "level": 111.39,
+        "close": 112.52,
+        "vol_ratio": 5.5114
       },
       {
         "symbol": "INJUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 7.106,
-        "close": 7.125,
-        "vol_ratio": 3.8415
+        "level": 7.21,
+        "close": 7.228,
+        "vol_ratio": 3.167
       },
       {
-        "symbol": "ZROUSDT",
+        "symbol": "SUIUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 1.5328,
-        "close": 1.5342,
-        "vol_ratio": 2.4352
+        "level": 0.7252,
+        "close": 0.7268,
+        "vol_ratio": 1.2836
       },
       {
-        "symbol": "PAXGUSDT",
+        "symbol": "1000PEPEUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 3858.31,
-        "close": 3859.69,
-        "vol_ratio": 0.7599
+        "level": 0.004,
+        "close": 0.004,
+        "vol_ratio": 1.4135
+      },
+      {
+        "symbol": "WLDUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.2646,
+        "close": 0.2647,
+        "vol_ratio": 2.6292
+      },
+      {
+        "symbol": "ONDOUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.3087,
+        "close": 0.3089,
+        "vol_ratio": 0.8767
+      },
+      {
+        "symbol": "JUPUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.2463,
+        "close": 0.2465,
+        "vol_ratio": 1.4833
+      },
+      {
+        "symbol": "TAOUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 192.58,
+        "close": 192.92,
+        "vol_ratio": 1.7117
+      },
+      {
+        "symbol": "TRUMPUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.954,
+        "close": 0.955,
+        "vol_ratio": 1.4837
+      },
+      {
+        "symbol": "VVVUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 20.788,
+        "close": 20.918,
+        "vol_ratio": 1.2641
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794885300000,
-  "last_equity_ts": 1794885640.6933658
+  "last_scan_bar_ms": 1794886200000,
+  "last_equity_ts": 1794886244.1682503
 }

@@ -244,26 +244,6 @@
       "group": "合約高頻組"
     },
     {
-      "id": "FHF-20261117-0915-PUMPUSDT",
-      "symbol": "PUMPUSDT",
-      "side": "SELL",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 0.0027604478,
-      "entry_time": "2026-11-17 09:15:00 MYT",
-      "qty": 8708.0,
-      "remaining_qty": 8708.0,
-      "stop": 0.0027992696252818637,
-      "initial_stop": 0.0027992696252818637,
-      "R": 3.882182528186357e-05,
-      "targets": [],
-      "high_since_entry": 0.00279,
-      "low_since_entry": 0.002737,
-      "exit_deadline": "2026-11-18 09:15:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
       "id": "FHF-20261117-0945-BTWUSDT",
       "symbol": "BTWUSDT",
       "side": "SELL",
@@ -337,7 +317,7 @@
       "initial_stop": 6.993677555965704,
       "R": 0.09574004403429605,
       "targets": [],
-      "high_since_entry": 7.21,
+      "high_since_entry": 7.276,
       "low_since_entry": 7.071,
       "exit_deadline": "2026-11-18 11:00:00 MYT",
       "market": "usdm_perp",
@@ -357,12 +337,32 @@
       "initial_stop": 110.12454088481205,
       "R": 1.007681115187955,
       "targets": [],
-      "high_since_entry": 112.79,
+      "high_since_entry": 112.92,
       "low_since_entry": 110.99,
       "exit_deadline": "2026-11-18 11:15:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
+    },
+    {
+      "id": "FHF-20261117-1130-WLDUSDT",
+      "symbol": "WLDUSDT",
+      "side": "BUY",
+      "mode": "paper",
+      "status": "open",
+      "entry_price": 0.26475294,
+      "entry_time": "2026-11-17 11:30:00 MYT",
+      "qty": 90.0,
+      "remaining_qty": 90.0,
+      "stop": 0.26202775313266147,
+      "initial_stop": 0.26202775313266147,
+      "R": 0.002725186867338522,
+      "targets": [],
+      "high_since_entry": 0.265,
+      "low_since_entry": 0.2646,
+      "exit_deadline": "2026-11-18 11:30:00 MYT",
+      "market": "usdm_perp",
+      "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-17 11:25:38 MYT"
+  "paper_updated_at": "2026-11-17 11:30:48 MYT"
 }

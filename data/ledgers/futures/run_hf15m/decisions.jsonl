@@ -420,3 +420,9 @@
 {"time": "2026-11-17 11:20:40 MYT", "kind": "skip", "symbol": "INJUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 3.84, "reason": "already holding"}
 {"time": "2026-11-17 11:20:40 MYT", "kind": "skip", "symbol": "ZROUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 2.44, "reason": "already holding"}
 {"time": "2026-11-17 11:20:40 MYT", "kind": "open", "symbol": "AAVEUSDT", "side": "BUY", "entry": 111.132222, "stop": 110.12454088481205, "qty": 0.2, "lev": 3, "liq": 74.83651313, "risk": 0.224}
+{"time": "2026-11-17 11:30:29 MYT", "kind": "close", "symbol": "PUMPUSDT", "reason": "stop", "fill": 0.00279982947920692, "net": -0.3671, "R": -1.01}
+{"time": "2026-11-17 11:30:32 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64882.87, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-17 11:30:43 MYT", "kind": "scan", "bar_close": "2026-11-17 11:30:00 MYT", "breakouts": 19, "vol_ok": 3, "allow": "ANY"}
+{"time": "2026-11-17 11:30:43 MYT", "kind": "skip", "symbol": "AAVEUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 5.51, "reason": "already holding"}
+{"time": "2026-11-17 11:30:43 MYT", "kind": "skip", "symbol": "INJUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 3.17, "reason": "already holding"}
+{"time": "2026-11-17 11:30:44 MYT", "kind": "open", "symbol": "WLDUSDT", "side": "BUY", "entry": 0.26475294, "stop": 0.26202775313266147, "qty": 90.0, "lev": 3, "liq": 0.17828481, "risk": 0.269}
