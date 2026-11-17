@@ -284,26 +284,6 @@
       "group": "合約高頻組"
     },
     {
-      "id": "FHF-20261117-1100-INJUSDT",
-      "symbol": "INJUSDT",
-      "side": "BUY",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 7.0894176,
-      "entry_time": "2026-11-17 11:00:00 MYT",
-      "qty": 3.3000000000000003,
-      "remaining_qty": 3.3000000000000003,
-      "stop": 7.187259955965704,
-      "initial_stop": 6.993677555965704,
-      "R": 0.09574004403429605,
-      "targets": [],
-      "high_since_entry": 7.283,
-      "low_since_entry": 7.071,
-      "exit_deadline": "2026-11-18 11:00:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
       "id": "FHF-20261117-1130-WLDUSDT",
       "symbol": "WLDUSDT",
       "side": "BUY",
@@ -337,7 +317,7 @@
       "initial_stop": 20.68437101744807,
       "R": 0.3228295825519326,
       "targets": [],
-      "high_since_entry": 21.023,
+      "high_since_entry": 21.102,
       "low_since_entry": 20.972,
       "exit_deadline": "2026-11-18 11:45:00 MYT",
       "market": "usdm_perp",
@@ -357,12 +337,12 @@
       "initial_stop": 0.10484637187498508,
       "R": 0.0035753081250149204,
       "targets": [],
-      "high_since_entry": 0.1087,
-      "low_since_entry": 0.108,
+      "high_since_entry": 0.1092,
+      "low_since_entry": 0.1057,
       "exit_deadline": "2026-11-18 11:45:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-17 11:45:52 MYT"
+  "paper_updated_at": "2026-11-17 11:50:36 MYT"
 }

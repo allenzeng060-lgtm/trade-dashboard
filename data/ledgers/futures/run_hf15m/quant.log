@@ -352,3 +352,4 @@
 2026-11-17 03:45:48,291 INFO decision skip {"symbol": "BLESSUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 4.74, "reason": "stop distance 13.71% > 10%"}
 2026-11-17 03:45:48,291 INFO decision open {"symbol": "VVVUSDT", "side": "BUY", "entry": 21.0072006, "stop": 20.68437101744807, "qty": 1.1300000000000001, "lev": 3, "liq": 14.29061265, "risk": 0.388}
 2026-11-17 03:45:48,291 INFO decision open {"symbol": "ONUSDT", "side": "BUY", "entry": 0.10842167999999999, "stop": 0.10484637187498508, "qty": 129.0, "lev": 2, "liq": 0.05503639, "risk": 0.475}
+2026-11-17 03:50:34,244 INFO decision close {"symbol": "INJUSDT", "reason": "trail_stop", "fill": 7.185822503974511, "net": 0.2946, "R": 0.87}
