@@ -218,7 +218,7 @@
       "R": 0.04658608557056221,
       "targets": [],
       "high_since_entry": 2.507,
-      "low_since_entry": 2.442,
+      "low_since_entry": 2.439,
       "exit_deadline": "2026-11-18 07:15:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
@@ -297,7 +297,7 @@
       "initial_stop": 20.68437101744807,
       "R": 0.3228295825519326,
       "targets": [],
-      "high_since_entry": 21.641,
+      "high_since_entry": 21.645,
       "low_since_entry": 20.972,
       "exit_deadline": "2026-11-18 11:45:00 MYT",
       "market": "usdm_perp",
@@ -322,47 +322,7 @@
       "exit_deadline": "2026-11-18 12:45:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
-    },
-    {
-      "id": "FHF-20261117-1330-SOPHUSDT",
-      "symbol": "SOPHUSDT",
-      "side": "BUY",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 0.0010622124,
-      "entry_time": "2026-11-17 13:30:00 MYT",
-      "qty": 10838.0,
-      "remaining_qty": 10838.0,
-      "stop": 0.0010201222069082588,
-      "initial_stop": 0.0010201222069082588,
-      "R": 4.20901930917413e-05,
-      "targets": [],
-      "high_since_entry": 0.0010622124,
-      "low_since_entry": 0.001027,
-      "exit_deadline": "2026-11-18 13:30:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
-      "id": "FHF-20261117-1330-HUMAUSDT",
-      "symbol": "HUMAUSDT",
-      "side": "SELL",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 0.0087312534,
-      "entry_time": "2026-11-17 13:30:00 MYT",
-      "qty": 1120.0,
-      "remaining_qty": 1120.0,
-      "stop": 0.009139598430787854,
-      "initial_stop": 0.009139598430787854,
-      "R": 0.00040834503078785486,
-      "targets": [],
-      "high_since_entry": 0.00893,
-      "low_since_entry": 0.008674,
-      "exit_deadline": "2026-11-18 13:30:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-17 13:46:42 MYT"
+  "paper_updated_at": "2026-11-17 13:51:32 MYT"
 }

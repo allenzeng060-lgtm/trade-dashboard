@@ -3,7 +3,7 @@
   "set": "15m",
   "mode": "paper",
   "rules": "hf-15m-v0.1",
-  "updated_at": "2026-11-17 13:46:40 MYT",
+  "updated_at": "2026-11-17 13:51:30 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -16,10 +16,10 @@
     "slip": 0.0002,
     "regime": "none"
   },
-  "wallet_usdt": 93.4966,
-  "unrealized_usdt": 1.7828,
-  "equity_usdt": 95.2794,
-  "pnl_pct": -4.721,
+  "wallet_usdt": 92.5575,
+  "unrealized_usdt": 1.8528,
+  "equity_usdt": 94.4103,
+  "pnl_pct": -5.59,
   "regime": {
     "allow": "ANY",
     "btc_close": 65056.52,
@@ -83,7 +83,7 @@
       "R": 0.0009588951577858478,
       "trail_armed": false,
       "funding": -0.00318986,
-      "last_price": 0.04535,
+      "last_price": 0.0454,
       "exit_deadline": "2026-11-18 02:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.77
@@ -104,7 +104,7 @@
       "R": 0.04658608557056221,
       "trail_armed": false,
       "funding": 0.00224145,
-      "last_price": 2.444,
+      "last_price": 2.443,
       "exit_deadline": "2026-11-18 07:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.01
@@ -125,7 +125,7 @@
       "R": 0.022584297874237637,
       "trail_armed": false,
       "funding": -0.00121664,
-      "last_price": 1.5252,
+      "last_price": 1.5241,
       "exit_deadline": "2026-11-18 10:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.39
@@ -146,7 +146,7 @@
       "R": 0.0013009199881829515,
       "trail_armed": true,
       "funding": 0.00036605,
-      "last_price": 0.01367,
+      "last_price": 0.01402,
       "exit_deadline": "2026-11-18 10:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.24
@@ -167,7 +167,7 @@
       "R": 0.002725186867338522,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 0.2663,
+      "last_price": 0.266,
       "exit_deadline": "2026-11-18 11:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.63
@@ -188,7 +188,7 @@
       "R": 0.3228295825519326,
       "trail_armed": false,
       "funding": -0.00119786,
-      "last_price": 21.613,
+      "last_price": 21.48,
       "exit_deadline": "2026-11-18 11:45:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.22
@@ -213,48 +213,6 @@
       "exit_deadline": "2026-11-18 12:45:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.01
-    },
-    {
-      "id": "FHF-20261117-1330-SOPHUSDT",
-      "symbol": "SOPHUSDT",
-      "side": "BUY",
-      "entry_time": "2026-11-17 13:30:00 MYT",
-      "entry_price": 0.0010622124,
-      "qty": 10838.0,
-      "notional": 11.5122579912,
-      "leverage": 2,
-      "margin": 5.7561289956,
-      "liq_price": 0.00055906,
-      "stop": 0.0010201222069082588,
-      "initial_stop": 0.0010201222069082588,
-      "R": 4.20901930917413e-05,
-      "trail_armed": false,
-      "funding": 0.0,
-      "last_price": 0.001046,
-      "exit_deadline": "2026-11-18 13:30:00 MYT",
-      "signal_tf": "15m",
-      "vol_ratio": 5.28
-    },
-    {
-      "id": "FHF-20261117-1330-HUMAUSDT",
-      "symbol": "HUMAUSDT",
-      "side": "SELL",
-      "entry_time": "2026-11-17 13:30:00 MYT",
-      "entry_price": 0.0087312534,
-      "qty": 1120.0,
-      "notional": 9.779003807999999,
-      "leverage": 2,
-      "margin": 4.889501903999999,
-      "liq_price": 0.01284008,
-      "stop": 0.009139598430787854,
-      "initial_stop": 0.009139598430787854,
-      "R": 0.00040834503078785486,
-      "trail_armed": false,
-      "funding": 0.0,
-      "last_price": 0.008888,
-      "exit_deadline": "2026-11-18 13:30:00 MYT",
-      "signal_tf": "15m",
-      "vol_ratio": 2.28
     }
   ],
   "data_source": "www.binance.com /fapi (public)"
