@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 22:45:00 MYT",
-      "last_check_ms": 1794877166394,
-      "last_price": 0.01896,
+      "last_check_ms": 1794877507723,
+      "last_price": 0.019031,
       "last_funding_ms": 1794873600000
     },
     {
@@ -90,8 +90,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 02:30:00 MYT",
-      "last_check_ms": 1794877166668,
-      "last_price": 0.04504,
+      "last_check_ms": 1794877508053,
+      "last_price": 0.04505,
       "last_funding_ms": 1794873600000
     },
     {
@@ -126,16 +126,16 @@
       "stop_pct": 5.34,
       "risk_usdt": 0.48261696302236756,
       "entry_fee": 0.004438382499,
-      "funding": 0.0440522,
+      "funding": 0.05262558,
       "best": 0.010394,
       "high_since_entry": 0.010394,
-      "low_since_entry": 0.009325,
+      "low_since_entry": 0.009303,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 04:30:00 MYT",
-      "last_check_ms": 1794877166942,
-      "last_price": 0.009389,
-      "last_funding_ms": 1794873600000
+      "last_check_ms": 1794877508678,
+      "last_price": 0.009344,
+      "last_funding_ms": 1794877200000
     },
     {
       "id": "FHF-20261117-0715-ICPUSDT",
@@ -176,8 +176,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 07:15:00 MYT",
-      "last_check_ms": 1794877167209,
-      "last_price": 2.479,
+      "last_check_ms": 1794877509006,
+      "last_price": 2.471,
       "last_funding_ms": 1794873600000
     },
     {
@@ -215,12 +215,12 @@
       "funding": 0.0,
       "best": 0.10025,
       "high_since_entry": 0.10025,
-      "low_since_entry": 0.08678,
+      "low_since_entry": 0.08581,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 08:15:00 MYT",
-      "last_check_ms": 1794877167747,
-      "last_price": 0.09261
+      "last_check_ms": 1794877509627,
+      "last_price": 0.08651
     }
   ]
 }

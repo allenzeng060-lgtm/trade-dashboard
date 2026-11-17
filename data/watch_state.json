@@ -164,6 +164,26 @@
       "group": "合約1h組"
     },
     {
+      "id": "F1H-20261117-0900-SKRUSDT",
+      "symbol": "SKRUSDT",
+      "side": "SELL",
+      "mode": "paper",
+      "status": "open",
+      "entry_price": 0.009659067799999999,
+      "entry_time": "2026-11-17 09:00:00 MYT",
+      "qty": 1213.0,
+      "remaining_qty": 1213.0,
+      "stop": 0.010468460509220427,
+      "initial_stop": 0.010468460509220427,
+      "R": 0.0008093927092204283,
+      "targets": [],
+      "high_since_entry": 0.009688,
+      "low_since_entry": 0.009594,
+      "exit_deadline": "2026-11-19 09:00:00 MYT",
+      "market": "usdm_perp",
+      "group": "合約1h組"
+    },
+    {
       "id": "FHF-20261116-2245-BLESSUSDT",
       "symbol": "BLESSUSDT",
       "side": "BUY",
@@ -218,7 +238,7 @@
       "R": 0.0005096528888362112,
       "targets": [],
       "high_since_entry": 0.010394,
-      "low_since_entry": 0.009325,
+      "low_since_entry": 0.009303,
       "exit_deadline": "2026-11-18 04:30:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
@@ -258,11 +278,11 @@
       "R": 0.006254631961340766,
       "targets": [],
       "high_since_entry": 0.10025,
-      "low_since_entry": 0.08678,
+      "low_since_entry": 0.08581,
       "exit_deadline": "2026-11-18 08:15:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-17 08:59:30 MYT"
+  "paper_updated_at": "2026-11-17 09:05:12 MYT"
 }

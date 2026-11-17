@@ -92,3 +92,6 @@
 {"time": "2026-11-17 08:04:27 MYT", "kind": "regime", "allow": "SELL", "btc_close": 64882.87, "ref": 67568.0, "new_low": false, "reason": "BTC 4h close 64882.87 < filter 67568 → shorts only"}
 {"time": "2026-11-17 08:04:39 MYT", "kind": "scan", "bar_close": "2026-11-17 08:00:00 MYT", "breakouts": 3, "vol_ok": 1, "allow": "SELL"}
 {"time": "2026-11-17 08:04:39 MYT", "kind": "skip", "symbol": "LITUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 2.9, "reason": "direction filter: BTC 4h close 64882.87 < filter 67568 → shorts only"}
+{"time": "2026-11-17 09:04:31 MYT", "kind": "regime", "allow": "SELL", "btc_close": 64882.87, "ref": 67568.0, "new_low": false, "reason": "BTC 4h close 64882.87 < filter 67568 → shorts only"}
+{"time": "2026-11-17 09:04:48 MYT", "kind": "scan", "bar_close": "2026-11-17 09:00:00 MYT", "breakouts": 4, "vol_ok": 1, "allow": "SELL"}
+{"time": "2026-11-17 09:04:48 MYT", "kind": "open", "symbol": "SKRUSDT", "side": "SELL", "entry": 0.009659067799999999, "stop": 0.010468460509220427, "qty": 1213.0, "lev": 1, "liq": 0.01884696, "risk": 0.994}
