@@ -8,77 +8,53 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-17 21:49:59 MYT",
-    "bar_close": "2026-11-17 21:45:00 MYT",
+    "time": "2026-11-17 22:05:07 MYT",
+    "bar_close": "2026-11-17 22:00:00 MYT",
     "universe": 71,
     "breakouts": [
+      {
+        "symbol": "ETHUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 1827.11,
+        "close": 1828.35,
+        "vol_ratio": 1.6963
+      },
       {
         "symbol": "TRXUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.3064,
-        "close": 0.3064,
-        "vol_ratio": 1.0012
-      },
-      {
-        "symbol": "ICPUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 2.357,
-        "close": 2.336,
-        "vol_ratio": 1.7676
-      },
-      {
-        "symbol": "ZROUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 1.4756,
-        "close": 1.4627,
-        "vol_ratio": 1.6804
-      },
-      {
-        "symbol": "PAXGUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 3842.6,
-        "close": 3836.4,
-        "vol_ratio": 3.9713
+        "level": 0.3065,
+        "close": 0.3066,
+        "vol_ratio": 0.7709
       },
       {
         "symbol": "ARIAUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 0.2054,
-        "close": 0.2051,
-        "vol_ratio": 2.7371
+        "level": 0.2024,
+        "close": 0.2009,
+        "vol_ratio": 2.3933
       },
       {
-        "symbol": "ASTERUSDT",
+        "symbol": "EVAAUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 0.5745,
-        "close": 0.5644,
-        "vol_ratio": 3.2056
-      },
-      {
-        "symbol": "AKEUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 0.0114,
-        "close": 0.0115,
-        "vol_ratio": 1.5339
+        "level": 3.4269,
+        "close": 3.4256,
+        "vol_ratio": 0.8839
       },
       {
         "symbol": "BREVUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.0775,
-        "close": 0.0804,
-        "vol_ratio": 51.5207
+        "level": 0.0809,
+        "close": 0.0848,
+        "vol_ratio": 49.0423
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794923100000,
-  "last_equity_ts": 1794923681.493109
+  "last_scan_bar_ms": 1794924000000,
+  "last_equity_ts": 1794924307.5590923
 }

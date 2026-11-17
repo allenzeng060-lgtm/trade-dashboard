@@ -264,26 +264,6 @@
       "group": "合約高頻組"
     },
     {
-      "id": "FHF-20261117-2145-PAXGUSDT",
-      "symbol": "PAXGUSDT",
-      "side": "SELL",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 3835.63272,
-      "entry_time": "2026-11-17 21:45:00 MYT",
-      "qty": 0.005,
-      "remaining_qty": 0.005,
-      "stop": 3845.86613949874,
-      "initial_stop": 3845.86613949874,
-      "R": 10.233419498739899,
-      "targets": [],
-      "high_since_entry": 3842.3,
-      "low_since_entry": 3835.21,
-      "exit_deadline": "2026-11-18 21:45:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
       "id": "FHF-20261117-2145-ASTERUSDT",
       "symbol": "ASTERUSDT",
       "side": "SELL",
@@ -297,7 +277,7 @@
       "initial_stop": 0.5757888249102557,
       "R": 0.011501704910255657,
       "targets": [],
-      "high_since_entry": 0.57,
+      "high_since_entry": 0.572,
       "low_since_entry": 0.5588,
       "exit_deadline": "2026-11-18 21:45:00 MYT",
       "market": "usdm_perp",
@@ -322,7 +302,27 @@
       "exit_deadline": "2026-11-18 21:45:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
+    },
+    {
+      "id": "FHF-20261117-2200-BREVUSDT",
+      "symbol": "BREVUSDT",
+      "side": "BUY",
+      "mode": "paper",
+      "status": "open",
+      "entry_price": 0.084786954,
+      "entry_time": "2026-11-17 22:00:00 MYT",
+      "qty": 113.0,
+      "remaining_qty": 113.0,
+      "stop": 0.08091314022601077,
+      "initial_stop": 0.08091314022601077,
+      "R": 0.003873813773989226,
+      "targets": [],
+      "high_since_entry": 0.08642,
+      "low_since_entry": 0.08326,
+      "exit_deadline": "2026-11-18 22:00:00 MYT",
+      "market": "usdm_perp",
+      "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-17 21:59:47 MYT"
+  "paper_updated_at": "2026-11-17 22:05:10 MYT"
 }
