@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-17 21:19:40 MYT",
+ "updated_at": "2026-11-17 21:24:33 MYT",
  "mode": "paper",
  "note": "累計統計（不因補充本金重置）。gross_profit=獲利單淨損益合計，gross_loss=虧損單淨損益合計，皆已扣手續費。",
  "groups": {
@@ -22,21 +22,21 @@
   },
   "spot_experiment": {
    "label": "現貨實驗組",
-   "trades": 7,
+   "trades": 8,
    "wins": 1,
-   "losses": 6,
-   "win_rate_pct": 14.3,
+   "losses": 7,
+   "win_rate_pct": 12.5,
    "gross_profit_usdt": 1.9567,
-   "gross_loss_usdt": -4.5148,
-   "net_pnl_usdt": -2.5581,
-   "profit_factor": 0.433,
-   "fees_paid_usdt": 0.2959,
+   "gross_loss_usdt": -5.5012,
+   "net_pnl_usdt": -3.5445,
+   "profit_factor": 0.356,
+   "fees_paid_usdt": 0.3434,
    "funding_usdt": 0.0,
    "refills": 0,
    "capital_injected_usdt": 100.0,
    "current_cycle": 1,
    "ledger": "/home/runner/work/trade-dashboard/trade-dashboard/data-repo/data/ledgers/trading-journal/experiment/trades.csv",
-   "current_equity_usdt": 96.473
+   "current_equity_usdt": 96.3595
   },
   "futures_4h": {
    "label": "合約量化組（4h）",
@@ -54,7 +54,7 @@
    "capital_injected_usdt": 100.0,
    "current_cycle": 1,
    "ledger": "/home/runner/work/trade-dashboard/trade-dashboard/data-repo/data/ledgers/trading-journal/futures/trades.csv",
-   "current_equity_usdt": 94.9347
+   "current_equity_usdt": 95.1163
   },
   "futures_1h": {
    "label": "合約1h組",
@@ -72,37 +72,37 @@
    "capital_injected_usdt": 100.0,
    "current_cycle": 1,
    "ledger": "/home/runner/work/trade-dashboard/trade-dashboard/data-repo/data/ledgers/trading-journal/futures_1h/trades.csv",
-   "current_equity_usdt": 97.8948
+   "current_equity_usdt": 97.9314
   },
   "futures_hf15m": {
    "label": "合約高頻組（15m）",
-   "trades": 79,
+   "trades": 81,
    "wins": 20,
-   "losses": 59,
-   "win_rate_pct": 25.3,
+   "losses": 61,
+   "win_rate_pct": 24.7,
    "gross_profit_usdt": 13.249,
-   "gross_loss_usdt": -22.7646,
-   "net_pnl_usdt": -9.5156,
-   "profit_factor": 0.582,
-   "fees_paid_usdt": 1.2677,
+   "gross_loss_usdt": -23.4584,
+   "net_pnl_usdt": -10.2094,
+   "profit_factor": 0.565,
+   "fees_paid_usdt": 1.3028,
    "funding_usdt": 0.0138,
    "refills": 0,
    "capital_injected_usdt": 100.0,
    "current_cycle": 1,
    "ledger": "/home/runner/work/trade-dashboard/trade-dashboard/data-repo/data/ledgers/trading-journal/futures_hf15m/trades.csv",
-   "current_equity_usdt": 90.8943
+   "current_equity_usdt": 90.7553
   }
  },
  "total": {
-  "trades": 90,
+  "trades": 93,
   "wins": 21,
-  "losses": 69,
-  "win_rate_pct": 23.3,
+  "losses": 72,
+  "win_rate_pct": 22.6,
   "gross_profit_usdt": 15.2057,
-  "gross_loss_usdt": -32.1155,
-  "net_pnl_usdt": -16.9098,
-  "profit_factor": 0.473,
-  "fees_paid_usdt": 1.7162,
+  "gross_loss_usdt": -33.7957,
+  "net_pnl_usdt": -18.59,
+  "profit_factor": 0.45,
+  "fees_paid_usdt": 1.7988,
   "funding_usdt": -0.037,
   "refills": 0,
   "capital_injected_usdt": 500.0

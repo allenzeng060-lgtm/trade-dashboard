@@ -635,3 +635,6 @@
 {"time": "2026-11-17 21:19:36 MYT", "kind": "open", "symbol": "XMRUSDT", "side": "BUY", "entry": 519.793938, "stop": 514.8570344701217, "qty": 0.043000000000000003, "lev": 3, "liq": 350.02958788, "risk": 0.235}
 {"time": "2026-11-17 21:19:36 MYT", "kind": "skip", "symbol": "BCHUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 2.12, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
 {"time": "2026-11-17 21:19:37 MYT", "kind": "trail_update", "symbol": "ICPUSDT", "stop": 2.4155860855705624, "best": 2.369}
+{"time": "2026-11-17 21:24:29 MYT", "kind": "trail_update", "symbol": "ICPUSDT", "stop": 2.410586085570562, "best": 2.364}
+{"time": "2026-11-17 21:24:32 MYT", "kind": "close", "symbol": "KAVAUSDT", "reason": "stop", "fill": 0.02809025197369867, "net": -0.4548, "R": -1.01}
+{"time": "2026-11-17 21:24:32 MYT", "kind": "close", "symbol": "XMRUSDT", "reason": "stop", "fill": 514.7540630632277, "net": -0.239, "R": -1.02}
