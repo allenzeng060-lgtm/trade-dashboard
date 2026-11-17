@@ -616,3 +616,4 @@
 2026-11-17 15:20:39,242 INFO decision skip {"symbol": "EVAAUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.04, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
 2026-11-17 15:25:18,851 INFO decision close {"symbol": "BREVUSDT", "reason": "trail_stop", "fill": 0.11086116010236419, "net": 1.0416, "R": 2.33}
 2026-11-17 15:25:19,825 INFO decision close {"symbol": "PENGUUSDT", "reason": "stop", "fill": 0.004655014018087613, "net": -0.3181, "R": -1.01}
+2026-11-17 15:30:28,403 INFO decision close {"symbol": "1000PEPEUSDT", "reason": "stop", "fill": 0.003834458211147896, "net": -0.2803, "R": -1.02}
