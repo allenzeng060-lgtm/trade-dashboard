@@ -8,61 +8,45 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-17 15:02:19 MYT",
-    "bar_close": "2026-11-17 15:00:00 MYT",
+    "time": "2026-11-17 15:17:18 MYT",
+    "bar_close": "2026-11-17 15:15:00 MYT",
     "universe": 71,
     "breakouts": [
       {
         "symbol": "TRXUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.3062,
-        "close": 0.3062,
-        "vol_ratio": 0.443
+        "level": 0.3063,
+        "close": 0.3064,
+        "vol_ratio": 0.3767
       },
       {
-        "symbol": "UNIUSDT",
+        "symbol": "ASTERUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 5.308,
-        "close": 5.314,
-        "vol_ratio": 1.3978
+        "level": 0.5866,
+        "close": 0.5873,
+        "vol_ratio": 0.5666
       },
       {
-        "symbol": "JUPUSDT",
-        "side": "BUY",
+        "symbol": "AKEUSDT",
+        "side": "SELL",
         "tf": "15m",
-        "level": 0.2553,
-        "close": 0.2578,
-        "vol_ratio": 1.344
-      },
-      {
-        "symbol": "RAREUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 0.0146,
-        "close": 0.0149,
-        "vol_ratio": 1.9669
-      },
-      {
-        "symbol": "EVAAUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 3.7899,
-        "close": 3.9346,
-        "vol_ratio": 1.8007
+        "level": 0.0094,
+        "close": 0.0094,
+        "vol_ratio": 1.159
       },
       {
         "symbol": "龙虾USDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.0215,
-        "close": 0.0222,
-        "vol_ratio": 24.3389
+        "level": 0.0223,
+        "close": 0.0224,
+        "vol_ratio": 14.1082
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794898800000,
+  "last_scan_bar_ms": 1794899700000,
   "last_equity_ts": 1794898020.7017806
 }
