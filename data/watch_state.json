@@ -213,33 +213,13 @@
       "entry_time": "2026-11-17 11:30:00 MYT",
       "qty": 90.0,
       "remaining_qty": 90.0,
-      "stop": 0.26757481313266146,
+      "stop": 0.2688748131326615,
       "initial_stop": 0.26202775313266147,
       "R": 0.002725186867338522,
       "targets": [],
-      "high_since_entry": 0.2703,
+      "high_since_entry": 0.2716,
       "low_since_entry": 0.2626,
       "exit_deadline": "2026-11-18 11:30:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
-      "id": "FHF-20261117-1145-VVVUSDT",
-      "symbol": "VVVUSDT",
-      "side": "BUY",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 21.0072006,
-      "entry_time": "2026-11-17 11:45:00 MYT",
-      "qty": 1.1300000000000001,
-      "remaining_qty": 1.1300000000000001,
-      "stop": 21.542170417448066,
-      "initial_stop": 20.68437101744807,
-      "R": 0.3228295825519326,
-      "targets": [],
-      "high_since_entry": 21.865,
-      "low_since_entry": 20.927,
-      "exit_deadline": "2026-11-18 11:45:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
     },
@@ -317,7 +297,7 @@
       "initial_stop": 7.414496715152363,
       "R": 0.11500888484763656,
       "targets": [],
-      "high_since_entry": 7.626,
+      "high_since_entry": 7.642,
       "low_since_entry": 7.454,
       "exit_deadline": "2026-11-18 19:45:00 MYT",
       "market": "usdm_perp",
@@ -344,5 +324,5 @@
       "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-17 20:19:24 MYT"
+  "paper_updated_at": "2026-11-17 20:24:07 MYT"
 }
