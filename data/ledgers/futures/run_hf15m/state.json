@@ -8,69 +8,53 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-17 13:01:40 MYT",
-    "bar_close": "2026-11-17 13:00:00 MYT",
-    "universe": 70,
+    "time": "2026-11-17 13:16:27 MYT",
+    "bar_close": "2026-11-17 13:15:00 MYT",
+    "universe": 71,
     "breakouts": [
       {
-        "symbol": "XMRUSDT",
+        "symbol": "TRXUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 499.84,
-        "close": 501.07,
-        "vol_ratio": 0.4209
+        "level": 0.3059,
+        "close": 0.306,
+        "vol_ratio": 1.4943
       },
       {
-        "symbol": "ZECUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 926.0,
-        "close": 926.76,
-        "vol_ratio": 0.9101
-      },
-      {
-        "symbol": "NEARUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 3.284,
-        "close": 3.287,
-        "vol_ratio": 1.2402
-      },
-      {
-        "symbol": "INJUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 7.283,
-        "close": 7.411,
-        "vol_ratio": 3.3226
-      },
-      {
-        "symbol": "BULLAUSDT",
+        "symbol": "TACUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 0.015,
-        "close": 0.0137,
-        "vol_ratio": 2.7533
+        "level": 0.0012,
+        "close": 0.0012,
+        "vol_ratio": 0.8501
       },
       {
-        "symbol": "EVAAUSDT",
+        "symbol": "ARIAUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 3.6958,
-        "close": 3.7338,
-        "vol_ratio": 1.0293
+        "level": 0.2258,
+        "close": 0.2263,
+        "vol_ratio": 0.3669
       },
       {
-        "symbol": "LITUSDT",
+        "symbol": "JCTUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 3.0647,
-        "close": 3.0699,
-        "vol_ratio": 0.4792
+        "level": 0.0023,
+        "close": 0.0023,
+        "vol_ratio": 0.9854
+      },
+      {
+        "symbol": "PIEVERSEUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 2.0048,
+        "close": 2.0144,
+        "vol_ratio": 1.0432
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794891600000,
+  "last_scan_bar_ms": 1794892500000,
   "last_equity_ts": 1794891700.3302045
 }

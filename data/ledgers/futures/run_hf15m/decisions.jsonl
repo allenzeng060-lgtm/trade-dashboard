@@ -463,3 +463,5 @@
 {"time": "2026-11-17 13:01:40 MYT", "kind": "scan", "bar_close": "2026-11-17 13:00:00 MYT", "breakouts": 7, "vol_ok": 2, "allow": "ANY"}
 {"time": "2026-11-17 13:01:40 MYT", "kind": "open", "symbol": "INJUSDT", "side": "BUY", "entry": 7.4124821999999995, "stop": 7.286312568634533, "qty": 3.1, "lev": 3, "liq": 4.99157051, "risk": 0.414}
 {"time": "2026-11-17 13:01:40 MYT", "kind": "skip", "symbol": "BULLAUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.75, "reason": "already holding"}
+{"time": "2026-11-17 13:16:16 MYT", "kind": "regime", "allow": "ANY", "btc_close": 65056.52, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-17 13:16:27 MYT", "kind": "scan", "bar_close": "2026-11-17 13:15:00 MYT", "breakouts": 5, "vol_ok": 0, "allow": "ANY"}
