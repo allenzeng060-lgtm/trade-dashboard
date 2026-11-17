@@ -160,3 +160,6 @@
 {"time": "2026-11-18 00:01:04 MYT", "kind": "skip", "symbol": "ASTERUSDT", "side": "SELL", "tf": "1h", "vol_ratio": 2.71, "reason": "same-direction cap 2 (v0.2 correlation cap)"}
 {"time": "2026-11-18 00:01:04 MYT", "kind": "skip", "symbol": "ONDOUSDT", "side": "SELL", "tf": "1h", "vol_ratio": 2.58, "reason": "same-direction cap 2 (v0.2 correlation cap)"}
 {"time": "2026-11-18 00:01:04 MYT", "kind": "skip", "symbol": "HUMAUSDT", "side": "SELL", "tf": "1h", "vol_ratio": 2.18, "reason": "same-direction cap 2 (v0.2 correlation cap)"}
+{"time": "2026-11-18 01:01:05 MYT", "kind": "regime", "allow": "SELL", "btc_close": 64115.09, "ref": 67568.0, "new_low": false, "reason": "BTC 4h close 64115.09 < filter 67568 → shorts only"}
+{"time": "2026-11-18 01:01:22 MYT", "kind": "scan", "bar_close": "2026-11-18 01:00:00 MYT", "breakouts": 3, "vol_ok": 1, "allow": "SELL"}
+{"time": "2026-11-18 01:01:22 MYT", "kind": "skip", "symbol": "ICPUSDT", "side": "SELL", "tf": "1h", "vol_ratio": 2.13, "reason": "same-direction cap 2 (v0.2 correlation cap)"}

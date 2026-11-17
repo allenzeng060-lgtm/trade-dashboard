@@ -749,3 +749,7 @@
 {"time": "2026-11-18 00:31:07 MYT", "kind": "scan", "bar_close": "2026-11-18 00:30:00 MYT", "breakouts": 0, "vol_ok": 0, "allow": "ANY"}
 {"time": "2026-11-18 00:45:53 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64115.09, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
 {"time": "2026-11-18 00:46:06 MYT", "kind": "scan", "bar_close": "2026-11-18 00:45:00 MYT", "breakouts": 1, "vol_ok": 0, "allow": "ANY"}
+{"time": "2026-11-18 01:01:25 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64115.09, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-18 01:01:38 MYT", "kind": "scan", "bar_close": "2026-11-18 01:00:00 MYT", "breakouts": 6, "vol_ok": 2, "allow": "ANY"}
+{"time": "2026-11-18 01:01:39 MYT", "kind": "open", "symbol": "AAVEUSDT", "side": "SELL", "entry": 110.237948, "stop": 111.94093576289177, "qty": 0.2, "lev": 3, "liq": 145.52864422, "risk": 0.363}
+{"time": "2026-11-18 01:01:39 MYT", "kind": "open", "symbol": "ZROUSDT", "side": "SELL", "entry": 1.40231948, "stop": 1.4286903763954617, "qty": 16.1, "lev": 3, "liq": 1.85124684, "risk": 0.447}

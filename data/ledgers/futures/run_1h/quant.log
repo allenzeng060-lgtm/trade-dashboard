@@ -130,3 +130,6 @@
 2026-11-17 16:01:04,092 INFO decision skip {"symbol": "ASTERUSDT", "side": "SELL", "tf": "1h", "vol_ratio": 2.71, "reason": "same-direction cap 2 (v0.2 correlation cap)"}
 2026-11-17 16:01:04,093 INFO decision skip {"symbol": "ONDOUSDT", "side": "SELL", "tf": "1h", "vol_ratio": 2.58, "reason": "same-direction cap 2 (v0.2 correlation cap)"}
 2026-11-17 16:01:04,093 INFO decision skip {"symbol": "HUMAUSDT", "side": "SELL", "tf": "1h", "vol_ratio": 2.18, "reason": "same-direction cap 2 (v0.2 correlation cap)"}
+2026-11-17 17:01:05,872 INFO decision regime {"allow": "SELL", "btc_close": 64115.09, "ref": 67568.0, "new_low": false, "reason": "BTC 4h close 64115.09 < filter 67568 → shorts only"}
+2026-11-17 17:01:22,109 INFO decision scan {"bar_close": "2026-11-18 01:00:00 MYT", "breakouts": 3, "vol_ok": 1, "allow": "SELL"}
+2026-11-17 17:01:22,109 INFO decision skip {"symbol": "ICPUSDT", "side": "SELL", "tf": "1h", "vol_ratio": 2.13, "reason": "same-direction cap 2 (v0.2 correlation cap)"}
