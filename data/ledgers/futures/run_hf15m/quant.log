@@ -457,3 +457,4 @@
 2026-11-17 09:18:03,159 INFO decision open {"symbol": "TAOUSDT", "side": "SELL", "entry": 190.481896, "stop": 192.0113669890957, "qty": 0.12, "lev": 3, "liq": 251.46124884, "risk": 0.206}
 2026-11-17 09:22:51,994 INFO decision trail_update {"symbol": "BULLAUSDT", "stop": 0.013890919988182952, "best": 0.01259}
 2026-11-17 09:22:52,973 INFO decision close {"symbol": "BTWUSDT", "reason": "stop", "fill": 0.4875442568596732, "net": -0.4568, "R": -1.0}
+2026-11-17 09:27:52,740 INFO decision trail_update {"symbol": "BULLAUSDT", "stop": 0.01375091998818295, "best": 0.01245}
