@@ -770,3 +770,5 @@
 2026-11-17 23:18:46,593 INFO decision skip {"symbol": "ENAUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 2.21, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
 2026-11-17 23:18:46,593 INFO decision skip {"symbol": "NEARUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 2.14, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
 2026-11-17 23:18:46,593 INFO decision skip {"symbol": "BCHUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 2.11, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+2026-11-17 23:33:43,938 INFO decision regime {"allow": "ANY", "btc_close": 63753.75, "ref": 67568.0, "new_low": true, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+2026-11-17 23:33:59,274 INFO decision scan {"bar_close": "2026-11-18 07:30:00 MYT", "breakouts": 0, "vol_ok": 0, "allow": "ANY"}

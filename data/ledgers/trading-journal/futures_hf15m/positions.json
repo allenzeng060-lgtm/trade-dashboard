@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794958117948,
-      "last_price": 0.3113
+      "last_check_ms": 1794958439275,
+      "last_price": 0.3112
     },
     {
       "id": "FHF-20261118-0530-ADAUSDT",
@@ -89,8 +89,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794958118277,
-      "last_price": 0.1555
+      "last_check_ms": 1794958439598,
+      "last_price": 0.1552
     },
     {
       "id": "FHF-20261118-0530-XRPUSDT",
@@ -131,8 +131,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794958118601,
-      "last_price": 0.9865
+      "last_check_ms": 1794958439921,
+      "last_price": 0.985
     },
     {
       "id": "FHF-20261118-0530-AVAXUSDT",
@@ -173,8 +173,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794958118922,
-      "last_price": 7.281
+      "last_check_ms": 1794958440255,
+      "last_price": 7.272
     },
     {
       "id": "FHF-20261118-0700-TAOUSDT",
@@ -209,14 +209,14 @@
       "risk_usdt": 0.25281381106308665,
       "entry_fee": 0.01091378232,
       "funding": 0.0,
-      "best": 198.15,
-      "high_since_entry": 198.15,
+      "best": 198.18,
+      "high_since_entry": 198.18,
       "low_since_entry": 194.71,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 07:00:00 MYT",
-      "last_check_ms": 1794958119247,
-      "last_price": 197.35
+      "last_check_ms": 1794958440858,
+      "last_price": 197.44
     },
     {
       "id": "FHF-20261118-0715-BNBUSDT",
@@ -253,12 +253,12 @@
       "funding": 0.0,
       "best": 598.91976,
       "high_since_entry": 598.91976,
-      "low_since_entry": 596.43,
+      "low_since_entry": 595.92,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 07:15:00 MYT",
-      "last_check_ms": 1794958119875,
-      "last_price": 596.76
+      "last_check_ms": 1794958441475,
+      "last_price": 596.4
     }
   ]
 }
