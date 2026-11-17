@@ -75,3 +75,5 @@
 2026-11-17 04:00:57,924 INFO decision regime {"allow": "SELL", "btc_close": 65056.52, "ref": 67568.0, "new_low": false, "reason": "BTC 4h close 65056.52 < filter 67568 → shorts only"}
 2026-11-17 04:01:09,443 INFO decision scan {"bar_close": "2026-11-17 12:00:00 MYT", "breakouts": 10, "vol_ok": 1, "allow": "SELL"}
 2026-11-17 04:01:09,443 INFO decision skip {"symbol": "AAVEUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 2.93, "reason": "direction filter: BTC 4h close 65056.52 < filter 67568 → shorts only"}
+2026-11-17 05:01:06,777 INFO decision regime {"allow": "SELL", "btc_close": 65056.52, "ref": 67568.0, "new_low": false, "reason": "BTC 4h close 65056.52 < filter 67568 → shorts only"}
+2026-11-17 05:01:19,273 INFO decision scan {"bar_close": "2026-11-17 13:00:00 MYT", "breakouts": 9, "vol_ok": 0, "allow": "SELL"}
