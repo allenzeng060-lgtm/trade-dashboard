@@ -193,12 +193,12 @@
       "entry_time": "2026-11-17 07:15:00 MYT",
       "qty": 9.0,
       "remaining_qty": 9.0,
-      "stop": 2.5240904855705626,
+      "stop": 2.430586085570562,
       "initial_stop": 2.5240904855705626,
       "R": 0.04658608557056221,
       "targets": [],
       "high_since_entry": 2.507,
-      "low_since_entry": 2.386,
+      "low_since_entry": 2.384,
       "exit_deadline": "2026-11-18 07:15:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
@@ -284,26 +284,6 @@
       "group": "合約高頻組"
     },
     {
-      "id": "FHF-20261117-1945-PIEVERSEUSDT",
-      "symbol": "PIEVERSEUSDT",
-      "side": "BUY",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 2.0121023399999998,
-      "entry_time": "2026-11-17 19:45:00 MYT",
-      "qty": 7.0,
-      "remaining_qty": 7.0,
-      "stop": 1.9548969957441231,
-      "initial_stop": 1.9548969957441231,
-      "R": 0.057205344255876554,
-      "targets": [],
-      "high_since_entry": 2.0199,
-      "low_since_entry": 1.9569,
-      "exit_deadline": "2026-11-18 19:45:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
       "id": "FHF-20261117-2030-TRUMPUSDT",
       "symbol": "TRUMPUSDT",
       "side": "BUY",
@@ -318,11 +298,11 @@
       "R": 0.010442444617273595,
       "targets": [],
       "high_since_entry": 0.989,
-      "low_since_entry": 0.983,
+      "low_since_entry": 0.978,
       "exit_deadline": "2026-11-18 20:30:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-17 20:44:17 MYT"
+  "paper_updated_at": "2026-11-17 20:49:42 MYT"
 }

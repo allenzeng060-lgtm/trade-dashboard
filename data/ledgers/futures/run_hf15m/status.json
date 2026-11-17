@@ -3,7 +3,7 @@
   "set": "15m",
   "mode": "paper",
   "rules": "hf-15m-v0.1",
-  "updated_at": "2026-11-17 20:44:15 MYT",
+  "updated_at": "2026-11-17 20:49:40 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -16,10 +16,10 @@
     "slip": 0.0002,
     "regime": "none"
   },
-  "wallet_usdt": 90.4845,
-  "unrealized_usdt": 1.3966,
-  "equity_usdt": 91.8811,
-  "pnl_pct": -8.119,
+  "wallet_usdt": 90.0667,
+  "unrealized_usdt": 1.6649,
+  "equity_usdt": 91.7316,
+  "pnl_pct": -8.268,
   "regime": {
     "allow": "ANY",
     "btc_close": 64995.54,
@@ -27,105 +27,49 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-17 20:34:20 MYT",
-    "bar_close": "2026-11-17 20:30:00 MYT",
+    "time": "2026-11-17 20:49:36 MYT",
+    "bar_close": "2026-11-17 20:45:00 MYT",
     "universe": 70,
     "breakouts": [
-      {
-        "symbol": "LTCUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 45.09,
-        "close": 45.21,
-        "vol_ratio": 2.1564
-      },
-      {
-        "symbol": "XLMUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 0.1401,
-        "close": 0.1406,
-        "vol_ratio": 2.138
-      },
-      {
-        "symbol": "DOGEUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 0.0594,
-        "close": 0.0594,
-        "vol_ratio": 0.8435
-      },
       {
         "symbol": "KAVAUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.0272,
-        "close": 0.0276,
-        "vol_ratio": 1.757
+        "level": 0.0276,
+        "close": 0.0277,
+        "vol_ratio": 1.9765
       },
       {
-        "symbol": "NEARUSDT",
+        "symbol": "SOLUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 3.29,
-        "close": 3.3,
-        "vol_ratio": 1.8054
+        "level": 73.59,
+        "close": 73.68,
+        "vol_ratio": 1.1301
       },
       {
-        "symbol": "INJUSDT",
+        "symbol": "UNIUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 7.625,
-        "close": 7.7,
-        "vol_ratio": 3.2614
+        "level": 5.378,
+        "close": 5.387,
+        "vol_ratio": 1.0961
       },
       {
-        "symbol": "ARBUSDT",
-        "side": "BUY",
+        "symbol": "SOPHUSDT",
+        "side": "SELL",
         "tf": "15m",
-        "level": 0.1329,
-        "close": 0.1331,
-        "vol_ratio": 1.2155
+        "level": 0.0009,
+        "close": 0.0009,
+        "vol_ratio": 0.5784
       },
       {
-        "symbol": "SUIUSDT",
-        "side": "BUY",
+        "symbol": "龙虾USDT",
+        "side": "SELL",
         "tf": "15m",
-        "level": 0.7361,
-        "close": 0.7373,
-        "vol_ratio": 1.0405
-      },
-      {
-        "symbol": "WLDUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 0.2703,
-        "close": 0.2717,
-        "vol_ratio": 1.9627
-      },
-      {
-        "symbol": "ENAUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 0.1182,
-        "close": 0.1186,
-        "vol_ratio": 1.0989
-      },
-      {
-        "symbol": "TRUMPUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 0.975,
-        "close": 0.986,
-        "vol_ratio": 3.7137
-      },
-      {
-        "symbol": "PUMPUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 0.0028,
-        "close": 0.0028,
-        "vol_ratio": 1.9697
+        "level": 0.0152,
+        "close": 0.0151,
+        "vol_ratio": 1.7982
       }
     ],
     "regime": "ANY"
@@ -147,7 +91,7 @@
       "R": 0.0009588951577858478,
       "trail_armed": false,
       "funding": -0.00531358,
-      "last_price": 0.04511,
+      "last_price": 0.04513,
       "exit_deadline": "2026-11-18 02:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.77
@@ -163,12 +107,12 @@
       "leverage": 3,
       "margin": 7.432513200000002,
       "liq_price": 3.27063287,
-      "stop": 2.5240904855705626,
+      "stop": 2.430586085570562,
       "initial_stop": 2.5240904855705626,
       "R": 0.04658608557056221,
-      "trail_armed": false,
+      "trail_armed": true,
       "funding": 0.00443816,
-      "last_price": 2.391,
+      "last_price": 2.385,
       "exit_deadline": "2026-11-18 07:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.01
@@ -189,7 +133,7 @@
       "R": 0.002725186867338522,
       "trail_armed": true,
       "funding": 0.00361754,
-      "last_price": 0.2709,
+      "last_price": 0.2707,
       "exit_deadline": "2026-11-18 11:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.63
@@ -210,7 +154,7 @@
       "R": 0.0041255181993001405,
       "trail_armed": false,
       "funding": 0.00053352,
-      "last_price": 0.0986,
+      "last_price": 0.0981,
       "exit_deadline": "2026-11-18 17:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.52
@@ -231,7 +175,7 @@
       "R": 0.05890589792866615,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 7.234,
+      "last_price": 7.23,
       "exit_deadline": "2026-11-18 19:45:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 6.29
@@ -252,31 +196,10 @@
       "R": 0.11500888484763656,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 7.628,
+      "last_price": 7.622,
       "exit_deadline": "2026-11-18 19:45:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 4.55
-    },
-    {
-      "id": "FHF-20261117-1945-PIEVERSEUSDT",
-      "symbol": "PIEVERSEUSDT",
-      "side": "BUY",
-      "entry_time": "2026-11-17 19:45:00 MYT",
-      "entry_price": 2.0121023399999998,
-      "qty": 7.0,
-      "notional": 14.084716379999998,
-      "leverage": 3,
-      "margin": 4.694905459999999,
-      "liq_price": 1.37579647,
-      "stop": 1.9548969957441231,
-      "initial_stop": 1.9548969957441231,
-      "R": 0.057205344255876554,
-      "trail_armed": false,
-      "funding": -0.00070294,
-      "last_price": 1.9589,
-      "exit_deadline": "2026-11-18 19:45:00 MYT",
-      "signal_tf": "15m",
-      "vol_ratio": 3.27
     },
     {
       "id": "FHF-20261117-2030-TRUMPUSDT",
@@ -294,7 +217,7 @@
       "R": 0.010442444617273595,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 0.987,
+      "last_price": 0.979,
       "exit_deadline": "2026-11-18 20:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.71
