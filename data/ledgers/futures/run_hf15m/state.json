@@ -8,29 +8,45 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-17 19:18:55 MYT",
-    "bar_close": "2026-11-17 19:15:00 MYT",
+    "time": "2026-11-17 19:33:56 MYT",
+    "bar_close": "2026-11-17 19:30:00 MYT",
     "universe": 69,
     "breakouts": [
+      {
+        "symbol": "XRPUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.9634,
+        "close": 0.9638,
+        "vol_ratio": 1.292
+      },
+      {
+        "symbol": "XLMUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.1386,
+        "close": 0.1386,
+        "vol_ratio": 1.0234
+      },
+      {
+        "symbol": "KAVAUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 0.0254,
+        "close": 0.0253,
+        "vol_ratio": 2.1984
+      },
       {
         "symbol": "SUIUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.7258,
-        "close": 0.7264,
-        "vol_ratio": 1.5647
-      },
-      {
-        "symbol": "SPACEUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 0.0033,
-        "close": 0.0033,
-        "vol_ratio": 0.4202
+        "level": 0.7265,
+        "close": 0.728,
+        "vol_ratio": 1.2076
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794914100000,
-  "last_equity_ts": 1794914017.7836368
+  "last_scan_bar_ms": 1794915000000,
+  "last_equity_ts": 1794915239.2295783
 }

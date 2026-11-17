@@ -284,46 +284,6 @@
       "group": "合約高頻組"
     },
     {
-      "id": "FHF-20261117-1730-FILUSDT",
-      "symbol": "FILUSDT",
-      "side": "SELL",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 0.60277942,
-      "entry_time": "2026-11-17 17:30:00 MYT",
-      "qty": 37.800000000000004,
-      "remaining_qty": 37.800000000000004,
-      "stop": 0.6084443503804096,
-      "initial_stop": 0.6084443503804096,
-      "R": 0.005664930380409621,
-      "targets": [],
-      "high_since_entry": 0.6082,
-      "low_since_entry": 0.5982,
-      "exit_deadline": "2026-11-18 17:30:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
-      "id": "FHF-20261117-1815-ETHUSDT",
-      "symbol": "ETHUSDT",
-      "side": "SELL",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 1799.49003,
-      "entry_time": "2026-11-17 18:15:00 MYT",
-      "qty": 0.012,
-      "remaining_qty": 0.012,
-      "stop": 1811.3395130466008,
-      "initial_stop": 1811.3395130466008,
-      "R": 11.849483046600824,
-      "targets": [],
-      "high_since_entry": 1806.61,
-      "low_since_entry": 1785.28,
-      "exit_deadline": "2026-11-18 18:15:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
       "id": "FHF-20261117-1845-CROSSUSDT",
       "symbol": "CROSSUSDT",
       "side": "SELL",
@@ -337,12 +297,12 @@
       "initial_stop": 0.1499883036722521,
       "R": 0.007036899672252089,
       "targets": [],
-      "high_since_entry": 0.14748,
+      "high_since_entry": 0.14924,
       "low_since_entry": 0.14015,
       "exit_deadline": "2026-11-18 18:45:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-17 19:28:47 MYT"
+  "paper_updated_at": "2026-11-17 19:34:01 MYT"
 }
