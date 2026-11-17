@@ -47,7 +47,7 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-17 22:45:00 MYT",
-      "last_check_ms": 1794878675998,
+      "last_check_ms": 1794878979747,
       "last_price": 0.019043,
       "last_funding_ms": 1794873600000
     },
@@ -90,8 +90,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 02:30:00 MYT",
-      "last_check_ms": 1794878676407,
-      "last_price": 0.04496,
+      "last_check_ms": 1794878980223,
+      "last_price": 0.045,
       "last_funding_ms": 1794873600000
     },
     {
@@ -133,8 +133,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 04:30:00 MYT",
-      "last_check_ms": 1794878676628,
-      "last_price": 0.009439,
+      "last_check_ms": 1794878980470,
+      "last_price": 0.0094,
       "last_funding_ms": 1794877200000
     },
     {
@@ -176,8 +176,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 07:15:00 MYT",
-      "last_check_ms": 1794878677033,
-      "last_price": 2.462,
+      "last_check_ms": 1794878980945,
+      "last_price": 2.463,
       "last_funding_ms": 1794873600000
     },
     {
@@ -219,8 +219,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 08:15:00 MYT",
-      "last_check_ms": 1794878677438,
-      "last_price": 0.09446
+      "last_check_ms": 1794878981202,
+      "last_price": 0.09806
     },
     {
       "id": "FHF-20261117-0915-PUMPUSDT",
@@ -261,8 +261,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 09:15:00 MYT",
-      "last_check_ms": 1794878677659,
-      "last_price": 0.002766
+      "last_check_ms": 1794878981676,
+      "last_price": 0.002763
     }
   ]
 }
