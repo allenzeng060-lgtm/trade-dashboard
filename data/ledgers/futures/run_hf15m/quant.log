@@ -281,3 +281,11 @@
 2026-11-16 23:49:03,002 INFO decision regime {"allow": "ANY", "btc_close": 65068.01, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
 2026-11-16 23:49:16,646 INFO decision scan {"bar_close": "2026-11-17 07:45:00 MYT", "breakouts": 14, "vol_ok": 1, "allow": "ANY"}
 2026-11-16 23:49:17,067 INFO decision open {"symbol": "SPACEUSDT", "side": "SELL", "entry": 0.0037202558, "stop": 0.003999564321989963, "qty": 1697.0, "lev": 1, "liq": 0.00733055, "risk": 0.481}
+2026-11-17 00:04:40,705 INFO decision funding {"symbol": "BLESSUSDT", "rate": "0.00060594", "amount": -0.003926, "at": "2026-11-17 08:00:00 MYT"}
+2026-11-17 00:04:40,931 INFO decision funding {"symbol": "JUPUSDT", "rate": "-0.00027357", "amount": -0.006249, "at": "2026-11-17 08:00:00 MYT"}
+2026-11-17 00:04:41,151 INFO decision funding {"symbol": "XPLUSDT", "rate": "0.00005000", "amount": -0.001066, "at": "2026-11-17 08:00:00 MYT"}
+2026-11-17 00:04:41,569 INFO decision funding {"symbol": "HUMAUSDT", "rate": "-0.00073264", "amount": 0.006673, "at": "2026-11-17 08:00:00 MYT"}
+2026-11-17 00:04:41,792 INFO decision funding {"symbol": "ICPUSDT", "rate": "0.00010000", "amount": 0.002241, "at": "2026-11-17 08:00:00 MYT"}
+2026-11-17 00:04:42,202 INFO decision funding {"symbol": "SPACEUSDT", "rate": "0.00005000", "amount": 0.000321, "at": "2026-11-17 08:00:00 MYT"}
+2026-11-17 00:04:43,764 INFO decision regime {"allow": "ANY", "btc_close": 64882.87, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+2026-11-17 00:04:53,771 INFO decision scan {"bar_close": "2026-11-17 08:00:00 MYT", "breakouts": 0, "vol_ok": 0, "allow": "ANY"}

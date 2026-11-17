@@ -36,16 +36,16 @@
       "stop_pct": 5.51,
       "risk_usdt": 1.999710339420037,
       "entry_fee": 0.017812725,
-      "funding": -0.00433717,
+      "funding": -0.00683511,
       "best": 0.1251,
       "high_since_entry": 0.1355,
       "low_since_entry": 0.1251,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-22 08:10:23 MYT",
-      "last_check_ms": 1794873542451,
-      "last_price": 0.1349,
-      "last_funding_ms": 1794859200002
+      "last_check_ms": 1794873864976,
+      "last_price": 0.1344,
+      "last_funding_ms": 1794873600000
     },
     {
       "id": "FQ-20261115-0810-1000BONKUSDT",
@@ -76,16 +76,16 @@
       "stop_pct": 6.529,
       "risk_usdt": 1.9999298046573637,
       "entry_fee": 0.015077922,
-      "funding": -0.05341687,
+      "funding": -0.06243979,
       "best": 0.002224,
       "high_since_entry": 0.002424,
       "low_since_entry": 0.002224,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-22 08:10:23 MYT",
-      "last_check_ms": 1794873542693,
-      "last_price": 0.00233,
-      "last_funding_ms": 1794859200002
+      "last_check_ms": 1794873865196,
+      "last_price": 0.002326,
+      "last_funding_ms": 1794873600000
     }
   ]
 }

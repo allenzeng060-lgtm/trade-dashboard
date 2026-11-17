@@ -58,3 +58,7 @@
 2026-11-16 23:03:55,951 INFO decision regime {"allow": "SELL", "btc_close": 65068.01, "ref": 67568.0, "new_low": false, "reason": "BTC 4h close 65068.01 < filter 67568 → shorts only"}
 2026-11-16 23:04:06,582 INFO decision scan {"bar_close": "2026-11-17 07:00:00 MYT", "breakouts": 6, "vol_ok": 1, "allow": "SELL"}
 2026-11-16 23:04:07,107 INFO decision skip {"symbol": "AIOTUSDT", "side": "SELL", "tf": "1h", "vol_ratio": 2.0, "reason": "stop distance 23.13% > 10%"}
+2026-11-17 00:04:25,933 INFO decision funding {"symbol": "JUPUSDT", "rate": "-0.00027357", "amount": -0.006446, "at": "2026-11-17 08:00:00 MYT"}
+2026-11-17 00:04:27,403 INFO decision regime {"allow": "SELL", "btc_close": 64882.87, "ref": 67568.0, "new_low": false, "reason": "BTC 4h close 64882.87 < filter 67568 → shorts only"}
+2026-11-17 00:04:39,962 INFO decision scan {"bar_close": "2026-11-17 08:00:00 MYT", "breakouts": 3, "vol_ok": 1, "allow": "SELL"}
+2026-11-17 00:04:39,962 INFO decision skip {"symbol": "LITUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 2.9, "reason": "direction filter: BTC 4h close 64882.87 < filter 67568 → shorts only"}

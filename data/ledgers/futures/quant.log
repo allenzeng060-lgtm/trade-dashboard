@@ -22,3 +22,13 @@
 2026-11-16 20:02:41,585 INFO decision skip {"symbol": "HUMAUSDT", "side": "BUY", "tf": "4h", "vol_ratio": 15.97, "reason": "direction filter: BTC 4h close 65068.01 < filter 67568 → shorts only"}
 2026-11-16 20:02:41,585 INFO decision skip {"symbol": "CROSSUSDT", "side": "BUY", "tf": "4h", "vol_ratio": 10.08, "reason": "direction filter: BTC 4h close 65068.01 < filter 67568 → shorts only"}
 2026-11-16 20:02:41,585 INFO decision skip {"symbol": "AIOTUSDT", "side": "SELL", "tf": "4h", "vol_ratio": 3.96, "reason": "same-direction cap 1 (v0.2 correlation cap)"}
+2026-11-17 00:04:04,342 INFO decision funding {"symbol": "WIFUSDT", "rate": "-0.00006736", "amount": -0.002498, "at": "2026-11-17 08:00:00 MYT"}
+2026-11-17 00:04:04,571 INFO decision funding {"symbol": "1000BONKUSDT", "rate": "-0.00029433", "amount": -0.009023, "at": "2026-11-17 08:00:00 MYT"}
+2026-11-17 00:04:06,154 INFO decision regime {"allow": "SELL", "btc_close": 64882.87, "ref": 67568.0, "new_low": false, "reason": "BTC 4h close 64882.87 < filter 67568 → shorts only"}
+2026-11-17 00:04:24,975 INFO decision scan {"bar_close": "2026-11-17 08:00:00 MYT", "breakouts": 11, "vol_ok": 7, "allow": "SELL"}
+2026-11-17 00:04:24,975 INFO decision skip {"symbol": "BLESSUSDT", "side": "BUY", "tf": "1d", "vol_ratio": 38.97, "reason": "direction filter: BTC 4h close 64882.87 < filter 67568 → shorts only"}
+2026-11-17 00:04:24,975 INFO decision skip {"symbol": "CROSSUSDT", "side": "BUY", "tf": "1d", "vol_ratio": 19.97, "reason": "direction filter: BTC 4h close 64882.87 < filter 67568 → shorts only"}
+2026-11-17 00:04:24,975 INFO decision skip {"symbol": "HUMAUSDT", "side": "BUY", "tf": "4h", "vol_ratio": 12.66, "reason": "direction filter: BTC 4h close 64882.87 < filter 67568 → shorts only"}
+2026-11-17 00:04:24,976 INFO decision skip {"symbol": "EVAAUSDT", "side": "BUY", "tf": "1d", "vol_ratio": 5.79, "reason": "direction filter: BTC 4h close 64882.87 < filter 67568 → shorts only"}
+2026-11-17 00:04:24,976 INFO decision skip {"symbol": "ZILUSDT", "side": "SELL", "tf": "1d", "vol_ratio": 3.06, "reason": "same-direction cap 1 (v0.2 correlation cap)"}
+2026-11-17 00:04:24,976 INFO decision skip {"symbol": "BULLAUSDT", "side": "SELL", "tf": "1d", "vol_ratio": 2.39, "reason": "same-direction cap 1 (v0.2 correlation cap)"}

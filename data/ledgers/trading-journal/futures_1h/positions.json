@@ -40,16 +40,16 @@
       "stop_pct": 3.939,
       "risk_usdt": 0.9977766250378737,
       "entry_fee": 0.0123455304,
-      "funding": -0.01427777,
+      "funding": -0.02072399,
       "best": 0.2384,
       "high_since_entry": 0.2608,
       "low_since_entry": 0.2384,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 18:01:13 MYT",
-      "last_check_ms": 1794873543380,
-      "last_price": 0.2407,
-      "last_funding_ms": 1794859200002
+      "last_check_ms": 1794873879963,
+      "last_price": 0.2393,
+      "last_funding_ms": 1794873600000
     }
   ]
 }

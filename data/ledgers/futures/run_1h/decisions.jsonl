@@ -88,3 +88,7 @@
 {"time": "2026-11-17 07:03:55 MYT", "kind": "regime", "allow": "SELL", "btc_close": 65068.01, "ref": 67568.0, "new_low": false, "reason": "BTC 4h close 65068.01 < filter 67568 → shorts only"}
 {"time": "2026-11-17 07:04:06 MYT", "kind": "scan", "bar_close": "2026-11-17 07:00:00 MYT", "breakouts": 6, "vol_ok": 1, "allow": "SELL"}
 {"time": "2026-11-17 07:04:07 MYT", "kind": "skip", "symbol": "AIOTUSDT", "side": "SELL", "tf": "1h", "vol_ratio": 2.0, "reason": "stop distance 23.13% > 10%"}
+{"time": "2026-11-17 08:04:25 MYT", "kind": "funding", "symbol": "JUPUSDT", "rate": "-0.00027357", "amount": -0.006446, "at": "2026-11-17 08:00:00 MYT"}
+{"time": "2026-11-17 08:04:27 MYT", "kind": "regime", "allow": "SELL", "btc_close": 64882.87, "ref": 67568.0, "new_low": false, "reason": "BTC 4h close 64882.87 < filter 67568 → shorts only"}
+{"time": "2026-11-17 08:04:39 MYT", "kind": "scan", "bar_close": "2026-11-17 08:00:00 MYT", "breakouts": 3, "vol_ok": 1, "allow": "SELL"}
+{"time": "2026-11-17 08:04:39 MYT", "kind": "skip", "symbol": "LITUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 2.9, "reason": "direction filter: BTC 4h close 64882.87 < filter 67568 → shorts only"}
