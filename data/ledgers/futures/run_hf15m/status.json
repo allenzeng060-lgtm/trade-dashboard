@@ -3,7 +3,7 @@
   "set": "15m",
   "mode": "paper",
   "rules": "hf-15m-v0.1",
-  "updated_at": "2026-11-18 03:47:29 MYT",
+  "updated_at": "2026-11-18 03:52:15 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -16,10 +16,10 @@
     "slip": 0.0002,
     "regime": "none"
   },
-  "wallet_usdt": 87.8712,
-  "unrealized_usdt": 1.2482,
-  "equity_usdt": 89.1194,
-  "pnl_pct": -10.881,
+  "wallet_usdt": 89.0912,
+  "unrealized_usdt": -0.1099,
+  "equity_usdt": 88.9813,
+  "pnl_pct": -11.019,
   "regime": {
     "allow": "ANY",
     "btc_close": 64115.09,
@@ -83,7 +83,7 @@
       "R": 0.008435927438499018,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 0.5927,
+      "last_price": 0.5914,
       "exit_deadline": "2026-11-19 00:00:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 15.57
@@ -104,7 +104,7 @@
       "R": 1.7029877628917702,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 110.71,
+      "last_price": 110.55,
       "exit_deadline": "2026-11-19 01:00:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.84
@@ -125,31 +125,10 @@
       "R": 0.026370896395461745,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 1.3896,
+      "last_price": 1.39,
       "exit_deadline": "2026-11-19 01:00:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.08
-    },
-    {
-      "id": "FHF-20261118-0315-PENGUUSDT",
-      "symbol": "PENGUUSDT",
-      "side": "BUY",
-      "entry_time": "2026-11-18 03:15:00 MYT",
-      "entry_price": 0.0047329464,
-      "qty": 4665.0,
-      "notional": 22.079194956000002,
-      "leverage": 3,
-      "margin": 7.359731652000001,
-      "liq_price": 0.00318717,
-      "stop": 0.0049803214310157684,
-      "initial_stop": 0.004651267831015769,
-      "R": 8.167856898423122e-05,
-      "trail_armed": true,
-      "funding": 0.0,
-      "last_price": 0.005043,
-      "exit_deadline": "2026-11-19 03:15:00 MYT",
-      "signal_tf": "15m",
-      "vol_ratio": 2.16
     }
   ],
   "data_source": "www.binance.com /fapi (public)"

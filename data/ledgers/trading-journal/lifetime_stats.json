@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18 03:47:30 MYT",
+ "updated_at": "2026-11-18 03:52:17 MYT",
  "mode": "paper",
  "note": "累計統計（不因補充本金重置）。gross_profit=獲利單淨損益合計，gross_loss=虧損單淨損益合計，皆已扣手續費。",
  "groups": {
@@ -54,7 +54,7 @@
    "capital_injected_usdt": 100.0,
    "current_cycle": 1,
    "ledger": "/home/runner/work/trade-dashboard/trade-dashboard/data-repo/data/ledgers/trading-journal/futures/trades.csv",
-   "current_equity_usdt": 95.8794
+   "current_equity_usdt": 96.0456
   },
   "futures_1h": {
    "label": "合約1h組",
@@ -72,37 +72,37 @@
    "capital_injected_usdt": 100.0,
    "current_cycle": 1,
    "ledger": "/home/runner/work/trade-dashboard/trade-dashboard/data-repo/data/ledgers/trading-journal/futures_1h/trades.csv",
-   "current_equity_usdt": 97.6215
+   "current_equity_usdt": 97.7636
   },
   "futures_hf15m": {
    "label": "合約高頻組（15m）",
-   "trades": 107,
-   "wins": 26,
+   "trades": 108,
+   "wins": 27,
    "losses": 81,
-   "win_rate_pct": 24.3,
-   "gross_profit_usdt": 18.1569,
+   "win_rate_pct": 25.0,
+   "gross_profit_usdt": 19.3768,
    "gross_loss_usdt": -30.2856,
-   "net_pnl_usdt": -12.1288,
-   "profit_factor": 0.6,
-   "fees_paid_usdt": 1.7375,
+   "net_pnl_usdt": -10.9088,
+   "profit_factor": 0.64,
+   "fees_paid_usdt": 1.7602,
    "funding_usdt": 0.0089,
    "refills": 0,
    "capital_injected_usdt": 100.0,
    "current_cycle": 1,
    "ledger": "/home/runner/work/trade-dashboard/trade-dashboard/data-repo/data/ledgers/trading-journal/futures_hf15m/trades.csv",
-   "current_equity_usdt": 89.1194
+   "current_equity_usdt": 88.9813
   }
  },
  "total": {
-  "trades": 120,
-  "wins": 27,
+  "trades": 121,
+  "wins": 28,
   "losses": 93,
-  "win_rate_pct": 22.5,
-  "gross_profit_usdt": 20.1136,
+  "win_rate_pct": 23.1,
+  "gross_profit_usdt": 21.3335,
   "gross_loss_usdt": -40.7468,
-  "net_pnl_usdt": -20.6332,
-  "profit_factor": 0.494,
-  "fees_paid_usdt": 2.2773,
+  "net_pnl_usdt": -19.4133,
+  "profit_factor": 0.524,
+  "fees_paid_usdt": 2.3,
   "funding_usdt": -0.0419,
   "refills": 0,
   "capital_injected_usdt": 500.0

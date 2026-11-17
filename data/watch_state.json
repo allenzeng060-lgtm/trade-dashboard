@@ -242,27 +242,7 @@
       "exit_deadline": "2026-11-19 01:00:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
-    },
-    {
-      "id": "FHF-20261118-0315-PENGUUSDT",
-      "symbol": "PENGUUSDT",
-      "side": "BUY",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 0.0047329464,
-      "entry_time": "2026-11-18 03:15:00 MYT",
-      "qty": 4665.0,
-      "remaining_qty": 4665.0,
-      "stop": 0.0049803214310157684,
-      "initial_stop": 0.004651267831015769,
-      "R": 8.167856898423122e-05,
-      "targets": [],
-      "high_since_entry": 0.005062,
-      "low_since_entry": 0.004729,
-      "exit_deadline": "2026-11-19 03:15:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-18 03:47:30 MYT"
+  "paper_updated_at": "2026-11-18 03:52:17 MYT"
 }
