@@ -184,26 +184,6 @@
       "group": "合約1h組"
     },
     {
-      "id": "FHF-20261116-2245-BLESSUSDT",
-      "symbol": "BLESSUSDT",
-      "side": "BUY",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 0.017119423199999997,
-      "entry_time": "2026-11-16 22:45:00 MYT",
-      "qty": 340.0,
-      "remaining_qty": 340.0,
-      "stop": 0.015723426277515436,
-      "initial_stop": 0.015723426277515436,
-      "R": 0.0013959969224845614,
-      "targets": [],
-      "high_since_entry": 0.01969,
-      "low_since_entry": 0.016166,
-      "exit_deadline": "2026-11-17 22:45:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
       "id": "FHF-20261117-0230-XPLUSDT",
       "symbol": "XPLUSDT",
       "side": "BUY",
@@ -317,12 +297,12 @@
       "initial_stop": 1.4841169821257623,
       "R": 0.022584297874237637,
       "targets": [],
-      "high_since_entry": 1.5238,
+      "high_since_entry": 1.5242,
       "low_since_entry": 1.5037,
       "exit_deadline": "2026-11-18 10:15:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-17 10:25:03 MYT"
+  "paper_updated_at": "2026-11-17 10:30:15 MYT"
 }

@@ -403,3 +403,4 @@
 {"time": "2026-11-17 10:20:12 MYT", "kind": "scan", "bar_close": "2026-11-17 10:15:00 MYT", "breakouts": 2, "vol_ok": 2, "allow": "ANY"}
 {"time": "2026-11-17 10:20:12 MYT", "kind": "skip", "symbol": "HUMAUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.5, "reason": "already holding"}
 {"time": "2026-11-17 10:20:12 MYT", "kind": "open", "symbol": "ZROUSDT", "side": "BUY", "entry": 1.50670128, "stop": 1.4841169821257623, "qty": 16.0, "lev": 3, "liq": 1.01461366, "risk": 0.385}
+{"time": "2026-11-17 10:30:11 MYT", "kind": "close", "symbol": "BLESSUSDT", "reason": "stop", "fill": 0.015720281592259935, "net": -0.4954, "R": -1.03}
