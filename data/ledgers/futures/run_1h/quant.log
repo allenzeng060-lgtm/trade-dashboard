@@ -112,3 +112,8 @@
 2026-11-17 14:04:54,513 INFO decision scan {"bar_close": "2026-11-17 22:00:00 MYT", "breakouts": 8, "vol_ok": 2, "allow": "SELL"}
 2026-11-17 14:04:54,513 INFO decision skip {"symbol": "BREVUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 723.22, "reason": "direction filter: BTC 4h close 64995.54 < filter 67568 → shorts only"}
 2026-11-17 14:04:54,775 INFO decision skip {"symbol": "HUMAUSDT", "side": "SELL", "tf": "1h", "vol_ratio": 4.78, "reason": "stop distance 12.52% > 10%"}
+2026-11-17 15:05:08,927 INFO decision regime {"allow": "SELL", "btc_close": 64995.54, "ref": 67568.0, "new_low": false, "reason": "BTC 4h close 64995.54 < filter 67568 → shorts only"}
+2026-11-17 15:05:21,204 INFO decision scan {"bar_close": "2026-11-17 23:00:00 MYT", "breakouts": 6, "vol_ok": 3, "allow": "SELL"}
+2026-11-17 15:05:21,205 INFO decision skip {"symbol": "BREVUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 186.23, "reason": "direction filter: BTC 4h close 64995.54 < filter 67568 → shorts only"}
+2026-11-17 15:05:21,205 INFO decision skip {"symbol": "PHAUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 21.68, "reason": "direction filter: BTC 4h close 64995.54 < filter 67568 → shorts only"}
+2026-11-17 15:05:21,548 INFO decision skip {"symbol": "HUMAUSDT", "side": "SELL", "tf": "1h", "vol_ratio": 2.21, "reason": "stop distance 12.52% > 10%"}

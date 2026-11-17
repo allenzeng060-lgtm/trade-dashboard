@@ -600,3 +600,6 @@
 2026-11-17 14:50:15,439 INFO decision open {"symbol": "BREVUSDT", "side": "BUY", "entry": 0.097229442, "stop": 0.09151277876971813, "qty": 77.0, "lev": 2, "liq": 0.04935505, "risk": 0.447}
 2026-11-17 14:50:15,439 INFO decision open {"symbol": "TRXUSDT", "side": "BUY", "entry": 0.307931574, "stop": 0.30727698585156826, "qty": 73.0, "lev": 3, "liq": 0.20663082, "risk": 0.07}
 2026-11-17 14:50:15,439 INFO decision skip {"symbol": "PENGUUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 3.8, "reason": "already holding"}
+2026-11-17 15:05:26,138 INFO decision regime {"allow": "ANY", "btc_close": 64995.54, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+2026-11-17 15:05:37,084 INFO decision scan {"bar_close": "2026-11-17 23:00:00 MYT", "breakouts": 5, "vol_ok": 1, "allow": "ANY"}
+2026-11-17 15:05:37,584 INFO decision open {"symbol": "CROSSUSDT", "side": "BUY", "entry": 0.156721338, "stop": 0.14856487636561172, "qty": 54.0, "lev": 2, "liq": 0.07995987, "risk": 0.449}

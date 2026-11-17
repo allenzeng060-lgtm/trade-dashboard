@@ -238,7 +238,7 @@
       "R": 0.05890589792866615,
       "targets": [],
       "high_since_entry": 7.291,
-      "low_since_entry": 7.189,
+      "low_since_entry": 7.184,
       "exit_deadline": "2026-11-18 19:45:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
@@ -278,7 +278,7 @@
       "R": 5.1282172376339874e-05,
       "targets": [],
       "high_since_entry": 0.00468,
-      "low_since_entry": 0.004632,
+      "low_since_entry": 0.004622,
       "exit_deadline": "2026-11-18 22:30:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
@@ -297,7 +297,7 @@
       "initial_stop": 0.09151277876971813,
       "R": 0.005716663230281871,
       "targets": [],
-      "high_since_entry": 0.10031,
+      "high_since_entry": 0.10739,
       "low_since_entry": 0.09368,
       "exit_deadline": "2026-11-18 22:45:00 MYT",
       "market": "usdm_perp",
@@ -318,11 +318,31 @@
       "R": 0.0006545881484317503,
       "targets": [],
       "high_since_entry": 0.307931574,
-      "low_since_entry": 0.30753,
+      "low_since_entry": 0.30744,
       "exit_deadline": "2026-11-18 22:45:00 MYT",
+      "market": "usdm_perp",
+      "group": "合約高頻組"
+    },
+    {
+      "id": "FHF-20261117-2300-CROSSUSDT",
+      "symbol": "CROSSUSDT",
+      "side": "BUY",
+      "mode": "paper",
+      "status": "open",
+      "entry_price": 0.156721338,
+      "entry_time": "2026-11-17 23:00:00 MYT",
+      "qty": 54.0,
+      "remaining_qty": 54.0,
+      "stop": 0.14856487636561172,
+      "initial_stop": 0.14856487636561172,
+      "R": 0.008156461634388275,
+      "targets": [],
+      "high_since_entry": 0.15794,
+      "low_since_entry": 0.15421,
+      "exit_deadline": "2026-11-18 23:00:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-17 23:00:12 MYT"
+  "paper_updated_at": "2026-11-17 23:05:42 MYT"
 }

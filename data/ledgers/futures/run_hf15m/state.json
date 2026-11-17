@@ -8,33 +8,25 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-17 22:50:15 MYT",
-    "bar_close": "2026-11-17 22:45:00 MYT",
-    "universe": 70,
+    "time": "2026-11-17 23:05:37 MYT",
+    "bar_close": "2026-11-17 23:00:00 MYT",
+    "universe": 71,
     "breakouts": [
       {
-        "symbol": "TRXUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 0.3071,
-        "close": 0.3079,
-        "vol_ratio": 3.8078
-      },
-      {
-        "symbol": "PENGUUSDT",
+        "symbol": "RAREUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 0.0047,
-        "close": 0.0047,
-        "vol_ratio": 3.7985
+        "level": 0.0129,
+        "close": 0.0129,
+        "vol_ratio": 0.416
       },
       {
         "symbol": "AIOTUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.088,
-        "close": 0.0896,
-        "vol_ratio": 0.7599
+        "level": 0.0902,
+        "close": 0.0907,
+        "vol_ratio": 0.8091
       },
       {
         "symbol": "SOPHUSDT",
@@ -42,35 +34,27 @@
         "tf": "15m",
         "level": 0.0009,
         "close": 0.0009,
-        "vol_ratio": 0.7346
+        "vol_ratio": 0.4876
+      },
+      {
+        "symbol": "CROSSUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.155,
+        "close": 0.1567,
+        "vol_ratio": 4.9863
       },
       {
         "symbol": "ARIAUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 0.1966,
-        "close": 0.1922,
-        "vol_ratio": 0.9684
-      },
-      {
-        "symbol": "EVAAUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 3.3801,
-        "close": 3.3105,
-        "vol_ratio": 1.1878
-      },
-      {
-        "symbol": "BREVUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 0.0904,
-        "close": 0.0972,
-        "vol_ratio": 23.5287
+        "level": 0.1916,
+        "close": 0.1914,
+        "vol_ratio": 1.1095
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794926700000,
-  "last_equity_ts": 1794927015.4397779
+  "last_scan_bar_ms": 1794927600000,
+  "last_equity_ts": 1794927937.5849197
 }
