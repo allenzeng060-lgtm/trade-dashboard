@@ -769,3 +769,7 @@
 {"time": "2026-11-18 02:16:47 MYT", "kind": "scan", "bar_close": "2026-11-18 02:15:00 MYT", "breakouts": 4, "vol_ok": 0, "allow": "ANY"}
 {"time": "2026-11-18 02:16:49 MYT", "kind": "close", "symbol": "MMTUSDT", "reason": "stop", "fill": 0.13690481924845777, "net": -0.4533, "R": -1.0}
 {"time": "2026-11-18 02:26:45 MYT", "kind": "close", "symbol": "ETHUSDT", "reason": "stop", "fill": 1797.5237264373009, "net": -0.2534, "R": -1.02}
+{"time": "2026-11-18 02:31:55 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64115.09, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-18 02:32:05 MYT", "kind": "scan", "bar_close": "2026-11-18 02:30:00 MYT", "breakouts": 3, "vol_ok": 2, "allow": "ANY"}
+{"time": "2026-11-18 02:32:05 MYT", "kind": "open", "symbol": "MMTUSDT", "side": "BUY", "entry": 0.14982995999999998, "stop": 0.13962653057329313, "qty": 43.0, "lev": 1, "liq": 0.0, "risk": 0.445}
+{"time": "2026-11-18 02:32:05 MYT", "kind": "open", "symbol": "ARIAUSDT", "side": "BUY", "entry": 0.241818354, "stop": 0.23040540115296085, "qty": 38.0, "lev": 2, "liq": 0.12727282, "risk": 0.443}

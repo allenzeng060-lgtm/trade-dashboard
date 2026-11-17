@@ -197,7 +197,7 @@
       "initial_stop": 0.10440545819930014,
       "R": 0.0041255181993001405,
       "targets": [],
-      "high_since_entry": 0.1034,
+      "high_since_entry": 0.1042,
       "low_since_entry": 0.0965,
       "exit_deadline": "2026-11-18 17:15:00 MYT",
       "market": "usdm_perp",
@@ -302,7 +302,47 @@
       "exit_deadline": "2026-11-19 02:00:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
+    },
+    {
+      "id": "FHF-20261118-0230-MMTUSDT",
+      "symbol": "MMTUSDT",
+      "side": "BUY",
+      "mode": "paper",
+      "status": "open",
+      "entry_price": 0.14982995999999998,
+      "entry_time": "2026-11-18 02:30:00 MYT",
+      "qty": 43.0,
+      "remaining_qty": 43.0,
+      "stop": 0.13962653057329313,
+      "initial_stop": 0.13962653057329313,
+      "R": 0.01020342942670685,
+      "targets": [],
+      "high_since_entry": 0.1524,
+      "low_since_entry": 0.1482,
+      "exit_deadline": "2026-11-19 02:30:00 MYT",
+      "market": "usdm_perp",
+      "group": "合約高頻組"
+    },
+    {
+      "id": "FHF-20261118-0230-ARIAUSDT",
+      "symbol": "ARIAUSDT",
+      "side": "BUY",
+      "mode": "paper",
+      "status": "open",
+      "entry_price": 0.241818354,
+      "entry_time": "2026-11-18 02:30:00 MYT",
+      "qty": 38.0,
+      "remaining_qty": 38.0,
+      "stop": 0.23040540115296085,
+      "initial_stop": 0.23040540115296085,
+      "R": 0.01141295284703917,
+      "targets": [],
+      "high_since_entry": 0.24386,
+      "low_since_entry": 0.24088,
+      "exit_deadline": "2026-11-19 02:30:00 MYT",
+      "market": "usdm_perp",
+      "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-18 02:26:47 MYT"
+  "paper_updated_at": "2026-11-18 02:32:08 MYT"
 }
