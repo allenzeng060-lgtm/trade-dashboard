@@ -8,45 +8,53 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-17 08:34:29 MYT",
-    "bar_close": "2026-11-17 08:30:00 MYT",
+    "time": "2026-11-17 08:49:38 MYT",
+    "bar_close": "2026-11-17 08:45:00 MYT",
     "universe": 71,
     "breakouts": [
       {
-        "symbol": "BTCUSDT",
+        "symbol": "NEARUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 64642.9,
-        "close": 64586.8,
-        "vol_ratio": 1.15
+        "level": 3.137,
+        "close": 3.13,
+        "vol_ratio": 0.6878
       },
       {
-        "symbol": "ZROUSDT",
-        "side": "BUY",
+        "symbol": "WLDUSDT",
+        "side": "SELL",
         "tf": "15m",
-        "level": 1.4682,
-        "close": 1.4683,
-        "vol_ratio": 0.808
+        "level": 0.2602,
+        "close": 0.2597,
+        "vol_ratio": 0.936
+      },
+      {
+        "symbol": "ENAUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 0.1137,
+        "close": 0.1135,
+        "vol_ratio": 0.7817
       },
       {
         "symbol": "AIOTUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.0888,
-        "close": 0.0913,
-        "vol_ratio": 4.0117
+        "level": 0.0921,
+        "close": 0.0967,
+        "vol_ratio": 3.3448
       },
       {
-        "symbol": "SKRUSDT",
+        "symbol": "PUMPUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 0.0098,
-        "close": 0.0097,
-        "vol_ratio": 0.7646
+        "level": 0.0028,
+        "close": 0.0028,
+        "vol_ratio": 0.7172
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794875400000,
+  "last_scan_bar_ms": 1794876300000,
   "last_equity_ts": 1794875356.4257154
 }
