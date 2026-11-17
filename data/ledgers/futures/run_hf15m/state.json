@@ -8,12 +8,12 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-18 00:15:51 MYT",
-    "bar_close": "2026-11-18 00:15:00 MYT",
-    "universe": 74,
+    "time": "2026-11-18 00:31:07 MYT",
+    "bar_close": "2026-11-18 00:30:00 MYT",
+    "universe": 75,
     "breakouts": [],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794932100000,
+  "last_scan_bar_ms": 1794933000000,
   "last_equity_ts": 1794932442.6406775
 }
