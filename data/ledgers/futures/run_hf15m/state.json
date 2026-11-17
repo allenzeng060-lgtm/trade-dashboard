@@ -8,45 +8,53 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-17 16:17:44 MYT",
-    "bar_close": "2026-11-17 16:15:00 MYT",
-    "universe": 71,
+    "time": "2026-11-17 16:32:54 MYT",
+    "bar_close": "2026-11-17 16:30:00 MYT",
+    "universe": 70,
     "breakouts": [
       {
         "symbol": "XMRUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 502.0,
-        "close": 502.94,
-        "vol_ratio": 0.9056
+        "level": 503.52,
+        "close": 506.66,
+        "vol_ratio": 1.3906
       },
       {
-        "symbol": "HUMAUSDT",
+        "symbol": "1000PEPEUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 0.0084,
-        "close": 0.0083,
-        "vol_ratio": 1.4859
+        "level": 0.0039,
+        "close": 0.0039,
+        "vol_ratio": 0.7236
       },
       {
-        "symbol": "ASTERUSDT",
+        "symbol": "INITUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 0.0969,
+        "close": 0.0965,
+        "vol_ratio": 0.824
+      },
+      {
+        "symbol": "SPACEUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 0.0036,
+        "close": 0.0036,
+        "vol_ratio": 0.5468
+      },
+      {
+        "symbol": "BTWUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.5961,
-        "close": 0.5971,
-        "vol_ratio": 1.0866
-      },
-      {
-        "symbol": "PIEVERSEUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 1.9433,
-        "close": 1.9334,
-        "vol_ratio": 1.1732
+        "level": 0.4866,
+        "close": 0.525,
+        "vol_ratio": 5.4598
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794903300000,
-  "last_equity_ts": 1794903746.7435021
+  "last_scan_bar_ms": 1794904200000,
+  "last_equity_ts": 1794904374.2289953
 }
