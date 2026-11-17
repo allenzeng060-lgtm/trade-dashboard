@@ -700,3 +700,7 @@
 {"time": "2026-11-17 23:25:18 MYT", "kind": "close", "symbol": "BREVUSDT", "reason": "trail_stop", "fill": 0.11086116010236419, "net": 1.0416, "R": 2.33}
 {"time": "2026-11-17 23:25:19 MYT", "kind": "close", "symbol": "PENGUUSDT", "reason": "stop", "fill": 0.004655014018087613, "net": -0.3181, "R": -1.01}
 {"time": "2026-11-17 23:30:28 MYT", "kind": "close", "symbol": "1000PEPEUSDT", "reason": "stop", "fill": 0.003834458211147896, "net": -0.2803, "R": -1.02}
+{"time": "2026-11-17 23:35:30 MYT", "kind": "trail_update", "symbol": "ICPUSDT", "stop": 2.350586085570562, "best": 2.304}
+{"time": "2026-11-17 23:35:32 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64995.54, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-17 23:35:45 MYT", "kind": "scan", "bar_close": "2026-11-17 23:30:00 MYT", "breakouts": 3, "vol_ok": 1, "allow": "ANY"}
+{"time": "2026-11-17 23:35:45 MYT", "kind": "skip", "symbol": "TRXUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 4.14, "reason": "already holding"}
