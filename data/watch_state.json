@@ -184,26 +184,6 @@
       "group": "合約1h組"
     },
     {
-      "id": "FHF-20261118-0100-AAVEUSDT",
-      "symbol": "AAVEUSDT",
-      "side": "SELL",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 110.237948,
-      "entry_time": "2026-11-18 01:00:00 MYT",
-      "qty": 0.2,
-      "remaining_qty": 0.2,
-      "stop": 111.94093576289177,
-      "initial_stop": 111.94093576289177,
-      "R": 1.7029877628917702,
-      "targets": [],
-      "high_since_entry": 111.89,
-      "low_since_entry": 109.42,
-      "exit_deadline": "2026-11-19 01:00:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
       "id": "FHF-20261118-0530-ONDOUSDT",
       "symbol": "ONDOUSDT",
       "side": "BUY",
@@ -217,7 +197,7 @@
       "initial_stop": 0.30307443831624725,
       "R": 0.00378692168375275,
       "targets": [],
-      "high_since_entry": 0.3091,
+      "high_since_entry": 0.3095,
       "low_since_entry": 0.3043,
       "exit_deadline": "2026-11-19 05:30:00 MYT",
       "market": "usdm_perp",
@@ -284,5 +264,5 @@
       "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-18 06:53:25 MYT"
+  "paper_updated_at": "2026-11-18 06:58:28 MYT"
 }

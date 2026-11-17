@@ -3,7 +3,7 @@
   "set": "15m",
   "mode": "paper",
   "rules": "hf-15m-v0.1",
-  "updated_at": "2026-11-18 06:53:24 MYT",
+  "updated_at": "2026-11-18 06:58:27 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -16,10 +16,10 @@
     "slip": 0.0002,
     "regime": "none"
   },
-  "wallet_usdt": 88.2878,
-  "unrealized_usdt": -0.2464,
-  "equity_usdt": 88.0414,
-  "pnl_pct": -11.959,
+  "wallet_usdt": 87.9205,
+  "unrealized_usdt": 0.0404,
+  "equity_usdt": 87.961,
+  "pnl_pct": -12.039,
   "regime": {
     "allow": "ANY",
     "btc_close": 63753.75,
@@ -132,27 +132,6 @@
   },
   "positions": [
     {
-      "id": "FHF-20261118-0100-AAVEUSDT",
-      "symbol": "AAVEUSDT",
-      "side": "SELL",
-      "entry_time": "2026-11-18 01:00:00 MYT",
-      "entry_price": 110.237948,
-      "qty": 0.2,
-      "notional": 22.047589600000002,
-      "leverage": 3,
-      "margin": 7.349196533333334,
-      "liq_price": 145.52864422,
-      "stop": 111.94093576289177,
-      "initial_stop": 111.94093576289177,
-      "R": 1.7029877628917702,
-      "trail_armed": false,
-      "funding": 0.0,
-      "last_price": 111.62,
-      "exit_deadline": "2026-11-19 01:00:00 MYT",
-      "signal_tf": "15m",
-      "vol_ratio": 3.84
-    },
-    {
       "id": "FHF-20261118-0530-ONDOUSDT",
       "symbol": "ONDOUSDT",
       "side": "BUY",
@@ -168,7 +147,7 @@
       "R": 0.00378692168375275,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 0.3087,
+      "last_price": 0.3085,
       "exit_deadline": "2026-11-19 05:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.58
@@ -210,7 +189,7 @@
       "R": 0.009235769866547429,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 0.9727,
+      "last_price": 0.974,
       "exit_deadline": "2026-11-19 05:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.06
@@ -231,7 +210,7 @@
       "R": 0.08330285589246789,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 7.208,
+      "last_price": 7.204,
       "exit_deadline": "2026-11-19 05:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.01

@@ -5,51 +5,9 @@
   "rules": "hf-15m-v0.1",
   "cycle": 1,
   "start_equity_usdt": 100.0,
-  "wallet_usdt": 88.287836,
+  "wallet_usdt": 87.920541,
   "created": "2026-11-16 03:06:21 MYT",
   "positions": [
-    {
-      "id": "FHF-20261118-0100-AAVEUSDT",
-      "symbol": "AAVEUSDT",
-      "side": "SELL",
-      "rules": "hf-15m-v0.1",
-      "cycle": 1,
-      "slippage": 0.0002,
-      "mode": "paper",
-      "status": "open",
-      "group": "合約高頻組",
-      "market": "usdm_perp",
-      "margin_type": "isolated",
-      "signal_tf": "15m",
-      "signal_bar_close_myt": "2026-11-18 01:00:00 MYT",
-      "vol_ratio": 3.84,
-      "breakout_level": 110.54,
-      "entry_time": "2026-11-18 01:00:00 MYT",
-      "entry_ms": 1794934800000,
-      "entry_price": 110.237948,
-      "qty": 0.2,
-      "remaining_qty": 0.2,
-      "notional": 22.047589600000002,
-      "leverage": 3,
-      "margin": 7.349196533333334,
-      "liq_price": 145.52864422,
-      "mmr": 0.01,
-      "stop": 111.94093576289177,
-      "initial_stop": 111.94093576289177,
-      "R": 1.7029877628917702,
-      "stop_pct": 1.545,
-      "risk_usdt": 0.36281544095464324,
-      "entry_fee": 0.011023794800000002,
-      "funding": 0.0,
-      "best": 109.42,
-      "high_since_entry": 111.89,
-      "low_since_entry": 109.42,
-      "trail_armed": false,
-      "targets": [],
-      "exit_deadline": "2026-11-19 01:00:00 MYT",
-      "last_check_ms": 1794956002684,
-      "last_price": 111.62
-    },
     {
       "id": "FHF-20261118-0530-ONDOUSDT",
       "symbol": "ONDOUSDT",
@@ -83,14 +41,14 @@
       "risk_usdt": 0.29420686101129184,
       "entry_fee": 0.011031665892000001,
       "funding": 0.0,
-      "best": 0.3091,
-      "high_since_entry": 0.3091,
+      "best": 0.3095,
+      "high_since_entry": 0.3095,
       "low_since_entry": 0.3043,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794956002909,
-      "last_price": 0.3087
+      "last_check_ms": 1794956305982,
+      "last_price": 0.3085
     },
     {
       "id": "FHF-20261118-0530-ADAUSDT",
@@ -131,7 +89,7 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794956003312,
+      "last_check_ms": 1794956306268,
       "last_price": 0.1544
     },
     {
@@ -173,8 +131,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794956003719,
-      "last_price": 0.9727
+      "last_check_ms": 1794956306556,
+      "last_price": 0.974
     },
     {
       "id": "FHF-20261118-0530-AVAXUSDT",
@@ -215,8 +173,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794956004125,
-      "last_price": 7.208
+      "last_check_ms": 1794956306845,
+      "last_price": 7.204
     }
   ]
 }
