@@ -502,3 +502,7 @@
 {"time": "2026-11-17 15:32:25 MYT", "kind": "skip", "symbol": "BTWUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 3.11, "reason": "already holding"}
 {"time": "2026-11-17 15:32:26 MYT", "kind": "open", "symbol": "EVAAUSDT", "side": "BUY", "entry": 3.995799, "stop": 3.776844780015058, "qty": 2.0, "lev": 2, "liq": 2.10305211, "risk": 0.446}
 {"time": "2026-11-17 15:42:12 MYT", "kind": "trail_update", "symbol": "BTWUSDT", "stop": 0.4640762233437864, "best": 0.4866}
+{"time": "2026-11-17 15:47:14 MYT", "kind": "close", "symbol": "BTWUSDT", "reason": "trail_stop", "fill": 0.46398340809911764, "net": 0.8671, "R": 1.89}
+{"time": "2026-11-17 15:47:15 MYT", "kind": "regime", "allow": "ANY", "btc_close": 65056.52, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-17 15:47:27 MYT", "kind": "scan", "bar_close": "2026-11-17 15:45:00 MYT", "breakouts": 4, "vol_ok": 1, "allow": "ANY"}
+{"time": "2026-11-17 15:47:28 MYT", "kind": "open", "symbol": "BTWUSDT", "side": "BUY", "entry": 0.48349668, "stop": 0.4535769871055471, "qty": 15.0, "lev": 1, "liq": 0.0, "risk": 0.456}

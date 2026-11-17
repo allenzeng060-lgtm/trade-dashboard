@@ -8,37 +8,45 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-17 15:32:25 MYT",
-    "bar_close": "2026-11-17 15:30:00 MYT",
+    "time": "2026-11-17 15:47:27 MYT",
+    "bar_close": "2026-11-17 15:45:00 MYT",
     "universe": 71,
     "breakouts": [
       {
-        "symbol": "UNIUSDT",
-        "side": "BUY",
+        "symbol": "1000PEPEUSDT",
+        "side": "SELL",
         "tf": "15m",
-        "level": 5.334,
-        "close": 5.336,
-        "vol_ratio": 1.2578
+        "level": 0.0039,
+        "close": 0.0039,
+        "vol_ratio": 0.9881
       },
       {
-        "symbol": "EVAAUSDT",
+        "symbol": "ASTERUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 3.981,
-        "close": 3.995,
-        "vol_ratio": 2.7802
+        "level": 0.5896,
+        "close": 0.5903,
+        "vol_ratio": 0.4099
+      },
+      {
+        "symbol": "SPACEUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 0.0037,
+        "close": 0.0037,
+        "vol_ratio": 0.6068
       },
       {
         "symbol": "BTWUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.4587,
-        "close": 0.4754,
-        "vol_ratio": 3.1105
+        "level": 0.478,
+        "close": 0.4834,
+        "vol_ratio": 2.7237
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794900600000,
-  "last_equity_ts": 1794900746.0690958
+  "last_scan_bar_ms": 1794901500000,
+  "last_equity_ts": 1794901648.0369313
 }
