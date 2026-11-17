@@ -412,3 +412,5 @@
 2026-11-17 07:17:18,293 INFO decision scan {"bar_close": "2026-11-17 15:15:00 MYT", "breakouts": 4, "vol_ok": 1, "allow": "ANY"}
 2026-11-17 07:17:18,293 INFO decision skip {"symbol": "龙虾USDT", "side": "BUY", "tf": "15m", "vol_ratio": 14.11, "reason": "already holding"}
 2026-11-17 07:22:03,951 INFO decision trail_update {"symbol": "BTWUSDT", "stop": 0.4523762233437864, "best": 0.4749}
+2026-11-17 07:27:13,537 INFO decision trail_update {"symbol": "BTWUSDT", "stop": 0.4554762233437864, "best": 0.478}
+2026-11-17 07:27:13,845 INFO decision close {"symbol": "龙虾USDT", "reason": "stop", "fill": 0.020076898031616934, "net": -0.4618, "R": -1.0}
