@@ -8,69 +8,125 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-17 17:03:10 MYT",
-    "bar_close": "2026-11-17 17:00:00 MYT",
+    "time": "2026-11-17 17:18:02 MYT",
+    "bar_close": "2026-11-17 17:15:00 MYT",
     "universe": 69,
     "breakouts": [
       {
-        "symbol": "XMRUSDT",
-        "side": "BUY",
+        "symbol": "BTCUSDT",
+        "side": "SELL",
         "tf": "15m",
-        "level": 508.0,
-        "close": 508.34,
-        "vol_ratio": 0.9506
+        "level": 64257.6,
+        "close": 64217.8,
+        "vol_ratio": 1.6262
+      },
+      {
+        "symbol": "ETHUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 1815.14,
+        "close": 1812.96,
+        "vol_ratio": 1.8964
+      },
+      {
+        "symbol": "ADAUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 0.1524,
+        "close": 0.1523,
+        "vol_ratio": 1.2671
+      },
+      {
+        "symbol": "KAVAUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 0.026,
+        "close": 0.0259,
+        "vol_ratio": 1.333
+      },
+      {
+        "symbol": "DOTUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 0.7293,
+        "close": 0.7288,
+        "vol_ratio": 0.9882
+      },
+      {
+        "symbol": "1000PEPEUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 0.0038,
+        "close": 0.0038,
+        "vol_ratio": 1.3058
       },
       {
         "symbol": "TAOUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 191.22,
-        "close": 190.85,
-        "vol_ratio": 0.5679
+        "level": 190.82,
+        "close": 190.52,
+        "vol_ratio": 2.0247
       },
       {
-        "symbol": "PENGUUSDT",
+        "symbol": "HYPEUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 0.0048,
-        "close": 0.0048,
-        "vol_ratio": 0.9917
-      },
-      {
-        "symbol": "INITUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 0.0953,
-        "close": 0.0951,
-        "vol_ratio": 3.527
+        "level": 68.835,
+        "close": 68.696,
+        "vol_ratio": 0.8303
       },
       {
         "symbol": "BULLAUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 0.0131,
-        "close": 0.0129,
-        "vol_ratio": 0.4871
+        "level": 0.0129,
+        "close": 0.0128,
+        "vol_ratio": 0.5432
+      },
+      {
+        "symbol": "XPLUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 0.0448,
+        "close": 0.0448,
+        "vol_ratio": 0.8478
+      },
+      {
+        "symbol": "ARIAUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.2274,
+        "close": 0.2286,
+        "vol_ratio": 1.6758
+      },
+      {
+        "symbol": "ONUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 0.1025,
+        "close": 0.1003,
+        "vol_ratio": 3.5239
       },
       {
         "symbol": "PIEVERSEUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 1.9152,
-        "close": 1.9065,
-        "vol_ratio": 0.9131
+        "level": 1.9034,
+        "close": 1.8976,
+        "vol_ratio": 0.873
       },
       {
         "symbol": "SPACEUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 0.0036,
+        "level": 0.0035,
         "close": 0.0035,
-        "vol_ratio": 0.3327
+        "vol_ratio": 0.5097
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794906000000,
-  "last_equity_ts": 1794906190.4325612
+  "last_scan_bar_ms": 1794906900000,
+  "last_equity_ts": 1794907083.1591966
 }

@@ -253,12 +253,12 @@
       "entry_time": "2026-11-17 10:30:00 MYT",
       "qty": 365.0,
       "remaining_qty": 365.0,
-      "stop": 0.014020919988182952,
+      "stop": 0.013980919988182952,
       "initial_stop": 0.01731771598818295,
       "R": 0.0013009199881829515,
       "targets": [],
       "high_since_entry": 0.01677,
-      "low_since_entry": 0.01272,
+      "low_since_entry": 0.01268,
       "exit_deadline": "2026-11-18 10:30:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
@@ -342,7 +342,47 @@
       "exit_deadline": "2026-11-18 17:00:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
+    },
+    {
+      "id": "FHF-20261117-1715-ONUSDT",
+      "symbol": "ONUSDT",
+      "side": "SELL",
+      "mode": "paper",
+      "status": "open",
+      "entry_price": 0.10027994,
+      "entry_time": "2026-11-17 17:15:00 MYT",
+      "qty": 108.0,
+      "remaining_qty": 108.0,
+      "stop": 0.10440545819930014,
+      "initial_stop": 0.10440545819930014,
+      "R": 0.0041255181993001405,
+      "targets": [],
+      "high_since_entry": 0.1014,
+      "low_since_entry": 0.0996,
+      "exit_deadline": "2026-11-18 17:15:00 MYT",
+      "market": "usdm_perp",
+      "group": "合約高頻組"
+    },
+    {
+      "id": "FHF-20261117-1715-TAOUSDT",
+      "symbol": "TAOUSDT",
+      "side": "SELL",
+      "mode": "paper",
+      "status": "open",
+      "entry_price": 190.481896,
+      "entry_time": "2026-11-17 17:15:00 MYT",
+      "qty": 0.12,
+      "remaining_qty": 0.12,
+      "stop": 192.0113669890957,
+      "initial_stop": 192.0113669890957,
+      "R": 1.5294709890957099,
+      "targets": [],
+      "high_since_entry": 190.51,
+      "low_since_entry": 190.2,
+      "exit_deadline": "2026-11-18 17:15:00 MYT",
+      "market": "usdm_perp",
+      "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-17 17:12:51 MYT"
+  "paper_updated_at": "2026-11-17 17:18:07 MYT"
 }
