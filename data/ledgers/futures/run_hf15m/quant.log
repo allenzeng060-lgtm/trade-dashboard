@@ -313,3 +313,6 @@
 2026-11-17 01:49:51,545 INFO decision regime {"allow": "ANY", "btc_close": 64882.87, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
 2026-11-17 01:50:01,284 INFO decision scan {"bar_close": "2026-11-17 09:45:00 MYT", "breakouts": 10, "vol_ok": 1, "allow": "ANY"}
 2026-11-17 01:50:01,440 INFO decision open {"symbol": "BTWUSDT", "side": "SELL", "entry": 0.34243150000000006, "stop": 0.3589553932779611, "qty": 28.0, "lev": 2, "liq": 0.48918786, "risk": 0.472}
+2026-11-17 02:05:11,078 INFO decision funding {"symbol": "HUMAUSDT", "rate": "-0.00061401", "amount": 0.005451, "at": "2026-11-17 10:00:00 MYT"}
+2026-11-17 02:05:14,012 INFO decision regime {"allow": "ANY", "btc_close": 64882.87, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+2026-11-17 02:05:25,633 INFO decision scan {"bar_close": "2026-11-17 10:00:00 MYT", "breakouts": 1, "vol_ok": 0, "allow": "ANY"}

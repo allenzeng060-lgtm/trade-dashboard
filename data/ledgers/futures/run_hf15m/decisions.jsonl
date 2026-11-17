@@ -396,3 +396,6 @@
 {"time": "2026-11-17 09:49:51 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64882.87, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
 {"time": "2026-11-17 09:50:01 MYT", "kind": "scan", "bar_close": "2026-11-17 09:45:00 MYT", "breakouts": 10, "vol_ok": 1, "allow": "ANY"}
 {"time": "2026-11-17 09:50:01 MYT", "kind": "open", "symbol": "BTWUSDT", "side": "SELL", "entry": 0.34243150000000006, "stop": 0.3589553932779611, "qty": 28.0, "lev": 2, "liq": 0.48918786, "risk": 0.472}
+{"time": "2026-11-17 10:05:11 MYT", "kind": "funding", "symbol": "HUMAUSDT", "rate": "-0.00061401", "amount": 0.005451, "at": "2026-11-17 10:00:00 MYT"}
+{"time": "2026-11-17 10:05:14 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64882.87, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-17 10:05:25 MYT", "kind": "scan", "bar_close": "2026-11-17 10:00:00 MYT", "breakouts": 1, "vol_ok": 0, "allow": "ANY"}
