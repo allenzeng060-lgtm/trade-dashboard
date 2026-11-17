@@ -3,7 +3,7 @@
   "set": "15m",
   "mode": "paper",
   "rules": "hf-15m-v0.1",
-  "updated_at": "2026-11-17 21:50:01 MYT",
+  "updated_at": "2026-11-17 21:54:42 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -16,10 +16,10 @@
     "slip": 0.0002,
     "regime": "none"
   },
-  "wallet_usdt": 89.5242,
-  "unrealized_usdt": 2.3349,
-  "equity_usdt": 91.8591,
-  "pnl_pct": -8.141,
+  "wallet_usdt": 90.18,
+  "unrealized_usdt": 1.2076,
+  "equity_usdt": 91.3875,
+  "pnl_pct": -8.612,
   "regime": {
     "allow": "ANY",
     "btc_close": 64995.54,
@@ -115,7 +115,7 @@
       "R": 0.0009588951577858478,
       "trail_armed": false,
       "funding": -0.00531358,
-      "last_price": 0.0447,
+      "last_price": 0.04473,
       "exit_deadline": "2026-11-18 02:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.77
@@ -157,7 +157,7 @@
       "R": 0.0041255181993001405,
       "trail_armed": false,
       "funding": 0.00053352,
-      "last_price": 0.097,
+      "last_price": 0.0971,
       "exit_deadline": "2026-11-18 17:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.52
@@ -178,7 +178,7 @@
       "R": 0.05890589792866615,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 7.224,
+      "last_price": 7.237,
       "exit_deadline": "2026-11-18 19:45:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 6.29
@@ -199,31 +199,10 @@
       "R": 0.11500888484763656,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 7.486,
+      "last_price": 7.461,
       "exit_deadline": "2026-11-18 19:45:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 4.55
-    },
-    {
-      "id": "FHF-20261117-2130-BREVUSDT",
-      "symbol": "BREVUSDT",
-      "side": "BUY",
-      "entry_time": "2026-11-17 21:30:00 MYT",
-      "entry_price": 0.076345266,
-      "qty": 150.0,
-      "notional": 11.4517899,
-      "leverage": 2,
-      "margin": 5.72589495,
-      "liq_price": 0.03875394,
-      "stop": 0.08076156945759647,
-      "initial_stop": 0.07343683545759647,
-      "R": 0.002908430542403532,
-      "trail_armed": true,
-      "funding": 0.0,
-      "last_price": 0.08231,
-      "exit_deadline": "2026-11-18 21:30:00 MYT",
-      "signal_tf": "15m",
-      "vol_ratio": 87.83
     },
     {
       "id": "FHF-20261117-2145-PAXGUSDT",
@@ -241,7 +220,7 @@
       "R": 10.233419498739899,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 3837.55,
+      "last_price": 3837.65,
       "exit_deadline": "2026-11-18 21:45:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.97
@@ -262,7 +241,7 @@
       "R": 0.011501704910255657,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 0.5638,
+      "last_price": 0.5671,
       "exit_deadline": "2026-11-18 21:45:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.21
@@ -283,7 +262,7 @@
       "R": 0.009551240647028843,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 0.19856,
+      "last_price": 0.19914,
       "exit_deadline": "2026-11-18 21:45:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.74

@@ -258,28 +258,8 @@
       "R": 0.11500888484763656,
       "targets": [],
       "high_since_entry": 7.732,
-      "low_since_entry": 7.454,
+      "low_since_entry": 7.452,
       "exit_deadline": "2026-11-18 19:45:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
-      "id": "FHF-20261117-2130-BREVUSDT",
-      "symbol": "BREVUSDT",
-      "side": "BUY",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 0.076345266,
-      "entry_time": "2026-11-17 21:30:00 MYT",
-      "qty": 150.0,
-      "remaining_qty": 150.0,
-      "stop": 0.08076156945759647,
-      "initial_stop": 0.07343683545759647,
-      "R": 0.002908430542403532,
-      "targets": [],
-      "high_since_entry": 0.08367,
-      "low_since_entry": 0.0754,
-      "exit_deadline": "2026-11-18 21:30:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
     },
@@ -297,7 +277,7 @@
       "initial_stop": 3845.86613949874,
       "R": 10.233419498739899,
       "targets": [],
-      "high_since_entry": 3837.99,
+      "high_since_entry": 3840.15,
       "low_since_entry": 3835.21,
       "exit_deadline": "2026-11-18 21:45:00 MYT",
       "market": "usdm_perp",
@@ -317,7 +297,7 @@
       "initial_stop": 0.5757888249102557,
       "R": 0.011501704910255657,
       "targets": [],
-      "high_since_entry": 0.5647,
+      "high_since_entry": 0.5673,
       "low_since_entry": 0.5588,
       "exit_deadline": "2026-11-18 21:45:00 MYT",
       "market": "usdm_perp",
@@ -338,11 +318,11 @@
       "R": 0.009551240647028843,
       "targets": [],
       "high_since_entry": 0.205028986,
-      "low_since_entry": 0.19795,
+      "low_since_entry": 0.19704,
       "exit_deadline": "2026-11-18 21:45:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-17 21:50:03 MYT"
+  "paper_updated_at": "2026-11-17 21:54:44 MYT"
 }

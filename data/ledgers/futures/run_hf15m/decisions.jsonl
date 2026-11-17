@@ -653,3 +653,4 @@
 {"time": "2026-11-17 21:49:59 MYT", "kind": "open", "symbol": "PAXGUSDT", "side": "SELL", "entry": 3835.63272, "stop": 3845.86613949874, "qty": 0.005, "lev": 3, "liq": 5063.54154455, "risk": 0.07}
 {"time": "2026-11-17 21:49:59 MYT", "kind": "open", "symbol": "ASTERUSDT", "side": "SELL", "entry": 0.56428712, "stop": 0.5757888249102557, "qty": 37.0, "lev": 3, "liq": 0.74493349, "risk": 0.447}
 {"time": "2026-11-17 21:49:59 MYT", "kind": "open", "symbol": "ARIAUSDT", "side": "SELL", "entry": 0.205028986, "stop": 0.21458022664702883, "qty": 45.0, "lev": 2, "liq": 0.29289855, "risk": 0.439}
+{"time": "2026-11-17 21:54:41 MYT", "kind": "close", "symbol": "BREVUSDT", "reason": "trail_stop", "fill": 0.08079540714370495, "net": 0.6557, "R": 1.47}
