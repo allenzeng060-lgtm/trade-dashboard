@@ -218,7 +218,7 @@
       "R": 0.04658608557056221,
       "targets": [],
       "high_since_entry": 2.507,
-      "low_since_entry": 2.423,
+      "low_since_entry": 2.422,
       "exit_deadline": "2026-11-18 07:15:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
@@ -253,12 +253,12 @@
       "entry_time": "2026-11-17 10:30:00 MYT",
       "qty": 365.0,
       "remaining_qty": 365.0,
-      "stop": 0.01375091998818295,
+      "stop": 0.013720919988182952,
       "initial_stop": 0.01731771598818295,
       "R": 0.0013009199881829515,
       "targets": [],
       "high_since_entry": 0.01677,
-      "low_since_entry": 0.01245,
+      "low_since_entry": 0.01242,
       "exit_deadline": "2026-11-18 10:30:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
@@ -362,7 +362,27 @@
       "exit_deadline": "2026-11-18 17:15:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
+    },
+    {
+      "id": "FHF-20261117-1730-FILUSDT",
+      "symbol": "FILUSDT",
+      "side": "SELL",
+      "mode": "paper",
+      "status": "open",
+      "entry_price": 0.60277942,
+      "entry_time": "2026-11-17 17:30:00 MYT",
+      "qty": 37.800000000000004,
+      "remaining_qty": 37.800000000000004,
+      "stop": 0.6084443503804096,
+      "initial_stop": 0.6084443503804096,
+      "R": 0.005664930380409621,
+      "targets": [],
+      "high_since_entry": 0.6039,
+      "low_since_entry": 0.6018,
+      "exit_deadline": "2026-11-18 17:30:00 MYT",
+      "market": "usdm_perp",
+      "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-17 17:27:56 MYT"
+  "paper_updated_at": "2026-11-17 17:33:15 MYT"
 }
