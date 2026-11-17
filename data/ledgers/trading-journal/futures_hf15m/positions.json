@@ -5,7 +5,7 @@
   "rules": "hf-15m-v0.1",
   "cycle": 1,
   "start_equity_usdt": 100.0,
-  "wallet_usdt": 90.93388,
+  "wallet_usdt": 90.838078,
   "created": "2026-11-16 03:06:21 MYT",
   "positions": [
     {
@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 17:15:00 MYT",
-      "last_check_ms": 1794932151336,
-      "last_price": 0.0996,
+      "last_check_ms": 1794932441369,
+      "last_price": 0.0995,
       "last_funding_ms": 1794931200000
     },
     {
@@ -90,8 +90,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 23:15:00 MYT",
-      "last_check_ms": 1794932151554,
-      "last_price": 0.5391,
+      "last_check_ms": 1794932441688,
+      "last_price": 0.5375,
       "last_funding_ms": 1794931200000
     },
     {
@@ -133,51 +133,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 23:45:00 MYT",
-      "last_check_ms": 1794932151773,
-      "last_price": 1784.03,
-      "last_funding_ms": 1794931200000
-    },
-    {
-      "id": "FHF-20261117-2345-PAXGUSDT",
-      "symbol": "PAXGUSDT",
-      "side": "BUY",
-      "rules": "hf-15m-v0.1",
-      "cycle": 1,
-      "slippage": 0.0002,
-      "mode": "paper",
-      "status": "open",
-      "group": "合約高頻組",
-      "market": "usdm_perp",
-      "margin_type": "isolated",
-      "signal_tf": "15m",
-      "signal_bar_close_myt": "2026-11-17 23:45:00 MYT",
-      "vol_ratio": 3.9,
-      "breakout_level": 3863.08,
-      "entry_time": "2026-11-17 23:45:00 MYT",
-      "entry_ms": 1794930300000,
-      "entry_price": 3872.7744,
-      "qty": 0.005,
-      "remaining_qty": 0.005,
-      "notional": 19.363872,
-      "leverage": 3,
-      "margin": 6.454624,
-      "liq_price": 2607.92888889,
-      "mmr": 0.01,
-      "stop": 3858.444219283362,
-      "initial_stop": 3858.444219283362,
-      "R": 14.330180716637864,
-      "stop_pct": 0.37,
-      "risk_usdt": 0.09097895013139773,
-      "entry_fee": 0.009681936,
-      "funding": -0.00096605,
-      "best": 3877.5,
-      "high_since_entry": 3877.5,
-      "low_since_entry": 3858.53,
-      "trail_armed": false,
-      "targets": [],
-      "exit_deadline": "2026-11-18 23:45:00 MYT",
-      "last_check_ms": 1794932151995,
-      "last_price": 3860.99,
+      "last_check_ms": 1794932442002,
+      "last_price": 1783.35,
       "last_funding_ms": 1794931200000
     },
     {
@@ -219,8 +176,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 00:00:00 MYT",
-      "last_check_ms": 1794932152214,
-      "last_price": 0.5932
+      "last_check_ms": 1794932442646,
+      "last_price": 0.5902
     }
   ]
 }

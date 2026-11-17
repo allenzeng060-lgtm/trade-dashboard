@@ -3,7 +3,7 @@
   "set": "15m",
   "mode": "paper",
   "rules": "hf-15m-v0.1",
-  "updated_at": "2026-11-18 00:15:52 MYT",
+  "updated_at": "2026-11-18 00:20:42 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -16,10 +16,10 @@
     "slip": 0.0002,
     "regime": "none"
   },
-  "wallet_usdt": 90.9339,
-  "unrealized_usdt": -0.3088,
-  "equity_usdt": 90.625,
-  "pnl_pct": -9.375,
+  "wallet_usdt": 90.8381,
+  "unrealized_usdt": -0.0293,
+  "equity_usdt": 90.8088,
+  "pnl_pct": -9.191,
   "regime": {
     "allow": "ANY",
     "btc_close": 64115.09,
@@ -50,7 +50,7 @@
       "R": 0.0041255181993001405,
       "trail_armed": false,
       "funding": 0.00106974,
-      "last_price": 0.0996,
+      "last_price": 0.0995,
       "exit_deadline": "2026-11-18 17:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.52
@@ -71,7 +71,7 @@
       "R": 0.015063033260478226,
       "trail_armed": false,
       "funding": 0.00078431,
-      "last_price": 0.5391,
+      "last_price": 0.5375,
       "exit_deadline": "2026-11-18 23:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 4.99
@@ -92,31 +92,10 @@
       "R": 18.940009578585226,
       "trail_armed": false,
       "funding": -0.00038084,
-      "last_price": 1784.03,
+      "last_price": 1783.35,
       "exit_deadline": "2026-11-18 23:45:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 4.28
-    },
-    {
-      "id": "FHF-20261117-2345-PAXGUSDT",
-      "symbol": "PAXGUSDT",
-      "side": "BUY",
-      "entry_time": "2026-11-17 23:45:00 MYT",
-      "entry_price": 3872.7744,
-      "qty": 0.005,
-      "notional": 19.363872,
-      "leverage": 3,
-      "margin": 6.454624,
-      "liq_price": 2607.92888889,
-      "stop": 3858.444219283362,
-      "initial_stop": 3858.444219283362,
-      "R": 14.330180716637864,
-      "trail_armed": false,
-      "funding": -0.00096605,
-      "last_price": 3860.99,
-      "exit_deadline": "2026-11-18 23:45:00 MYT",
-      "signal_tf": "15m",
-      "vol_ratio": 3.9
     },
     {
       "id": "FHF-20261118-0000-FILUSDT",
@@ -134,7 +113,7 @@
       "R": 0.008435927438499018,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 0.5932,
+      "last_price": 0.5902,
       "exit_deadline": "2026-11-19 00:00:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 15.57

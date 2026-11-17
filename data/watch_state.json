@@ -177,7 +177,7 @@
       "initial_stop": 0.45500905742055003,
       "R": 0.013897297420550047,
       "targets": [],
-      "high_since_entry": 0.4451,
+      "high_since_entry": 0.4455,
       "low_since_entry": 0.4401,
       "exit_deadline": "2026-11-20 00:00:00 MYT",
       "market": "usdm_perp",
@@ -244,26 +244,6 @@
       "group": "合約高頻組"
     },
     {
-      "id": "FHF-20261117-2345-PAXGUSDT",
-      "symbol": "PAXGUSDT",
-      "side": "BUY",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 3872.7744,
-      "entry_time": "2026-11-17 23:45:00 MYT",
-      "qty": 0.005,
-      "remaining_qty": 0.005,
-      "stop": 3858.444219283362,
-      "initial_stop": 3858.444219283362,
-      "R": 14.330180716637864,
-      "targets": [],
-      "high_since_entry": 3877.5,
-      "low_since_entry": 3858.53,
-      "exit_deadline": "2026-11-18 23:45:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
       "id": "FHF-20261118-0000-FILUSDT",
       "symbol": "FILUSDT",
       "side": "SELL",
@@ -284,5 +264,5 @@
       "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-18 00:15:53 MYT"
+  "paper_updated_at": "2026-11-18 00:20:44 MYT"
 }
