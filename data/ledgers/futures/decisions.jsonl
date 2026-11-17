@@ -60,3 +60,4 @@
 {"time": "2026-11-18 04:02:00 MYT", "kind": "regime", "allow": "SELL", "btc_close": 63753.75, "ref": 67568.0, "new_low": true, "reason": "BTC 4h close 63753.75 < filter 67568 → shorts only"}
 {"time": "2026-11-18 04:02:12 MYT", "kind": "scan", "bar_close": "2026-11-18 04:00:00 MYT", "breakouts": 1, "vol_ok": 1, "allow": "SELL"}
 {"time": "2026-11-18 04:02:12 MYT", "kind": "skip", "symbol": "MMTUSDT", "side": "BUY", "tf": "4h", "vol_ratio": 35.23, "reason": "direction filter: BTC 4h close 63753.75 < filter 67568 → shorts only"}
+{"time": "2026-11-18 07:13:28 MYT", "kind": "close", "symbol": "WIFUSDT", "reason": "stop", "fill": 0.1366359626962965, "net": -2.005, "R": -1.0}

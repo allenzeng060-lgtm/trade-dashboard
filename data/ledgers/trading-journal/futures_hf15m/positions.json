@@ -41,14 +41,14 @@
       "risk_usdt": 0.29420686101129184,
       "entry_fee": 0.011031665892000001,
       "funding": 0.0,
-      "best": 0.311,
-      "high_since_entry": 0.311,
+      "best": 0.3135,
+      "high_since_entry": 0.3135,
       "low_since_entry": 0.3043,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794956910223,
-      "last_price": 0.3106
+      "last_check_ms": 1794957210976,
+      "last_price": 0.3126
     },
     {
       "id": "FHF-20261118-0530-ADAUSDT",
@@ -83,14 +83,14 @@
       "risk_usdt": 0.26834627743938544,
       "entry_fee": 0.010978795319999998,
       "funding": 0.0,
-      "best": 0.1556,
-      "high_since_entry": 0.1556,
+      "best": 0.1565,
+      "high_since_entry": 0.1565,
       "low_since_entry": 0.1529,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794956910554,
-      "last_price": 0.1554
+      "last_check_ms": 1794957211295,
+      "last_price": 0.156
     },
     {
       "id": "FHF-20261118-0530-XRPUSDT",
@@ -125,14 +125,14 @@
       "risk_usdt": 0.23063631636047993,
       "entry_fee": 0.011006140788,
       "funding": 0.0,
-      "best": 0.9847,
-      "high_since_entry": 0.9847,
+      "best": 0.9911,
+      "high_since_entry": 0.9911,
       "low_since_entry": 0.9657,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794956910878,
-      "last_price": 0.9827
+      "last_check_ms": 1794957211619,
+      "last_price": 0.9875
     },
     {
       "id": "FHF-20261118-0530-AVAXUSDT",
@@ -167,14 +167,14 @@
       "risk_usdt": 0.27140893759356494,
       "entry_fee": 0.0108126621,
       "funding": 0.0,
-      "best": 7.255,
-      "high_since_entry": 7.255,
+      "best": 7.312,
+      "high_since_entry": 7.312,
       "low_since_entry": 7.133,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794956911204,
-      "last_price": 7.247
+      "last_check_ms": 1794957211933,
+      "last_price": 7.296
     },
     {
       "id": "FHF-20261118-0700-TAOUSDT",
@@ -209,14 +209,14 @@
       "risk_usdt": 0.25281381106308665,
       "entry_fee": 0.01091378232,
       "funding": 0.0,
-      "best": 196.56,
-      "high_since_entry": 196.56,
+      "best": 198.15,
+      "high_since_entry": 198.15,
       "low_since_entry": 194.71,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 07:00:00 MYT",
-      "last_check_ms": 1794956911525,
-      "last_price": 196.11
+      "last_check_ms": 1794957212262,
+      "last_price": 197.84
     }
   ]
 }

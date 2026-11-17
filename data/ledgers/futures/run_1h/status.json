@@ -3,7 +3,7 @@
   "set": "1h",
   "mode": "paper",
   "rules": "v0.2-1h",
-  "updated_at": "2026-11-18 07:08:29 MYT",
+  "updated_at": "2026-11-18 07:13:30 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -16,10 +16,10 @@
     "slip": 0.0002,
     "regime": "spot_level"
   },
-  "wallet_usdt": 98.379,
-  "unrealized_usdt": -1.424,
-  "equity_usdt": 96.9549,
-  "pnl_pct": -3.045,
+  "wallet_usdt": 97.3901,
+  "unrealized_usdt": -0.5821,
+  "equity_usdt": 96.808,
+  "pnl_pct": -3.192,
   "regime": {
     "allow": "SELL",
     "btc_close": 63753.75,
@@ -67,31 +67,10 @@
       "R": 0.0008093927092204283,
       "trail_armed": false,
       "funding": -0.05492417,
-      "last_price": 0.010056,
+      "last_price": 0.010075,
       "exit_deadline": "2026-11-19 09:00:00 MYT",
       "signal_tf": "1h",
       "vol_ratio": 3.85
-    },
-    {
-      "id": "F1H-20261118-0000-APTUSDT",
-      "symbol": "APTUSDT",
-      "side": "SELL",
-      "entry_time": "2026-11-18 00:00:00 MYT",
-      "entry_price": 0.44111175999999996,
-      "qty": 68.5,
-      "notional": 30.216155559999997,
-      "leverage": 2,
-      "margin": 15.108077779999999,
-      "liq_price": 0.65511648,
-      "stop": 0.45500905742055003,
-      "initial_stop": 0.45500905742055003,
-      "R": 0.013897297420550047,
-      "trail_armed": false,
-      "funding": 0.0,
-      "last_price": 0.4533,
-      "exit_deadline": "2026-11-20 00:00:00 MYT",
-      "signal_tf": "1h",
-      "vol_ratio": 4.56
     }
   ],
   "data_source": "www.binance.com /fapi (public)"

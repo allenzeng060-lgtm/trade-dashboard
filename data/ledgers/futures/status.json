@@ -3,7 +3,7 @@
   "set": "4h",
   "mode": "paper",
   "rules": "v0.2",
-  "updated_at": "2026-11-18 07:08:28 MYT",
+  "updated_at": "2026-11-18 07:13:29 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -16,10 +16,10 @@
     "slip": 0.0,
     "regime": "spot_level"
   },
-  "wallet_usdt": 98.0049,
-  "unrealized_usdt": -3.381,
-  "equity_usdt": 94.6239,
-  "pnl_pct": -5.376,
+  "wallet_usdt": 95.9999,
+  "unrealized_usdt": -1.7065,
+  "equity_usdt": 94.2934,
+  "pnl_pct": -5.707,
   "regime": {
     "allow": "SELL",
     "btc_close": 63753.75,
@@ -44,27 +44,6 @@
   },
   "positions": [
     {
-      "id": "FQ-20261115-0810-WIFUSDT",
-      "symbol": "WIFUSDT",
-      "side": "SELL",
-      "entry_time": "2026-11-15 08:10:23 MYT",
-      "entry_price": 0.1295,
-      "qty": 275.1,
-      "notional": 35.62545,
-      "leverage": 2,
-      "margin": 17.812725,
-      "liq_price": 0.19232673,
-      "stop": 0.1366359626962965,
-      "initial_stop": 0.1366359626962965,
-      "R": 0.007135962696296479,
-      "trail_armed": false,
-      "funding": -0.00532116,
-      "last_price": 0.1361,
-      "exit_deadline": "2026-11-22 08:10:23 MYT",
-      "signal_tf": "4h",
-      "vol_ratio": 4.75
-    },
-    {
       "id": "FQ-20261115-0810-1000BONKUSDT",
       "symbol": "1000BONKUSDT",
       "side": "SELL",
@@ -80,7 +59,7 @@
       "R": 0.0001496381824028598,
       "trail_armed": false,
       "funding": -0.07296975,
-      "last_price": 0.002401,
+      "last_price": 0.002414,
       "exit_deadline": "2026-11-22 08:10:23 MYT",
       "signal_tf": "4h",
       "vol_ratio": 4.67
