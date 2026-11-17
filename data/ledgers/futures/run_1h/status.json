@@ -3,7 +3,7 @@
   "set": "1h",
   "mode": "paper",
   "rules": "v0.2-1h",
-  "updated_at": "2026-11-17 19:58:54 MYT",
+  "updated_at": "2026-11-17 20:04:30 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -17,27 +17,155 @@
     "regime": "spot_level"
   },
   "wallet_usdt": 98.379,
-  "unrealized_usdt": -0.4806,
-  "equity_usdt": 97.8984,
-  "pnl_pct": -2.102,
+  "unrealized_usdt": -0.4435,
+  "equity_usdt": 97.9355,
+  "pnl_pct": -2.064,
   "regime": {
     "allow": "SELL",
-    "btc_close": 64740.14,
+    "btc_close": 64995.54,
     "ref": 67568.0,
-    "reason": "BTC 4h close 64740.14 < filter 67568 → shorts only"
+    "reason": "BTC 4h close 64995.54 < filter 67568 → shorts only"
   },
   "last_scan": {
-    "time": "2026-11-17 19:03:56 MYT",
-    "bar_close": "2026-11-17 19:00:00 MYT",
-    "universe": 69,
+    "time": "2026-11-17 20:04:30 MYT",
+    "bar_close": "2026-11-17 20:00:00 MYT",
+    "universe": 71,
     "breakouts": [
       {
-        "symbol": "ETHUSDT",
-        "side": "SELL",
+        "symbol": "BCHUSDT",
+        "side": "BUY",
         "tf": "1h",
-        "level": 1799.8,
-        "close": 1788.06,
-        "vol_ratio": 1.747
+        "level": 210.5,
+        "close": 211.33,
+        "vol_ratio": 1.7915
+      },
+      {
+        "symbol": "XRPUSDT",
+        "side": "BUY",
+        "tf": "1h",
+        "level": 0.9679,
+        "close": 0.9708,
+        "vol_ratio": 0.979
+      },
+      {
+        "symbol": "LINKUSDT",
+        "side": "BUY",
+        "tf": "1h",
+        "level": 9.247,
+        "close": 9.258,
+        "vol_ratio": 0.905
+      },
+      {
+        "symbol": "XLMUSDT",
+        "side": "BUY",
+        "tf": "1h",
+        "level": 0.1398,
+        "close": 0.14,
+        "vol_ratio": 0.8197
+      },
+      {
+        "symbol": "XMRUSDT",
+        "side": "BUY",
+        "tf": "1h",
+        "level": 513.09,
+        "close": 514.68,
+        "vol_ratio": 0.8001
+      },
+      {
+        "symbol": "ZECUSDT",
+        "side": "BUY",
+        "tf": "1h",
+        "level": 949.3,
+        "close": 950.08,
+        "vol_ratio": 1.1932
+      },
+      {
+        "symbol": "SOLUSDT",
+        "side": "BUY",
+        "tf": "1h",
+        "level": 73.27,
+        "close": 73.46,
+        "vol_ratio": 1.1836
+      },
+      {
+        "symbol": "UNIUSDT",
+        "side": "BUY",
+        "tf": "1h",
+        "level": 5.339,
+        "close": 5.363,
+        "vol_ratio": 0.9794
+      },
+      {
+        "symbol": "AVAXUSDT",
+        "side": "BUY",
+        "tf": "1h",
+        "level": 7.229,
+        "close": 7.242,
+        "vol_ratio": 1.4866
+      },
+      {
+        "symbol": "INJUSDT",
+        "side": "BUY",
+        "tf": "1h",
+        "level": 7.439,
+        "close": 7.531,
+        "vol_ratio": 2.2024
+      },
+      {
+        "symbol": "SUIUSDT",
+        "side": "BUY",
+        "tf": "1h",
+        "level": 0.7304,
+        "close": 0.7354,
+        "vol_ratio": 0.995
+      },
+      {
+        "symbol": "WLDUSDT",
+        "side": "BUY",
+        "tf": "1h",
+        "level": 0.2679,
+        "close": 0.2701,
+        "vol_ratio": 1.0396
+      },
+      {
+        "symbol": "JUPUSDT",
+        "side": "BUY",
+        "tf": "1h",
+        "level": 0.2583,
+        "close": 0.2623,
+        "vol_ratio": 1.9995
+      },
+      {
+        "symbol": "VVVUSDT",
+        "side": "BUY",
+        "tf": "1h",
+        "level": 21.645,
+        "close": 21.779,
+        "vol_ratio": 2.0481
+      },
+      {
+        "symbol": "FHEUSDT",
+        "side": "BUY",
+        "tf": "1h",
+        "level": 0.0144,
+        "close": 0.0158,
+        "vol_ratio": 563.5821
+      },
+      {
+        "symbol": "AKEUSDT",
+        "side": "BUY",
+        "tf": "1h",
+        "level": 0.011,
+        "close": 0.011,
+        "vol_ratio": 0.3078
+      },
+      {
+        "symbol": "MMTUSDT",
+        "side": "BUY",
+        "tf": "1h",
+        "level": 0.1178,
+        "close": 0.1346,
+        "vol_ratio": 93.5151
       },
       {
         "symbol": "JCTUSDT",
@@ -45,15 +173,15 @@
         "tf": "1h",
         "level": 0.0021,
         "close": 0.0021,
-        "vol_ratio": 0.1892
+        "vol_ratio": 0.3629
       },
       {
-        "symbol": "PIEVERSEUSDT",
+        "symbol": "SPACEUSDT",
         "side": "SELL",
         "tf": "1h",
-        "level": 1.8693,
-        "close": 1.8641,
-        "vol_ratio": 1.9531
+        "level": 0.0033,
+        "close": 0.0033,
+        "vol_ratio": 2.089
       }
     ],
     "regime": "SELL"
@@ -74,8 +202,8 @@
       "initial_stop": 0.010468460509220427,
       "R": 0.0008093927092204283,
       "trail_armed": false,
-      "funding": -0.03936535,
-      "last_price": 0.010017,
+      "funding": -0.04701562,
+      "last_price": 0.009982,
       "exit_deadline": "2026-11-19 09:00:00 MYT",
       "signal_tf": "1h",
       "vol_ratio": 3.85

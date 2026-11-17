@@ -1,44 +1,60 @@
 {
   "last_regime": {
     "allow": "SELL",
-    "btc_close": 64740.14,
+    "btc_close": 64995.54,
     "ref": 67568.0,
     "mode": "spot_level",
     "new_low": false,
-    "reason": "BTC 4h close 64740.14 < filter 67568 → shorts only"
+    "reason": "BTC 4h close 64995.54 < filter 67568 → shorts only"
   },
   "last_scan": {
-    "time": "2026-11-17 16:03:05 MYT",
-    "bar_close": "2026-11-17 16:00:00 MYT",
+    "time": "2026-11-17 20:04:15 MYT",
+    "bar_close": "2026-11-17 20:00:00 MYT",
     "universe": 71,
     "breakouts": [
+      {
+        "symbol": "ZECUSDT",
+        "side": "BUY",
+        "tf": "4h",
+        "level": 939.77,
+        "close": 950.08,
+        "vol_ratio": 0.9493
+      },
+      {
+        "symbol": "1000LUNCUSDT",
+        "side": "BUY",
+        "tf": "4h",
+        "level": 0.0383,
+        "close": 0.0394,
+        "vol_ratio": 50.6191
+      },
       {
         "symbol": "VVVUSDT",
         "side": "BUY",
         "tf": "4h",
-        "level": 21.297,
-        "close": 21.453,
-        "vol_ratio": 1.0934
+        "level": 21.645,
+        "close": 21.779,
+        "vol_ratio": 1.2964
       },
       {
-        "symbol": "EVAAUSDT",
+        "symbol": "FHEUSDT",
         "side": "BUY",
         "tf": "4h",
-        "level": 3.822,
-        "close": 4.0404,
-        "vol_ratio": 2.9449
+        "level": 0.0154,
+        "close": 0.0158,
+        "vol_ratio": 144.4976
       },
       {
-        "symbol": "龙虾USDT",
+        "symbol": "MMTUSDT",
         "side": "BUY",
         "tf": "4h",
-        "level": 0.0174,
-        "close": 0.021,
-        "vol_ratio": 75.4944
+        "level": 0.1178,
+        "close": 0.1346,
+        "vol_ratio": 26.0719
       }
     ],
     "regime": "SELL"
   },
-  "last_scan_bar_ms": 1794902400000,
+  "last_scan_bar_ms": 1794916800000,
   "last_equity_ts": 1794915219.8899443
 }
