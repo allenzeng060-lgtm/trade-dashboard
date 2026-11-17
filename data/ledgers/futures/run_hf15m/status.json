@@ -3,7 +3,7 @@
   "set": "15m",
   "mode": "paper",
   "rules": "hf-15m-v0.1",
-  "updated_at": "2026-11-17 08:14:13 MYT",
+  "updated_at": "2026-11-17 08:19:29 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -17,9 +17,9 @@
     "regime": "none"
   },
   "wallet_usdt": 95.634,
-  "unrealized_usdt": 1.5808,
-  "equity_usdt": 97.2148,
-  "pnl_pct": -2.785,
+  "unrealized_usdt": 1.4381,
+  "equity_usdt": 97.0721,
+  "pnl_pct": -2.928,
   "regime": {
     "allow": "ANY",
     "btc_close": 64882.87,
@@ -27,10 +27,43 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-17 08:04:53 MYT",
-    "bar_close": "2026-11-17 08:00:00 MYT",
+    "time": "2026-11-17 08:19:26 MYT",
+    "bar_close": "2026-11-17 08:15:00 MYT",
     "universe": 71,
-    "breakouts": [],
+    "breakouts": [
+      {
+        "symbol": "BTCUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 64731.2,
+        "close": 64653.4,
+        "vol_ratio": 0.9761
+      },
+      {
+        "symbol": "INITUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.1021,
+        "close": 0.1022,
+        "vol_ratio": 0.5838
+      },
+      {
+        "symbol": "AIOTUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.0846,
+        "close": 0.0881,
+        "vol_ratio": 5.067
+      },
+      {
+        "symbol": "SOPHUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 0.0009,
+        "close": 0.0009,
+        "vol_ratio": 0.6492
+      }
+    ],
     "regime": "ANY"
   },
   "positions": [
@@ -50,7 +83,7 @@
       "R": 0.0013959969224845614,
       "trail_armed": false,
       "funding": -0.01407624,
-      "last_price": 0.019162,
+      "last_price": 0.018948,
       "exit_deadline": "2026-11-17 22:45:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 9.23
@@ -71,7 +104,7 @@
       "R": 0.004354402619949679,
       "trail_armed": true,
       "funding": -0.01563111,
-      "last_price": 0.2419,
+      "last_price": 0.242,
       "exit_deadline": "2026-11-17 23:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 5.94
@@ -92,7 +125,7 @@
       "R": 0.0009588951577858478,
       "trail_armed": false,
       "funding": -0.00212296,
-      "last_price": 0.04546,
+      "last_price": 0.04529,
       "exit_deadline": "2026-11-18 02:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.77
@@ -113,7 +146,7 @@
       "R": 0.0005096528888362112,
       "trail_armed": false,
       "funding": 0.0440522,
-      "last_price": 0.009799,
+      "last_price": 0.009847,
       "exit_deadline": "2026-11-18 04:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 5.1
@@ -134,10 +167,31 @@
       "R": 0.04658608557056221,
       "trail_armed": false,
       "funding": 0.00224145,
-      "last_price": 2.494,
+      "last_price": 2.499,
       "exit_deadline": "2026-11-18 07:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.01
+    },
+    {
+      "id": "FHF-20261117-0815-AIOTUSDT",
+      "symbol": "AIOTUSDT",
+      "side": "BUY",
+      "entry_time": "2026-11-17 08:15:00 MYT",
+      "entry_price": 0.088107618,
+      "qty": 75.0,
+      "notional": 6.6080713499999995,
+      "leverage": 1,
+      "margin": 6.6080713499999995,
+      "liq_price": 0.0,
+      "stop": 0.08185298603865923,
+      "initial_stop": 0.08185298603865923,
+      "R": 0.006254631961340766,
+      "trail_armed": false,
+      "funding": 0.0,
+      "last_price": 0.0882,
+      "exit_deadline": "2026-11-18 08:15:00 MYT",
+      "signal_tf": "15m",
+      "vol_ratio": 5.07
     }
   ],
   "data_source": "www.binance.com /fapi (public)"

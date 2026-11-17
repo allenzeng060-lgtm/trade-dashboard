@@ -257,12 +257,32 @@
       "initial_stop": 2.5240904855705626,
       "R": 0.04658608557056221,
       "targets": [],
-      "high_since_entry": 2.497,
+      "high_since_entry": 2.507,
       "low_since_entry": 2.454,
       "exit_deadline": "2026-11-18 07:15:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
+    },
+    {
+      "id": "FHF-20261117-0815-AIOTUSDT",
+      "symbol": "AIOTUSDT",
+      "side": "BUY",
+      "mode": "paper",
+      "status": "open",
+      "entry_price": 0.088107618,
+      "entry_time": "2026-11-17 08:15:00 MYT",
+      "qty": 75.0,
+      "remaining_qty": 75.0,
+      "stop": 0.08185298603865923,
+      "initial_stop": 0.08185298603865923,
+      "R": 0.006254631961340766,
+      "targets": [],
+      "high_since_entry": 0.0899,
+      "low_since_entry": 0.08678,
+      "exit_deadline": "2026-11-18 08:15:00 MYT",
+      "market": "usdm_perp",
+      "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-17 08:14:14 MYT"
+  "paper_updated_at": "2026-11-17 08:19:31 MYT"
 }
