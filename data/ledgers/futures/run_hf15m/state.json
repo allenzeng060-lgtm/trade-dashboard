@@ -8,61 +8,37 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-17 10:35:22 MYT",
-    "bar_close": "2026-11-17 10:30:00 MYT",
+    "time": "2026-11-17 10:50:24 MYT",
+    "bar_close": "2026-11-17 10:45:00 MYT",
     "universe": 70,
     "breakouts": [
       {
-        "symbol": "BTCUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 64417.3,
-        "close": 64374.4,
-        "vol_ratio": 1.0521
-      },
-      {
-        "symbol": "QNTUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 152.84,
-        "close": 152.02,
-        "vol_ratio": 1.1785
-      },
-      {
-        "symbol": "ZROUSDT",
+        "symbol": "INJUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 1.5192,
-        "close": 1.5209,
-        "vol_ratio": 1.5884
+        "level": 7.042,
+        "close": 7.053,
+        "vol_ratio": 1.7224
       },
       {
-        "symbol": "HYPEUSDT",
-        "side": "SELL",
+        "symbol": "INITUSDT",
+        "side": "BUY",
         "tf": "15m",
-        "level": 68.617,
-        "close": 68.536,
-        "vol_ratio": 0.5025
+        "level": 0.1027,
+        "close": 0.1029,
+        "vol_ratio": 0.9095
       },
       {
-        "symbol": "BULLAUSDT",
+        "symbol": "XPLUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 0.0163,
-        "close": 0.016,
-        "vol_ratio": 2.2429
-      },
-      {
-        "symbol": "BLESSUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 0.0176,
-        "close": 0.0167,
-        "vol_ratio": 4.6286
+        "level": 0.0449,
+        "close": 0.0448,
+        "vol_ratio": 0.8223
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794882600000,
+  "last_scan_bar_ms": 1794883500000,
   "last_equity_ts": 1794882922.9201388
 }

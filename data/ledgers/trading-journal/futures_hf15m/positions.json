@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 02:30:00 MYT",
-      "last_check_ms": 1794883506883,
-      "last_price": 0.04482,
+      "last_check_ms": 1794883824461,
+      "last_price": 0.0449,
       "last_funding_ms": 1794873600000
     },
     {
@@ -90,8 +90,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 04:30:00 MYT",
-      "last_check_ms": 1794883507180,
-      "last_price": 0.009325,
+      "last_check_ms": 1794883824731,
+      "last_price": 0.009211,
       "last_funding_ms": 1794880800000
     },
     {
@@ -133,8 +133,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 07:15:00 MYT",
-      "last_check_ms": 1794883507473,
-      "last_price": 2.463,
+      "last_check_ms": 1794883825003,
+      "last_price": 2.461,
       "last_funding_ms": 1794873600000
     },
     {
@@ -176,8 +176,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 09:15:00 MYT",
-      "last_check_ms": 1794883507767,
-      "last_price": 0.002749
+      "last_check_ms": 1794883825274,
+      "last_price": 0.002754
     },
     {
       "id": "FHF-20261117-0945-BTWUSDT",
@@ -218,8 +218,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 09:45:00 MYT",
-      "last_check_ms": 1794883508328,
-      "last_price": 0.3455
+      "last_check_ms": 1794883825550,
+      "last_price": 0.3424
     },
     {
       "id": "FHF-20261117-1015-ZROUSDT",
@@ -260,8 +260,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 10:15:00 MYT",
-      "last_check_ms": 1794883508620,
-      "last_price": 1.5219
+      "last_check_ms": 1794883825824,
+      "last_price": 1.5255
     },
     {
       "id": "FHF-20261117-1030-BLESSUSDT",
@@ -302,8 +302,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 10:30:00 MYT",
-      "last_check_ms": 1794883509159,
-      "last_price": 0.017049
+      "last_check_ms": 1794883826095,
+      "last_price": 0.017093
     },
     {
       "id": "FHF-20261117-1030-BULLAUSDT",
@@ -344,8 +344,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 10:30:00 MYT",
-      "last_check_ms": 1794883509700,
-      "last_price": 0.01584
+      "last_check_ms": 1794883826367,
+      "last_price": 0.01582
     }
   ]
 }
