@@ -5,7 +5,7 @@
   "rules": "hf-15m-v0.1",
   "cycle": 1,
   "start_equity_usdt": 100.0,
-  "wallet_usdt": 88.3174,
+  "wallet_usdt": 87.871229,
   "created": "2026-11-16 03:06:21 MYT",
   "positions": [
     {
@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 00:00:00 MYT",
-      "last_check_ms": 1794943619357,
-      "last_price": 0.587
+      "last_check_ms": 1794943939661,
+      "last_price": 0.5845
     },
     {
       "id": "FHF-20261118-0100-AAVEUSDT",
@@ -89,8 +89,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 01:00:00 MYT",
-      "last_check_ms": 1794943619579,
-      "last_price": 109.93
+      "last_check_ms": 1794943940205,
+      "last_price": 109.8
     },
     {
       "id": "FHF-20261118-0100-ZROUSDT",
@@ -131,50 +131,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 01:00:00 MYT",
-      "last_check_ms": 1794943619800,
-      "last_price": 1.3818
-    },
-    {
-      "id": "FHF-20261118-0230-MMTUSDT",
-      "symbol": "MMTUSDT",
-      "side": "BUY",
-      "rules": "hf-15m-v0.1",
-      "cycle": 1,
-      "slippage": 0.0002,
-      "mode": "paper",
-      "status": "open",
-      "group": "合約高頻組",
-      "market": "usdm_perp",
-      "margin_type": "isolated",
-      "signal_tf": "15m",
-      "signal_bar_close_myt": "2026-11-18 02:30:00 MYT",
-      "vol_ratio": 5.39,
-      "breakout_level": 0.1493,
-      "entry_time": "2026-11-18 02:30:00 MYT",
-      "entry_ms": 1794940200000,
-      "entry_price": 0.14982995999999998,
-      "qty": 43.0,
-      "remaining_qty": 43.0,
-      "notional": 6.44268828,
-      "leverage": 1,
-      "margin": 6.44268828,
-      "liq_price": 0.0,
-      "mmr": 0.015,
-      "stop": 0.13962653057329313,
-      "initial_stop": 0.13962653057329313,
-      "R": 0.01020342942670685,
-      "stop_pct": 6.81,
-      "risk_usdt": 0.4449707798957204,
-      "entry_fee": 0.00322134414,
-      "funding": 0.0,
-      "best": 0.1524,
-      "high_since_entry": 0.1524,
-      "low_since_entry": 0.1397,
-      "trail_armed": false,
-      "targets": [],
-      "exit_deadline": "2026-11-19 02:30:00 MYT",
-      "last_check_ms": 1794943620024,
-      "last_price": 0.1424
+      "last_check_ms": 1794943940498,
+      "last_price": 1.3836
     },
     {
       "id": "FHF-20261118-0315-PENGUUSDT",
@@ -209,14 +167,14 @@
       "risk_usdt": 0.4029192040052829,
       "entry_fee": 0.011039597478,
       "funding": 0.0,
-      "best": 0.004886,
-      "high_since_entry": 0.004886,
+      "best": 0.004893,
+      "high_since_entry": 0.004893,
       "low_since_entry": 0.004729,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 03:15:00 MYT",
-      "last_check_ms": 1794943620435,
-      "last_price": 0.004879
+      "last_check_ms": 1794943940797,
+      "last_price": 0.004866
     }
   ]
 }

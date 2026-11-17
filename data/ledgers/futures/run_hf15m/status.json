@@ -3,7 +3,7 @@
   "set": "15m",
   "mode": "paper",
   "rules": "hf-15m-v0.1",
-  "updated_at": "2026-11-18 03:27:00 MYT",
+  "updated_at": "2026-11-18 03:32:21 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -16,10 +16,10 @@
     "slip": 0.0002,
     "regime": "none"
   },
-  "wallet_usdt": 88.3174,
-  "unrealized_usdt": 0.697,
-  "equity_usdt": 89.0144,
-  "pnl_pct": -10.986,
+  "wallet_usdt": 87.8712,
+  "unrealized_usdt": 1.0458,
+  "equity_usdt": 88.917,
+  "pnl_pct": -11.083,
   "regime": {
     "allow": "ANY",
     "btc_close": 64115.09,
@@ -27,8 +27,8 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-18 03:17:13 MYT",
-    "bar_close": "2026-11-18 03:15:00 MYT",
+    "time": "2026-11-18 03:32:19 MYT",
+    "bar_close": "2026-11-18 03:30:00 MYT",
     "universe": 75,
     "breakouts": [
       {
@@ -36,16 +36,24 @@
         "side": "BUY",
         "tf": "15m",
         "level": 0.0047,
-        "close": 0.0047,
-        "vol_ratio": 2.1626
+        "close": 0.0049,
+        "vol_ratio": 9.6314
+      },
+      {
+        "symbol": "INITUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.1031,
+        "close": 0.1036,
+        "vol_ratio": 1.465
       },
       {
         "symbol": "AKEUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 0.0103,
-        "close": 0.0102,
-        "vol_ratio": 0.6561
+        "level": 0.0102,
+        "close": 0.0101,
+        "vol_ratio": 0.7941
       }
     ],
     "regime": "ANY"
@@ -67,7 +75,7 @@
       "R": 0.008435927438499018,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 0.587,
+      "last_price": 0.5845,
       "exit_deadline": "2026-11-19 00:00:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 15.57
@@ -88,7 +96,7 @@
       "R": 1.7029877628917702,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 109.93,
+      "last_price": 109.8,
       "exit_deadline": "2026-11-19 01:00:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.84
@@ -109,31 +117,10 @@
       "R": 0.026370896395461745,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 1.3818,
+      "last_price": 1.3836,
       "exit_deadline": "2026-11-19 01:00:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.08
-    },
-    {
-      "id": "FHF-20261118-0230-MMTUSDT",
-      "symbol": "MMTUSDT",
-      "side": "BUY",
-      "entry_time": "2026-11-18 02:30:00 MYT",
-      "entry_price": 0.14982995999999998,
-      "qty": 43.0,
-      "notional": 6.44268828,
-      "leverage": 1,
-      "margin": 6.44268828,
-      "liq_price": 0.0,
-      "stop": 0.13962653057329313,
-      "initial_stop": 0.13962653057329313,
-      "R": 0.01020342942670685,
-      "trail_armed": false,
-      "funding": 0.0,
-      "last_price": 0.1424,
-      "exit_deadline": "2026-11-19 02:30:00 MYT",
-      "signal_tf": "15m",
-      "vol_ratio": 5.39
     },
     {
       "id": "FHF-20261118-0315-PENGUUSDT",
@@ -151,7 +138,7 @@
       "R": 8.167856898423122e-05,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 0.004879,
+      "last_price": 0.004866,
       "exit_deadline": "2026-11-19 03:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.16

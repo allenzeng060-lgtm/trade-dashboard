@@ -8,8 +8,8 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-18 03:17:13 MYT",
-    "bar_close": "2026-11-18 03:15:00 MYT",
+    "time": "2026-11-18 03:32:19 MYT",
+    "bar_close": "2026-11-18 03:30:00 MYT",
     "universe": 75,
     "breakouts": [
       {
@@ -17,20 +17,28 @@
         "side": "BUY",
         "tf": "15m",
         "level": 0.0047,
-        "close": 0.0047,
-        "vol_ratio": 2.1626
+        "close": 0.0049,
+        "vol_ratio": 9.6314
+      },
+      {
+        "symbol": "INITUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.1031,
+        "close": 0.1036,
+        "vol_ratio": 1.465
       },
       {
         "symbol": "AKEUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 0.0103,
-        "close": 0.0102,
-        "vol_ratio": 0.6561
+        "level": 0.0102,
+        "close": 0.0101,
+        "vol_ratio": 0.7941
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794942900000,
-  "last_equity_ts": 1794943033.529585
+  "last_scan_bar_ms": 1794943800000,
+  "last_equity_ts": 1794943923.4234846
 }
