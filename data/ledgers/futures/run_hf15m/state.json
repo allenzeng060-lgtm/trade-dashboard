@@ -8,37 +8,93 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-17 09:35:00 MYT",
-    "bar_close": "2026-11-17 09:30:00 MYT",
+    "time": "2026-11-17 09:50:01 MYT",
+    "bar_close": "2026-11-17 09:45:00 MYT",
     "universe": 71,
     "breakouts": [
+      {
+        "symbol": "TRXUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.3058,
+        "close": 0.3059,
+        "vol_ratio": 1.4044
+      },
       {
         "symbol": "AAVEUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 108.93,
-        "close": 108.97,
-        "vol_ratio": 0.7722
+        "level": 109.05,
+        "close": 109.86,
+        "vol_ratio": 1.9492
       },
       {
-        "symbol": "ENAUSDT",
-        "side": "SELL",
+        "symbol": "INJUSDT",
+        "side": "BUY",
         "tf": "15m",
-        "level": 0.1135,
-        "close": 0.1134,
-        "vol_ratio": 0.6174
+        "level": 6.963,
+        "close": 6.98,
+        "vol_ratio": 1.4802
       },
       {
-        "symbol": "RAREUSDT",
+        "symbol": "1000PEPEUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.0039,
+        "close": 0.0039,
+        "vol_ratio": 0.814
+      },
+      {
+        "symbol": "ZROUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 1.4783,
+        "close": 1.499,
+        "vol_ratio": 1.4533
+      },
+      {
+        "symbol": "TRUMPUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.951,
+        "close": 0.952,
+        "vol_ratio": 1.8672
+      },
+      {
+        "symbol": "SHELLUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.0264,
+        "close": 0.0266,
+        "vol_ratio": 0.4988
+      },
+      {
+        "symbol": "PAXGUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 3850.77,
+        "close": 3854.9,
+        "vol_ratio": 1.4807
+      },
+      {
+        "symbol": "SKRUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 0.013,
-        "close": 0.013,
-        "vol_ratio": 0.351
+        "level": 0.0096,
+        "close": 0.0095,
+        "vol_ratio": 0.5007
+      },
+      {
+        "symbol": "BTWUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 0.3547,
+        "close": 0.3425,
+        "vol_ratio": 2.4132
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794879000000,
-  "last_equity_ts": 1794879584.8079264
+  "last_scan_bar_ms": 1794879900000,
+  "last_equity_ts": 1794880201.4410243
 }

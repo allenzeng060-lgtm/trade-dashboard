@@ -3,7 +3,7 @@
   "set": "15m",
   "mode": "paper",
   "rules": "hf-15m-v0.1",
-  "updated_at": "2026-11-17 09:44:50 MYT",
+  "updated_at": "2026-11-17 09:50:02 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -17,9 +17,9 @@
     "regime": "none"
   },
   "wallet_usdt": 96.8474,
-  "unrealized_usdt": 0.4344,
-  "equity_usdt": 97.2819,
-  "pnl_pct": -2.718,
+  "unrealized_usdt": 0.6307,
+  "equity_usdt": 97.4781,
+  "pnl_pct": -2.522,
   "regime": {
     "allow": "ANY",
     "btc_close": 64882.87,
@@ -27,33 +27,89 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-17 09:35:00 MYT",
-    "bar_close": "2026-11-17 09:30:00 MYT",
+    "time": "2026-11-17 09:50:01 MYT",
+    "bar_close": "2026-11-17 09:45:00 MYT",
     "universe": 71,
     "breakouts": [
+      {
+        "symbol": "TRXUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.3058,
+        "close": 0.3059,
+        "vol_ratio": 1.4044
+      },
       {
         "symbol": "AAVEUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 108.93,
-        "close": 108.97,
-        "vol_ratio": 0.7722
+        "level": 109.05,
+        "close": 109.86,
+        "vol_ratio": 1.9492
       },
       {
-        "symbol": "ENAUSDT",
-        "side": "SELL",
+        "symbol": "INJUSDT",
+        "side": "BUY",
         "tf": "15m",
-        "level": 0.1135,
-        "close": 0.1134,
-        "vol_ratio": 0.6174
+        "level": 6.963,
+        "close": 6.98,
+        "vol_ratio": 1.4802
       },
       {
-        "symbol": "RAREUSDT",
+        "symbol": "1000PEPEUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.0039,
+        "close": 0.0039,
+        "vol_ratio": 0.814
+      },
+      {
+        "symbol": "ZROUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 1.4783,
+        "close": 1.499,
+        "vol_ratio": 1.4533
+      },
+      {
+        "symbol": "TRUMPUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.951,
+        "close": 0.952,
+        "vol_ratio": 1.8672
+      },
+      {
+        "symbol": "SHELLUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.0264,
+        "close": 0.0266,
+        "vol_ratio": 0.4988
+      },
+      {
+        "symbol": "PAXGUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 3850.77,
+        "close": 3854.9,
+        "vol_ratio": 1.4807
+      },
+      {
+        "symbol": "SKRUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 0.013,
-        "close": 0.013,
-        "vol_ratio": 0.351
+        "level": 0.0096,
+        "close": 0.0095,
+        "vol_ratio": 0.5007
+      },
+      {
+        "symbol": "BTWUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 0.3547,
+        "close": 0.3425,
+        "vol_ratio": 2.4132
       }
     ],
     "regime": "ANY"
@@ -75,7 +131,7 @@
       "R": 0.0013959969224845614,
       "trail_armed": false,
       "funding": -0.01407624,
-      "last_price": 0.018312,
+      "last_price": 0.018556,
       "exit_deadline": "2026-11-17 22:45:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 9.23
@@ -96,7 +152,7 @@
       "R": 0.0009588951577858478,
       "trail_armed": false,
       "funding": -0.00212296,
-      "last_price": 0.04532,
+      "last_price": 0.04505,
       "exit_deadline": "2026-11-18 02:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.77
@@ -117,7 +173,7 @@
       "R": 0.0005096528888362112,
       "trail_armed": false,
       "funding": 0.05262558,
-      "last_price": 0.009457,
+      "last_price": 0.009526,
       "exit_deadline": "2026-11-18 04:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 5.1
@@ -138,7 +194,7 @@
       "R": 0.04658608557056221,
       "trail_armed": false,
       "funding": 0.00224145,
-      "last_price": 2.461,
+      "last_price": 2.455,
       "exit_deadline": "2026-11-18 07:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.01
@@ -159,10 +215,31 @@
       "R": 3.882182528186357e-05,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 0.002781,
+      "last_price": 0.002767,
       "exit_deadline": "2026-11-18 09:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 4.05
+    },
+    {
+      "id": "FHF-20261117-0945-BTWUSDT",
+      "symbol": "BTWUSDT",
+      "side": "SELL",
+      "entry_time": "2026-11-17 09:45:00 MYT",
+      "entry_price": 0.34243150000000006,
+      "qty": 28.0,
+      "notional": 9.588082000000002,
+      "leverage": 2,
+      "margin": 4.794041000000001,
+      "liq_price": 0.48918786,
+      "stop": 0.3589553932779611,
+      "initial_stop": 0.3589553932779611,
+      "R": 0.016523893277961027,
+      "trail_armed": false,
+      "funding": 0.0,
+      "last_price": 0.3414,
+      "exit_deadline": "2026-11-18 09:45:00 MYT",
+      "signal_tf": "15m",
+      "vol_ratio": 2.41
     }
   ],
   "data_source": "www.binance.com /fapi (public)"
