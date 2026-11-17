@@ -449,3 +449,4 @@
 2026-11-17 09:03:10,243 INFO decision scan {"bar_close": "2026-11-17 17:00:00 MYT", "breakouts": 7, "vol_ok": 1, "allow": "ANY"}
 2026-11-17 09:03:10,432 INFO decision open {"symbol": "INITUSDT", "side": "SELL", "entry": 0.09508098000000001, "stop": 0.09722543346340813, "qty": 204.0, "lev": 3, "liq": 0.12428886, "risk": 0.457}
 2026-11-17 09:03:12,604 INFO decision funding {"symbol": "INITUSDT", "rate": "-0.00085755", "amount": -0.016652, "at": "2026-11-17 17:00:00 MYT"}
+2026-11-17 09:07:46,744 INFO decision trail_update {"symbol": "BULLAUSDT", "stop": 0.014020919988182952, "best": 0.01272}

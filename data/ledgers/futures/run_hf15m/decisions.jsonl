@@ -532,3 +532,4 @@
 {"time": "2026-11-17 17:03:10 MYT", "kind": "scan", "bar_close": "2026-11-17 17:00:00 MYT", "breakouts": 7, "vol_ok": 1, "allow": "ANY"}
 {"time": "2026-11-17 17:03:10 MYT", "kind": "open", "symbol": "INITUSDT", "side": "SELL", "entry": 0.09508098000000001, "stop": 0.09722543346340813, "qty": 204.0, "lev": 3, "liq": 0.12428886, "risk": 0.457}
 {"time": "2026-11-17 17:03:12 MYT", "kind": "funding", "symbol": "INITUSDT", "rate": "-0.00085755", "amount": -0.016652, "at": "2026-11-17 17:00:00 MYT"}
+{"time": "2026-11-17 17:07:46 MYT", "kind": "trail_update", "symbol": "BULLAUSDT", "stop": 0.014020919988182952, "best": 0.01272}
