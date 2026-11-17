@@ -343,3 +343,4 @@
 2026-11-17 03:30:43,858 INFO decision skip {"symbol": "AAVEUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 5.51, "reason": "already holding"}
 2026-11-17 03:30:43,858 INFO decision skip {"symbol": "INJUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 3.17, "reason": "already holding"}
 2026-11-17 03:30:44,167 INFO decision open {"symbol": "WLDUSDT", "side": "BUY", "entry": 0.26475294, "stop": 0.26202775313266147, "qty": 90.0, "lev": 3, "liq": 0.17828481, "risk": 0.269}
+2026-11-17 03:35:28,541 INFO decision trail_update {"symbol": "AAVEUSDT", "stop": 112.65231888481205, "best": 113.66}
