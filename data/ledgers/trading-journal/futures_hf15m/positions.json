@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 01:00:00 MYT",
-      "last_check_ms": 1794952091726,
-      "last_price": 110.63
+      "last_check_ms": 1794952377646,
+      "last_price": 110.76
     },
     {
       "id": "FHF-20261118-0530-ONDOUSDT",
@@ -85,12 +85,12 @@
       "funding": 0.0,
       "best": 0.3086,
       "high_since_entry": 0.3086,
-      "low_since_entry": 0.3057,
+      "low_since_entry": 0.3052,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794952092022,
-      "last_price": 0.3059
+      "last_check_ms": 1794952377972,
+      "last_price": 0.3055
     },
     {
       "id": "FHF-20261118-0530-ADAUSDT",
@@ -127,12 +127,12 @@
       "funding": 0.0,
       "best": 0.1552,
       "high_since_entry": 0.1552,
-      "low_since_entry": 0.1538,
+      "low_since_entry": 0.1534,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794952092556,
-      "last_price": 0.1539
+      "last_check_ms": 1794952378298,
+      "last_price": 0.1535
     },
     {
       "id": "FHF-20261118-0530-XRPUSDT",
@@ -169,12 +169,12 @@
       "funding": 0.0,
       "best": 0.9766,
       "high_since_entry": 0.9766,
-      "low_since_entry": 0.9695,
+      "low_since_entry": 0.9685,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794952092851,
-      "last_price": 0.9699
+      "last_check_ms": 1794952378626,
+      "last_price": 0.9688
     },
     {
       "id": "FHF-20261118-0530-AVAXUSDT",
@@ -211,12 +211,12 @@
       "funding": 0.0,
       "best": 7.248,
       "high_since_entry": 7.248,
-      "low_since_entry": 7.174,
+      "low_since_entry": 7.161,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794952093140,
-      "last_price": 7.181
+      "last_check_ms": 1794952378953,
+      "last_price": 7.164
     }
   ]
 }
