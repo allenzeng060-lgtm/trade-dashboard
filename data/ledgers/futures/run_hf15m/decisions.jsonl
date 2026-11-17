@@ -688,3 +688,12 @@
 {"time": "2026-11-17 23:05:37 MYT", "kind": "open", "symbol": "CROSSUSDT", "side": "BUY", "entry": 0.156721338, "stop": 0.14856487636561172, "qty": 54.0, "lev": 2, "liq": 0.07995987, "risk": 0.449}
 {"time": "2026-11-17 23:10:25 MYT", "kind": "close", "symbol": "AVAXUSDT", "reason": "stop", "fill": 7.17210559401092, "net": -0.2026, "R": -1.02}
 {"time": "2026-11-17 23:10:25 MYT", "kind": "trail_update", "symbol": "PENGUUSDT", "stop": 0.004618282172376339, "best": 0.004567}
+{"time": "2026-11-17 23:20:27 MYT", "kind": "close", "symbol": "PENGUUSDT", "reason": "trail_stop", "fill": 0.004619205828810815, "net": 0.2398, "R": 0.9}
+{"time": "2026-11-17 23:20:28 MYT", "kind": "trail_update", "symbol": "BREVUSDT", "stop": 0.11088333676971812, "best": 0.1166}
+{"time": "2026-11-17 23:20:30 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64995.54, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-17 23:20:38 MYT", "kind": "scan", "bar_close": "2026-11-17 23:15:00 MYT", "breakouts": 9, "vol_ok": 5, "allow": "ANY"}
+{"time": "2026-11-17 23:20:38 MYT", "kind": "skip", "symbol": "BREVUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 20.07, "reason": "already holding"}
+{"time": "2026-11-17 23:20:39 MYT", "kind": "open", "symbol": "PENGUUSDT", "side": "SELL", "entry": 0.004595080800000001, "stop": 0.004654083201447323, "qty": 4928.0, "lev": 3, "liq": 0.00606611, "risk": 0.314}
+{"time": "2026-11-17 23:20:39 MYT", "kind": "open", "symbol": "ASTERUSDT", "side": "SELL", "entry": 0.54219154, "stop": 0.5572545732604782, "qty": 29.0, "lev": 3, "liq": 0.71576441, "risk": 0.453}
+{"time": "2026-11-17 23:20:39 MYT", "kind": "open", "symbol": "1000PEPEUSDT", "side": "SELL", "entry": 0.00379134158, "stop": 0.0038336914728533253, "qty": 5973.0, "lev": 3, "liq": 0.00502248, "risk": 0.276}
+{"time": "2026-11-17 23:20:39 MYT", "kind": "skip", "symbol": "EVAAUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.04, "reason": "same-direction cap 6 (v0.2 correlation cap)"}

@@ -8,25 +8,41 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-17 23:05:37 MYT",
-    "bar_close": "2026-11-17 23:00:00 MYT",
+    "time": "2026-11-17 23:20:38 MYT",
+    "bar_close": "2026-11-17 23:15:00 MYT",
     "universe": 71,
     "breakouts": [
+      {
+        "symbol": "1000PEPEUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 0.0038,
+        "close": 0.0038,
+        "vol_ratio": 2.7857
+      },
+      {
+        "symbol": "ZROUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 1.4555,
+        "close": 1.4536,
+        "vol_ratio": 1.1346
+      },
       {
         "symbol": "RAREUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 0.0129,
-        "close": 0.0129,
-        "vol_ratio": 0.416
+        "level": 0.0128,
+        "close": 0.0127,
+        "vol_ratio": 0.7371
       },
       {
-        "symbol": "AIOTUSDT",
-        "side": "BUY",
+        "symbol": "PENGUUSDT",
+        "side": "SELL",
         "tf": "15m",
-        "level": 0.0902,
-        "close": 0.0907,
-        "vol_ratio": 0.8091
+        "level": 0.0046,
+        "close": 0.0046,
+        "vol_ratio": 5.0474
       },
       {
         "symbol": "SOPHUSDT",
@@ -34,27 +50,43 @@
         "tf": "15m",
         "level": 0.0009,
         "close": 0.0009,
-        "vol_ratio": 0.4876
+        "vol_ratio": 1.4858
       },
       {
-        "symbol": "CROSSUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 0.155,
-        "close": 0.1567,
-        "vol_ratio": 4.9863
-      },
-      {
-        "symbol": "ARIAUSDT",
+        "symbol": "ASTERUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 0.1916,
-        "close": 0.1914,
-        "vol_ratio": 1.1095
+        "level": 0.5525,
+        "close": 0.5423,
+        "vol_ratio": 4.9852
+      },
+      {
+        "symbol": "EVAAUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 3.2566,
+        "close": 3.1763,
+        "vol_ratio": 2.04
+      },
+      {
+        "symbol": "JCTUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 0.002,
+        "close": 0.002,
+        "vol_ratio": 1.6349
+      },
+      {
+        "symbol": "BREVUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.1003,
+        "close": 0.1053,
+        "vol_ratio": 20.0652
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794927600000,
-  "last_equity_ts": 1794928225.2391636
+  "last_scan_bar_ms": 1794928500000,
+  "last_equity_ts": 1794928839.2428908
 }
