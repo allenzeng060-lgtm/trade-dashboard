@@ -508,3 +508,4 @@
 2026-11-17 11:49:09,820 INFO decision skip {"symbol": "WLDUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 2.74, "reason": "already holding"}
 2026-11-17 11:49:09,820 INFO decision skip {"symbol": "BCHUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 2.55, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
 2026-11-17 11:49:09,820 INFO decision skip {"symbol": "DOGEUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 2.11, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+2026-11-17 11:58:56,664 INFO decision trail_update {"symbol": "VVVUSDT", "stop": 21.542170417448066, "best": 21.865}

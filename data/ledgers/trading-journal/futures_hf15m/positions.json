@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 02:30:00 MYT",
-      "last_check_ms": 1794916429358,
-      "last_price": 0.04522,
+      "last_check_ms": 1794916734588,
+      "last_price": 0.04525,
       "last_funding_ms": 1794902400000
     },
     {
@@ -90,8 +90,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 07:15:00 MYT",
-      "last_check_ms": 1794916429648,
-      "last_price": 2.406,
+      "last_check_ms": 1794916735180,
+      "last_price": 2.416,
       "last_funding_ms": 1794902400000
     },
     {
@@ -133,8 +133,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 11:30:00 MYT",
-      "last_check_ms": 1794916429936,
-      "last_price": 0.2691,
+      "last_check_ms": 1794916736033,
+      "last_price": 0.2699,
       "last_funding_ms": 1794902400000
     },
     {
@@ -163,22 +163,23 @@
       "margin": 7.912712226000001,
       "liq_price": 14.29061265,
       "mmr": 0.02,
-      "stop": 20.68437101744807,
+      "stop": 21.542170417448066,
       "initial_stop": 20.68437101744807,
       "R": 0.3228295825519326,
       "stop_pct": 1.537,
       "risk_usdt": 0.38835316624754207,
       "entry_fee": 0.011869068339000002,
       "funding": -0.00241028,
-      "best": 21.645,
-      "high_since_entry": 21.645,
+      "best": 21.865,
+      "high_since_entry": 21.865,
       "low_since_entry": 20.927,
-      "trail_armed": false,
+      "trail_armed": true,
       "targets": [],
       "exit_deadline": "2026-11-18 11:45:00 MYT",
-      "last_check_ms": 1794916430238,
-      "last_price": 21.615,
-      "last_funding_ms": 1794902400000
+      "last_check_ms": 1794916736349,
+      "last_price": 21.849,
+      "last_funding_ms": 1794902400000,
+      "_last_logged_stop": 21.542170417448066
     },
     {
       "id": "FHF-20261117-1715-ONUSDT",
@@ -219,8 +220,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 17:15:00 MYT",
-      "last_check_ms": 1794916430525,
-      "last_price": 0.0981
+      "last_check_ms": 1794916736664,
+      "last_price": 0.0991
     },
     {
       "id": "FHF-20261117-1845-CROSSUSDT",
@@ -261,8 +262,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 18:45:00 MYT",
-      "last_check_ms": 1794916430813,
-      "last_price": 0.14471
+      "last_check_ms": 1794916737250,
+      "last_price": 0.1457
     },
     {
       "id": "FHF-20261117-1945-AVAXUSDT",
@@ -297,14 +298,14 @@
       "risk_usdt": 0.19832667353910544,
       "entry_fee": 0.0108486693,
       "funding": 0.0,
-      "best": 7.241,
-      "high_since_entry": 7.241,
+      "best": 7.244,
+      "high_since_entry": 7.244,
       "low_since_entry": 7.217,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 19:45:00 MYT",
-      "last_check_ms": 1794916431101,
-      "last_price": 7.23
+      "last_check_ms": 1794916737839,
+      "last_price": 7.237
     },
     {
       "id": "FHF-20261117-1945-INJUSDT",
@@ -339,14 +340,14 @@
       "risk_usdt": 0.36744265801563825,
       "entry_fee": 0.011294258399999998,
       "funding": 0.0,
-      "best": 7.531,
-      "high_since_entry": 7.531,
+      "best": 7.547,
+      "high_since_entry": 7.547,
       "low_since_entry": 7.454,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 19:45:00 MYT",
-      "last_check_ms": 1794916431383,
-      "last_price": 7.528
+      "last_check_ms": 1794916738428,
+      "last_price": 7.535
     },
     {
       "id": "FHF-20261117-1945-PIEVERSEUSDT",
@@ -383,12 +384,12 @@
       "funding": 0.0,
       "best": 2.019,
       "high_since_entry": 2.019,
-      "low_since_entry": 1.9965,
+      "low_since_entry": 1.9957,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 19:45:00 MYT",
-      "last_check_ms": 1794916431674,
-      "last_price": 2.0027
+      "last_check_ms": 1794916739017,
+      "last_price": 2.0016
     }
   ]
 }

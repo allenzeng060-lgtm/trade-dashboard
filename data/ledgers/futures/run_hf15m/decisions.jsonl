@@ -591,3 +591,4 @@
 {"time": "2026-11-17 19:49:09 MYT", "kind": "skip", "symbol": "WLDUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 2.74, "reason": "already holding"}
 {"time": "2026-11-17 19:49:09 MYT", "kind": "skip", "symbol": "BCHUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 2.55, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
 {"time": "2026-11-17 19:49:09 MYT", "kind": "skip", "symbol": "DOGEUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 2.11, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+{"time": "2026-11-17 19:58:56 MYT", "kind": "trail_update", "symbol": "VVVUSDT", "stop": 21.542170417448066, "best": 21.865}
