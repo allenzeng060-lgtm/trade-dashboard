@@ -3,7 +3,7 @@
   "set": "15m",
   "mode": "paper",
   "rules": "hf-15m-v0.1",
-  "updated_at": "2026-11-18 07:23:35 MYT",
+  "updated_at": "2026-11-18 07:28:40 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -17,9 +17,9 @@
     "regime": "none"
   },
   "wallet_usdt": 87.9205,
-  "unrealized_usdt": 0.8576,
-  "equity_usdt": 88.7781,
-  "pnl_pct": -11.222,
+  "unrealized_usdt": 1.0821,
+  "equity_usdt": 89.0027,
+  "pnl_pct": -10.997,
   "regime": {
     "allow": "ANY",
     "btc_close": 63753.75,
@@ -291,7 +291,7 @@
       "R": 0.00378692168375275,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 0.3107,
+      "last_price": 0.3113,
       "exit_deadline": "2026-11-19 05:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.58
@@ -312,7 +312,7 @@
       "R": 0.0017359995969772595,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 0.1553,
+      "last_price": 0.1555,
       "exit_deadline": "2026-11-19 05:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.51
@@ -333,7 +333,7 @@
       "R": 0.009235769866547429,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 0.9845,
+      "last_price": 0.9865,
       "exit_deadline": "2026-11-19 05:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.06
@@ -354,7 +354,7 @@
       "R": 0.08330285589246789,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 7.263,
+      "last_price": 7.281,
       "exit_deadline": "2026-11-19 05:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.01
@@ -375,7 +375,7 @@
       "R": 2.06340890465846,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 196.75,
+      "last_price": 197.35,
       "exit_deadline": "2026-11-19 07:00:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.67
@@ -396,7 +396,7 @@
       "R": 3.496662685464335,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 596.55,
+      "last_price": 596.76,
       "exit_deadline": "2026-11-19 07:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 7.07
