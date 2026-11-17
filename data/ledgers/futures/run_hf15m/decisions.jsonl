@@ -465,3 +465,4 @@
 {"time": "2026-11-17 13:01:40 MYT", "kind": "skip", "symbol": "BULLAUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.75, "reason": "already holding"}
 {"time": "2026-11-17 13:16:16 MYT", "kind": "regime", "allow": "ANY", "btc_close": 65056.52, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
 {"time": "2026-11-17 13:16:27 MYT", "kind": "scan", "bar_close": "2026-11-17 13:15:00 MYT", "breakouts": 5, "vol_ok": 0, "allow": "ANY"}
+{"time": "2026-11-17 13:26:16 MYT", "kind": "trail_update", "symbol": "BULLAUSDT", "stop": 0.014530919988182952, "best": 0.01323}
