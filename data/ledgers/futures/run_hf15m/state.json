@@ -8,12 +8,21 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-18 07:33:59 MYT",
-    "bar_close": "2026-11-18 07:30:00 MYT",
+    "time": "2026-11-18 07:49:00 MYT",
+    "bar_close": "2026-11-18 07:45:00 MYT",
     "universe": 74,
-    "breakouts": [],
+    "breakouts": [
+      {
+        "symbol": "TRXUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.3081,
+        "close": 0.3082,
+        "vol_ratio": 1.5118
+      }
+    ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794958200000,
+  "last_scan_bar_ms": 1794959100000,
   "last_equity_ts": 1794957526.5926244
 }

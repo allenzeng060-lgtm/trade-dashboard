@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794959020834,
-      "last_price": 0.3114
+      "last_check_ms": 1794959340388,
+      "last_price": 0.3115
     },
     {
       "id": "FHF-20261118-0530-ADAUSDT",
@@ -89,7 +89,7 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794959021108,
+      "last_check_ms": 1794959340608,
       "last_price": 0.1552
     },
     {
@@ -131,8 +131,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794959021376,
-      "last_price": 0.9845
+      "last_check_ms": 1794959340827,
+      "last_price": 0.9846
     },
     {
       "id": "FHF-20261118-0530-AVAXUSDT",
@@ -173,8 +173,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794959022153,
-      "last_price": 7.28
+      "last_check_ms": 1794959341055,
+      "last_price": 7.285
     },
     {
       "id": "FHF-20261118-0700-TAOUSDT",
@@ -215,8 +215,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 07:00:00 MYT",
-      "last_check_ms": 1794959022933,
-      "last_price": 197.22
+      "last_check_ms": 1794959341312,
+      "last_price": 197.41
     },
     {
       "id": "FHF-20261118-0715-BNBUSDT",
@@ -257,8 +257,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 07:15:00 MYT",
-      "last_check_ms": 1794959023483,
-      "last_price": 596.81
+      "last_check_ms": 1794959341531,
+      "last_price": 596.51
     }
   ]
 }
