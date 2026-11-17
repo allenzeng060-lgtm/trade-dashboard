@@ -298,11 +298,11 @@
       "R": 0.010442444617273595,
       "targets": [],
       "high_since_entry": 0.989,
-      "low_since_entry": 0.978,
+      "low_since_entry": 0.976,
       "exit_deadline": "2026-11-18 20:30:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-17 20:49:42 MYT"
+  "paper_updated_at": "2026-11-17 20:54:20 MYT"
 }
