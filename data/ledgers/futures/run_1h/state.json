@@ -8,85 +8,29 @@
     "reason": "BTC 4h close 65056.52 < filter 67568 → shorts only"
   },
   "last_scan": {
-    "time": "2026-11-17 13:01:19 MYT",
-    "bar_close": "2026-11-17 13:00:00 MYT",
+    "time": "2026-11-17 14:01:44 MYT",
+    "bar_close": "2026-11-17 14:00:00 MYT",
     "universe": 70,
     "breakouts": [
       {
-        "symbol": "ZECUSDT",
-        "side": "BUY",
+        "symbol": "TACUSDT",
+        "side": "SELL",
         "tf": "1h",
-        "level": 926.0,
-        "close": 926.76,
-        "vol_ratio": 0.4746
+        "level": 0.0012,
+        "close": 0.0012,
+        "vol_ratio": 0.7382
       },
       {
-        "symbol": "SOLUSDT",
-        "side": "BUY",
+        "symbol": "AKEUSDT",
+        "side": "SELL",
         "tf": "1h",
-        "level": 72.9,
-        "close": 72.97,
-        "vol_ratio": 0.6949
-      },
-      {
-        "symbol": "UNIUSDT",
-        "side": "BUY",
-        "tf": "1h",
-        "level": 5.278,
-        "close": 5.285,
-        "vol_ratio": 0.5442
-      },
-      {
-        "symbol": "NEARUSDT",
-        "side": "BUY",
-        "tf": "1h",
-        "level": 3.284,
-        "close": 3.287,
-        "vol_ratio": 0.9056
-      },
-      {
-        "symbol": "INJUSDT",
-        "side": "BUY",
-        "tf": "1h",
-        "level": 7.283,
-        "close": 7.411,
-        "vol_ratio": 1.4003
-      },
-      {
-        "symbol": "TAOUSDT",
-        "side": "BUY",
-        "tf": "1h",
-        "level": 193.95,
-        "close": 194.76,
-        "vol_ratio": 0.4308
-      },
-      {
-        "symbol": "TRUMPUSDT",
-        "side": "BUY",
-        "tf": "1h",
-        "level": 0.961,
-        "close": 0.972,
-        "vol_ratio": 0.8699
-      },
-      {
-        "symbol": "VVVUSDT",
-        "side": "BUY",
-        "tf": "1h",
-        "level": 21.297,
-        "close": 21.322,
-        "vol_ratio": 0.8786
-      },
-      {
-        "symbol": "LITUSDT",
-        "side": "BUY",
-        "tf": "1h",
-        "level": 3.042,
-        "close": 3.0699,
-        "vol_ratio": 1.2632
+        "level": 0.0097,
+        "close": 0.0096,
+        "vol_ratio": 0.3762
       }
     ],
     "regime": "SELL"
   },
-  "last_scan_bar_ms": 1794891600000,
+  "last_scan_bar_ms": 1794895200000,
   "last_equity_ts": 1794891979.766298
 }

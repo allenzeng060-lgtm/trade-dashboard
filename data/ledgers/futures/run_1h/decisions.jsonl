@@ -107,3 +107,5 @@
 {"time": "2026-11-17 12:01:09 MYT", "kind": "skip", "symbol": "AAVEUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 2.93, "reason": "direction filter: BTC 4h close 65056.52 < filter 67568 → shorts only"}
 {"time": "2026-11-17 13:01:06 MYT", "kind": "regime", "allow": "SELL", "btc_close": 65056.52, "ref": 67568.0, "new_low": false, "reason": "BTC 4h close 65056.52 < filter 67568 → shorts only"}
 {"time": "2026-11-17 13:01:19 MYT", "kind": "scan", "bar_close": "2026-11-17 13:00:00 MYT", "breakouts": 9, "vol_ok": 0, "allow": "SELL"}
+{"time": "2026-11-17 14:01:31 MYT", "kind": "regime", "allow": "SELL", "btc_close": 65056.52, "ref": 67568.0, "new_low": false, "reason": "BTC 4h close 65056.52 < filter 67568 → shorts only"}
+{"time": "2026-11-17 14:01:44 MYT", "kind": "scan", "bar_close": "2026-11-17 14:00:00 MYT", "breakouts": 2, "vol_ok": 0, "allow": "SELL"}
