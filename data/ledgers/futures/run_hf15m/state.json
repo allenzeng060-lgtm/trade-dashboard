@@ -8,37 +8,45 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-18 02:47:02 MYT",
-    "bar_close": "2026-11-18 02:45:00 MYT",
+    "time": "2026-11-18 03:02:26 MYT",
+    "bar_close": "2026-11-18 03:00:00 MYT",
     "universe": 75,
     "breakouts": [
       {
         "symbol": "ZROUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 1.3993,
-        "close": 1.3978,
-        "vol_ratio": 0.7289
+        "level": 1.3976,
+        "close": 1.3869,
+        "vol_ratio": 1.3045
       },
       {
-        "symbol": "INITUSDT",
-        "side": "BUY",
+        "symbol": "HUMAUSDT",
+        "side": "SELL",
         "tf": "15m",
-        "level": 0.1003,
-        "close": 0.1019,
-        "vol_ratio": 0.9381
+        "level": 0.0073,
+        "close": 0.0073,
+        "vol_ratio": 0.2197
       },
       {
-        "symbol": "ARIAUSDT",
-        "side": "BUY",
+        "symbol": "AKEUSDT",
+        "side": "SELL",
         "tf": "15m",
-        "level": 0.2467,
-        "close": 0.2542,
-        "vol_ratio": 6.161
+        "level": 0.0104,
+        "close": 0.0103,
+        "vol_ratio": 0.6341
+      },
+      {
+        "symbol": "LITUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 2.8229,
+        "close": 2.8209,
+        "vol_ratio": 0.6103
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794941100000,
+  "last_scan_bar_ms": 1794942000000,
   "last_equity_ts": 1794940598.1822186
 }

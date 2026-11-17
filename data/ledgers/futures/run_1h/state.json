@@ -8,29 +8,53 @@
     "reason": "BTC 4h close 64115.09 < filter 67568 → shorts only"
   },
   "last_scan": {
-    "time": "2026-11-18 02:01:37 MYT",
-    "bar_close": "2026-11-18 02:00:00 MYT",
+    "time": "2026-11-18 03:02:07 MYT",
+    "bar_close": "2026-11-18 03:00:00 MYT",
     "universe": 75,
     "breakouts": [
       {
-        "symbol": "KAVAUSDT",
-        "side": "BUY",
+        "symbol": "HBARUSDT",
+        "side": "SELL",
         "tf": "1h",
-        "level": 0.0295,
-        "close": 0.0296,
-        "vol_ratio": 1.2031
+        "level": 0.056,
+        "close": 0.056,
+        "vol_ratio": 0.5823
+      },
+      {
+        "symbol": "ZROUSDT",
+        "side": "SELL",
+        "tf": "1h",
+        "level": 1.3993,
+        "close": 1.3869,
+        "vol_ratio": 0.823
       },
       {
         "symbol": "HUMAUSDT",
         "side": "SELL",
         "tf": "1h",
-        "level": 0.0075,
+        "level": 0.0073,
         "close": 0.0073,
-        "vol_ratio": 1.1375
+        "vol_ratio": 0.8222
+      },
+      {
+        "symbol": "ARIAUSDT",
+        "side": "BUY",
+        "tf": "1h",
+        "level": 0.2402,
+        "close": 0.2429,
+        "vol_ratio": 1.6155
+      },
+      {
+        "symbol": "PIEVERSEUSDT",
+        "side": "BUY",
+        "tf": "1h",
+        "level": 2.0423,
+        "close": 2.0655,
+        "vol_ratio": 0.6558
       }
     ],
     "regime": "SELL"
   },
-  "last_scan_bar_ms": 1794938400000,
-  "last_equity_ts": 1794938498.2759838
+  "last_scan_bar_ms": 1794942000000,
+  "last_equity_ts": 1794942128.2570639
 }
