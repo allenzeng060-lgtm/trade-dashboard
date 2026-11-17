@@ -3,7 +3,7 @@
   "set": "15m",
   "mode": "paper",
   "rules": "hf-15m-v0.1",
-  "updated_at": "2026-11-17 18:13:14 MYT",
+  "updated_at": "2026-11-17 18:18:32 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -16,10 +16,10 @@
     "slip": 0.0002,
     "regime": "none"
   },
-  "wallet_usdt": 92.2915,
-  "unrealized_usdt": 1.0623,
-  "equity_usdt": 93.3539,
-  "pnl_pct": -6.646,
+  "wallet_usdt": 91.8827,
+  "unrealized_usdt": 0.5133,
+  "equity_usdt": 92.396,
+  "pnl_pct": -7.604,
   "regime": {
     "allow": "ANY",
     "btc_close": 64740.14,
@@ -27,41 +27,73 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-17 18:03:49 MYT",
-    "bar_close": "2026-11-17 18:00:00 MYT",
+    "time": "2026-11-17 18:18:29 MYT",
+    "bar_close": "2026-11-17 18:15:00 MYT",
     "universe": 70,
     "breakouts": [
       {
-        "symbol": "QNTUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 154.37,
-        "close": 155.02,
-        "vol_ratio": 0.8094
-      },
-      {
-        "symbol": "BULLAUSDT",
+        "symbol": "ETHUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 0.0124,
-        "close": 0.0121,
-        "vol_ratio": 0.8789
+        "level": 1805.12,
+        "close": 1799.85,
+        "vol_ratio": 3.4374
+      },
+      {
+        "symbol": "NEARUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 3.189,
+        "close": 3.188,
+        "vol_ratio": 2.1786
+      },
+      {
+        "symbol": "ICPUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 2.415,
+        "close": 2.411,
+        "vol_ratio": 0.4353
+      },
+      {
+        "symbol": "ZROUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 1.4881,
+        "close": 1.4866,
+        "vol_ratio": 1.0487
+      },
+      {
+        "symbol": "PAXGUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 3849.02,
+        "close": 3846.27,
+        "vol_ratio": 1.3799
+      },
+      {
+        "symbol": "INITUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 0.0917,
+        "close": 0.0913,
+        "vol_ratio": 2.3674
       },
       {
         "symbol": "PIEVERSEUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 1.8845,
-        "close": 1.8741,
-        "vol_ratio": 0.7735
+        "level": 1.8693,
+        "close": 1.8425,
+        "vol_ratio": 1.596
       },
       {
-        "symbol": "SKRUSDT",
-        "side": "BUY",
+        "symbol": "SPACEUSDT",
+        "side": "SELL",
         "tf": "15m",
-        "level": 0.0099,
-        "close": 0.01,
-        "vol_ratio": 0.9292
+        "level": 0.0034,
+        "close": 0.0034,
+        "vol_ratio": 0.6003
       }
     ],
     "regime": "ANY"
@@ -83,7 +115,7 @@
       "R": 0.0009588951577858478,
       "trail_armed": false,
       "funding": -0.00424935,
-      "last_price": 0.04498,
+      "last_price": 0.04491,
       "exit_deadline": "2026-11-18 02:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.77
@@ -104,31 +136,10 @@
       "R": 0.04658608557056221,
       "trail_armed": false,
       "funding": 0.00443816,
-      "last_price": 2.415,
+      "last_price": 2.411,
       "exit_deadline": "2026-11-18 07:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.01
-    },
-    {
-      "id": "FHF-20261117-1015-ZROUSDT",
-      "symbol": "ZROUSDT",
-      "side": "BUY",
-      "entry_time": "2026-11-17 10:15:00 MYT",
-      "entry_price": 1.50670128,
-      "qty": 16.0,
-      "notional": 24.10722048,
-      "leverage": 3,
-      "margin": 8.03574016,
-      "liq_price": 1.01461366,
-      "stop": 1.4841169821257623,
-      "initial_stop": 1.4841169821257623,
-      "R": 0.022584297874237637,
-      "trail_armed": false,
-      "funding": -0.00241715,
-      "last_price": 1.4876,
-      "exit_deadline": "2026-11-18 10:15:00 MYT",
-      "signal_tf": "15m",
-      "vol_ratio": 2.39
     },
     {
       "id": "FHF-20261117-1130-WLDUSDT",
@@ -146,7 +157,7 @@
       "R": 0.002725186867338522,
       "trail_armed": false,
       "funding": 0.00361754,
-      "last_price": 0.2648,
+      "last_price": 0.2651,
       "exit_deadline": "2026-11-18 11:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.63
@@ -167,31 +178,10 @@
       "R": 0.3228295825519326,
       "trail_armed": false,
       "funding": -0.00241028,
-      "last_price": 21.187,
+      "last_price": 21.17,
       "exit_deadline": "2026-11-18 11:45:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.22
-    },
-    {
-      "id": "FHF-20261117-1700-INITUSDT",
-      "symbol": "INITUSDT",
-      "side": "SELL",
-      "entry_time": "2026-11-17 17:00:00 MYT",
-      "entry_price": 0.09508098000000001,
-      "qty": 204.0,
-      "notional": 19.396519920000003,
-      "leverage": 3,
-      "margin": 6.465506640000001,
-      "liq_price": 0.12428886,
-      "stop": 0.09257445346340812,
-      "initial_stop": 0.09722543346340813,
-      "R": 0.002144453463408116,
-      "trail_armed": true,
-      "funding": -0.04100637,
-      "last_price": 0.0907,
-      "exit_deadline": "2026-11-18 17:00:00 MYT",
-      "signal_tf": "15m",
-      "vol_ratio": 3.53
     },
     {
       "id": "FHF-20261117-1715-ONUSDT",
@@ -209,7 +199,7 @@
       "R": 0.0041255181993001405,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 0.1009,
+      "last_price": 0.1004,
       "exit_deadline": "2026-11-18 17:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.52
@@ -230,7 +220,7 @@
       "R": 1.5294709890957099,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 190.82,
+      "last_price": 191.28,
       "exit_deadline": "2026-11-18 17:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.02
@@ -251,10 +241,31 @@
       "R": 0.005664930380409621,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 0.6023,
+      "last_price": 0.6029,
       "exit_deadline": "2026-11-18 17:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.04
+    },
+    {
+      "id": "FHF-20261117-1815-ETHUSDT",
+      "symbol": "ETHUSDT",
+      "side": "SELL",
+      "entry_time": "2026-11-17 18:15:00 MYT",
+      "entry_price": 1799.49003,
+      "qty": 0.012,
+      "notional": 21.59388036,
+      "leverage": 3,
+      "margin": 7.19796012,
+      "liq_price": 2389.76099602,
+      "stop": 1811.3395130466008,
+      "initial_stop": 1811.3395130466008,
+      "R": 11.849483046600824,
+      "trail_armed": false,
+      "funding": 0.0,
+      "last_price": 1801.84,
+      "exit_deadline": "2026-11-18 18:15:00 MYT",
+      "signal_tf": "15m",
+      "vol_ratio": 3.44
     }
   ],
   "data_source": "www.binance.com /fapi (public)"

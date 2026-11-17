@@ -555,3 +555,11 @@
 {"time": "2026-11-17 18:03:49 MYT", "kind": "scan", "bar_close": "2026-11-17 18:00:00 MYT", "breakouts": 4, "vol_ok": 0, "allow": "ANY"}
 {"time": "2026-11-17 18:08:21 MYT", "kind": "close", "symbol": "BULLAUSDT", "reason": "trail_stop", "fill": 0.013323584172180587, "net": 0.9783, "R": 2.03}
 {"time": "2026-11-17 18:13:13 MYT", "kind": "trail_update", "symbol": "INITUSDT", "stop": 0.09257445346340812, "best": 0.09043}
+{"time": "2026-11-17 18:18:14 MYT", "kind": "close", "symbol": "ZROUSDT", "reason": "stop", "fill": 1.4838201587293371, "net": -0.3924, "R": -1.02}
+{"time": "2026-11-17 18:18:15 MYT", "kind": "close", "symbol": "INITUSDT", "reason": "trail_stop", "fill": 0.0925929683541008, "net": 0.4474, "R": 0.98}
+{"time": "2026-11-17 18:18:18 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64740.14, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-17 18:18:29 MYT", "kind": "scan", "bar_close": "2026-11-17 18:15:00 MYT", "breakouts": 8, "vol_ok": 3, "allow": "ANY"}
+{"time": "2026-11-17 18:18:29 MYT", "kind": "open", "symbol": "ETHUSDT", "side": "SELL", "entry": 1799.49003, "stop": 1811.3395130466008, "qty": 0.012, "lev": 3, "liq": 2389.76099602, "risk": 0.164}
+{"time": "2026-11-17 18:18:29 MYT", "kind": "open", "symbol": "INITUSDT", "side": "SELL", "entry": 0.09128174000000001, "stop": 0.09366410904050748, "qty": 186.0, "lev": 3, "liq": 0.11932254, "risk": 0.46}
+{"time": "2026-11-17 18:18:29 MYT", "kind": "skip", "symbol": "NEARUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.18, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+{"time": "2026-11-17 18:18:32 MYT", "kind": "close", "symbol": "INITUSDT", "reason": "stop", "fill": 0.09368284186231558, "net": -0.4638, "R": -1.01}
