@@ -184,26 +184,6 @@
       "group": "合約1h組"
     },
     {
-      "id": "FHF-20261117-2315-ASTERUSDT",
-      "symbol": "ASTERUSDT",
-      "side": "SELL",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 0.54219154,
-      "entry_time": "2026-11-17 23:15:00 MYT",
-      "qty": 29.0,
-      "remaining_qty": 29.0,
-      "stop": 0.5572545732604782,
-      "initial_stop": 0.5572545732604782,
-      "R": 0.015063033260478226,
-      "targets": [],
-      "high_since_entry": 0.5572,
-      "low_since_entry": 0.5317,
-      "exit_deadline": "2026-11-18 23:15:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
       "id": "FHF-20261118-0000-FILUSDT",
       "symbol": "FILUSDT",
       "side": "SELL",
@@ -258,28 +238,8 @@
       "R": 0.026370896395461745,
       "targets": [],
       "high_since_entry": 1.4238,
-      "low_since_entry": 1.3791,
+      "low_since_entry": 1.3785,
       "exit_deadline": "2026-11-19 01:00:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
-      "id": "FHF-20261118-0200-KAVAUSDT",
-      "symbol": "KAVAUSDT",
-      "side": "BUY",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 0.029625924,
-      "entry_time": "2026-11-18 02:00:00 MYT",
-      "qty": 424.70000000000005,
-      "remaining_qty": 424.70000000000005,
-      "stop": 0.028585787940343044,
-      "initial_stop": 0.028585787940343044,
-      "R": 0.0010401360596569579,
-      "targets": [],
-      "high_since_entry": 0.03095,
-      "low_since_entry": 0.0287,
-      "exit_deadline": "2026-11-19 02:00:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
     },
@@ -324,5 +284,5 @@
       "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-18 03:02:30 MYT"
+  "paper_updated_at": "2026-11-18 03:06:53 MYT"
 }
