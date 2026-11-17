@@ -563,3 +563,10 @@
 2026-11-17 13:34:50,029 INFO decision open {"symbol": "BREVUSDT", "side": "BUY", "entry": 0.076345266, "stop": 0.07343683545759647, "qty": 150.0, "lev": 2, "liq": 0.03875394, "risk": 0.447}
 2026-11-17 13:39:33,180 INFO decision trail_update {"symbol": "ICPUSDT", "stop": 2.3805860855705623, "best": 2.334}
 2026-11-17 13:44:38,992 INFO decision trail_update {"symbol": "ICPUSDT", "stop": 2.377586085570562, "best": 2.331}
+2026-11-17 13:49:49,987 INFO decision trail_update {"symbol": "BREVUSDT", "stop": 0.08076156945759647, "best": 0.08367}
+2026-11-17 13:49:51,036 INFO decision regime {"allow": "ANY", "btc_close": 64995.54, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+2026-11-17 13:49:59,242 INFO decision scan {"bar_close": "2026-11-17 21:45:00 MYT", "breakouts": 8, "vol_ok": 4, "allow": "ANY"}
+2026-11-17 13:49:59,242 INFO decision skip {"symbol": "BREVUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 51.52, "reason": "already holding"}
+2026-11-17 13:49:59,752 INFO decision open {"symbol": "PAXGUSDT", "side": "SELL", "entry": 3835.63272, "stop": 3845.86613949874, "qty": 0.005, "lev": 3, "liq": 5063.54154455, "risk": 0.07}
+2026-11-17 13:49:59,752 INFO decision open {"symbol": "ASTERUSDT", "side": "SELL", "entry": 0.56428712, "stop": 0.5757888249102557, "qty": 37.0, "lev": 3, "liq": 0.74493349, "risk": 0.447}
+2026-11-17 13:49:59,752 INFO decision open {"symbol": "ARIAUSDT", "side": "SELL", "entry": 0.205028986, "stop": 0.21458022664702883, "qty": 45.0, "lev": 2, "liq": 0.29289855, "risk": 0.439}

@@ -646,3 +646,10 @@
 {"time": "2026-11-17 21:34:50 MYT", "kind": "open", "symbol": "BREVUSDT", "side": "BUY", "entry": 0.076345266, "stop": 0.07343683545759647, "qty": 150.0, "lev": 2, "liq": 0.03875394, "risk": 0.447}
 {"time": "2026-11-17 21:39:33 MYT", "kind": "trail_update", "symbol": "ICPUSDT", "stop": 2.3805860855705623, "best": 2.334}
 {"time": "2026-11-17 21:44:38 MYT", "kind": "trail_update", "symbol": "ICPUSDT", "stop": 2.377586085570562, "best": 2.331}
+{"time": "2026-11-17 21:49:49 MYT", "kind": "trail_update", "symbol": "BREVUSDT", "stop": 0.08076156945759647, "best": 0.08367}
+{"time": "2026-11-17 21:49:51 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64995.54, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-17 21:49:59 MYT", "kind": "scan", "bar_close": "2026-11-17 21:45:00 MYT", "breakouts": 8, "vol_ok": 4, "allow": "ANY"}
+{"time": "2026-11-17 21:49:59 MYT", "kind": "skip", "symbol": "BREVUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 51.52, "reason": "already holding"}
+{"time": "2026-11-17 21:49:59 MYT", "kind": "open", "symbol": "PAXGUSDT", "side": "SELL", "entry": 3835.63272, "stop": 3845.86613949874, "qty": 0.005, "lev": 3, "liq": 5063.54154455, "risk": 0.07}
+{"time": "2026-11-17 21:49:59 MYT", "kind": "open", "symbol": "ASTERUSDT", "side": "SELL", "entry": 0.56428712, "stop": 0.5757888249102557, "qty": 37.0, "lev": 3, "liq": 0.74493349, "risk": 0.447}
+{"time": "2026-11-17 21:49:59 MYT", "kind": "open", "symbol": "ARIAUSDT", "side": "SELL", "entry": 0.205028986, "stop": 0.21458022664702883, "qty": 45.0, "lev": 2, "liq": 0.29289855, "risk": 0.439}
