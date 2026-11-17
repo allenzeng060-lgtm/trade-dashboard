@@ -424,3 +424,14 @@
 2026-11-17 07:47:27,729 INFO decision scan {"bar_close": "2026-11-17 15:45:00 MYT", "breakouts": 4, "vol_ok": 1, "allow": "ANY"}
 2026-11-17 07:47:28,036 INFO decision open {"symbol": "BTWUSDT", "side": "BUY", "entry": 0.48349668, "stop": 0.4535769871055471, "qty": 15.0, "lev": 1, "liq": 0.0, "risk": 0.456}
 2026-11-17 07:57:18,197 INFO decision trail_update {"symbol": "BULLAUSDT", "stop": 0.014410919988182952, "best": 0.01311}
+2026-11-17 08:03:53,913 INFO decision funding {"symbol": "XPLUSDT", "rate": "0.00005000", "amount": -0.001059, "at": "2026-11-17 16:00:00 MYT"}
+2026-11-17 08:03:55,042 INFO decision funding {"symbol": "ICPUSDT", "rate": "0.00010000", "amount": 0.002197, "at": "2026-11-17 16:00:00 MYT"}
+2026-11-17 08:03:56,723 INFO decision funding {"symbol": "ZROUSDT", "rate": "0.00005000", "amount": -0.001201, "at": "2026-11-17 16:00:00 MYT"}
+2026-11-17 08:03:57,289 INFO decision funding {"symbol": "BULLAUSDT", "rate": "0.00005000", "amount": 0.00024, "at": "2026-11-17 16:00:00 MYT"}
+2026-11-17 08:03:58,417 INFO decision funding {"symbol": "WLDUSDT", "rate": "-0.00015059", "amount": 0.003618, "at": "2026-11-17 16:00:00 MYT"}
+2026-11-17 08:03:59,521 INFO decision funding {"symbol": "VVVUSDT", "rate": "0.00005000", "amount": -0.001212, "at": "2026-11-17 16:00:00 MYT"}
+2026-11-17 08:04:00,637 INFO decision funding {"symbol": "EVAAUSDT", "rate": "0.00011684", "amount": -0.000942, "at": "2026-11-17 16:00:00 MYT"}
+2026-11-17 08:04:01,209 INFO decision funding {"symbol": "BTWUSDT", "rate": "0.00005000", "amount": -0.00034, "at": "2026-11-17 16:00:00 MYT"}
+2026-11-17 08:04:01,494 INFO decision close {"symbol": "BTWUSDT", "reason": "stop", "fill": 0.453486271708126, "net": -0.4575, "R": -1.0}
+2026-11-17 08:04:04,442 INFO decision regime {"allow": "ANY", "btc_close": 64740.14, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+2026-11-17 08:04:38,295 INFO decision scan {"bar_close": "2026-11-17 16:00:00 MYT", "breakouts": 2, "vol_ok": 0, "allow": "ANY"}

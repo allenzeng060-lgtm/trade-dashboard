@@ -40,16 +40,16 @@
       "stop_pct": 3.939,
       "risk_usdt": 0.9977766250378737,
       "entry_fee": 0.0123455304,
-      "funding": -0.02449311,
+      "funding": -0.02545274,
       "best": 0.2384,
       "high_since_entry": 0.2608,
       "low_since_entry": 0.2384,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 18:01:13 MYT",
-      "last_check_ms": 1794902235784,
-      "last_price": 0.2553,
-      "last_funding_ms": 1794888000002
+      "last_check_ms": 1794902630248,
+      "last_price": 0.2546,
+      "last_funding_ms": 1794902400000
     },
     {
       "id": "F1H-20261117-0900-SKRUSDT",
@@ -83,16 +83,16 @@
       "stop_pct": 8.38,
       "risk_usdt": 0.9940007022039217,
       "entry_fee": 0.0058582246207,
-      "funding": -0.02216018,
+      "funding": -0.03936535,
       "best": 0.009429,
       "high_since_entry": 0.009926,
       "low_since_entry": 0.009429,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 09:00:00 MYT",
-      "last_check_ms": 1794902236015,
-      "last_price": 0.009682,
-      "last_funding_ms": 1794888000002
+      "last_check_ms": 1794902630814,
+      "last_price": 0.009633,
+      "last_funding_ms": 1794902400000
     }
   ]
 }
