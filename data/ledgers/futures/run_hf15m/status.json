@@ -3,7 +3,7 @@
   "set": "15m",
   "mode": "paper",
   "rules": "hf-15m-v0.1",
-  "updated_at": "2026-11-17 22:09:50 MYT",
+  "updated_at": "2026-11-17 22:14:50 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -17,9 +17,9 @@
     "regime": "none"
   },
   "wallet_usdt": 89.6548,
-  "unrealized_usdt": 1.8397,
-  "equity_usdt": 91.4945,
-  "pnl_pct": -8.505,
+  "unrealized_usdt": 2.148,
+  "equity_usdt": 91.8028,
+  "pnl_pct": -8.197,
   "regime": {
     "allow": "ANY",
     "btc_close": 64995.54,
@@ -91,7 +91,7 @@
       "R": 0.0009588951577858478,
       "trail_armed": false,
       "funding": -0.00531358,
-      "last_price": 0.04486,
+      "last_price": 0.04488,
       "exit_deadline": "2026-11-18 02:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.77
@@ -112,7 +112,7 @@
       "R": 0.04658608557056221,
       "trail_armed": true,
       "funding": 0.00443816,
-      "last_price": 2.344,
+      "last_price": 2.337,
       "exit_deadline": "2026-11-18 07:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.01
@@ -154,7 +154,7 @@
       "R": 0.05890589792866615,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 7.264,
+      "last_price": 7.272,
       "exit_deadline": "2026-11-18 19:45:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 6.29
@@ -175,7 +175,7 @@
       "R": 0.11500888484763656,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 7.509,
+      "last_price": 7.491,
       "exit_deadline": "2026-11-18 19:45:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 4.55
@@ -196,7 +196,7 @@
       "R": 0.009551240647028843,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 0.19935,
+      "last_price": 0.19951,
       "exit_deadline": "2026-11-18 21:45:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.74
@@ -217,7 +217,7 @@
       "R": 0.003873813773989226,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 0.08619,
+      "last_price": 0.08887,
       "exit_deadline": "2026-11-18 22:00:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 49.04
