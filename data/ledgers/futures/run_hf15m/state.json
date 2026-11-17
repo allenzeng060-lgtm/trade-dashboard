@@ -8,29 +8,61 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-18 06:18:21 MYT",
-    "bar_close": "2026-11-18 06:15:00 MYT",
+    "time": "2026-11-18 06:33:32 MYT",
+    "bar_close": "2026-11-18 06:30:00 MYT",
     "universe": 75,
     "breakouts": [
       {
-        "symbol": "UNIUSDT",
-        "side": "SELL",
+        "symbol": "ZECUSDT",
+        "side": "BUY",
         "tf": "15m",
-        "level": 5.189,
-        "close": 5.181,
-        "vol_ratio": 1.6789
+        "level": 942.14,
+        "close": 943.59,
+        "vol_ratio": 0.6465
+      },
+      {
+        "symbol": "NEARUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 3.316,
+        "close": 3.327,
+        "vol_ratio": 1.3622
+      },
+      {
+        "symbol": "JUPUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.2559,
+        "close": 0.2577,
+        "vol_ratio": 0.5391
+      },
+      {
+        "symbol": "TAOUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 193.64,
+        "close": 194.12,
+        "vol_ratio": 0.9053
+      },
+      {
+        "symbol": "VVVUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 20.771,
+        "close": 20.832,
+        "vol_ratio": 0.7409
       },
       {
         "symbol": "CROSSUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.1589,
-        "close": 0.1592,
-        "vol_ratio": 0.5767
+        "level": 0.1606,
+        "close": 0.1611,
+        "vol_ratio": 0.5491
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794953700000,
-  "last_equity_ts": 1794951188.2609184
+  "last_scan_bar_ms": 1794954600000,
+  "last_equity_ts": 1794954814.5670252
 }
