@@ -135,3 +135,6 @@
 {"time": "2026-11-17 20:04:30 MYT", "kind": "skip", "symbol": "INJUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 2.2, "reason": "direction filter: BTC 4h close 64995.54 < filter 67568 → shorts only"}
 {"time": "2026-11-17 20:04:30 MYT", "kind": "skip", "symbol": "SPACEUSDT", "side": "SELL", "tf": "1h", "vol_ratio": 2.09, "reason": "stop distance 13.52% > 10%"}
 {"time": "2026-11-17 20:04:30 MYT", "kind": "skip", "symbol": "VVVUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 2.05, "reason": "direction filter: BTC 4h close 64995.54 < filter 67568 → shorts only"}
+{"time": "2026-11-17 21:04:22 MYT", "kind": "regime", "allow": "SELL", "btc_close": 64995.54, "ref": 67568.0, "new_low": false, "reason": "BTC 4h close 64995.54 < filter 67568 → shorts only"}
+{"time": "2026-11-17 21:04:34 MYT", "kind": "scan", "bar_close": "2026-11-17 21:00:00 MYT", "breakouts": 16, "vol_ok": 1, "allow": "SELL"}
+{"time": "2026-11-17 21:04:34 MYT", "kind": "skip", "symbol": "INJUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 3.02, "reason": "direction filter: BTC 4h close 64995.54 < filter 67568 → shorts only"}

@@ -3,7 +3,7 @@
   "set": "15m",
   "mode": "paper",
   "rules": "hf-15m-v0.1",
-  "updated_at": "2026-11-17 20:59:22 MYT",
+  "updated_at": "2026-11-17 21:04:50 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -17,9 +17,9 @@
     "regime": "none"
   },
   "wallet_usdt": 90.4844,
-  "unrealized_usdt": 1.058,
-  "equity_usdt": 91.5425,
-  "pnl_pct": -8.458,
+  "unrealized_usdt": 0.8983,
+  "equity_usdt": 91.3827,
+  "pnl_pct": -8.617,
   "regime": {
     "allow": "ANY",
     "btc_close": 64995.54,
@@ -27,49 +27,41 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-17 20:49:36 MYT",
-    "bar_close": "2026-11-17 20:45:00 MYT",
+    "time": "2026-11-17 21:04:48 MYT",
+    "bar_close": "2026-11-17 21:00:00 MYT",
     "universe": 70,
     "breakouts": [
+      {
+        "symbol": "LINKUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 9.29,
+        "close": 9.303,
+        "vol_ratio": 0.9346
+      },
+      {
+        "symbol": "XMRUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 516.12,
+        "close": 517.24,
+        "vol_ratio": 1.8959
+      },
       {
         "symbol": "KAVAUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.0276,
-        "close": 0.0277,
-        "vol_ratio": 1.9765
-      },
-      {
-        "symbol": "SOLUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 73.59,
-        "close": 73.68,
-        "vol_ratio": 1.1301
+        "level": 0.0281,
+        "close": 0.0291,
+        "vol_ratio": 3.6774
       },
       {
         "symbol": "UNIUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 5.378,
-        "close": 5.387,
-        "vol_ratio": 1.0961
-      },
-      {
-        "symbol": "SOPHUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 0.0009,
-        "close": 0.0009,
-        "vol_ratio": 0.5784
-      },
-      {
-        "symbol": "龙虾USDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 0.0152,
-        "close": 0.0151,
-        "vol_ratio": 1.7982
+        "level": 5.396,
+        "close": 5.4,
+        "vol_ratio": 1.4811
       }
     ],
     "regime": "ANY"
@@ -91,7 +83,7 @@
       "R": 0.0009588951577858478,
       "trail_armed": false,
       "funding": -0.00531358,
-      "last_price": 0.04499,
+      "last_price": 0.045,
       "exit_deadline": "2026-11-18 02:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.77
@@ -112,7 +104,7 @@
       "R": 0.04658608557056221,
       "trail_armed": true,
       "funding": 0.00443816,
-      "last_price": 2.389,
+      "last_price": 2.396,
       "exit_deadline": "2026-11-18 07:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.01
@@ -154,7 +146,7 @@
       "R": 0.05890589792866615,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 7.236,
+      "last_price": 7.249,
       "exit_deadline": "2026-11-18 19:45:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 6.29
@@ -175,7 +167,7 @@
       "R": 0.11500888484763656,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 7.594,
+      "last_price": 7.572,
       "exit_deadline": "2026-11-18 19:45:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 4.55
@@ -200,6 +192,27 @@
       "exit_deadline": "2026-11-18 20:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.71
+    },
+    {
+      "id": "FHF-20261117-2100-KAVAUSDT",
+      "symbol": "KAVAUSDT",
+      "side": "BUY",
+      "entry_time": "2026-11-17 21:00:00 MYT",
+      "entry_price": 0.029075814,
+      "qty": 448.5,
+      "notional": 13.040502579,
+      "leverage": 2,
+      "margin": 6.5202512895,
+      "liq_price": 0.0147593,
+      "stop": 0.028095871147928254,
+      "initial_stop": 0.028095871147928254,
+      "R": 0.000979942852071745,
+      "trail_armed": false,
+      "funding": 0.0,
+      "last_price": 0.02889,
+      "exit_deadline": "2026-11-18 21:00:00 MYT",
+      "signal_tf": "15m",
+      "vol_ratio": 3.68
     }
   ],
   "data_source": "www.binance.com /fapi (public)"

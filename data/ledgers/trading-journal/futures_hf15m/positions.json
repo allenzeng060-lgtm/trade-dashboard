@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 02:30:00 MYT",
-      "last_check_ms": 1794920359688,
-      "last_price": 0.04499,
+      "last_check_ms": 1794920688673,
+      "last_price": 0.045,
       "last_funding_ms": 1794916800000
     },
     {
@@ -90,8 +90,8 @@
       "trail_armed": true,
       "targets": [],
       "exit_deadline": "2026-11-18 07:15:00 MYT",
-      "last_check_ms": 1794920359990,
-      "last_price": 2.389,
+      "last_check_ms": 1794920688889,
+      "last_price": 2.396,
       "last_funding_ms": 1794902400000,
       "_last_logged_stop": 2.429586085570562
     },
@@ -134,7 +134,7 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 17:15:00 MYT",
-      "last_check_ms": 1794920360585,
+      "last_check_ms": 1794920689105,
       "last_price": 0.0973,
       "last_funding_ms": 1794916800000
     },
@@ -171,14 +171,14 @@
       "risk_usdt": 0.19832667353910544,
       "entry_fee": 0.0108486693,
       "funding": 0.0,
-      "best": 7.251,
-      "high_since_entry": 7.251,
+      "best": 7.254,
+      "high_since_entry": 7.254,
       "low_since_entry": 7.189,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 19:45:00 MYT",
-      "last_check_ms": 1794920361148,
-      "last_price": 7.236
+      "last_check_ms": 1794920689324,
+      "last_price": 7.249
     },
     {
       "id": "FHF-20261117-1945-INJUSDT",
@@ -219,8 +219,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 19:45:00 MYT",
-      "last_check_ms": 1794920361438,
-      "last_price": 7.594
+      "last_check_ms": 1794920689556,
+      "last_price": 7.572
     },
     {
       "id": "FHF-20261117-2030-TRUMPUSDT",
@@ -261,8 +261,50 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-18 20:30:00 MYT",
-      "last_check_ms": 1794920361997,
+      "last_check_ms": 1794920689775,
       "last_price": 0.979
+    },
+    {
+      "id": "FHF-20261117-2100-KAVAUSDT",
+      "symbol": "KAVAUSDT",
+      "side": "BUY",
+      "rules": "hf-15m-v0.1",
+      "cycle": 1,
+      "slippage": 0.0002,
+      "mode": "paper",
+      "status": "open",
+      "group": "合約高頻組",
+      "market": "usdm_perp",
+      "margin_type": "isolated",
+      "signal_tf": "15m",
+      "signal_bar_close_myt": "2026-11-17 21:00:00 MYT",
+      "vol_ratio": 3.68,
+      "breakout_level": 0.02811,
+      "entry_time": "2026-11-17 21:00:00 MYT",
+      "entry_ms": 1794920400000,
+      "entry_price": 0.029075814,
+      "qty": 448.5,
+      "remaining_qty": 448.5,
+      "notional": 13.040502579,
+      "leverage": 2,
+      "margin": 6.5202512895,
+      "liq_price": 0.0147593,
+      "mmr": 0.015,
+      "stop": 0.028095871147928254,
+      "initial_stop": 0.028095871147928254,
+      "R": 0.000979942852071745,
+      "stop_pct": 3.37,
+      "risk_usdt": 0.4523251195486005,
+      "entry_fee": 0.0065202512895,
+      "funding": 0.0,
+      "best": 0.02942,
+      "high_since_entry": 0.02942,
+      "low_since_entry": 0.02856,
+      "trail_armed": false,
+      "targets": [],
+      "exit_deadline": "2026-11-18 21:00:00 MYT",
+      "last_check_ms": 1794920689991,
+      "last_price": 0.02889
     }
   ]
 }
