@@ -224,26 +224,6 @@
       "group": "合約高頻組"
     },
     {
-      "id": "FHF-20261117-0945-BTWUSDT",
-      "symbol": "BTWUSDT",
-      "side": "SELL",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 0.34243150000000006,
-      "entry_time": "2026-11-17 09:45:00 MYT",
-      "qty": 28.0,
-      "remaining_qty": 28.0,
-      "stop": 0.3589553932779611,
-      "initial_stop": 0.3589553932779611,
-      "R": 0.016523893277961027,
-      "targets": [],
-      "high_since_entry": 0.358,
-      "low_since_entry": 0.331,
-      "exit_deadline": "2026-11-18 09:45:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
       "id": "FHF-20261117-1015-ZROUSDT",
       "symbol": "ZROUSDT",
       "side": "BUY",
@@ -317,7 +297,7 @@
       "initial_stop": 20.68437101744807,
       "R": 0.3228295825519326,
       "targets": [],
-      "high_since_entry": 21.253,
+      "high_since_entry": 21.282,
       "low_since_entry": 20.972,
       "exit_deadline": "2026-11-18 11:45:00 MYT",
       "market": "usdm_perp",
@@ -342,7 +322,27 @@
       "exit_deadline": "2026-11-18 12:00:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
+    },
+    {
+      "id": "FHF-20261117-1215-AKEUSDT",
+      "symbol": "AKEUSDT",
+      "side": "BUY",
+      "mode": "paper",
+      "status": "open",
+      "entry_price": 0.010772153999999999,
+      "entry_time": "2026-11-17 12:15:00 MYT",
+      "qty": 1055.0,
+      "remaining_qty": 1055.0,
+      "stop": 0.010334249356729166,
+      "initial_stop": 0.010334249356729166,
+      "R": 0.00043790464327083387,
+      "targets": [],
+      "high_since_entry": 0.010806,
+      "low_since_entry": 0.010732,
+      "exit_deadline": "2026-11-18 12:15:00 MYT",
+      "market": "usdm_perp",
+      "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-17 12:10:46 MYT"
+  "paper_updated_at": "2026-11-17 12:16:00 MYT"
 }

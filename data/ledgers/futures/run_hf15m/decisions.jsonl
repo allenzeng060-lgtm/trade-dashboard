@@ -446,3 +446,8 @@
 {"time": "2026-11-17 12:01:23 MYT", "kind": "scan", "bar_close": "2026-11-17 12:00:00 MYT", "breakouts": 7, "vol_ok": 2, "allow": "ANY"}
 {"time": "2026-11-17 12:01:24 MYT", "kind": "skip", "symbol": "BLESSUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 4.19, "reason": "stop distance 15.58% > 10%"}
 {"time": "2026-11-17 12:01:24 MYT", "kind": "open", "symbol": "NEARUSDT", "side": "BUY", "entry": 3.2786556, "stop": 3.23815607261625, "qty": 7.0, "lev": 3, "liq": 2.20784889, "risk": 0.306}
+{"time": "2026-11-17 12:15:45 MYT", "kind": "close", "symbol": "BTWUSDT", "reason": "stop", "fill": 0.3590271843566167, "net": -0.474, "R": -1.0}
+{"time": "2026-11-17 12:15:48 MYT", "kind": "regime", "allow": "ANY", "btc_close": 65056.52, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-17 12:15:56 MYT", "kind": "scan", "bar_close": "2026-11-17 12:15:00 MYT", "breakouts": 9, "vol_ok": 2, "allow": "ANY"}
+{"time": "2026-11-17 12:15:57 MYT", "kind": "skip", "symbol": "BLESSUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.6, "reason": "stop distance 17.18% > 10%"}
+{"time": "2026-11-17 12:15:57 MYT", "kind": "open", "symbol": "AKEUSDT", "side": "BUY", "entry": 0.010772153999999999, "stop": 0.010334249356729166, "qty": 1055.0, "lev": 2, "liq": 0.00566955, "risk": 0.473}
