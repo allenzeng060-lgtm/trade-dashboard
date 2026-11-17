@@ -8,45 +8,29 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-18 03:02:26 MYT",
-    "bar_close": "2026-11-18 03:00:00 MYT",
+    "time": "2026-11-18 03:17:13 MYT",
+    "bar_close": "2026-11-18 03:15:00 MYT",
     "universe": 75,
     "breakouts": [
       {
-        "symbol": "ZROUSDT",
-        "side": "SELL",
+        "symbol": "PENGUUSDT",
+        "side": "BUY",
         "tf": "15m",
-        "level": 1.3976,
-        "close": 1.3869,
-        "vol_ratio": 1.3045
-      },
-      {
-        "symbol": "HUMAUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 0.0073,
-        "close": 0.0073,
-        "vol_ratio": 0.2197
+        "level": 0.0047,
+        "close": 0.0047,
+        "vol_ratio": 2.1626
       },
       {
         "symbol": "AKEUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 0.0104,
-        "close": 0.0103,
-        "vol_ratio": 0.6341
-      },
-      {
-        "symbol": "LITUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 2.8229,
-        "close": 2.8209,
-        "vol_ratio": 0.6103
+        "level": 0.0103,
+        "close": 0.0102,
+        "vol_ratio": 0.6561
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794942000000,
-  "last_equity_ts": 1794942411.8608887
+  "last_scan_bar_ms": 1794942900000,
+  "last_equity_ts": 1794943033.529585
 }

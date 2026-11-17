@@ -781,3 +781,7 @@
 {"time": "2026-11-18 03:02:26 MYT", "kind": "scan", "bar_close": "2026-11-18 03:00:00 MYT", "breakouts": 4, "vol_ok": 0, "allow": "ANY"}
 {"time": "2026-11-18 03:06:50 MYT", "kind": "close", "symbol": "ASTERUSDT", "reason": "stop", "fill": 0.5573660241751303, "net": -0.4552, "R": -1.01}
 {"time": "2026-11-18 03:06:51 MYT", "kind": "close", "symbol": "KAVAUSDT", "reason": "stop", "fill": 0.028580070782754978, "net": -0.4565, "R": -1.01}
+{"time": "2026-11-18 03:16:57 MYT", "kind": "close", "symbol": "ARIAUSDT", "reason": "stop", "fill": 0.23035932007273027, "net": -0.4444, "R": -1.0}
+{"time": "2026-11-18 03:16:59 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64115.09, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-18 03:17:13 MYT", "kind": "scan", "bar_close": "2026-11-18 03:15:00 MYT", "breakouts": 2, "vol_ok": 1, "allow": "ANY"}
+{"time": "2026-11-18 03:17:13 MYT", "kind": "open", "symbol": "PENGUUSDT", "side": "BUY", "entry": 0.0047329464, "stop": 0.004651267831015769, "qty": 4665.0, "lev": 3, "liq": 0.00318717, "risk": 0.403}
