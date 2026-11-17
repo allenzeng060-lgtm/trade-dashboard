@@ -8,45 +8,37 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-18 04:02:38 MYT",
-    "bar_close": "2026-11-18 04:00:00 MYT",
+    "time": "2026-11-18 04:17:31 MYT",
+    "bar_close": "2026-11-18 04:15:00 MYT",
     "universe": 75,
     "breakouts": [
       {
-        "symbol": "1000LUNCUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 0.041,
-        "close": 0.0413,
-        "vol_ratio": 1.3195
-      },
-      {
-        "symbol": "PAXGUSDT",
+        "symbol": "AIOTUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 3838.48,
-        "close": 3836.89,
-        "vol_ratio": 0.3419
+        "level": 0.0867,
+        "close": 0.0863,
+        "vol_ratio": 0.4989
       },
       {
         "symbol": "BULLAUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 0.0124,
-        "close": 0.0123,
-        "vol_ratio": 0.5963
+        "level": 0.0123,
+        "close": 0.0122,
+        "vol_ratio": 0.6033
       },
       {
-        "symbol": "AKEUSDT",
-        "side": "SELL",
+        "symbol": "ASTERUSDT",
+        "side": "BUY",
         "tf": "15m",
-        "level": 0.01,
-        "close": 0.01,
-        "vol_ratio": 0.4129
+        "level": 0.5647,
+        "close": 0.5701,
+        "vol_ratio": 0.7469
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794945600000,
+  "last_scan_bar_ms": 1794946500000,
   "last_equity_ts": 1794945135.8574612
 }
