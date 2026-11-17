@@ -8,53 +8,45 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-18 04:47:50 MYT",
-    "bar_close": "2026-11-18 04:45:00 MYT",
+    "time": "2026-11-18 05:03:07 MYT",
+    "bar_close": "2026-11-18 05:00:00 MYT",
     "universe": 75,
     "breakouts": [
       {
-        "symbol": "DOGEUSDT",
+        "symbol": "ARBUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.0592,
-        "close": 0.0594,
-        "vol_ratio": 1.2346
+        "level": 0.1319,
+        "close": 0.1319,
+        "vol_ratio": 0.4825
       },
       {
-        "symbol": "OPUSDT",
-        "side": "BUY",
+        "symbol": "AIOTUSDT",
+        "side": "SELL",
         "tf": "15m",
-        "level": 0.0769,
-        "close": 0.077,
-        "vol_ratio": 0.8115
-      },
-      {
-        "symbol": "1000LUNCUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 0.0415,
-        "close": 0.0416,
-        "vol_ratio": 1.3964
+        "level": 0.0854,
+        "close": 0.0847,
+        "vol_ratio": 0.3483
       },
       {
         "symbol": "ASTERUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.5708,
-        "close": 0.5747,
-        "vol_ratio": 0.9345
+        "level": 0.5764,
+        "close": 0.5768,
+        "vol_ratio": 0.7678
       },
       {
-        "symbol": "AKEUSDT",
+        "symbol": "BTWUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 0.0099,
-        "close": 0.0099,
-        "vol_ratio": 0.4175
+        "level": 0.4172,
+        "close": 0.4167,
+        "vol_ratio": 0.5156
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794948300000,
+  "last_scan_bar_ms": 1794949200000,
   "last_equity_ts": 1794947257.2240174
 }

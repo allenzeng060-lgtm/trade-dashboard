@@ -3,7 +3,7 @@
   "set": "1h",
   "mode": "paper",
   "rules": "v0.2-1h",
-  "updated_at": "2026-11-18 04:57:46 MYT",
+  "updated_at": "2026-11-18 05:02:54 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -17,9 +17,9 @@
     "regime": "spot_level"
   },
   "wallet_usdt": 98.379,
-  "unrealized_usdt": -0.9458,
-  "equity_usdt": 97.4332,
-  "pnl_pct": -2.567,
+  "unrealized_usdt": -0.9478,
+  "equity_usdt": 97.4311,
+  "pnl_pct": -2.569,
   "regime": {
     "allow": "SELL",
     "btc_close": 63753.75,
@@ -27,25 +27,17 @@
     "reason": "BTC 4h close 63753.75 < filter 67568 → shorts only"
   },
   "last_scan": {
-    "time": "2026-11-18 04:02:26 MYT",
-    "bar_close": "2026-11-18 04:00:00 MYT",
+    "time": "2026-11-18 05:02:53 MYT",
+    "bar_close": "2026-11-18 05:00:00 MYT",
     "universe": 75,
     "breakouts": [
       {
-        "symbol": "PIEVERSEUSDT",
+        "symbol": "XPLUSDT",
         "side": "BUY",
         "tf": "1h",
-        "level": 2.0906,
-        "close": 2.0996,
-        "vol_ratio": 1.1567
-      },
-      {
-        "symbol": "LITUSDT",
-        "side": "SELL",
-        "tf": "1h",
-        "level": 2.8189,
-        "close": 2.8101,
-        "vol_ratio": 1.0889
+        "level": 0.0456,
+        "close": 0.0457,
+        "vol_ratio": 0.6197
       }
     ],
     "regime": "SELL"
@@ -67,7 +59,7 @@
       "R": 0.0008093927092204283,
       "trail_armed": false,
       "funding": -0.05492417,
-      "last_price": 0.010081,
+      "last_price": 0.009987,
       "exit_deadline": "2026-11-19 09:00:00 MYT",
       "signal_tf": "1h",
       "vol_ratio": 3.85
@@ -88,7 +80,7 @@
       "R": 0.013897297420550047,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 0.4463,
+      "last_price": 0.4479,
       "exit_deadline": "2026-11-20 00:00:00 MYT",
       "signal_tf": "1h",
       "vol_ratio": 4.56

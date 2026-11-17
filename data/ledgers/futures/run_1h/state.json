@@ -8,29 +8,21 @@
     "reason": "BTC 4h close 63753.75 < filter 67568 → shorts only"
   },
   "last_scan": {
-    "time": "2026-11-18 04:02:26 MYT",
-    "bar_close": "2026-11-18 04:00:00 MYT",
+    "time": "2026-11-18 05:02:53 MYT",
+    "bar_close": "2026-11-18 05:00:00 MYT",
     "universe": 75,
     "breakouts": [
       {
-        "symbol": "PIEVERSEUSDT",
+        "symbol": "XPLUSDT",
         "side": "BUY",
         "tf": "1h",
-        "level": 2.0906,
-        "close": 2.0996,
-        "vol_ratio": 1.1567
-      },
-      {
-        "symbol": "LITUSDT",
-        "side": "SELL",
-        "tf": "1h",
-        "level": 2.8189,
-        "close": 2.8101,
-        "vol_ratio": 1.0889
+        "level": 0.0456,
+        "close": 0.0457,
+        "vol_ratio": 0.6197
       }
     ],
     "regime": "SELL"
   },
-  "last_scan_bar_ms": 1794945600000,
-  "last_equity_ts": 1794945746.899726
+  "last_scan_bar_ms": 1794949200000,
+  "last_equity_ts": 1794949374.5072737
 }
