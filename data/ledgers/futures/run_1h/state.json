@@ -8,29 +8,45 @@
     "reason": "BTC 4h close 65056.52 < filter 67568 → shorts only"
   },
   "last_scan": {
-    "time": "2026-11-17 14:01:44 MYT",
-    "bar_close": "2026-11-17 14:00:00 MYT",
-    "universe": 70,
+    "time": "2026-11-17 15:02:06 MYT",
+    "bar_close": "2026-11-17 15:00:00 MYT",
+    "universe": 71,
     "breakouts": [
       {
-        "symbol": "TACUSDT",
-        "side": "SELL",
+        "symbol": "UNIUSDT",
+        "side": "BUY",
         "tf": "1h",
-        "level": 0.0012,
-        "close": 0.0012,
-        "vol_ratio": 0.7382
+        "level": 5.308,
+        "close": 5.314,
+        "vol_ratio": 0.821
       },
       {
-        "symbol": "AKEUSDT",
+        "symbol": "OPUSDT",
         "side": "SELL",
         "tf": "1h",
-        "level": 0.0097,
-        "close": 0.0096,
-        "vol_ratio": 0.3762
+        "level": 0.0781,
+        "close": 0.0777,
+        "vol_ratio": 2.7563
+      },
+      {
+        "symbol": "EVAAUSDT",
+        "side": "BUY",
+        "tf": "1h",
+        "level": 3.822,
+        "close": 3.9346,
+        "vol_ratio": 2.0978
+      },
+      {
+        "symbol": "龙虾USDT",
+        "side": "BUY",
+        "tf": "1h",
+        "level": 0.0174,
+        "close": 0.0222,
+        "vol_ratio": 91.8559
       }
     ],
     "regime": "SELL"
   },
-  "last_scan_bar_ms": 1794895200000,
+  "last_scan_bar_ms": 1794898800000,
   "last_equity_ts": 1794895593.5062826
 }

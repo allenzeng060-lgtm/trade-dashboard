@@ -487,3 +487,6 @@
 {"time": "2026-11-17 14:47:00 MYT", "kind": "scan", "bar_close": "2026-11-17 14:45:00 MYT", "breakouts": 4, "vol_ok": 2, "allow": "ANY"}
 {"time": "2026-11-17 14:47:00 MYT", "kind": "open", "symbol": "龙虾USDT", "side": "BUY", "entry": 0.02130426, "stop": 0.020080914214459827, "qty": 370.0, "lev": 2, "liq": 0.01121277, "risk": 0.46}
 {"time": "2026-11-17 14:47:00 MYT", "kind": "skip", "symbol": "BTWUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 3.8, "reason": "already holding"}
+{"time": "2026-11-17 15:02:10 MYT", "kind": "regime", "allow": "ANY", "btc_close": 65056.52, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-17 15:02:19 MYT", "kind": "scan", "bar_close": "2026-11-17 15:00:00 MYT", "breakouts": 6, "vol_ok": 1, "allow": "ANY"}
+{"time": "2026-11-17 15:02:19 MYT", "kind": "skip", "symbol": "龙虾USDT", "side": "BUY", "tf": "15m", "vol_ratio": 24.34, "reason": "already holding"}
