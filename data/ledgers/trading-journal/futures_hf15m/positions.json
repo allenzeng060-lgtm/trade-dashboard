@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 01:00:00 MYT",
-      "last_check_ms": 1794951774502,
-      "last_price": 110.52
+      "last_check_ms": 1794952091726,
+      "last_price": 110.63
     },
     {
       "id": "FHF-20261118-0530-ONDOUSDT",
@@ -85,11 +85,11 @@
       "funding": 0.0,
       "best": 0.3086,
       "high_since_entry": 0.3086,
-      "low_since_entry": 0.3059,
+      "low_since_entry": 0.3057,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794951774909,
+      "last_check_ms": 1794952092022,
       "last_price": 0.3059
     },
     {
@@ -127,11 +127,11 @@
       "funding": 0.0,
       "best": 0.1552,
       "high_since_entry": 0.1552,
-      "low_since_entry": 0.1539,
+      "low_since_entry": 0.1538,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794951775129,
+      "last_check_ms": 1794952092556,
       "last_price": 0.1539
     },
     {
@@ -169,12 +169,12 @@
       "funding": 0.0,
       "best": 0.9766,
       "high_since_entry": 0.9766,
-      "low_since_entry": 0.9703,
+      "low_since_entry": 0.9695,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794951775348,
-      "last_price": 0.9704
+      "last_check_ms": 1794952092851,
+      "last_price": 0.9699
     },
     {
       "id": "FHF-20261118-0530-AVAXUSDT",
@@ -211,11 +211,11 @@
       "funding": 0.0,
       "best": 7.248,
       "high_since_entry": 7.248,
-      "low_since_entry": 7.181,
+      "low_since_entry": 7.174,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794951775566,
+      "last_check_ms": 1794952093140,
       "last_price": 7.181
     }
   ]
