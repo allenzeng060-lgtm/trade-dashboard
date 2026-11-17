@@ -8,12 +8,29 @@
     "reason": "BTC 4h close 63753.75 < filter 67568 → shorts only"
   },
   "last_scan": {
-    "time": "2026-11-18 06:03:23 MYT",
-    "bar_close": "2026-11-18 06:00:00 MYT",
-    "universe": 75,
-    "breakouts": [],
+    "time": "2026-11-18 07:03:46 MYT",
+    "bar_close": "2026-11-18 07:00:00 MYT",
+    "universe": 74,
+    "breakouts": [
+      {
+        "symbol": "NEARUSDT",
+        "side": "BUY",
+        "tf": "1h",
+        "level": 3.316,
+        "close": 3.321,
+        "vol_ratio": 1.1156
+      },
+      {
+        "symbol": "RAREUSDT",
+        "side": "SELL",
+        "tf": "1h",
+        "level": 0.0123,
+        "close": 0.0122,
+        "vol_ratio": 0.2666
+      }
+    ],
     "regime": "SELL"
   },
-  "last_scan_bar_ms": 1794952800000,
-  "last_equity_ts": 1794953004.1657383
+  "last_scan_bar_ms": 1794956400000,
+  "last_equity_ts": 1794956627.172322
 }
