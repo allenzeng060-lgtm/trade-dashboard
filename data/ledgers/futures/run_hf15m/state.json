@@ -8,12 +8,21 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-18 00:31:07 MYT",
-    "bar_close": "2026-11-18 00:30:00 MYT",
+    "time": "2026-11-18 00:46:06 MYT",
+    "bar_close": "2026-11-18 00:45:00 MYT",
     "universe": 75,
-    "breakouts": [],
+    "breakouts": [
+      {
+        "symbol": "ASTERUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 0.5339,
+        "close": 0.5336,
+        "vol_ratio": 0.9946
+      }
+    ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794933000000,
+  "last_scan_bar_ms": 1794933900000,
   "last_equity_ts": 1794932442.6406775
 }
