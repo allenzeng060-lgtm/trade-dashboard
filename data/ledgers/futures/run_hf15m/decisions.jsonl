@@ -466,3 +466,8 @@
 {"time": "2026-11-17 13:16:16 MYT", "kind": "regime", "allow": "ANY", "btc_close": 65056.52, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
 {"time": "2026-11-17 13:16:27 MYT", "kind": "scan", "bar_close": "2026-11-17 13:15:00 MYT", "breakouts": 5, "vol_ok": 0, "allow": "ANY"}
 {"time": "2026-11-17 13:26:16 MYT", "kind": "trail_update", "symbol": "BULLAUSDT", "stop": 0.014530919988182952, "best": 0.01323}
+{"time": "2026-11-17 13:31:20 MYT", "kind": "close", "symbol": "INJUSDT", "reason": "stop", "fill": 7.284855306120806, "net": -0.4184, "R": -1.01}
+{"time": "2026-11-17 13:31:21 MYT", "kind": "regime", "allow": "ANY", "btc_close": 65056.52, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-17 13:31:35 MYT", "kind": "scan", "bar_close": "2026-11-17 13:30:00 MYT", "breakouts": 8, "vol_ok": 2, "allow": "ANY"}
+{"time": "2026-11-17 13:31:35 MYT", "kind": "open", "symbol": "SOPHUSDT", "side": "BUY", "entry": 0.0010622124, "stop": 0.0010201222069082588, "qty": 10838.0, "lev": 2, "liq": 0.00055906, "risk": 0.467}
+{"time": "2026-11-17 13:31:35 MYT", "kind": "open", "symbol": "HUMAUSDT", "side": "SELL", "entry": 0.0087312534, "stop": 0.009139598430787854, "qty": 1120.0, "lev": 2, "liq": 0.01284008, "risk": 0.467}
