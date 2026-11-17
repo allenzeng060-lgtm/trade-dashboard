@@ -317,7 +317,7 @@
       "initial_stop": 0.01731771598818295,
       "R": 0.0013009199881829515,
       "targets": [],
-      "high_since_entry": 0.01675,
+      "high_since_entry": 0.01677,
       "low_since_entry": 0.0156,
       "exit_deadline": "2026-11-18 10:30:00 MYT",
       "market": "usdm_perp",
@@ -342,7 +342,27 @@
       "exit_deadline": "2026-11-18 11:00:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
+    },
+    {
+      "id": "FHF-20261117-1115-AAVEUSDT",
+      "symbol": "AAVEUSDT",
+      "side": "BUY",
+      "mode": "paper",
+      "status": "open",
+      "entry_price": 111.132222,
+      "entry_time": "2026-11-17 11:15:00 MYT",
+      "qty": 0.2,
+      "remaining_qty": 0.2,
+      "stop": 110.12454088481205,
+      "initial_stop": 110.12454088481205,
+      "R": 1.007681115187955,
+      "targets": [],
+      "high_since_entry": 112.79,
+      "low_since_entry": 110.99,
+      "exit_deadline": "2026-11-18 11:15:00 MYT",
+      "market": "usdm_perp",
+      "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-17 11:15:25 MYT"
+  "paper_updated_at": "2026-11-17 11:20:45 MYT"
 }

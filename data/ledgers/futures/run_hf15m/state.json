@@ -8,21 +8,45 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-17 11:05:42 MYT",
-    "bar_close": "2026-11-17 11:00:00 MYT",
+    "time": "2026-11-17 11:20:40 MYT",
+    "bar_close": "2026-11-17 11:15:00 MYT",
     "universe": 69,
     "breakouts": [
+      {
+        "symbol": "AAVEUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 110.33,
+        "close": 111.11,
+        "vol_ratio": 2.1748
+      },
       {
         "symbol": "INJUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 7.065,
-        "close": 7.088,
-        "vol_ratio": 2.0146
+        "level": 7.106,
+        "close": 7.125,
+        "vol_ratio": 3.8415
+      },
+      {
+        "symbol": "ZROUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 1.5328,
+        "close": 1.5342,
+        "vol_ratio": 2.4352
+      },
+      {
+        "symbol": "PAXGUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 3858.31,
+        "close": 3859.69,
+        "vol_ratio": 0.7599
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794884400000,
-  "last_equity_ts": 1794884743.291745
+  "last_scan_bar_ms": 1794885300000,
+  "last_equity_ts": 1794885640.6933658
 }
