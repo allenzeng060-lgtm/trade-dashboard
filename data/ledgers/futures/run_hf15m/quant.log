@@ -708,3 +708,7 @@
 2026-11-17 19:32:19,660 INFO decision skip {"symbol": "PENGUUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 9.63, "reason": "already holding"}
 2026-11-17 19:37:04,141 INFO decision trail_update {"symbol": "PENGUUSDT", "stop": 0.004845321431015769, "best": 0.004927}
 2026-11-17 19:42:06,465 INFO decision trail_update {"symbol": "PENGUUSDT", "stop": 0.004943321431015769, "best": 0.005025}
+2026-11-17 19:47:09,883 INFO decision trail_update {"symbol": "PENGUUSDT", "stop": 0.0049803214310157684, "best": 0.005062}
+2026-11-17 19:47:11,503 INFO decision regime {"allow": "ANY", "btc_close": 64115.09, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+2026-11-17 19:47:27,292 INFO decision scan {"bar_close": "2026-11-18 03:45:00 MYT", "breakouts": 4, "vol_ok": 1, "allow": "ANY"}
+2026-11-17 19:47:27,292 INFO decision skip {"symbol": "PENGUUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 7.99, "reason": "already holding"}

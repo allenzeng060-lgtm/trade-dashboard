@@ -8,37 +8,45 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-18 03:32:19 MYT",
-    "bar_close": "2026-11-18 03:30:00 MYT",
+    "time": "2026-11-18 03:47:27 MYT",
+    "bar_close": "2026-11-18 03:45:00 MYT",
     "universe": 75,
     "breakouts": [
       {
         "symbol": "PENGUUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.0047,
-        "close": 0.0049,
-        "vol_ratio": 9.6314
+        "level": 0.0049,
+        "close": 0.005,
+        "vol_ratio": 7.9898
       },
       {
-        "symbol": "INITUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 0.1031,
-        "close": 0.1036,
-        "vol_ratio": 1.465
-      },
-      {
-        "symbol": "AKEUSDT",
+        "symbol": "PAXGUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 0.0102,
-        "close": 0.0101,
-        "vol_ratio": 0.7941
+        "level": 3840.06,
+        "close": 3839.26,
+        "vol_ratio": 0.2141
+      },
+      {
+        "symbol": "BULLAUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 0.0126,
+        "close": 0.0125,
+        "vol_ratio": 0.6399
+      },
+      {
+        "symbol": "LITUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 2.8021,
+        "close": 2.8011,
+        "vol_ratio": 0.7038
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794943800000,
+  "last_scan_bar_ms": 1794944700000,
   "last_equity_ts": 1794943923.4234846
 }
