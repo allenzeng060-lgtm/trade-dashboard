@@ -8,29 +8,21 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-17 14:16:47 MYT",
-    "bar_close": "2026-11-17 14:15:00 MYT",
-    "universe": 70,
+    "time": "2026-11-17 14:32:07 MYT",
+    "bar_close": "2026-11-17 14:30:00 MYT",
+    "universe": 71,
     "breakouts": [
       {
-        "symbol": "JUPUSDT",
-        "side": "BUY",
+        "symbol": "AKEUSDT",
+        "side": "SELL",
         "tf": "15m",
-        "level": 0.2518,
-        "close": 0.2539,
-        "vol_ratio": 1.319
-      },
-      {
-        "symbol": "BTWUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 0.3969,
-        "close": 0.4201,
-        "vol_ratio": 5.1807
+        "level": 0.0096,
+        "close": 0.0096,
+        "vol_ratio": 0.9469
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794896100000,
+  "last_scan_bar_ms": 1794897000000,
   "last_equity_ts": 1794896208.245822
 }

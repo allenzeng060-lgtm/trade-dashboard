@@ -481,3 +481,5 @@
 {"time": "2026-11-17 14:16:40 MYT", "kind": "regime", "allow": "ANY", "btc_close": 65056.52, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
 {"time": "2026-11-17 14:16:47 MYT", "kind": "scan", "bar_close": "2026-11-17 14:15:00 MYT", "breakouts": 2, "vol_ok": 1, "allow": "ANY"}
 {"time": "2026-11-17 14:16:48 MYT", "kind": "open", "symbol": "BTWUSDT", "side": "BUY", "entry": 0.42018402, "stop": 0.3976602433437864, "qty": 20.0, "lev": 2, "liq": 0.22114948, "risk": 0.459}
+{"time": "2026-11-17 14:31:48 MYT", "kind": "regime", "allow": "ANY", "btc_close": 65056.52, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-17 14:32:07 MYT", "kind": "scan", "bar_close": "2026-11-17 14:30:00 MYT", "breakouts": 1, "vol_ok": 0, "allow": "ANY"}
