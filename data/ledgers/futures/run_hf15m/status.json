@@ -3,7 +3,7 @@
   "set": "15m",
   "mode": "paper",
   "rules": "hf-15m-v0.1",
-  "updated_at": "2026-11-18 18:23:41 MYT",
+  "updated_at": "2026-11-18 18:28:01 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -16,10 +16,10 @@
     "slip": 0.0002,
     "regime": "none"
   },
-  "wallet_usdt": 84.4548,
-  "unrealized_usdt": 2.5874,
-  "equity_usdt": 87.0422,
-  "pnl_pct": -12.958,
+  "wallet_usdt": 85.8698,
+  "unrealized_usdt": 0.7562,
+  "equity_usdt": 86.626,
+  "pnl_pct": -13.374,
   "regime": {
     "allow": "ANY",
     "btc_close": 64884.01,
@@ -115,7 +115,7 @@
       "R": 0.00378692168375275,
       "trail_armed": false,
       "funding": -0.00252915,
-      "last_price": 0.3083,
+      "last_price": 0.3078,
       "exit_deadline": "2026-11-19 05:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.58
@@ -136,31 +136,10 @@
       "R": 2.06340890465846,
       "trail_armed": false,
       "funding": -0.00146908,
-      "last_price": 195.71,
+      "last_price": 195.31,
       "exit_deadline": "2026-11-19 07:00:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.67
-    },
-    {
-      "id": "FHF-20261118-1015-PIEVERSEUSDT",
-      "symbol": "PIEVERSEUSDT",
-      "side": "BUY",
-      "entry_time": "2026-11-18 10:15:00 MYT",
-      "entry_price": 2.1358270800000003,
-      "qty": 8.0,
-      "notional": 17.086616640000003,
-      "leverage": 3,
-      "margin": 5.695538880000001,
-      "liq_price": 1.46039458,
-      "stop": 2.3157761568201973,
-      "initial_stop": 2.0856032368201975,
-      "R": 0.05022384317980284,
-      "trail_armed": true,
-      "funding": -0.00310825,
-      "last_price": 2.3413,
-      "exit_deadline": "2026-11-19 10:15:00 MYT",
-      "signal_tf": "15m",
-      "vol_ratio": 2.18
     },
     {
       "id": "FHF-20261118-1300-龙虾USDT",
@@ -178,7 +157,7 @@
       "R": 0.0008667366020083734,
       "trail_armed": false,
       "funding": 0.00033625,
-      "last_price": 0.01413,
+      "last_price": 0.01465,
       "exit_deadline": "2026-11-19 13:00:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.07
@@ -199,7 +178,7 @@
       "R": 0.00029044014411782964,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 0.01156,
+      "last_price": 0.01154,
       "exit_deadline": "2026-11-19 17:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 6.22
@@ -220,7 +199,7 @@
       "R": 0.0016171719033375226,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 0.02124,
+      "last_price": 0.02161,
       "exit_deadline": "2026-11-19 18:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 16.8

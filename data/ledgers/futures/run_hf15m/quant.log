@@ -952,3 +952,4 @@
 2026-11-18 10:18:09,849 INFO decision open {"symbol": "PIPPINUSDT", "side": "BUY", "entry": 0.020494098000000002, "stop": 0.01887692609666248, "qty": 257.0, "lev": 1, "liq": 0.0, "risk": 0.421}
 2026-11-18 10:18:09,849 INFO decision skip {"symbol": "PIEVERSEUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 4.5, "reason": "already holding"}
 2026-11-18 10:22:57,367 INFO decision trail_update {"symbol": "PIEVERSEUSDT", "stop": 2.3157761568201973, "best": 2.366}
+2026-11-18 10:28:00,483 INFO decision close {"symbol": "PIEVERSEUSDT", "reason": "trail_stop", "fill": 2.3153130015888332, "net": 1.415, "R": 3.38}
