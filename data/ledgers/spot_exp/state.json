@@ -1,5 +1,5 @@
 {
- "_t24_ts": 1794991661.0318315,
+ "_t24_ts": 1794991943.873963,
  "cands": {
   "SOPHUSDT": 1794990781.0,
   "ENSOUSDT": 1794990801.0,
@@ -7,7 +7,7 @@
   "ZKCUSDT": 1794991180.0
  },
  "alerts_init": true,
- "alerts_offset": 199847,
+ "alerts_offset": 199857,
  "checked": {
   "SOPHUSDT": 1794867300000,
   "BANANAS31USDT": 1794769200000,
