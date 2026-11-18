@@ -291,7 +291,7 @@
       "initial_stop": 0.3077317487779361,
       "R": 0.0194336712220639,
       "targets": [],
-      "high_since_entry": 0.3433,
+      "high_since_entry": 0.3448,
       "low_since_entry": 0.311,
       "exit_deadline": "2026-11-19 19:00:00 MYT",
       "market": "usdm_perp",
@@ -311,7 +311,7 @@
       "initial_stop": 2.9681454129992058,
       "R": 0.1526786270007942,
       "targets": [],
-      "high_since_entry": 3.2189,
+      "high_since_entry": 3.226,
       "low_since_entry": 3.0033,
       "exit_deadline": "2026-11-19 22:15:00 MYT",
       "market": "usdm_perp",
@@ -332,7 +332,7 @@
       "R": 0.22871354800427265,
       "targets": [],
       "high_since_entry": 3.9854,
-      "low_since_entry": 3.8431,
+      "low_since_entry": 3.7514,
       "exit_deadline": "2026-11-19 22:30:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
@@ -351,7 +351,7 @@
       "initial_stop": 588.5098441936752,
       "R": 2.657038193675194,
       "targets": [],
-      "high_since_entry": 586.08,
+      "high_since_entry": 587.89,
       "low_since_entry": 584.42,
       "exit_deadline": "2026-11-19 22:45:00 MYT",
       "market": "usdm_perp",
@@ -371,7 +371,7 @@
       "initial_stop": 74.33376549325412,
       "R": 0.6185114932541178,
       "targets": [],
-      "high_since_entry": 73.88,
+      "high_since_entry": 74.17,
       "low_since_entry": 73.49,
       "exit_deadline": "2026-11-19 22:45:00 MYT",
       "market": "usdm_perp",
@@ -391,8 +391,8 @@
       "initial_stop": 5.207452602261316,
       "R": 0.051484002261316,
       "targets": [],
-      "high_since_entry": 5.16,
-      "low_since_entry": 5.135,
+      "high_since_entry": 5.188,
+      "low_since_entry": 5.133,
       "exit_deadline": "2026-11-19 22:45:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
@@ -411,12 +411,12 @@
       "initial_stop": 67.3897152060756,
       "R": 0.707054406075613,
       "targets": [],
-      "high_since_entry": 66.882,
+      "high_since_entry": 67.303,
       "low_since_entry": 66.585,
       "exit_deadline": "2026-11-19 22:45:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-18 22:50:00 MYT"
+  "paper_updated_at": "2026-11-18 22:54:52 MYT"
 }
