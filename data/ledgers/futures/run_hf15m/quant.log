@@ -940,3 +940,7 @@
 2026-11-18 09:48:06,037 INFO decision scan {"bar_close": "2026-11-18 17:45:00 MYT", "breakouts": 2, "vol_ok": 0, "allow": "ANY"}
 2026-11-18 09:52:45,494 INFO decision trail_update {"symbol": "PIEVERSEUSDT", "stop": 2.201876156820197, "best": 2.2521}
 2026-11-18 09:57:47,129 INFO decision trail_update {"symbol": "PIEVERSEUSDT", "stop": 2.2208761568201973, "best": 2.2711}
+2026-11-18 10:03:16,494 INFO decision trail_update {"symbol": "PIEVERSEUSDT", "stop": 2.267076156820197, "best": 2.3173}
+2026-11-18 10:03:17,944 INFO decision regime {"allow": "ANY", "btc_close": 64884.01, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+2026-11-18 10:03:31,032 INFO decision scan {"bar_close": "2026-11-18 18:00:00 MYT", "breakouts": 3, "vol_ok": 1, "allow": "ANY"}
+2026-11-18 10:03:31,032 INFO decision skip {"symbol": "PIEVERSEUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 2.92, "reason": "already holding"}

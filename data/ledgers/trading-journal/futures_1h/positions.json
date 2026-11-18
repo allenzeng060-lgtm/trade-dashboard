@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 09:00:00 MYT",
-      "last_check_ms": 1794995865667,
-      "last_price": 0.009802,
+      "last_check_ms": 1794996193801,
+      "last_price": 0.009784,
       "last_funding_ms": 1794988800001
     },
     {
@@ -90,8 +90,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-20 09:00:00 MYT",
-      "last_check_ms": 1794995865893,
-      "last_price": 3771.36,
+      "last_check_ms": 1794996194414,
+      "last_price": 3766.77,
       "last_funding_ms": 1794988800001
     }
   ]
