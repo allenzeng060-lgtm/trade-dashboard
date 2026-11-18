@@ -238,26 +238,6 @@
       "group": "合約1h組"
     },
     {
-      "id": "F1H-20261118-0900-XAUTUSDT",
-      "symbol": "XAUTUSDT",
-      "side": "SELL",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 3802.6893099999998,
-      "entry_time": "2026-11-18 09:00:00 MYT",
-      "qty": 0.015,
-      "remaining_qty": 0.015,
-      "stop": 3766.7991631883297,
-      "initial_stop": 3833.1384731883295,
-      "R": 30.449163188329955,
-      "targets": [],
-      "high_since_entry": 3817.86,
-      "low_since_entry": 3736.35,
-      "exit_deadline": "2026-11-20 09:00:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約1h組"
-    },
-    {
       "id": "FHF-20261118-0530-ONDOUSDT",
       "symbol": "ONDOUSDT",
       "side": "BUY",
@@ -378,26 +358,6 @@
       "group": "合約高頻組"
     },
     {
-      "id": "FHF-20261118-1915-ENAUSDT",
-      "symbol": "ENAUSDT",
-      "side": "SELL",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 0.111137768,
-      "entry_time": "2026-11-18 19:15:00 MYT",
-      "qty": 193.0,
-      "remaining_qty": 193.0,
-      "stop": 0.11257374094965782,
-      "initial_stop": 0.11257374094965782,
-      "R": 0.0014359729496578118,
-      "targets": [],
-      "high_since_entry": 0.11248,
-      "low_since_entry": 0.11036,
-      "exit_deadline": "2026-11-19 19:15:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
       "id": "FHF-20261118-2030-PIEVERSEUSDT",
       "symbol": "PIEVERSEUSDT",
       "side": "BUY",
@@ -416,27 +376,7 @@
       "exit_deadline": "2026-11-19 20:30:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
-    },
-    {
-      "id": "FHF-20261118-2115-EVAAUSDT",
-      "symbol": "EVAAUSDT",
-      "side": "SELL",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 3.24625062,
-      "entry_time": "2026-11-18 21:15:00 MYT",
-      "qty": 2.0,
-      "remaining_qty": 2.0,
-      "stop": 3.4552078817631466,
-      "initial_stop": 3.4552078817631466,
-      "R": 0.20895726176314677,
-      "targets": [],
-      "high_since_entry": 3.426,
-      "low_since_entry": 3.204,
-      "exit_deadline": "2026-11-19 21:15:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-18 21:24:12 MYT"
+  "paper_updated_at": "2026-11-18 21:29:13 MYT"
 }
