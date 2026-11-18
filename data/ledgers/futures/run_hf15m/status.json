@@ -3,7 +3,7 @@
   "set": "15m",
   "mode": "paper",
   "rules": "hf-15m-v0.1",
-  "updated_at": "2026-11-18 20:13:45 MYT",
+  "updated_at": "2026-11-18 20:18:59 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -17,9 +17,9 @@
     "regime": "none"
   },
   "wallet_usdt": 84.8533,
-  "unrealized_usdt": -0.3817,
-  "equity_usdt": 84.4716,
-  "pnl_pct": -15.528,
+  "unrealized_usdt": 0.6461,
+  "equity_usdt": 85.4995,
+  "pnl_pct": -14.501,
   "regime": {
     "allow": "ANY",
     "btc_close": 64231.52,
@@ -27,17 +27,25 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-18 20:04:19 MYT",
-    "bar_close": "2026-11-18 20:00:00 MYT",
+    "time": "2026-11-18 20:18:57 MYT",
+    "bar_close": "2026-11-18 20:15:00 MYT",
     "universe": 75,
     "breakouts": [
       {
         "symbol": "ARIAUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 0.2309,
-        "close": 0.2306,
-        "vol_ratio": 0.6104
+        "level": 0.2288,
+        "close": 0.2288,
+        "vol_ratio": 0.5955
+      },
+      {
+        "symbol": "PIEVERSEUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 2.5196,
+        "close": 2.5567,
+        "vol_ratio": 5.6937
       }
     ],
     "regime": "ANY"
@@ -59,7 +67,7 @@
       "R": 0.00378692168375275,
       "trail_armed": false,
       "funding": -0.00332959,
-      "last_price": 0.3058,
+      "last_price": 0.3063,
       "exit_deadline": "2026-11-19 05:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.58
@@ -80,7 +88,7 @@
       "R": 2.06340890465846,
       "trail_armed": false,
       "funding": -0.00201005,
-      "last_price": 195.42,
+      "last_price": 195.76,
       "exit_deadline": "2026-11-19 07:00:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.67
@@ -122,7 +130,7 @@
       "R": 0.00029044014411782964,
       "trail_armed": false,
       "funding": -0.0262377,
-      "last_price": 0.01154,
+      "last_price": 0.01155,
       "exit_deadline": "2026-11-19 17:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 6.22
@@ -143,7 +151,7 @@
       "R": 4.655399832496989e-05,
       "trail_armed": false,
       "funding": 0.00087143,
-      "last_price": 0.001972,
+      "last_price": 0.001963,
       "exit_deadline": "2026-11-19 18:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 4.8
@@ -164,7 +172,7 @@
       "R": 0.0010290241750275874,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 0.153,
+      "last_price": 0.1533,
       "exit_deadline": "2026-11-19 18:45:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.82
@@ -185,7 +193,7 @@
       "R": 0.0194336712220639,
       "trail_armed": false,
       "funding": 0.0049217,
-      "last_price": 0.3168,
+      "last_price": 0.3183,
       "exit_deadline": "2026-11-19 19:00:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.15
@@ -206,10 +214,31 @@
       "R": 0.0014359729496578118,
       "trail_armed": false,
       "funding": -0.00029226,
-      "last_price": 0.11129,
+      "last_price": 0.11165,
       "exit_deadline": "2026-11-19 19:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.58
+    },
+    {
+      "id": "FHF-20261118-2015-PIEVERSEUSDT",
+      "symbol": "PIEVERSEUSDT",
+      "side": "BUY",
+      "entry_time": "2026-11-18 20:15:00 MYT",
+      "entry_price": 2.5572113400000003,
+      "qty": 4.0,
+      "notional": 10.228845360000001,
+      "leverage": 2,
+      "margin": 5.1144226800000006,
+      "liq_price": 1.31139043,
+      "stop": 2.7465874311600564,
+      "initial_stop": 2.4632987711600567,
+      "R": 0.09391256883994342,
+      "trail_armed": true,
+      "funding": 0.0,
+      "last_price": 2.7971,
+      "exit_deadline": "2026-11-19 20:15:00 MYT",
+      "signal_tf": "15m",
+      "vol_ratio": 5.69
     }
   ],
   "data_source": "www.binance.com /fapi (public)"
