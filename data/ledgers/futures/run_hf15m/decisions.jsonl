@@ -1006,3 +1006,5 @@
 {"time": "2026-11-18 16:42:18 MYT", "kind": "close", "symbol": "ICNTUSDT", "reason": "stop", "fill": 0.30105520844899464, "net": -0.419, "R": -1.0}
 {"time": "2026-11-18 16:47:24 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64884.01, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
 {"time": "2026-11-18 16:47:37 MYT", "kind": "scan", "bar_close": "2026-11-18 16:45:00 MYT", "breakouts": 1, "vol_ok": 0, "allow": "ANY"}
+{"time": "2026-11-18 17:02:45 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64884.01, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-18 17:02:58 MYT", "kind": "scan", "bar_close": "2026-11-18 17:00:00 MYT", "breakouts": 0, "vol_ok": 0, "allow": "ANY"}
