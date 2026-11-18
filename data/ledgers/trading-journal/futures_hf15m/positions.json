@@ -5,7 +5,7 @@
   "rules": "hf-15m-v0.1",
   "cycle": 1,
   "start_equity_usdt": 100.0,
-  "wallet_usdt": 84.319887,
+  "wallet_usdt": 85.067778,
   "created": "2026-11-16 03:06:21 MYT",
   "positions": [
     {
@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1795010966794,
-      "last_price": 0.3046,
+      "last_check_ms": 1795011267526,
+      "last_price": 0.3043,
       "last_funding_ms": 1795003200002
     },
     {
@@ -90,8 +90,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 07:00:00 MYT",
-      "last_check_ms": 1795010967086,
-      "last_price": 195.18,
+      "last_check_ms": 1795011267859,
+      "last_price": 194.56,
       "last_funding_ms": 1795003200002
     },
     {
@@ -133,8 +133,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 13:00:00 MYT",
-      "last_check_ms": 1795010967433,
-      "last_price": 0.01436,
+      "last_check_ms": 1795011268184,
+      "last_price": 0.01422,
       "last_funding_ms": 1795003200002
     },
     {
@@ -176,8 +176,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 17:15:00 MYT",
-      "last_check_ms": 1795010967717,
-      "last_price": 0.01154,
+      "last_check_ms": 1795011268511,
+      "last_price": 0.01152,
       "last_funding_ms": 1795003200002
     },
     {
@@ -219,52 +219,9 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 19:00:00 MYT",
-      "last_check_ms": 1795010968211,
-      "last_price": 0.3353,
+      "last_check_ms": 1795011268832,
+      "last_price": 0.336,
       "last_funding_ms": 1795003200002
-    },
-    {
-      "id": "FHF-20261118-2030-PIEVERSEUSDT",
-      "symbol": "PIEVERSEUSDT",
-      "side": "BUY",
-      "rules": "hf-15m-v0.1",
-      "cycle": 1,
-      "slippage": 0.0002,
-      "mode": "paper",
-      "status": "open",
-      "group": "合約高頻組",
-      "market": "usdm_perp",
-      "margin_type": "isolated",
-      "signal_tf": "15m",
-      "signal_bar_close_myt": "2026-11-18 20:30:00 MYT",
-      "vol_ratio": 19.66,
-      "breakout_level": 2.567,
-      "entry_time": "2026-11-18 20:30:00 MYT",
-      "entry_ms": 1795005000000,
-      "entry_price": 2.81586306,
-      "qty": 3.0,
-      "remaining_qty": 3.0,
-      "notional": 8.44758918,
-      "leverage": 2,
-      "margin": 4.22379459,
-      "liq_price": 1.44403234,
-      "mmr": 0.025,
-      "stop": 3.068715827614066,
-      "initial_stop": 2.6949788876140657,
-      "R": 0.12088417238593402,
-      "stop_pct": 4.293,
-      "risk_usdt": 0.37091878007922313,
-      "entry_fee": 0.00422379459,
-      "funding": 0.0,
-      "best": 3.1896,
-      "high_since_entry": 3.1896,
-      "low_since_entry": 2.754,
-      "trail_armed": true,
-      "targets": [],
-      "exit_deadline": "2026-11-19 20:30:00 MYT",
-      "last_check_ms": 1795010968751,
-      "last_price": 3.134,
-      "_last_logged_stop": 3.068715827614066
     }
   ]
 }

@@ -3,7 +3,7 @@
   "set": "15m",
   "mode": "paper",
   "rules": "hf-15m-v0.1",
-  "updated_at": "2026-11-18 22:09:29 MYT",
+  "updated_at": "2026-11-18 22:14:29 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -16,10 +16,10 @@
     "slip": 0.0002,
     "regime": "none"
   },
-  "wallet_usdt": 84.3199,
-  "unrealized_usdt": 1.4655,
-  "equity_usdt": 85.7853,
-  "pnl_pct": -14.215,
+  "wallet_usdt": 85.0678,
+  "unrealized_usdt": 0.5342,
+  "equity_usdt": 85.602,
+  "pnl_pct": -14.398,
   "regime": {
     "allow": "ANY",
     "btc_close": 64231.52,
@@ -91,7 +91,7 @@
       "R": 0.00378692168375275,
       "trail_armed": false,
       "funding": -0.00332959,
-      "last_price": 0.3046,
+      "last_price": 0.3043,
       "exit_deadline": "2026-11-19 05:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.58
@@ -112,7 +112,7 @@
       "R": 2.06340890465846,
       "trail_armed": false,
       "funding": -0.00201005,
-      "last_price": 195.18,
+      "last_price": 194.56,
       "exit_deadline": "2026-11-19 07:00:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.67
@@ -133,7 +133,7 @@
       "R": 0.0008667366020083734,
       "trail_armed": false,
       "funding": 0.00069882,
-      "last_price": 0.01436,
+      "last_price": 0.01422,
       "exit_deadline": "2026-11-19 13:00:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.07
@@ -154,7 +154,7 @@
       "R": 0.00029044014411782964,
       "trail_armed": false,
       "funding": -0.0262377,
-      "last_price": 0.01154,
+      "last_price": 0.01152,
       "exit_deadline": "2026-11-19 17:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 6.22
@@ -175,31 +175,10 @@
       "R": 0.0194336712220639,
       "trail_armed": false,
       "funding": 0.0049217,
-      "last_price": 0.3353,
+      "last_price": 0.336,
       "exit_deadline": "2026-11-19 19:00:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.15
-    },
-    {
-      "id": "FHF-20261118-2030-PIEVERSEUSDT",
-      "symbol": "PIEVERSEUSDT",
-      "side": "BUY",
-      "entry_time": "2026-11-18 20:30:00 MYT",
-      "entry_price": 2.81586306,
-      "qty": 3.0,
-      "notional": 8.44758918,
-      "leverage": 2,
-      "margin": 4.22379459,
-      "liq_price": 1.44403234,
-      "stop": 3.068715827614066,
-      "initial_stop": 2.6949788876140657,
-      "R": 0.12088417238593402,
-      "trail_armed": true,
-      "funding": 0.0,
-      "last_price": 3.134,
-      "exit_deadline": "2026-11-19 20:30:00 MYT",
-      "signal_tf": "15m",
-      "vol_ratio": 19.66
     }
   ],
   "data_source": "www.binance.com /fapi (public)"
