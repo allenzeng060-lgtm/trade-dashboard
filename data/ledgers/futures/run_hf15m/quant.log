@@ -938,3 +938,4 @@
 2026-11-18 09:47:50,020 INFO decision trail_update {"symbol": "PIEVERSEUSDT", "stop": 2.1972761568201973, "best": 2.2475}
 2026-11-18 09:47:52,170 INFO decision regime {"allow": "ANY", "btc_close": 64884.01, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
 2026-11-18 09:48:06,037 INFO decision scan {"bar_close": "2026-11-18 17:45:00 MYT", "breakouts": 2, "vol_ok": 0, "allow": "ANY"}
+2026-11-18 09:52:45,494 INFO decision trail_update {"symbol": "PIEVERSEUSDT", "stop": 2.201876156820197, "best": 2.2521}
