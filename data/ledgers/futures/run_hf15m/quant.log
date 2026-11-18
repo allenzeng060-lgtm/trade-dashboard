@@ -881,3 +881,8 @@
 2026-11-18 07:17:02,422 INFO decision scan {"bar_close": "2026-11-18 15:15:00 MYT", "breakouts": 11, "vol_ok": 1, "allow": "ANY"}
 2026-11-18 07:17:02,629 INFO decision open {"symbol": "BLESSUSDT", "side": "BUY", "entry": 0.012515502599999999, "stop": 0.011776978749638177, "qty": 561.0, "lev": 2, "liq": 0.00638546, "risk": 0.421}
 2026-11-18 07:26:50,083 INFO decision trail_update {"symbol": "PAXGUSDT", "stop": 3776.8411390017836, "best": 3764.19}
+2026-11-18 07:31:55,337 INFO decision trail_update {"symbol": "PAXGUSDT", "stop": 3776.8011390017837, "best": 3764.15}
+2026-11-18 07:31:59,248 INFO decision regime {"allow": "ANY", "btc_close": 64457.96, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+2026-11-18 07:32:20,662 INFO decision scan {"bar_close": "2026-11-18 15:30:00 MYT", "breakouts": 5, "vol_ok": 2, "allow": "ANY"}
+2026-11-18 07:32:20,663 INFO decision skip {"symbol": "KAVAUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 7.08, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+2026-11-18 07:32:20,663 INFO decision skip {"symbol": "BLESSUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 4.98, "reason": "already holding"}
