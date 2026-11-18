@@ -8,12 +8,37 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-19 03:02:04 MYT",
-    "bar_close": "2026-11-19 03:00:00 MYT",
+    "time": "2026-11-19 03:16:54 MYT",
+    "bar_close": "2026-11-19 03:15:00 MYT",
     "universe": 71,
-    "breakouts": [],
+    "breakouts": [
+      {
+        "symbol": "ZECUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 912.88,
+        "close": 908.36,
+        "vol_ratio": 3.9511
+      },
+      {
+        "symbol": "KAVAUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.0293,
+        "close": 0.0294,
+        "vol_ratio": 0.9549
+      },
+      {
+        "symbol": "ASTERUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 0.541,
+        "close": 0.5406,
+        "vol_ratio": 1.4212
+      }
+    ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1795028400000,
-  "last_equity_ts": 1795026382.1214805
+  "last_scan_bar_ms": 1795029300000,
+  "last_equity_ts": 1795029414.575943
 }

@@ -446,7 +446,27 @@
       "exit_deadline": "2026-11-20 02:00:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
+    },
+    {
+      "id": "FHF-20261119-0315-ZECUSDT",
+      "symbol": "ZECUSDT",
+      "side": "SELL",
+      "mode": "paper",
+      "status": "open",
+      "entry_price": 908.1783280000001,
+      "entry_time": "2026-11-19 03:15:00 MYT",
+      "qty": 0.022,
+      "remaining_qty": 0.022,
+      "stop": 922.4636231075149,
+      "initial_stop": 922.4636231075149,
+      "R": 14.285295107514793,
+      "targets": [],
+      "high_since_entry": 910.62,
+      "low_since_entry": 907.29,
+      "exit_deadline": "2026-11-20 03:15:00 MYT",
+      "market": "usdm_perp",
+      "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-19 03:11:43 MYT"
+  "paper_updated_at": "2026-11-19 03:16:58 MYT"
 }

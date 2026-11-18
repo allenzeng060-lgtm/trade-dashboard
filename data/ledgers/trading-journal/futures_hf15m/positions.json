@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 13:00:00 MYT",
-      "last_check_ms": 1795029099829,
-      "last_price": 0.01466,
+      "last_check_ms": 1795029414576,
+      "last_price": 0.01468,
       "last_funding_ms": 1795017600000
     },
     {
@@ -90,8 +90,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 17:15:00 MYT",
-      "last_check_ms": 1795029100215,
-      "last_price": 0.0115,
+      "last_check_ms": 1795029414898,
+      "last_price": 0.01148,
       "last_funding_ms": 1795017600000
     },
     {
@@ -133,8 +133,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 19:00:00 MYT",
-      "last_check_ms": 1795029100628,
-      "last_price": 0.3279,
+      "last_check_ms": 1795029415212,
+      "last_price": 0.326,
       "last_funding_ms": 1795017600000
     },
     {
@@ -176,8 +176,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 22:15:00 MYT",
-      "last_check_ms": 1795029100860,
-      "last_price": 3.3289,
+      "last_check_ms": 1795029415529,
+      "last_price": 3.3327,
       "last_funding_ms": 1795017600000
     },
     {
@@ -219,8 +219,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 23:15:00 MYT",
-      "last_check_ms": 1795029101455,
-      "last_price": 0.002549,
+      "last_check_ms": 1795029415843,
+      "last_price": 0.00256,
       "last_funding_ms": 1795017600000
     },
     {
@@ -262,8 +262,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 23:15:00 MYT",
-      "last_check_ms": 1795029101673,
-      "last_price": 6.974,
+      "last_check_ms": 1795029416162,
+      "last_price": 6.986,
       "last_funding_ms": 1795017600000
     },
     {
@@ -305,8 +305,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-20 01:15:00 MYT",
-      "last_check_ms": 1795029102083,
-      "last_price": 0.008739,
+      "last_check_ms": 1795029416476,
+      "last_price": 0.008799,
       "last_funding_ms": 1795028400002
     },
     {
@@ -348,8 +348,50 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-20 02:00:00 MYT",
-      "last_check_ms": 1795029102489,
-      "last_price": 0.02025
+      "last_check_ms": 1795029416793,
+      "last_price": 0.02016
+    },
+    {
+      "id": "FHF-20261119-0315-ZECUSDT",
+      "symbol": "ZECUSDT",
+      "side": "SELL",
+      "rules": "hf-15m-v0.1",
+      "cycle": 1,
+      "slippage": 0.0002,
+      "mode": "paper",
+      "status": "open",
+      "group": "合約高頻組",
+      "market": "usdm_perp",
+      "margin_type": "isolated",
+      "signal_tf": "15m",
+      "signal_bar_close_myt": "2026-11-19 03:15:00 MYT",
+      "vol_ratio": 3.95,
+      "breakout_level": 912.88,
+      "entry_time": "2026-11-19 03:15:00 MYT",
+      "entry_ms": 1795029300000,
+      "entry_price": 908.1783280000001,
+      "qty": 0.022,
+      "remaining_qty": 0.022,
+      "notional": 19.979923216,
+      "leverage": 3,
+      "margin": 6.659974405333333,
+      "liq_price": 1198.91528449,
+      "mmr": 0.01,
+      "stop": 922.4636231075149,
+      "initial_stop": 922.4636231075149,
+      "R": 14.285295107514793,
+      "stop_pct": 1.573,
+      "risk_usdt": 0.33441355382750815,
+      "entry_fee": 0.009989961608,
+      "funding": 0.0,
+      "best": 907.29,
+      "high_since_entry": 910.62,
+      "low_since_entry": 907.29,
+      "trail_armed": false,
+      "targets": [],
+      "exit_deadline": "2026-11-20 03:15:00 MYT",
+      "last_check_ms": 1795029417111,
+      "last_price": 908.36
     }
   ]
 }

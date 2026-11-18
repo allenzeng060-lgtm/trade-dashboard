@@ -3,7 +3,7 @@
   "set": "15m",
   "mode": "paper",
   "rules": "hf-15m-v0.1",
-  "updated_at": "2026-11-19 03:11:42 MYT",
+  "updated_at": "2026-11-19 03:16:57 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -17,9 +17,9 @@
     "regime": "none"
   },
   "wallet_usdt": 82.3748,
-  "unrealized_usdt": 2.325,
-  "equity_usdt": 84.6998,
-  "pnl_pct": -15.3,
+  "unrealized_usdt": 2.2881,
+  "equity_usdt": 84.6629,
+  "pnl_pct": -15.337,
   "regime": {
     "allow": "ANY",
     "btc_close": 63122.53,
@@ -27,10 +27,35 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-19 03:02:04 MYT",
-    "bar_close": "2026-11-19 03:00:00 MYT",
+    "time": "2026-11-19 03:16:54 MYT",
+    "bar_close": "2026-11-19 03:15:00 MYT",
     "universe": 71,
-    "breakouts": [],
+    "breakouts": [
+      {
+        "symbol": "ZECUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 912.88,
+        "close": 908.36,
+        "vol_ratio": 3.9511
+      },
+      {
+        "symbol": "KAVAUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.0293,
+        "close": 0.0294,
+        "vol_ratio": 0.9549
+      },
+      {
+        "symbol": "ASTERUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 0.541,
+        "close": 0.5406,
+        "vol_ratio": 1.4212
+      }
+    ],
     "regime": "ANY"
   },
   "positions": [
@@ -50,7 +75,7 @@
       "R": 0.0008667366020083734,
       "trail_armed": false,
       "funding": 0.00104151,
-      "last_price": 0.01466,
+      "last_price": 0.01468,
       "exit_deadline": "2026-11-19 13:00:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.07
@@ -71,7 +96,7 @@
       "R": 0.00029044014411782964,
       "trail_armed": false,
       "funding": -0.04004112,
-      "last_price": 0.0115,
+      "last_price": 0.01148,
       "exit_deadline": "2026-11-19 17:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 6.22
@@ -92,7 +117,7 @@
       "R": 0.0194336712220639,
       "trail_armed": false,
       "funding": 0.00457341,
-      "last_price": 0.3279,
+      "last_price": 0.326,
       "exit_deadline": "2026-11-19 19:00:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.15
@@ -113,7 +138,7 @@
       "R": 0.1526786270007942,
       "trail_armed": false,
       "funding": -0.00382478,
-      "last_price": 3.3289,
+      "last_price": 3.3327,
       "exit_deadline": "2026-11-19 22:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 10.89
@@ -134,7 +159,7 @@
       "R": 4.446172436725169e-05,
       "trail_armed": false,
       "funding": 0.00017163,
-      "last_price": 0.002549,
+      "last_price": 0.00256,
       "exit_deadline": "2026-11-19 23:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 4.39
@@ -155,7 +180,7 @@
       "R": 0.09775824115479777,
       "trail_armed": false,
       "funding": 3.221e-05,
-      "last_price": 6.974,
+      "last_price": 6.986,
       "exit_deadline": "2026-11-19 23:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.37
@@ -176,7 +201,7 @@
       "R": 0.0003129298754599081,
       "trail_armed": false,
       "funding": 0.0666949,
-      "last_price": 0.008739,
+      "last_price": 0.008799,
       "exit_deadline": "2026-11-20 01:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 5.81
@@ -197,10 +222,31 @@
       "R": 0.0014797873550471596,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 0.02025,
+      "last_price": 0.02016,
       "exit_deadline": "2026-11-20 02:00:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 5.47
+    },
+    {
+      "id": "FHF-20261119-0315-ZECUSDT",
+      "symbol": "ZECUSDT",
+      "side": "SELL",
+      "entry_time": "2026-11-19 03:15:00 MYT",
+      "entry_price": 908.1783280000001,
+      "qty": 0.022,
+      "notional": 19.979923216,
+      "leverage": 3,
+      "margin": 6.659974405333333,
+      "liq_price": 1198.91528449,
+      "stop": 922.4636231075149,
+      "initial_stop": 922.4636231075149,
+      "R": 14.285295107514793,
+      "trail_armed": false,
+      "funding": 0.0,
+      "last_price": 908.36,
+      "exit_deadline": "2026-11-20 03:15:00 MYT",
+      "signal_tf": "15m",
+      "vol_ratio": 3.95
     }
   ],
   "data_source": "www.binance.com /fapi (public)"
