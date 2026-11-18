@@ -3,7 +3,7 @@
   "set": "4h",
   "mode": "paper",
   "rules": "v0.2",
-  "updated_at": "2026-11-18 14:36:25 MYT",
+  "updated_at": "2026-11-18 14:41:28 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -67,7 +67,7 @@
       "R": 0.0001496381824028598,
       "trail_armed": false,
       "funding": -0.07561363,
-      "last_price": 0.002371,
+      "last_price": 0.00237,
       "exit_deadline": "2026-11-22 08:10:23 MYT",
       "signal_tf": "4h",
       "vol_ratio": 4.67
