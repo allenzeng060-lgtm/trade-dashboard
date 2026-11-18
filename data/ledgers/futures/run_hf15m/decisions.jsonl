@@ -1014,3 +1014,6 @@
 {"time": "2026-11-18 17:17:50 MYT", "kind": "scan", "bar_close": "2026-11-18 17:15:00 MYT", "breakouts": 3, "vol_ok": 2, "allow": "ANY"}
 {"time": "2026-11-18 17:17:51 MYT", "kind": "open", "symbol": "RAREUSDT", "side": "SELL", "entry": 0.011767646, "stop": 0.01205808614411783, "qty": 1396.0, "lev": 3, "liq": 0.01494304, "risk": 0.422}
 {"time": "2026-11-18 17:17:51 MYT", "kind": "skip", "symbol": "MMTUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 5.94, "reason": "notional 4.71 < exchange min 5"}
+{"time": "2026-11-18 17:32:40 MYT", "kind": "trail_update", "symbol": "PIEVERSEUSDT", "stop": 2.192776156820197, "best": 2.243}
+{"time": "2026-11-18 17:32:42 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64884.01, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-18 17:32:53 MYT", "kind": "scan", "bar_close": "2026-11-18 17:30:00 MYT", "breakouts": 3, "vol_ok": 0, "allow": "ANY"}
