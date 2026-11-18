@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794997376361,
-      "last_price": 0.3085,
+      "last_check_ms": 1794997419835,
+      "last_price": 0.3083,
       "last_funding_ms": 1794988800001
     },
     {
@@ -90,8 +90,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 07:00:00 MYT",
-      "last_check_ms": 1794997376716,
-      "last_price": 195.76,
+      "last_check_ms": 1794997420148,
+      "last_price": 195.71,
       "last_funding_ms": 1794988800001
     },
     {
@@ -133,8 +133,8 @@
       "trail_armed": true,
       "targets": [],
       "exit_deadline": "2026-11-19 10:15:00 MYT",
-      "last_check_ms": 1794997377038,
-      "last_price": 2.3497,
+      "last_check_ms": 1794997420464,
+      "last_price": 2.3413,
       "last_funding_ms": 1794988800001,
       "_last_logged_stop": 2.3157761568201973
     },
@@ -177,8 +177,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 13:00:00 MYT",
-      "last_check_ms": 1794997377367,
-      "last_price": 0.01411,
+      "last_check_ms": 1794997420785,
+      "last_price": 0.01413,
       "last_funding_ms": 1794988800001
     },
     {
@@ -220,8 +220,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 17:15:00 MYT",
-      "last_check_ms": 1794997378003,
-      "last_price": 0.01157
+      "last_check_ms": 1794997421105,
+      "last_price": 0.01156
     },
     {
       "id": "FHF-20261118-1815-PIPPINUSDT",
@@ -262,8 +262,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 18:15:00 MYT",
-      "last_check_ms": 1794997378332,
-      "last_price": 0.02078
+      "last_check_ms": 1794997421413,
+      "last_price": 0.02124
     }
   ]
 }
