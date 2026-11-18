@@ -1109,3 +1109,6 @@
 2026-11-18 16:06:10,265 INFO decision skip {"symbol": "ZROUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 3.03, "reason": "already holding"}
 2026-11-18 16:06:10,265 INFO decision skip {"symbol": "ADAUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.64, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
 2026-11-18 16:06:13,249 INFO decision trail_update {"symbol": "HUMAUSDT", "stop": 0.007937470221207183, "best": 0.008097}
+2026-11-18 16:10:18,882 INFO decision close {"symbol": "ZROUSDT", "reason": "trail_stop", "fill": 1.3073576140118086, "net": 0.3619, "R": 1.0}
+2026-11-18 16:10:19,181 INFO decision close {"symbol": "AKEUSDT", "reason": "stop", "fill": 0.010303734897080046, "net": -0.4254, "R": -1.01}
+2026-11-18 16:10:20,027 INFO decision close {"symbol": "HUMAUSDT", "reason": "trail_stop", "fill": 0.007989871927162943, "net": 1.0365, "R": 2.47}

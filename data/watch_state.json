@@ -378,46 +378,6 @@
       "group": "合約高頻組"
     },
     {
-      "id": "FHF-20261118-2315-ZROUSDT",
-      "symbol": "ZROUSDT",
-      "side": "SELL",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 1.3315336400000002,
-      "entry_time": "2026-11-18 23:15:00 MYT",
-      "qty": 15.8,
-      "remaining_qty": 15.8,
-      "stop": 1.307096194772854,
-      "initial_stop": 1.3530298347728542,
-      "R": 0.021496194772854055,
-      "targets": [],
-      "high_since_entry": 1.3429,
-      "low_since_entry": 1.2856,
-      "exit_deadline": "2026-11-19 23:15:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
-      "id": "FHF-20261118-2315-AKEUSDT",
-      "symbol": "AKEUSDT",
-      "side": "BUY",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 0.0105681132,
-      "entry_time": "2026-11-18 23:15:00 MYT",
-      "qty": 1545.0,
-      "remaining_qty": 1545.0,
-      "stop": 0.010305796056291304,
-      "initial_stop": 0.010305796056291304,
-      "R": 0.0002623171437086964,
-      "targets": [],
-      "high_since_entry": 0.0105681132,
-      "low_since_entry": 0.010323,
-      "exit_deadline": "2026-11-19 23:15:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
       "id": "FHF-20261118-2315-INJUSDT",
       "symbol": "INJUSDT",
       "side": "SELL",
@@ -436,27 +396,7 @@
       "exit_deadline": "2026-11-19 23:15:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
-    },
-    {
-      "id": "FHF-20261118-2330-HUMAUSDT",
-      "symbol": "HUMAUSDT",
-      "side": "BUY",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 0.007576515,
-      "entry_time": "2026-11-18 23:30:00 MYT",
-      "qty": 2511.0,
-      "remaining_qty": 2511.0,
-      "stop": 0.007937470221207183,
-      "initial_stop": 0.007416985221207183,
-      "R": 0.00015952977879281702,
-      "targets": [],
-      "high_since_entry": 0.008097,
-      "low_since_entry": 0.007417,
-      "exit_deadline": "2026-11-19 23:30:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-19 00:06:14 MYT"
+  "paper_updated_at": "2026-11-19 00:10:21 MYT"
 }
