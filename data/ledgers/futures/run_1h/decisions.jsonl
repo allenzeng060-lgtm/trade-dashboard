@@ -227,3 +227,4 @@
 {"time": "2026-11-18 20:04:05 MYT", "kind": "scan", "bar_close": "2026-11-18 20:00:00 MYT", "breakouts": 2, "vol_ok": 1, "allow": "SELL"}
 {"time": "2026-11-18 20:04:05 MYT", "kind": "skip", "symbol": "BREVUSDT", "side": "SELL", "tf": "1h", "vol_ratio": 3.05, "reason": "same-direction cap 2 (v0.2 correlation cap)"}
 {"time": "2026-11-18 20:48:55 MYT", "kind": "trail_update", "symbol": "XAUTUSDT", "stop": 3771.3191631883296, "best": 3740.87}
+{"time": "2026-11-18 20:53:56 MYT", "kind": "trail_update", "symbol": "XAUTUSDT", "stop": 3769.7791631883297, "best": 3739.33}
