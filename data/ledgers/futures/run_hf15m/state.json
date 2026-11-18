@@ -8,21 +8,12 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-19 02:46:44 MYT",
-    "bar_close": "2026-11-19 02:45:00 MYT",
-    "universe": 72,
-    "breakouts": [
-      {
-        "symbol": "ARIAUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 0.24,
-        "close": 0.2436,
-        "vol_ratio": 1.0165
-      }
-    ],
+    "time": "2026-11-19 03:02:04 MYT",
+    "bar_close": "2026-11-19 03:00:00 MYT",
+    "universe": 71,
+    "breakouts": [],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1795027500000,
+  "last_scan_bar_ms": 1795028400000,
   "last_equity_ts": 1795026382.1214805
 }

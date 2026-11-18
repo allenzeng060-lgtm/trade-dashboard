@@ -8,29 +8,21 @@
     "reason": "BTC 4h close 63122.53 < filter 67568 → shorts only"
   },
   "last_scan": {
-    "time": "2026-11-19 02:06:39 MYT",
-    "bar_close": "2026-11-19 02:00:00 MYT",
-    "universe": 73,
+    "time": "2026-11-19 03:01:48 MYT",
+    "bar_close": "2026-11-19 03:00:00 MYT",
+    "universe": 71,
     "breakouts": [
       {
-        "symbol": "HUMAUSDT",
-        "side": "BUY",
+        "symbol": "LITUSDT",
+        "side": "SELL",
         "tf": "1h",
-        "level": 0.0082,
-        "close": 0.0085,
-        "vol_ratio": 4.4385
-      },
-      {
-        "symbol": "EVAAUSDT",
-        "side": "BUY",
-        "tf": "1h",
-        "level": 3.9854,
-        "close": 4.0198,
-        "vol_ratio": 0.7483
+        "level": 2.7193,
+        "close": 2.7153,
+        "vol_ratio": 0.5255
       }
     ],
     "regime": "SELL"
   },
-  "last_scan_bar_ms": 1795024800000,
+  "last_scan_bar_ms": 1795028400000,
   "last_equity_ts": 1795025472.5546527
 }

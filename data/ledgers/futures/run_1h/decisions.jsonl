@@ -263,3 +263,5 @@
 {"time": "2026-11-19 02:06:27 MYT", "kind": "regime", "allow": "SELL", "btc_close": 63122.53, "ref": 67568.0, "new_low": true, "reason": "BTC 4h close 63122.53 < filter 67568 → shorts only"}
 {"time": "2026-11-19 02:06:39 MYT", "kind": "scan", "bar_close": "2026-11-19 02:00:00 MYT", "breakouts": 2, "vol_ok": 1, "allow": "SELL"}
 {"time": "2026-11-19 02:06:39 MYT", "kind": "skip", "symbol": "HUMAUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 4.44, "reason": "direction filter: BTC 4h close 63122.53 < filter 67568 → shorts only"}
+{"time": "2026-11-19 03:01:36 MYT", "kind": "regime", "allow": "SELL", "btc_close": 63122.53, "ref": 67568.0, "new_low": true, "reason": "BTC 4h close 63122.53 < filter 67568 → shorts only"}
+{"time": "2026-11-19 03:01:48 MYT", "kind": "scan", "bar_close": "2026-11-19 03:00:00 MYT", "breakouts": 1, "vol_ok": 0, "allow": "SELL"}

@@ -3,7 +3,7 @@
   "set": "1h",
   "mode": "paper",
   "rules": "v0.2-1h",
-  "updated_at": "2026-11-19 02:56:51 MYT",
+  "updated_at": "2026-11-19 03:01:49 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -17,9 +17,9 @@
     "regime": "spot_level"
   },
   "wallet_usdt": 97.8587,
-  "unrealized_usdt": -0.0999,
-  "equity_usdt": 97.7589,
-  "pnl_pct": -2.241,
+  "unrealized_usdt": 0.1601,
+  "equity_usdt": 98.0188,
+  "pnl_pct": -1.981,
   "regime": {
     "allow": "SELL",
     "btc_close": 63122.53,
@@ -27,25 +27,17 @@
     "reason": "BTC 4h close 63122.53 < filter 67568 → shorts only"
   },
   "last_scan": {
-    "time": "2026-11-19 02:06:39 MYT",
-    "bar_close": "2026-11-19 02:00:00 MYT",
-    "universe": 73,
+    "time": "2026-11-19 03:01:48 MYT",
+    "bar_close": "2026-11-19 03:00:00 MYT",
+    "universe": 71,
     "breakouts": [
       {
-        "symbol": "HUMAUSDT",
-        "side": "BUY",
+        "symbol": "LITUSDT",
+        "side": "SELL",
         "tf": "1h",
-        "level": 0.0082,
-        "close": 0.0085,
-        "vol_ratio": 4.4385
-      },
-      {
-        "symbol": "EVAAUSDT",
-        "side": "BUY",
-        "tf": "1h",
-        "level": 3.9854,
-        "close": 4.0198,
-        "vol_ratio": 0.7483
+        "level": 2.7193,
+        "close": 2.7153,
+        "vol_ratio": 0.5255
       }
     ],
     "regime": "SELL"
@@ -67,7 +59,7 @@
       "R": 0.0008093927092204283,
       "trail_armed": false,
       "funding": -0.05764167,
-      "last_price": 0.009766,
+      "last_price": 0.009725,
       "exit_deadline": "2026-11-19 09:00:00 MYT",
       "signal_tf": "1h",
       "vol_ratio": 3.85
@@ -88,7 +80,7 @@
       "R": 35.44587940260692,
       "trail_armed": false,
       "funding": -0.00051906,
-      "last_price": 1770.38,
+      "last_price": 1762.38,
       "exit_deadline": "2026-11-20 23:00:00 MYT",
       "signal_tf": "1h",
       "vol_ratio": 2.67
