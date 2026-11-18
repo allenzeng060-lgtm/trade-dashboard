@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794961151185,
-      "last_price": 0.3107,
+      "last_check_ms": 1794961441060,
+      "last_price": 0.31,
       "last_funding_ms": 1794960000000
     },
     {
@@ -90,8 +90,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794961151475,
-      "last_price": 0.1547,
+      "last_check_ms": 1794961441292,
+      "last_price": 0.1545,
       "last_funding_ms": 1794960000000
     },
     {
@@ -133,8 +133,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794961151767,
-      "last_price": 0.9811,
+      "last_check_ms": 1794961441523,
+      "last_price": 0.9807,
       "last_funding_ms": 1794960000000
     },
     {
@@ -176,8 +176,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794961152058,
-      "last_price": 7.265,
+      "last_check_ms": 1794961441752,
+      "last_price": 7.257,
       "last_funding_ms": 1794960000000
     },
     {
@@ -213,14 +213,14 @@
       "risk_usdt": 0.25281381106308665,
       "entry_fee": 0.01091378232,
       "funding": -0.0011068,
-      "best": 198.34,
-      "high_since_entry": 198.34,
+      "best": 198.81,
+      "high_since_entry": 198.81,
       "low_since_entry": 194.71,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 07:00:00 MYT",
-      "last_check_ms": 1794961152348,
-      "last_price": 197.74,
+      "last_check_ms": 1794961441983,
+      "last_price": 198.37,
       "last_funding_ms": 1794960000000
     },
     {
@@ -262,8 +262,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 07:15:00 MYT",
-      "last_check_ms": 1794961152641,
-      "last_price": 597.68,
+      "last_check_ms": 1794961442428,
+      "last_price": 597.12,
       "last_funding_ms": 1794960000000
     }
   ]
