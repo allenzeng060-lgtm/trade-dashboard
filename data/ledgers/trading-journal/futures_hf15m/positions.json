@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794997089849,
-      "last_price": 0.3081,
+      "last_check_ms": 1794997376361,
+      "last_price": 0.3085,
       "last_funding_ms": 1794988800001
     },
     {
@@ -90,8 +90,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 07:00:00 MYT",
-      "last_check_ms": 1794997090111,
-      "last_price": 195.86,
+      "last_check_ms": 1794997376716,
+      "last_price": 195.76,
       "last_funding_ms": 1794988800001
     },
     {
@@ -120,23 +120,23 @@
       "margin": 5.695538880000001,
       "liq_price": 1.46039458,
       "mmr": 0.025,
-      "stop": 2.2985761568201974,
+      "stop": 2.3157761568201973,
       "initial_stop": 2.0856032368201975,
       "R": 0.05022384317980284,
       "stop_pct": 2.351,
       "risk_usdt": 0.4186764667057035,
       "entry_fee": 0.008543308320000002,
       "funding": -0.00310825,
-      "best": 2.3488,
-      "high_since_entry": 2.3488,
+      "best": 2.366,
+      "high_since_entry": 2.366,
       "low_since_entry": 2.115,
       "trail_armed": true,
       "targets": [],
       "exit_deadline": "2026-11-19 10:15:00 MYT",
-      "last_check_ms": 1794997090377,
-      "last_price": 2.3406,
+      "last_check_ms": 1794997377038,
+      "last_price": 2.3497,
       "last_funding_ms": 1794988800001,
-      "_last_logged_stop": 2.2985761568201974
+      "_last_logged_stop": 2.3157761568201973
     },
     {
       "id": "FHF-20261118-1300-龙虾USDT",
@@ -177,8 +177,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 13:00:00 MYT",
-      "last_check_ms": 1794997090646,
-      "last_price": 0.0141,
+      "last_check_ms": 1794997377367,
+      "last_price": 0.01411,
       "last_funding_ms": 1794988800001
     },
     {
@@ -220,8 +220,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 17:15:00 MYT",
-      "last_check_ms": 1794997090913,
-      "last_price": 0.01161
+      "last_check_ms": 1794997378003,
+      "last_price": 0.01157
     },
     {
       "id": "FHF-20261118-1815-PIPPINUSDT",
@@ -256,14 +256,14 @@
       "risk_usdt": 0.42067235575416445,
       "entry_fee": 0.0026334915930000006,
       "funding": 0.0,
-      "best": 0.02092,
-      "high_since_entry": 0.02092,
-      "low_since_entry": 0.02028,
+      "best": 0.02174,
+      "high_since_entry": 0.02174,
+      "low_since_entry": 0.02008,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 18:15:00 MYT",
-      "last_check_ms": 1794997091178,
-      "last_price": 0.02054
+      "last_check_ms": 1794997378332,
+      "last_price": 0.02078
     }
   ]
 }
