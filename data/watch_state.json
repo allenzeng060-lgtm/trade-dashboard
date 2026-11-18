@@ -451,12 +451,12 @@
       "initial_stop": 3755.4562877170347,
       "R": 11.655197717034188,
       "targets": [],
-      "high_since_entry": 3749.51,
+      "high_since_entry": 3755.36,
       "low_since_entry": 3736.35,
       "exit_deadline": "2026-11-19 20:45:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-18 21:05:06 MYT"
+  "paper_updated_at": "2026-11-18 21:09:11 MYT"
 }
