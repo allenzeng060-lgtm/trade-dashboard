@@ -1054,3 +1054,9 @@
 2026-11-18 14:49:57,585 INFO decision skip {"symbol": "ONDOUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 3.21, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
 2026-11-18 14:49:57,585 INFO decision skip {"symbol": "INJUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.49, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
 2026-11-18 14:59:48,202 INFO decision close {"symbol": "EVAAUSDT", "reason": "stop", "fill": 3.6928320378453283, "net": -0.4199, "R": -1.0}
+2026-11-18 15:05:20,720 INFO decision close {"symbol": "BNBUSDT", "reason": "stop", "fill": 588.6275461625139, "net": -0.1009, "R": -1.04}
+2026-11-18 15:05:21,313 INFO decision close {"symbol": "SOLUSDT", "reason": "stop", "fill": 74.34863224635276, "net": -0.1981, "R": -1.02}
+2026-11-18 15:05:22,120 INFO decision close {"symbol": "HYPEUSDT", "reason": "stop", "fill": 67.40319314911682, "net": -0.2441, "R": -1.02}
+2026-11-18 15:05:23,047 INFO decision regime {"allow": "ANY", "btc_close": 64231.52, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+2026-11-18 15:05:31,148 INFO decision scan {"bar_close": "2026-11-18 23:00:00 MYT", "breakouts": 4, "vol_ok": 1, "allow": "ANY"}
+2026-11-18 15:05:31,292 INFO decision open {"symbol": "ZILUSDT", "side": "BUY", "entry": 0.0011432285999999998, "stop": 0.0010923587886895669, "qty": 8034.0, "lev": 2, "liq": 0.00058328, "risk": 0.418}

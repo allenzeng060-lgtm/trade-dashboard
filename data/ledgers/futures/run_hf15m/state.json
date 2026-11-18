@@ -8,149 +8,45 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-18 22:49:57 MYT",
-    "bar_close": "2026-11-18 22:45:00 MYT",
+    "time": "2026-11-18 23:05:31 MYT",
+    "bar_close": "2026-11-18 23:00:00 MYT",
     "universe": 74,
     "breakouts": [
       {
-        "symbol": "BTCUSDT",
-        "side": "SELL",
+        "symbol": "ZILUSDT",
+        "side": "BUY",
         "tf": "15m",
-        "level": 63855.0,
-        "close": 63290.4,
-        "vol_ratio": 6.5793
+        "level": 0.0011,
+        "close": 0.0011,
+        "vol_ratio": 5.8204
       },
       {
-        "symbol": "ETHUSDT",
-        "side": "SELL",
+        "symbol": "AKEUSDT",
+        "side": "BUY",
         "tf": "15m",
-        "level": 1786.78,
-        "close": 1765.52,
-        "vol_ratio": 7.3264
+        "level": 0.0105,
+        "close": 0.0105,
+        "vol_ratio": 1.0484
       },
       {
-        "symbol": "LINKUSDT",
-        "side": "SELL",
+        "symbol": "BTWUSDT",
+        "side": "BUY",
         "tf": "15m",
-        "level": 9.102,
-        "close": 9.064,
-        "vol_ratio": 4.0423
+        "level": 0.4928,
+        "close": 0.4948,
+        "vol_ratio": 0.8247
       },
       {
-        "symbol": "ZECUSDT",
+        "symbol": "GRAMUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 928.05,
-        "close": 927.7,
-        "vol_ratio": 3.7279
-      },
-      {
-        "symbol": "BNBUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 588.2,
-        "close": 585.97,
-        "vol_ratio": 7.7214
-      },
-      {
-        "symbol": "SOLUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 74.05,
-        "close": 73.73,
-        "vol_ratio": 5.3155
-      },
-      {
-        "symbol": "UNIUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 5.175,
-        "close": 5.157,
-        "vol_ratio": 4.8228
-      },
-      {
-        "symbol": "AVAXUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 7.054,
-        "close": 7.034,
-        "vol_ratio": 4.4934
-      },
-      {
-        "symbol": "NEARUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 3.309,
-        "close": 3.299,
-        "vol_ratio": 3.4517
-      },
-      {
-        "symbol": "FILUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 0.5873,
-        "close": 0.586,
-        "vol_ratio": 4.1517
-      },
-      {
-        "symbol": "INJUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 7.183,
-        "close": 7.177,
-        "vol_ratio": 2.49
-      },
-      {
-        "symbol": "APTUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 0.4344,
-        "close": 0.4337,
-        "vol_ratio": 4.7015
-      },
-      {
-        "symbol": "ARBUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 0.128,
-        "close": 0.1275,
-        "vol_ratio": 4.377
-      },
-      {
-        "symbol": "SUIUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 0.7205,
-        "close": 0.719,
-        "vol_ratio": 3.9088
-      },
-      {
-        "symbol": "ONDOUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 0.3038,
-        "close": 0.303,
-        "vol_ratio": 3.2125
-      },
-      {
-        "symbol": "TAOUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 193.8,
-        "close": 193.02,
-        "vol_ratio": 4.2836
-      },
-      {
-        "symbol": "HYPEUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 67.596,
-        "close": 66.696,
-        "vol_ratio": 4.7992
+        "level": 1.011,
+        "close": 1.01,
+        "vol_ratio": 1.5715
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1795013100000,
-  "last_equity_ts": 1795013988.2032132
+  "last_scan_bar_ms": 1795014000000,
+  "last_equity_ts": 1795014331.292793
 }

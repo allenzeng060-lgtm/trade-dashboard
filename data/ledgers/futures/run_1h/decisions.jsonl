@@ -238,3 +238,8 @@
 {"time": "2026-11-18 22:04:42 MYT", "kind": "scan", "bar_close": "2026-11-18 22:00:00 MYT", "breakouts": 4, "vol_ok": 2, "allow": "SELL"}
 {"time": "2026-11-18 22:04:42 MYT", "kind": "skip", "symbol": "PIEVERSEUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 13.26, "reason": "direction filter: BTC 4h close 64231.52 < filter 67568 → shorts only"}
 {"time": "2026-11-18 22:04:42 MYT", "kind": "skip", "symbol": "ZILUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 10.03, "reason": "direction filter: BTC 4h close 64231.52 < filter 67568 → shorts only"}
+{"time": "2026-11-18 23:05:07 MYT", "kind": "regime", "allow": "SELL", "btc_close": 64231.52, "ref": 67568.0, "new_low": false, "reason": "BTC 4h close 64231.52 < filter 67568 → shorts only"}
+{"time": "2026-11-18 23:05:18 MYT", "kind": "scan", "bar_close": "2026-11-18 23:00:00 MYT", "breakouts": 8, "vol_ok": 3, "allow": "SELL"}
+{"time": "2026-11-18 23:05:18 MYT", "kind": "skip", "symbol": "PIEVERSEUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 18.87, "reason": "direction filter: BTC 4h close 64231.52 < filter 67568 → shorts only"}
+{"time": "2026-11-18 23:05:18 MYT", "kind": "skip", "symbol": "ZILUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 8.23, "reason": "direction filter: BTC 4h close 64231.52 < filter 67568 → shorts only"}
+{"time": "2026-11-18 23:05:18 MYT", "kind": "open", "symbol": "ETHUSDT", "side": "SELL", "entry": 1774.8749540000001, "stop": 1810.3208334026071, "qty": 0.026000000000000002, "lev": 3, "liq": 2357.07165206, "risk": 0.968}
