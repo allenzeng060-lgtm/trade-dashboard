@@ -297,12 +297,32 @@
       "initial_stop": 0.20110239689126216,
       "R": 0.018141443108737835,
       "targets": [],
-      "high_since_entry": 0.2459,
+      "high_since_entry": 0.2478,
       "low_since_entry": 0.2075,
       "exit_deadline": "2026-11-19 14:00:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
+    },
+    {
+      "id": "FHF-20261118-1600-XLMUSDT",
+      "symbol": "XLMUSDT",
+      "side": "BUY",
+      "mode": "paper",
+      "status": "open",
+      "entry_price": 0.142298454,
+      "entry_time": "2026-11-18 16:00:00 MYT",
+      "qty": 147.0,
+      "remaining_qty": 147.0,
+      "stop": 0.14128174989112335,
+      "initial_stop": 0.14128174989112335,
+      "R": 0.0010167041088766488,
+      "targets": [],
+      "high_since_entry": 0.14233,
+      "low_since_entry": 0.14215,
+      "exit_deadline": "2026-11-19 16:00:00 MYT",
+      "market": "usdm_perp",
+      "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-18 15:57:09 MYT"
+  "paper_updated_at": "2026-11-18 16:02:52 MYT"
 }

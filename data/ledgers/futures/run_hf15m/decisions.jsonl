@@ -978,3 +978,15 @@
 {"time": "2026-11-18 15:47:35 MYT", "kind": "trail_update", "symbol": "XRPUSDT", "stop": 0.9940642301334527, "best": 1.0033}
 {"time": "2026-11-18 15:52:00 MYT", "kind": "trail_update", "symbol": "XRPUSDT", "stop": 0.9952642301334526, "best": 1.0045}
 {"time": "2026-11-18 15:57:06 MYT", "kind": "trail_update", "symbol": "XRPUSDT", "stop": 0.9972642301334526, "best": 1.0065}
+{"time": "2026-11-18 16:02:38 MYT", "kind": "funding", "symbol": "ONDOUSDT", "rate": "0.00003607", "amount": -0.000802, "at": "2026-11-18 16:00:00 MYT"}
+{"time": "2026-11-18 16:02:38 MYT", "kind": "funding", "symbol": "XRPUSDT", "rate": "-0.00003639", "amount": 0.000824, "at": "2026-11-18 16:00:00 MYT"}
+{"time": "2026-11-18 16:02:38 MYT", "kind": "funding", "symbol": "TAOUSDT", "rate": "-0.00001071", "amount": 0.000236, "at": "2026-11-18 16:00:00 MYT"}
+{"time": "2026-11-18 16:02:38 MYT", "kind": "funding", "symbol": "PAXGUSDT", "rate": "0.00005000", "amount": 0.000942, "at": "2026-11-18 16:00:00 MYT"}
+{"time": "2026-11-18 16:02:39 MYT", "kind": "funding", "symbol": "PIEVERSEUSDT", "rate": "0.00010950", "amount": -0.001904, "at": "2026-11-18 16:00:00 MYT"}
+{"time": "2026-11-18 16:02:39 MYT", "kind": "funding", "symbol": "龙虾USDT", "rate": "0.00005000", "amount": 0.000336, "at": "2026-11-18 16:00:00 MYT"}
+{"time": "2026-11-18 16:02:39 MYT", "kind": "funding", "symbol": "MMTUSDT", "rate": "0.00000700", "amount": -3.8e-05, "at": "2026-11-18 16:00:00 MYT"}
+{"time": "2026-11-18 16:02:40 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64884.01, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-18 16:02:48 MYT", "kind": "scan", "bar_close": "2026-11-18 16:00:00 MYT", "breakouts": 6, "vol_ok": 2, "allow": "ANY"}
+{"time": "2026-11-18 16:02:48 MYT", "kind": "skip", "symbol": "XRPUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 4.83, "reason": "already holding"}
+{"time": "2026-11-18 16:02:49 MYT", "kind": "open", "symbol": "XLMUSDT", "side": "BUY", "entry": 0.142298454, "stop": 0.14128174989112335, "qty": 147.0, "lev": 3, "liq": 0.09582387, "risk": 0.17}
+{"time": "2026-11-18 16:02:51 MYT", "kind": "funding", "symbol": "XLMUSDT", "rate": "-0.00001376", "amount": 0.000288, "at": "2026-11-18 16:00:00 MYT"}

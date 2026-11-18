@@ -1,84 +1,68 @@
 {
   "last_regime": {
     "allow": "SELL",
-    "btc_close": 64457.96,
+    "btc_close": 64884.01,
     "ref": 67568.0,
     "mode": "spot_level",
     "new_low": false,
-    "reason": "BTC 4h close 64457.96 < filter 67568 → shorts only"
+    "reason": "BTC 4h close 64884.01 < filter 67568 → shorts only"
   },
   "last_scan": {
-    "time": "2026-11-18 15:01:56 MYT",
-    "bar_close": "2026-11-18 15:00:00 MYT",
-    "universe": 73,
+    "time": "2026-11-18 16:02:37 MYT",
+    "bar_close": "2026-11-18 16:00:00 MYT",
+    "universe": 76,
     "breakouts": [
       {
-        "symbol": "TRXUSDT",
+        "symbol": "XRPUSDT",
         "side": "BUY",
         "tf": "1h",
-        "level": 0.3086,
-        "close": 0.3092,
-        "vol_ratio": 1.2408
+        "level": 0.9911,
+        "close": 1.0014,
+        "vol_ratio": 1.8263
       },
       {
-        "symbol": "RAREUSDT",
-        "side": "SELL",
+        "symbol": "XLMUSDT",
+        "side": "BUY",
         "tf": "1h",
-        "level": 0.0119,
-        "close": 0.0119,
-        "vol_ratio": 0.3107
+        "level": 0.1421,
+        "close": 0.1423,
+        "vol_ratio": 0.8897
       },
       {
-        "symbol": "PHAUSDT",
-        "side": "SELL",
+        "symbol": "PIPPINUSDT",
+        "side": "BUY",
         "tf": "1h",
-        "level": 0.0312,
-        "close": 0.0312,
-        "vol_ratio": 1.0566
+        "level": 0.0113,
+        "close": 0.0161,
+        "vol_ratio": 129.4129
       },
       {
         "symbol": "PAXGUSDT",
         "side": "SELL",
         "tf": "1h",
-        "level": 3773.89,
-        "close": 3771.66,
-        "vol_ratio": 0.9205
+        "level": 3770.34,
+        "close": 3766.98,
+        "vol_ratio": 2.1162
       },
       {
-        "symbol": "ICNTUSDT",
+        "symbol": "SOPHUSDT",
         "side": "BUY",
         "tf": "1h",
-        "level": 0.2914,
-        "close": 0.3011,
-        "vol_ratio": 13.4403
-      },
-      {
-        "symbol": "BLESSUSDT",
-        "side": "BUY",
-        "tf": "1h",
-        "level": 0.0111,
-        "close": 0.012,
-        "vol_ratio": 1.5922
-      },
-      {
-        "symbol": "MMTUSDT",
-        "side": "BUY",
-        "tf": "1h",
-        "level": 0.2228,
-        "close": 0.2311,
-        "vol_ratio": 40.7162
+        "level": 0.001,
+        "close": 0.001,
+        "vol_ratio": 0.8867
       },
       {
         "symbol": "XAUTUSDT",
         "side": "SELL",
         "tf": "1h",
-        "level": 3770.58,
-        "close": 3769.29,
-        "vol_ratio": 1.0904
+        "level": 3767.5,
+        "close": 3765.7,
+        "vol_ratio": 1.3891
       }
     ],
     "regime": "SELL"
   },
-  "last_scan_bar_ms": 1794985200000,
+  "last_scan_bar_ms": 1794988800000,
   "last_equity_ts": 1794985904.0724523
 }
