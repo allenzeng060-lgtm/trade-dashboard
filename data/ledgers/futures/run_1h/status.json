@@ -3,7 +3,7 @@
   "set": "1h",
   "mode": "paper",
   "rules": "v0.2-1h",
-  "updated_at": "2026-11-18 10:59:59 MYT",
+  "updated_at": "2026-11-18 11:05:17 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -17,9 +17,9 @@
     "regime": "spot_level"
   },
   "wallet_usdt": 97.3901,
-  "unrealized_usdt": 0.0006,
-  "equity_usdt": 97.3906,
-  "pnl_pct": -2.609,
+  "unrealized_usdt": -0.1349,
+  "equity_usdt": 97.2552,
+  "pnl_pct": -2.745,
   "regime": {
     "allow": "SELL",
     "btc_close": 64947.35,
@@ -27,41 +27,33 @@
     "reason": "BTC 4h close 64947.35 < filter 67568 → shorts only"
   },
   "last_scan": {
-    "time": "2026-11-18 10:05:06 MYT",
-    "bar_close": "2026-11-18 10:00:00 MYT",
+    "time": "2026-11-18 11:05:16 MYT",
+    "bar_close": "2026-11-18 11:00:00 MYT",
     "universe": 73,
     "breakouts": [
-      {
-        "symbol": "PHAUSDT",
-        "side": "SELL",
-        "tf": "1h",
-        "level": 0.0318,
-        "close": 0.0317,
-        "vol_ratio": 1.1311
-      },
       {
         "symbol": "PAXGUSDT",
         "side": "SELL",
         "tf": "1h",
-        "level": 3806.25,
-        "close": 3802.56,
-        "vol_ratio": 1.8056
+        "level": 3797.55,
+        "close": 3790.88,
+        "vol_ratio": 1.606
       },
       {
-        "symbol": "EVAAUSDT",
-        "side": "SELL",
+        "symbol": "PIEVERSEUSDT",
+        "side": "BUY",
         "tf": "1h",
-        "level": 3.1661,
-        "close": 3.1475,
-        "vol_ratio": 0.9866
+        "level": 2.1322,
+        "close": 2.1611,
+        "vol_ratio": 1.7187
       },
       {
         "symbol": "XAUTUSDT",
         "side": "SELL",
         "tf": "1h",
-        "level": 3803.43,
-        "close": 3798.8,
-        "vol_ratio": 1.3944
+        "level": 3794.6,
+        "close": 3787.86,
+        "vol_ratio": 1.7949
       }
     ],
     "regime": "SELL"
@@ -83,7 +75,7 @@
       "R": 0.0008093927092204283,
       "trail_armed": false,
       "funding": -0.05576264,
-      "last_price": 0.009762,
+      "last_price": 0.00983,
       "exit_deadline": "2026-11-19 09:00:00 MYT",
       "signal_tf": "1h",
       "vol_ratio": 3.85
@@ -104,7 +96,7 @@
       "R": 30.449163188329955,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 3788.16,
+      "last_price": 3791.27,
       "exit_deadline": "2026-11-20 09:00:00 MYT",
       "signal_tf": "1h",
       "vol_ratio": 2.04

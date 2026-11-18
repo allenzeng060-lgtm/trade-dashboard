@@ -820,3 +820,5 @@
 2026-11-18 02:49:59,174 INFO decision close {"symbol": "AVAXUSDT", "reason": "stop", "fill": 7.123713516398711, "net": -0.2772, "R": -1.02}
 2026-11-18 02:50:02,987 INFO decision regime {"allow": "ANY", "btc_close": 64947.35, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
 2026-11-18 02:50:16,236 INFO decision scan {"bar_close": "2026-11-18 10:45:00 MYT", "breakouts": 6, "vol_ok": 0, "allow": "ANY"}
+2026-11-18 03:05:20,162 INFO decision regime {"allow": "ANY", "btc_close": 64947.35, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+2026-11-18 03:05:32,209 INFO decision scan {"bar_close": "2026-11-18 11:00:00 MYT", "breakouts": 5, "vol_ok": 0, "allow": "ANY"}
