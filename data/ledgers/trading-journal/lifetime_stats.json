@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18 22:35:03 MYT",
+ "updated_at": "2026-11-18 22:39:41 MYT",
  "mode": "paper",
  "note": "累計統計（不因補充本金重置）。gross_profit=獲利單淨損益合計，gross_loss=虧損單淨損益合計，皆已扣手續費。",
  "groups": {
@@ -54,7 +54,7 @@
    "capital_injected_usdt": 100.0,
    "current_cycle": 1,
    "ledger": "/home/runner/work/trade-dashboard/trade-dashboard/data-repo/data/ledgers/trading-journal/futures/trades.csv",
-   "current_equity_usdt": 95.1024
+   "current_equity_usdt": 95.2816
   },
   "futures_1h": {
    "label": "合約1h組",
@@ -72,38 +72,38 @@
    "capital_injected_usdt": 100.0,
    "current_cycle": 1,
    "ledger": "/home/runner/work/trade-dashboard/trade-dashboard/data-repo/data/ledgers/trading-journal/futures_1h/trades.csv",
-   "current_equity_usdt": 97.7257
+   "current_equity_usdt": 97.7093
   },
   "futures_hf15m": {
    "label": "合約高頻組（15m）",
-   "trades": 142,
+   "trades": 144,
    "wins": 34,
-   "losses": 108,
-   "win_rate_pct": 23.9,
+   "losses": 110,
+   "win_rate_pct": 23.6,
    "gross_profit_usdt": 23.7099,
-   "gross_loss_usdt": -38.6421,
-   "net_pnl_usdt": -14.9322,
-   "profit_factor": 0.614,
-   "fees_paid_usdt": 2.2861,
-   "funding_usdt": 0.079,
+   "gross_loss_usdt": -39.2031,
+   "net_pnl_usdt": -15.4933,
+   "profit_factor": 0.605,
+   "fees_paid_usdt": 2.3297,
+   "funding_usdt": 0.0737,
    "refills": 0,
    "capital_injected_usdt": 100.0,
    "current_cycle": 1,
    "ledger": "/home/runner/work/trade-dashboard/trade-dashboard/data-repo/data/ledgers/trading-journal/futures_hf15m/trades.csv",
-   "current_equity_usdt": 85.6746
+   "current_equity_usdt": 85.5406
   }
  },
  "total": {
-  "trades": 158,
+  "trades": 160,
   "wins": 36,
-  "losses": 122,
-  "win_rate_pct": 22.8,
+  "losses": 124,
+  "win_rate_pct": 22.5,
   "gross_profit_usdt": 26.1352,
-  "gross_loss_usdt": -52.0971,
-  "net_pnl_usdt": -25.9619,
-  "profit_factor": 0.502,
-  "fees_paid_usdt": 2.9499,
-  "funding_usdt": 0.0213,
+  "gross_loss_usdt": -52.6582,
+  "net_pnl_usdt": -26.523,
+  "profit_factor": 0.496,
+  "fees_paid_usdt": 2.9935,
+  "funding_usdt": 0.016,
   "refills": 0,
   "capital_injected_usdt": 500.0
  }

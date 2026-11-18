@@ -1032,3 +1032,5 @@
 2026-11-18 14:34:40,877 INFO decision regime {"allow": "ANY", "btc_close": 64231.52, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
 2026-11-18 14:34:56,913 INFO decision scan {"bar_close": "2026-11-18 22:30:00 MYT", "breakouts": 2, "vol_ok": 1, "allow": "ANY"}
 2026-11-18 14:34:57,188 INFO decision open {"symbol": "EVAAUSDT", "side": "BUY", "entry": 3.9222843, "stop": 3.6935707519957273, "qty": 1.8, "lev": 2, "liq": 2.06436016, "risk": 0.419}
+2026-11-18 14:39:39,288 INFO decision close {"symbol": "ONDOUSDT", "reason": "stop", "fill": 0.303013823428584, "net": -0.3019, "R": -1.03}
+2026-11-18 14:39:39,523 INFO decision close {"symbol": "TAOUSDT", "reason": "stop", "fill": 192.78699598312247, "net": -0.2591, "R": -1.03}
