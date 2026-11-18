@@ -888,3 +888,6 @@
 {"time": "2026-11-18 09:34:30 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64947.35, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
 {"time": "2026-11-18 09:34:43 MYT", "kind": "scan", "bar_close": "2026-11-18 09:30:00 MYT", "breakouts": 3, "vol_ok": 1, "allow": "ANY"}
 {"time": "2026-11-18 09:34:43 MYT", "kind": "open", "symbol": "BREVUSDT", "side": "BUY", "entry": 0.128985792, "stop": 0.12011112520111938, "qty": 48.0, "lev": 1, "liq": 0.0, "risk": 0.432}
+{"time": "2026-11-18 09:49:36 MYT", "kind": "close", "symbol": "BREVUSDT", "reason": "stop", "fill": 0.12008710297607916, "net": -0.4331, "R": -1.0}
+{"time": "2026-11-18 09:49:38 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64947.35, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-18 09:49:50 MYT", "kind": "scan", "bar_close": "2026-11-18 09:45:00 MYT", "breakouts": 3, "vol_ok": 0, "allow": "ANY"}

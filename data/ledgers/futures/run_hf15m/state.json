@@ -8,37 +8,37 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-18 09:34:43 MYT",
-    "bar_close": "2026-11-18 09:30:00 MYT",
+    "time": "2026-11-18 09:49:50 MYT",
+    "bar_close": "2026-11-18 09:45:00 MYT",
     "universe": 73,
     "breakouts": [
       {
-        "symbol": "CROSSUSDT",
-        "side": "SELL",
+        "symbol": "FHEUSDT",
+        "side": "BUY",
         "tf": "15m",
-        "level": 0.1495,
-        "close": 0.1441,
-        "vol_ratio": 1.03
+        "level": 0.0156,
+        "close": 0.0158,
+        "vol_ratio": 1.3062
       },
       {
         "symbol": "ARIAUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.2342,
-        "close": 0.235,
-        "vol_ratio": 0.4084
+        "level": 0.2354,
+        "close": 0.2356,
+        "vol_ratio": 0.4868
       },
       {
-        "symbol": "BREVUSDT",
+        "symbol": "龙虾USDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.1129,
-        "close": 0.129,
-        "vol_ratio": 5.1099
+        "level": 0.0159,
+        "close": 0.0162,
+        "vol_ratio": 0.6737
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794965400000,
-  "last_equity_ts": 1794965683.5754414
+  "last_scan_bar_ms": 1794966300000,
+  "last_equity_ts": 1794966576.5824566
 }
