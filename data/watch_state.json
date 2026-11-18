@@ -422,28 +422,8 @@
       "R": 0.0003129298754599081,
       "targets": [],
       "high_since_entry": 0.008921,
-      "low_since_entry": 0.008319,
+      "low_since_entry": 0.008241,
       "exit_deadline": "2026-11-20 01:15:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
-      "id": "FHF-20261119-0200-PIPPINUSDT",
-      "symbol": "PIPPINUSDT",
-      "side": "BUY",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 0.019893978,
-      "entry_time": "2026-11-19 02:00:00 MYT",
-      "qty": 276.0,
-      "remaining_qty": 276.0,
-      "stop": 0.01841419064495284,
-      "initial_stop": 0.01841419064495284,
-      "R": 0.0014797873550471596,
-      "targets": [],
-      "high_since_entry": 0.02235,
-      "low_since_entry": 0.01931,
-      "exit_deadline": "2026-11-20 02:00:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
     },
@@ -468,5 +448,5 @@
       "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-19 03:32:07 MYT"
+  "paper_updated_at": "2026-11-19 03:36:53 MYT"
 }

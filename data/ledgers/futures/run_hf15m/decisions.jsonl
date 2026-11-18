@@ -1271,3 +1271,4 @@
 {"time": "2026-11-19 03:16:54 MYT", "kind": "open", "symbol": "ZECUSDT", "side": "SELL", "entry": 908.1783280000001, "stop": 922.4636231075149, "qty": 0.022, "lev": 3, "liq": 1198.91528449, "risk": 0.334}
 {"time": "2026-11-19 03:31:49 MYT", "kind": "regime", "allow": "ANY", "btc_close": 63122.53, "ref": 67568.0, "new_low": true, "reason": "both directions allowed (hf set; BTC filter only reported)"}
 {"time": "2026-11-19 03:32:03 MYT", "kind": "scan", "bar_close": "2026-11-19 03:30:00 MYT", "breakouts": 1, "vol_ok": 0, "allow": "ANY"}
+{"time": "2026-11-19 03:36:52 MYT", "kind": "close", "symbol": "PIPPINUSDT", "reason": "stop", "fill": 0.01841050780682385, "net": -0.4147, "R": -1.0}
