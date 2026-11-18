@@ -8,29 +8,29 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-19 02:16:31 MYT",
-    "bar_close": "2026-11-19 02:15:00 MYT",
+    "time": "2026-11-19 02:31:36 MYT",
+    "bar_close": "2026-11-19 02:30:00 MYT",
     "universe": 72,
     "breakouts": [
       {
-        "symbol": "AKEUSDT",
+        "symbol": "PIPPINUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.0108,
-        "close": 0.011,
-        "vol_ratio": 4.7043
+        "level": 0.0212,
+        "close": 0.0214,
+        "vol_ratio": 3.5636
       },
       {
-        "symbol": "EVAAUSDT",
+        "symbol": "ARIAUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 4.0662,
-        "close": 4.0735,
-        "vol_ratio": 0.7719
+        "level": 0.2368,
+        "close": 0.2386,
+        "vol_ratio": 0.4002
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1795025700000,
+  "last_scan_bar_ms": 1795026600000,
   "last_equity_ts": 1795026382.1214805
 }
