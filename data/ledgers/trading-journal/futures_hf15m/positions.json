@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794985904529,
-      "last_price": 0.3092,
+      "last_check_ms": 1794986222630,
+      "last_price": 0.3097,
       "last_funding_ms": 1794974400000
     },
     {
@@ -77,22 +77,23 @@
       "margin": 7.337427192,
       "liq_price": 0.6525928,
       "mmr": 0.005,
-      "stop": 0.9647589901334526,
+      "stop": 0.9857642301334526,
       "initial_stop": 0.9647589901334526,
       "R": 0.009235769866547429,
       "stop_pct": 0.948,
       "risk_usdt": 0.23063631636047993,
       "entry_fee": 0.011006140788,
       "funding": -0.00100567,
-      "best": 0.9911,
-      "high_since_entry": 0.9911,
+      "best": 0.995,
+      "high_since_entry": 0.995,
       "low_since_entry": 0.9657,
-      "trail_armed": false,
+      "trail_armed": true,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794985904751,
-      "last_price": 0.9905,
-      "last_funding_ms": 1794960000000
+      "last_check_ms": 1794986222961,
+      "last_price": 0.9935,
+      "last_funding_ms": 1794960000000,
+      "_last_logged_stop": 0.9857642301334526
     },
     {
       "id": "FHF-20261118-0700-TAOUSDT",
@@ -133,8 +134,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 07:00:00 MYT",
-      "last_check_ms": 1794985904970,
-      "last_price": 196.59,
+      "last_check_ms": 1794986223288,
+      "last_price": 196.79,
       "last_funding_ms": 1794974400000
     },
     {
@@ -176,8 +177,8 @@
       "trail_armed": true,
       "targets": [],
       "exit_deadline": "2026-11-19 10:15:00 MYT",
-      "last_check_ms": 1794985905192,
-      "last_price": 3767.62,
+      "last_check_ms": 1794986223619,
+      "last_price": 3767.21,
       "last_funding_ms": 1794974400000,
       "_last_logged_stop": 3777.3011390017837
     },
@@ -220,8 +221,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 10:15:00 MYT",
-      "last_check_ms": 1794985905412,
-      "last_price": 2.1537,
+      "last_check_ms": 1794986224234,
+      "last_price": 2.1618,
       "last_funding_ms": 1794974400000
     },
     {
@@ -263,8 +264,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 13:00:00 MYT",
-      "last_check_ms": 1794985905633,
-      "last_price": 0.01419
+      "last_check_ms": 1794986224556,
+      "last_price": 0.01422
     },
     {
       "id": "FHF-20261118-1400-MMTUSDT",
@@ -305,8 +306,50 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 14:00:00 MYT",
-      "last_check_ms": 1794985906129,
-      "last_price": 0.2279
+      "last_check_ms": 1794986225181,
+      "last_price": 0.2249
+    },
+    {
+      "id": "FHF-20261118-1515-BLESSUSDT",
+      "symbol": "BLESSUSDT",
+      "side": "BUY",
+      "rules": "hf-15m-v0.1",
+      "cycle": 1,
+      "slippage": 0.0002,
+      "mode": "paper",
+      "status": "open",
+      "group": "合約高頻組",
+      "market": "usdm_perp",
+      "margin_type": "isolated",
+      "signal_tf": "15m",
+      "signal_bar_close_myt": "2026-11-18 15:15:00 MYT",
+      "vol_ratio": 5.75,
+      "breakout_level": 0.011999,
+      "entry_time": "2026-11-18 15:15:00 MYT",
+      "entry_ms": 1794986100000,
+      "entry_price": 0.012515502599999999,
+      "qty": 561.0,
+      "remaining_qty": 561.0,
+      "notional": 7.021196958599999,
+      "leverage": 2,
+      "margin": 3.5105984792999996,
+      "liq_price": 0.00638546,
+      "mmr": 0.02,
+      "stop": 0.011776978749638177,
+      "initial_stop": 0.011776978749638177,
+      "R": 0.0007385238503618229,
+      "stop_pct": 5.901,
+      "risk_usdt": 0.42112592107155616,
+      "entry_fee": 0.0035105984792999996,
+      "funding": 0.0,
+      "best": 0.012999,
+      "high_since_entry": 0.012999,
+      "low_since_entry": 0.012499,
+      "trail_armed": false,
+      "targets": [],
+      "exit_deadline": "2026-11-19 15:15:00 MYT",
+      "last_check_ms": 1794986225501,
+      "last_price": 0.012749
     }
   ]
 }

@@ -8,45 +8,101 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-18 15:02:13 MYT",
-    "bar_close": "2026-11-18 15:00:00 MYT",
-    "universe": 73,
+    "time": "2026-11-18 15:17:02 MYT",
+    "bar_close": "2026-11-18 15:15:00 MYT",
+    "universe": 74,
     "breakouts": [
+      {
+        "symbol": "XRPUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.9896,
+        "close": 0.9931,
+        "vol_ratio": 1.7316
+      },
       {
         "symbol": "TRXUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.309,
-        "close": 0.3092,
-        "vol_ratio": 1.7162
+        "level": 0.3092,
+        "close": 0.3097,
+        "vol_ratio": 1.3259
       },
       {
         "symbol": "KAVAUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.0295,
-        "close": 0.0296,
-        "vol_ratio": 1.2965
+        "level": 0.0299,
+        "close": 0.0305,
+        "vol_ratio": 1.9985
+      },
+      {
+        "symbol": "FILUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.6022,
+        "close": 0.6023,
+        "vol_ratio": 0.6653
+      },
+      {
+        "symbol": "ICPUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 2.297,
+        "close": 2.314,
+        "vol_ratio": 1.7053
+      },
+      {
+        "symbol": "SUIUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.733,
+        "close": 0.7335,
+        "vol_ratio": 0.799
+      },
+      {
+        "symbol": "ONDOUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.3087,
+        "close": 0.3094,
+        "vol_ratio": 0.7469
+      },
+      {
+        "symbol": "PAXGUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 3770.34,
+        "close": 3768.09,
+        "vol_ratio": 1.9226
       },
       {
         "symbol": "BLESSUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.0111,
-        "close": 0.012,
-        "vol_ratio": 3.6546
+        "level": 0.012,
+        "close": 0.0125,
+        "vol_ratio": 5.7472
       },
       {
         "symbol": "EVAAUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 3.6324,
-        "close": 3.6713,
-        "vol_ratio": 0.989
+        "level": 3.7205,
+        "close": 3.7352,
+        "vol_ratio": 0.6025
+      },
+      {
+        "symbol": "XAUTUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 3767.5,
+        "close": 3766.55,
+        "vol_ratio": 1.4272
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794985200000,
-  "last_equity_ts": 1794985906.7588892
+  "last_scan_bar_ms": 1794986100000,
+  "last_equity_ts": 1794986222.6299784
 }
