@@ -8,45 +8,45 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-18 11:35:32 MYT",
-    "bar_close": "2026-11-18 11:30:00 MYT",
+    "time": "2026-11-18 11:50:35 MYT",
+    "bar_close": "2026-11-18 11:45:00 MYT",
     "universe": 72,
     "breakouts": [
       {
-        "symbol": "XMRUSDT",
+        "symbol": "KAVAUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 512.54,
-        "close": 514.02,
-        "vol_ratio": 3.5011
-      },
-      {
-        "symbol": "ZROUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 1.3686,
-        "close": 1.3638,
-        "vol_ratio": 1.1009
+        "level": 0.0283,
+        "close": 0.0287,
+        "vol_ratio": 2.0514
       },
       {
         "symbol": "ASTERUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 0.557,
-        "close": 0.5558,
-        "vol_ratio": 0.7957
+        "level": 0.5534,
+        "close": 0.5519,
+        "vol_ratio": 0.6142
       },
       {
         "symbol": "BLESSUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.0105,
-        "close": 0.0106,
-        "vol_ratio": 0.2311
+        "level": 0.0107,
+        "close": 0.0108,
+        "vol_ratio": 0.4991
+      },
+      {
+        "symbol": "JCTUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.0021,
+        "close": 0.0021,
+        "vol_ratio": 0.8722
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794972600000,
-  "last_equity_ts": 1794972932.286863
+  "last_scan_bar_ms": 1794973500000,
+  "last_equity_ts": 1794973835.2807896
 }

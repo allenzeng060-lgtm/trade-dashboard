@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794973520314,
-      "last_price": 0.3073,
+      "last_check_ms": 1794973835280,
+      "last_price": 0.3076,
       "last_funding_ms": 1794960000000
     },
     {
@@ -90,8 +90,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794973520624,
-      "last_price": 0.9788,
+      "last_check_ms": 1794973835496,
+      "last_price": 0.9793,
       "last_funding_ms": 1794960000000
     },
     {
@@ -133,8 +133,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 07:00:00 MYT",
-      "last_check_ms": 1794973520853,
-      "last_price": 195.97,
+      "last_check_ms": 1794973835714,
+      "last_price": 196.49,
       "last_funding_ms": 1794960000000
     },
     {
@@ -176,8 +176,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 10:15:00 MYT",
-      "last_check_ms": 1794973521085,
-      "last_price": 3787.54
+      "last_check_ms": 1794973835934,
+      "last_price": 3785.99
     },
     {
       "id": "FHF-20261118-1015-PIEVERSEUSDT",
@@ -218,8 +218,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 10:15:00 MYT",
-      "last_check_ms": 1794973521316,
-      "last_price": 2.1674
+      "last_check_ms": 1794973836151,
+      "last_price": 2.1667
     },
     {
       "id": "FHF-20261118-1130-XMRUSDT",
@@ -256,12 +256,54 @@
       "funding": 0.0,
       "best": 514.83,
       "high_since_entry": 514.83,
-      "low_since_entry": 510.01,
+      "low_since_entry": 509.6,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 11:30:00 MYT",
-      "last_check_ms": 1794973521547,
-      "last_price": 510.46
+      "last_check_ms": 1794973836371,
+      "last_price": 509.86
+    },
+    {
+      "id": "FHF-20261118-1145-KAVAUSDT",
+      "symbol": "KAVAUSDT",
+      "side": "BUY",
+      "rules": "hf-15m-v0.1",
+      "cycle": 1,
+      "slippage": 0.0002,
+      "mode": "paper",
+      "status": "open",
+      "group": "合約高頻組",
+      "market": "usdm_perp",
+      "margin_type": "isolated",
+      "signal_tf": "15m",
+      "signal_bar_close_myt": "2026-11-18 11:45:00 MYT",
+      "vol_ratio": 2.05,
+      "breakout_level": 0.02825,
+      "entry_time": "2026-11-18 11:45:00 MYT",
+      "entry_ms": 1794973500000,
+      "entry_price": 0.02870574,
+      "qty": 660.5,
+      "remaining_qty": 660.5,
+      "notional": 18.96014127,
+      "leverage": 3,
+      "margin": 6.32004709,
+      "liq_price": 0.01942859,
+      "mmr": 0.015,
+      "stop": 0.028080457905267267,
+      "initial_stop": 0.028080457905267267,
+      "R": 0.0006252820947327336,
+      "stop_pct": 2.178,
+      "risk_usdt": 0.4317524654291851,
+      "entry_fee": 0.009480070635,
+      "funding": 0.0,
+      "best": 0.02871,
+      "high_since_entry": 0.02871,
+      "low_since_entry": 0.02848,
+      "trail_armed": false,
+      "targets": [],
+      "exit_deadline": "2026-11-19 11:45:00 MYT",
+      "last_check_ms": 1794973836590,
+      "last_price": 0.0286
     }
   ]
 }
