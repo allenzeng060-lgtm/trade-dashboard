@@ -976,3 +976,14 @@
 2026-11-18 11:48:37,330 INFO decision regime {"allow": "ANY", "btc_close": 64884.01, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
 2026-11-18 11:48:52,991 INFO decision scan {"bar_close": "2026-11-18 19:45:00 MYT", "breakouts": 3, "vol_ok": 0, "allow": "ANY"}
 2026-11-18 11:58:36,993 INFO decision close {"symbol": "ARBUSDT", "reason": "stop", "fill": 0.12938536797847858, "net": -0.1906, "R": -1.02}
+2026-11-18 12:04:06,307 INFO decision funding {"symbol": "ONDOUSDT", "rate": "0.00003631", "amount": -0.0008, "at": "2026-11-18 20:00:00 MYT"}
+2026-11-18 12:04:06,584 INFO decision funding {"symbol": "TAOUSDT", "rate": "0.00002471", "amount": -0.000541, "at": "2026-11-18 20:00:00 MYT"}
+2026-11-18 12:04:06,855 INFO decision funding {"symbol": "龙虾USDT", "rate": "0.00005000", "amount": 0.000363, "at": "2026-11-18 20:00:00 MYT"}
+2026-11-18 12:04:07,128 INFO decision funding {"symbol": "RAREUSDT", "rate": "-0.00162925", "amount": -0.026238, "at": "2026-11-18 20:00:00 MYT"}
+2026-11-18 12:04:07,392 INFO decision funding {"symbol": "PIPPINUSDT", "rate": "0.00036013", "amount": -0.001836, "at": "2026-11-18 20:00:00 MYT"}
+2026-11-18 12:04:07,526 INFO decision close {"symbol": "PIPPINUSDT", "reason": "stop", "fill": 0.018873150711443146, "net": -0.4235, "R": -1.01}
+2026-11-18 12:04:07,672 INFO decision funding {"symbol": "JCTUSDT", "rate": "0.00005000", "amount": 0.000871, "at": "2026-11-18 20:00:00 MYT"}
+2026-11-18 12:04:08,207 INFO decision funding {"symbol": "ICNTUSDT", "rate": "-0.00073677", "amount": 0.004922, "at": "2026-11-18 20:00:00 MYT"}
+2026-11-18 12:04:08,478 INFO decision funding {"symbol": "ENAUSDT", "rate": "-0.00001353", "amount": -0.000292, "at": "2026-11-18 20:00:00 MYT"}
+2026-11-18 12:04:10,228 INFO decision regime {"allow": "ANY", "btc_close": 64231.52, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+2026-11-18 12:04:19,991 INFO decision scan {"bar_close": "2026-11-18 20:00:00 MYT", "breakouts": 1, "vol_ok": 0, "allow": "ANY"}
