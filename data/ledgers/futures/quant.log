@@ -88,3 +88,7 @@
 2026-11-18 12:03:49,027 INFO decision skip {"symbol": "ICNTUSDT", "side": "BUY", "tf": "4h", "vol_ratio": 11.95, "reason": "direction filter: BTC 4h close 64231.52 < filter 67568 → shorts only"}
 2026-11-18 12:03:49,027 INFO decision skip {"symbol": "PIEVERSEUSDT", "side": "BUY", "tf": "4h", "vol_ratio": 4.24, "reason": "direction filter: BTC 4h close 64231.52 < filter 67568 → shorts only"}
 2026-11-18 16:00:11,476 INFO decision funding {"symbol": "1000BONKUSDT", "rate": "-0.00000091", "amount": -2.8e-05, "at": "2026-11-19 00:00:00 MYT"}
+2026-11-18 16:05:16,724 INFO decision regime {"allow": "SELL", "btc_close": 63122.53, "ref": 67568.0, "new_low": true, "reason": "BTC 4h close 63122.53 < filter 67568 → shorts only"}
+2026-11-18 16:05:33,001 INFO decision scan {"bar_close": "2026-11-19 00:00:00 MYT", "breakouts": 12, "vol_ok": 2, "allow": "SELL"}
+2026-11-18 16:05:33,001 INFO decision skip {"symbol": "PHAROSUSDT", "side": "BUY", "tf": "4h", "vol_ratio": 20.87, "reason": "direction filter: BTC 4h close 63122.53 < filter 67568 → shorts only"}
+2026-11-18 16:05:33,001 INFO decision skip {"symbol": "PIEVERSEUSDT", "side": "BUY", "tf": "4h", "vol_ratio": 17.02, "reason": "direction filter: BTC 4h close 63122.53 < filter 67568 → shorts only"}

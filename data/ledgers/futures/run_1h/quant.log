@@ -215,3 +215,10 @@
 2026-11-18 15:05:18,790 INFO decision open {"symbol": "ETHUSDT", "side": "SELL", "entry": 1774.8749540000001, "stop": 1810.3208334026071, "qty": 0.026000000000000002, "lev": 3, "liq": 2357.07165206, "risk": 0.968}
 2026-11-18 16:00:12,352 INFO decision funding {"symbol": "SKRUSDT", "rate": "-0.00011689", "amount": -0.001384, "at": "2026-11-19 00:00:00 MYT"}
 2026-11-18 16:00:12,681 INFO decision funding {"symbol": "ETHUSDT", "rate": "-0.00001129", "amount": -0.000519, "at": "2026-11-19 00:00:00 MYT"}
+2026-11-18 16:05:36,370 INFO decision regime {"allow": "SELL", "btc_close": 63122.53, "ref": 67568.0, "new_low": true, "reason": "BTC 4h close 63122.53 < filter 67568 → shorts only"}
+2026-11-18 16:05:52,343 INFO decision scan {"bar_close": "2026-11-19 00:00:00 MYT", "breakouts": 22, "vol_ok": 5, "allow": "SELL"}
+2026-11-18 16:05:52,344 INFO decision skip {"symbol": "PHAROSUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 79.84, "reason": "direction filter: BTC 4h close 63122.53 < filter 67568 → shorts only"}
+2026-11-18 16:05:52,344 INFO decision skip {"symbol": "ZROUSDT", "side": "SELL", "tf": "1h", "vol_ratio": 3.05, "reason": "same-direction cap 2 (v0.2 correlation cap)"}
+2026-11-18 16:05:52,344 INFO decision skip {"symbol": "PUMPUSDT", "side": "SELL", "tf": "1h", "vol_ratio": 2.79, "reason": "same-direction cap 2 (v0.2 correlation cap)"}
+2026-11-18 16:05:52,344 INFO decision skip {"symbol": "FILUSDT", "side": "SELL", "tf": "1h", "vol_ratio": 2.55, "reason": "same-direction cap 2 (v0.2 correlation cap)"}
+2026-11-18 16:05:52,344 INFO decision skip {"symbol": "ADAUSDT", "side": "SELL", "tf": "1h", "vol_ratio": 2.07, "reason": "same-direction cap 2 (v0.2 correlation cap)"}

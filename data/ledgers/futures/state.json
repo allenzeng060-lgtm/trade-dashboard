@@ -1,76 +1,116 @@
 {
   "last_regime": {
     "allow": "SELL",
-    "btc_close": 64231.52,
+    "btc_close": 63122.53,
     "ref": 67568.0,
     "mode": "spot_level",
-    "new_low": false,
-    "reason": "BTC 4h close 64231.52 < filter 67568 → shorts only"
+    "new_low": true,
+    "reason": "BTC 4h close 63122.53 < filter 67568 → shorts only"
   },
   "last_scan": {
-    "time": "2026-11-18 20:03:49 MYT",
-    "bar_close": "2026-11-18 20:00:00 MYT",
-    "universe": 75,
+    "time": "2026-11-19 00:05:33 MYT",
+    "bar_close": "2026-11-19 00:00:00 MYT",
+    "universe": 73,
     "breakouts": [
       {
-        "symbol": "PIPPINUSDT",
-        "side": "BUY",
+        "symbol": "BTCUSDT",
+        "side": "SELL",
         "tf": "4h",
-        "level": 0.0163,
-        "close": 0.0198,
-        "vol_ratio": 136.0598
+        "level": 63300.9,
+        "close": 63094.9,
+        "vol_ratio": 1.4926
+      },
+      {
+        "symbol": "FILUSDT",
+        "side": "SELL",
+        "tf": "4h",
+        "level": 0.5744,
+        "close": 0.5723,
+        "vol_ratio": 1.3431
+      },
+      {
+        "symbol": "APTUSDT",
+        "side": "SELL",
+        "tf": "4h",
+        "level": 0.4297,
+        "close": 0.4296,
+        "vol_ratio": 1.3177
+      },
+      {
+        "symbol": "ARBUSDT",
+        "side": "SELL",
+        "tf": "4h",
+        "level": 0.1279,
+        "close": 0.1271,
+        "vol_ratio": 0.8021
+      },
+      {
+        "symbol": "ENAUSDT",
+        "side": "SELL",
+        "tf": "4h",
+        "level": 0.1104,
+        "close": 0.109,
+        "vol_ratio": 1.3878
+      },
+      {
+        "symbol": "ZROUSDT",
+        "side": "SELL",
+        "tf": "4h",
+        "level": 1.332,
+        "close": 1.2922,
+        "vol_ratio": 1.4933
+      },
+      {
+        "symbol": "FARTCOINUSDT",
+        "side": "SELL",
+        "tf": "4h",
+        "level": 0.0869,
+        "close": 0.0864,
+        "vol_ratio": 1.4485
       },
       {
         "symbol": "PAXGUSDT",
         "side": "SELL",
         "tf": "4h",
-        "level": 3758.57,
-        "close": 3757.04,
-        "vol_ratio": 1.3007
+        "level": 3751.24,
+        "close": 3746.91,
+        "vol_ratio": 1.7922
       },
       {
-        "symbol": "ICNTUSDT",
-        "side": "BUY",
+        "symbol": "PUMPUSDT",
+        "side": "SELL",
         "tf": "4h",
-        "level": 0.3103,
-        "close": 0.3179,
-        "vol_ratio": 11.9514
-      },
-      {
-        "symbol": "ZKCUSDT",
-        "side": "BUY",
-        "tf": "4h",
-        "level": 0.0254,
-        "close": 0.0295,
-        "vol_ratio": 116.5225
-      },
-      {
-        "symbol": "MMTUSDT",
-        "side": "BUY",
-        "tf": "4h",
-        "level": 0.2478,
-        "close": 0.2533,
-        "vol_ratio": 18.1957
+        "level": 0.0026,
+        "close": 0.0026,
+        "vol_ratio": 1.5569
       },
       {
         "symbol": "PIEVERSEUSDT",
         "side": "BUY",
         "tf": "4h",
-        "level": 2.1955,
-        "close": 2.4498,
-        "vol_ratio": 4.2399
+        "level": 2.5196,
+        "close": 3.1706,
+        "vol_ratio": 17.0171
       },
       {
-        "symbol": "IRYSUSDT",
+        "symbol": "XAUTUSDT",
+        "side": "SELL",
+        "tf": "4h",
+        "level": 3749.68,
+        "close": 3747.45,
+        "vol_ratio": 1.8918
+      },
+      {
+        "symbol": "PHAROSUSDT",
         "side": "BUY",
         "tf": "4h",
-        "level": 0.0161,
-        "close": 0.0178,
-        "vol_ratio": 16.9872
+        "level": 0.5558,
+        "close": 0.5853,
+        "vol_ratio": 20.8729
       }
     ],
     "regime": "SELL"
   },
-  "last_scan_bar_ms": 1795003200000,
+  "last_scan_bar_ms": 1795017600000,
   "last_equity_ts": 1795015199.6600366
 }
