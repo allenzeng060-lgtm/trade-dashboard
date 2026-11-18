@@ -971,3 +971,8 @@
 {"time": "2026-11-18 15:32:20 MYT", "kind": "skip", "symbol": "BLESSUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 4.98, "reason": "already holding"}
 {"time": "2026-11-18 15:36:57 MYT", "kind": "trail_update", "symbol": "PAXGUSDT", "stop": 3773.1111390017836, "best": 3760.46}
 {"time": "2026-11-18 15:41:57 MYT", "kind": "trail_update", "symbol": "PAXGUSDT", "stop": 3771.6511390017836, "best": 3759.0}
+{"time": "2026-11-18 15:47:09 MYT", "kind": "trail_update", "symbol": "PAXGUSDT", "stop": 3771.2211390017837, "best": 3758.57}
+{"time": "2026-11-18 15:47:11 MYT", "kind": "close", "symbol": "BLESSUSDT", "reason": "stop", "fill": 0.01177462335388825, "net": -0.4224, "R": -1.0}
+{"time": "2026-11-18 15:47:13 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64457.96, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-18 15:47:33 MYT", "kind": "scan", "bar_close": "2026-11-18 15:45:00 MYT", "breakouts": 4, "vol_ok": 0, "allow": "ANY"}
+{"time": "2026-11-18 15:47:35 MYT", "kind": "trail_update", "symbol": "XRPUSDT", "stop": 0.9940642301334527, "best": 1.0033}

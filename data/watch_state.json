@@ -158,7 +158,7 @@
       "R": 30.449163188329955,
       "targets": [],
       "high_since_entry": 3817.86,
-      "low_since_entry": 3757.35,
+      "low_since_entry": 3756.78,
       "exit_deadline": "2026-11-20 09:00:00 MYT",
       "market": "usdm_perp",
       "group": "合約1h組"
@@ -193,11 +193,11 @@
       "entry_time": "2026-11-18 05:30:00 MYT",
       "qty": 22.6,
       "remaining_qty": 22.6,
-      "stop": 0.9857642301334526,
+      "stop": 0.9940642301334527,
       "initial_stop": 0.9647589901334526,
       "R": 0.009235769866547429,
       "targets": [],
-      "high_since_entry": 0.995,
+      "high_since_entry": 1.0033,
       "low_since_entry": 0.9657,
       "exit_deadline": "2026-11-19 05:30:00 MYT",
       "market": "usdm_perp",
@@ -233,12 +233,12 @@
       "entry_time": "2026-11-18 10:15:00 MYT",
       "qty": 0.005,
       "remaining_qty": 0.005,
-      "stop": 3771.6511390017836,
+      "stop": 3771.2211390017837,
       "initial_stop": 3806.7721630017836,
       "R": 12.651139001783589,
       "targets": [],
       "high_since_entry": 3800.82,
-      "low_since_entry": 3759.0,
+      "low_since_entry": 3758.57,
       "exit_deadline": "2026-11-19 10:15:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
@@ -302,27 +302,7 @@
       "exit_deadline": "2026-11-19 14:00:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
-    },
-    {
-      "id": "FHF-20261118-1515-BLESSUSDT",
-      "symbol": "BLESSUSDT",
-      "side": "BUY",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 0.012515502599999999,
-      "entry_time": "2026-11-18 15:15:00 MYT",
-      "qty": 561.0,
-      "remaining_qty": 561.0,
-      "stop": 0.011776978749638177,
-      "initial_stop": 0.011776978749638177,
-      "R": 0.0007385238503618229,
-      "targets": [],
-      "high_since_entry": 0.01314,
-      "low_since_entry": 0.011805,
-      "exit_deadline": "2026-11-19 15:15:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-18 15:41:59 MYT"
+  "paper_updated_at": "2026-11-18 15:47:40 MYT"
 }

@@ -888,3 +888,8 @@
 2026-11-18 07:32:20,663 INFO decision skip {"symbol": "BLESSUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 4.98, "reason": "already holding"}
 2026-11-18 07:36:57,746 INFO decision trail_update {"symbol": "PAXGUSDT", "stop": 3773.1111390017836, "best": 3760.46}
 2026-11-18 07:41:57,322 INFO decision trail_update {"symbol": "PAXGUSDT", "stop": 3771.6511390017836, "best": 3759.0}
+2026-11-18 07:47:09,312 INFO decision trail_update {"symbol": "PAXGUSDT", "stop": 3771.2211390017837, "best": 3758.57}
+2026-11-18 07:47:11,342 INFO decision close {"symbol": "BLESSUSDT", "reason": "stop", "fill": 0.01177462335388825, "net": -0.4224, "R": -1.0}
+2026-11-18 07:47:13,239 INFO decision regime {"allow": "ANY", "btc_close": 64457.96, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+2026-11-18 07:47:33,529 INFO decision scan {"bar_close": "2026-11-18 15:45:00 MYT", "breakouts": 4, "vol_ok": 0, "allow": "ANY"}
+2026-11-18 07:47:35,181 INFO decision trail_update {"symbol": "XRPUSDT", "stop": 0.9940642301334527, "best": 1.0033}
