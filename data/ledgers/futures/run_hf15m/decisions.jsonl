@@ -958,3 +958,4 @@
 {"time": "2026-11-18 15:02:13 MYT", "kind": "scan", "bar_close": "2026-11-18 15:00:00 MYT", "breakouts": 4, "vol_ok": 1, "allow": "ANY"}
 {"time": "2026-11-18 15:02:13 MYT", "kind": "open", "symbol": "BLESSUSDT", "side": "BUY", "entry": 0.011992398, "stop": 0.01134092493780823, "qty": 638.0, "lev": 2, "liq": 0.00611857, "risk": 0.423}
 {"time": "2026-11-18 15:06:45 MYT", "kind": "trail_update", "symbol": "PAXGUSDT", "stop": 3777.3011390017837, "best": 3764.65}
+{"time": "2026-11-18 15:11:46 MYT", "kind": "close", "symbol": "BLESSUSDT", "reason": "stop", "fill": 0.011338656752820668, "net": -0.4245, "R": -1.0}
