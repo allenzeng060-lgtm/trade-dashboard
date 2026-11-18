@@ -1060,3 +1060,4 @@
 2026-11-18 15:05:23,047 INFO decision regime {"allow": "ANY", "btc_close": 64231.52, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
 2026-11-18 15:05:31,148 INFO decision scan {"bar_close": "2026-11-18 23:00:00 MYT", "breakouts": 4, "vol_ok": 1, "allow": "ANY"}
 2026-11-18 15:05:31,292 INFO decision open {"symbol": "ZILUSDT", "side": "BUY", "entry": 0.0011432285999999998, "stop": 0.0010923587886895669, "qty": 8034.0, "lev": 2, "liq": 0.00058328, "risk": 0.418}
+2026-11-18 15:09:51,747 INFO decision trail_update {"symbol": "ZILUSDT", "stop": 0.001195130188689567, "best": 0.001246}
