@@ -8,45 +8,21 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-18 13:31:20 MYT",
-    "bar_close": "2026-11-18 13:30:00 MYT",
+    "time": "2026-11-18 13:46:31 MYT",
+    "bar_close": "2026-11-18 13:45:00 MYT",
     "universe": 72,
     "breakouts": [
       {
-        "symbol": "XRPUSDT",
+        "symbol": "QNTUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.985,
-        "close": 0.9861,
-        "vol_ratio": 1.1587
-      },
-      {
-        "symbol": "RAREUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 0.0123,
-        "close": 0.0121,
-        "vol_ratio": 0.74
-      },
-      {
-        "symbol": "FHEUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 0.0158,
-        "close": 0.016,
-        "vol_ratio": 0.9879
-      },
-      {
-        "symbol": "MMTUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 0.1597,
-        "close": 0.1807,
-        "vol_ratio": 7.538
+        "level": 155.39,
+        "close": 155.89,
+        "vol_ratio": 2.775
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794979800000,
-  "last_equity_ts": 1794980175.9776185
+  "last_scan_bar_ms": 1794980700000,
+  "last_equity_ts": 1794980791.335266
 }

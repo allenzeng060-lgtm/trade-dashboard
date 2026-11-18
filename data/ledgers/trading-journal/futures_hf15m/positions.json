@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794980465006,
-      "last_price": 0.308,
+      "last_check_ms": 1794980791335,
+      "last_price": 0.3071,
       "last_funding_ms": 1794974400000
     },
     {
@@ -90,8 +90,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794980465328,
-      "last_price": 0.9874,
+      "last_check_ms": 1794980791548,
+      "last_price": 0.9847,
       "last_funding_ms": 1794960000000
     },
     {
@@ -133,8 +133,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 07:00:00 MYT",
-      "last_check_ms": 1794980465654,
-      "last_price": 196.17,
+      "last_check_ms": 1794980791758,
+      "last_price": 195.65,
       "last_funding_ms": 1794974400000
     },
     {
@@ -176,8 +176,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 10:15:00 MYT",
-      "last_check_ms": 1794980465977,
-      "last_price": 3785.5,
+      "last_check_ms": 1794980791969,
+      "last_price": 3783.27,
       "last_funding_ms": 1794974400000
     },
     {
@@ -219,8 +219,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 10:15:00 MYT",
-      "last_check_ms": 1794980466297,
-      "last_price": 2.1557,
+      "last_check_ms": 1794980792178,
+      "last_price": 2.1413,
       "last_funding_ms": 1794974400000
     },
     {
@@ -262,8 +262,50 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 13:00:00 MYT",
-      "last_check_ms": 1794980466629,
-      "last_price": 0.01415
+      "last_check_ms": 1794980792390,
+      "last_price": 0.01417
+    },
+    {
+      "id": "FHF-20261118-1345-QNTUSDT",
+      "symbol": "QNTUSDT",
+      "side": "BUY",
+      "rules": "hf-15m-v0.1",
+      "cycle": 1,
+      "slippage": 0.0002,
+      "mode": "paper",
+      "status": "open",
+      "group": "合約高頻組",
+      "market": "usdm_perp",
+      "margin_type": "isolated",
+      "signal_tf": "15m",
+      "signal_bar_close_myt": "2026-11-18 13:45:00 MYT",
+      "vol_ratio": 2.77,
+      "breakout_level": 155.39,
+      "entry_time": "2026-11-18 13:45:00 MYT",
+      "entry_ms": 1794980700000,
+      "entry_price": 155.92117799999997,
+      "qty": 0.1,
+      "remaining_qty": 0.1,
+      "notional": 15.592117799999997,
+      "leverage": 3,
+      "margin": 5.197372599999999,
+      "liq_price": 104.99742626,
+      "mmr": 0.01,
+      "stop": 154.25045077117372,
+      "initial_stop": 154.25045077117372,
+      "R": 1.670727228826255,
+      "stop_pct": 1.072,
+      "risk_usdt": 0.1825813043211842,
+      "entry_fee": 0.007796058899999999,
+      "funding": 0.0,
+      "best": 155.96,
+      "high_since_entry": 155.96,
+      "low_since_entry": 155.79,
+      "trail_armed": false,
+      "targets": [],
+      "exit_deadline": "2026-11-19 13:45:00 MYT",
+      "last_check_ms": 1794980792600,
+      "last_price": 155.84
     }
   ]
 }
