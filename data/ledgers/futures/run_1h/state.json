@@ -1,28 +1,52 @@
 {
   "last_regime": {
     "allow": "SELL",
-    "btc_close": 63122.53,
+    "btc_close": 62747.22,
     "ref": 67568.0,
     "mode": "spot_level",
     "new_low": true,
-    "reason": "BTC 4h close 63122.53 < filter 67568 → shorts only"
+    "reason": "BTC 4h close 62747.22 < filter 67568 → shorts only"
   },
   "last_scan": {
-    "time": "2026-11-19 03:01:48 MYT",
-    "bar_close": "2026-11-19 03:00:00 MYT",
-    "universe": 71,
+    "time": "2026-11-19 04:02:32 MYT",
+    "bar_close": "2026-11-19 04:00:00 MYT",
+    "universe": 70,
     "breakouts": [
       {
-        "symbol": "LITUSDT",
+        "symbol": "ZECUSDT",
         "side": "SELL",
         "tf": "1h",
-        "level": 2.7193,
-        "close": 2.7153,
-        "vol_ratio": 0.5255
+        "level": 912.88,
+        "close": 911.39,
+        "vol_ratio": 1.2171
+      },
+      {
+        "symbol": "HBARUSDT",
+        "side": "SELL",
+        "tf": "1h",
+        "level": 0.0555,
+        "close": 0.0554,
+        "vol_ratio": 0.8453
+      },
+      {
+        "symbol": "PAXGUSDT",
+        "side": "SELL",
+        "tf": "1h",
+        "level": 3721.96,
+        "close": 3715.91,
+        "vol_ratio": 1.6312
+      },
+      {
+        "symbol": "XAUTUSDT",
+        "side": "SELL",
+        "tf": "1h",
+        "level": 3722.21,
+        "close": 3717.51,
+        "vol_ratio": 1.883
       }
     ],
     "regime": "SELL"
   },
-  "last_scan_bar_ms": 1795028400000,
+  "last_scan_bar_ms": 1795032000000,
   "last_equity_ts": 1795029099.4084144
 }

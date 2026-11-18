@@ -40,16 +40,16 @@
       "stop_pct": 8.38,
       "risk_usdt": 0.9940007022039217,
       "entry_fee": 0.0058582246207,
-      "funding": -0.05764167,
+      "funding": -0.05802919,
       "best": 0.009429,
       "high_since_entry": 0.010232,
       "low_since_entry": 0.009429,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 09:00:00 MYT",
-      "last_check_ms": 1795031813836,
-      "last_price": 0.009625,
-      "last_funding_ms": 1795017600000
+      "last_check_ms": 1795032152104,
+      "last_price": 0.009606,
+      "last_funding_ms": 1795032000000
     },
     {
       "id": "F1H-20261118-2300-ETHUSDT",
@@ -90,8 +90,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-20 23:00:00 MYT",
-      "last_check_ms": 1795031814119,
-      "last_price": 1755.94,
+      "last_check_ms": 1795032152318,
+      "last_price": 1755.22,
       "last_funding_ms": 1795017600000
     }
   ]
