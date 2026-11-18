@@ -1154,3 +1154,4 @@
 2026-11-18 17:01:10,753 INFO decision scan {"bar_close": "2026-11-19 01:00:00 MYT", "breakouts": 3, "vol_ok": 2, "allow": "ANY"}
 2026-11-18 17:01:11,446 INFO decision open {"symbol": "MMTUSDT", "side": "BUY", "entry": 0.265053, "stop": 0.24543718707929452, "qty": 21.0, "lev": 1, "liq": 0.0, "risk": 0.417}
 2026-11-18 17:01:11,446 INFO decision skip {"symbol": "AKEUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.08, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+2026-11-18 17:05:42,952 INFO decision close {"symbol": "MMTUSDT", "reason": "stop", "fill": 0.24538809964187866, "net": -0.4183, "R": -1.0}
