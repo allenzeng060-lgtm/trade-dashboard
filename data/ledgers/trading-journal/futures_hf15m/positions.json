@@ -5,7 +5,7 @@
   "rules": "hf-15m-v0.1",
   "cycle": 1,
   "start_equity_usdt": 100.0,
-  "wallet_usdt": 82.790903,
+  "wallet_usdt": 82.374832,
   "created": "2026-11-16 03:06:21 MYT",
   "positions": [
     {
@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 13:00:00 MYT",
-      "last_check_ms": 1795026079960,
-      "last_price": 0.01453,
+      "last_check_ms": 1795026379325,
+      "last_price": 0.01456,
       "last_funding_ms": 1795017600000
     },
     {
@@ -90,8 +90,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 17:15:00 MYT",
-      "last_check_ms": 1795026080245,
-      "last_price": 0.01164,
+      "last_check_ms": 1795026379598,
+      "last_price": 0.0116,
       "last_funding_ms": 1795017600000
     },
     {
@@ -133,8 +133,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 19:00:00 MYT",
-      "last_check_ms": 1795026080527,
-      "last_price": 0.3284,
+      "last_check_ms": 1795026380084,
+      "last_price": 0.3286,
       "last_funding_ms": 1795017600000
     },
     {
@@ -176,8 +176,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 22:15:00 MYT",
-      "last_check_ms": 1795026080815,
-      "last_price": 3.3047,
+      "last_check_ms": 1795026380358,
+      "last_price": 3.2489,
       "last_funding_ms": 1795017600000
     },
     {
@@ -219,8 +219,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 23:15:00 MYT",
-      "last_check_ms": 1795026081101,
-      "last_price": 0.002597,
+      "last_check_ms": 1795026380630,
+      "last_price": 0.002584,
       "last_funding_ms": 1795017600000
     },
     {
@@ -262,8 +262,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 23:15:00 MYT",
-      "last_check_ms": 1795026081390,
-      "last_price": 6.969,
+      "last_check_ms": 1795026380901,
+      "last_price": 6.994,
       "last_funding_ms": 1795017600000
     },
     {
@@ -305,8 +305,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-20 01:15:00 MYT",
-      "last_check_ms": 1795026081680,
-      "last_price": 0.008668,
+      "last_check_ms": 1795026381177,
+      "last_price": 0.008653,
       "last_funding_ms": 1795024800001
     },
     {
@@ -342,56 +342,14 @@
       "risk_usdt": 0.41370783726601956,
       "entry_fee": 0.002745368964,
       "funding": 0.0,
-      "best": 0.02155,
-      "high_since_entry": 0.02155,
+      "best": 0.02159,
+      "high_since_entry": 0.02159,
       "low_since_entry": 0.01931,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-20 02:00:00 MYT",
-      "last_check_ms": 1795026081973,
-      "last_price": 0.0213
-    },
-    {
-      "id": "FHF-20261119-0215-AKEUSDT",
-      "symbol": "AKEUSDT",
-      "side": "BUY",
-      "rules": "hf-15m-v0.1",
-      "cycle": 1,
-      "slippage": 0.0002,
-      "mode": "paper",
-      "status": "open",
-      "group": "合約高頻組",
-      "market": "usdm_perp",
-      "margin_type": "isolated",
-      "signal_tf": "15m",
-      "signal_bar_close_myt": "2026-11-19 02:15:00 MYT",
-      "vol_ratio": 4.7,
-      "breakout_level": 0.010762,
-      "entry_time": "2026-11-19 02:15:00 MYT",
-      "entry_ms": 1795025700000,
-      "entry_price": 0.0109801956,
-      "qty": 1027.0,
-      "remaining_qty": 1027.0,
-      "notional": 11.2766608812,
-      "leverage": 2,
-      "margin": 5.6383304406,
-      "liq_price": 0.00577905,
-      "mmr": 0.05,
-      "stop": 0.010587963347661032,
-      "initial_stop": 0.010587963347661032,
-      "R": 0.00039223225233896673,
-      "stop_pct": 3.572,
-      "risk_usdt": 0.4138977727717428,
-      "entry_fee": 0.0056383304406,
-      "funding": 0.0,
-      "best": 0.011263,
-      "high_since_entry": 0.011263,
-      "low_since_entry": 0.010763,
-      "trail_armed": false,
-      "targets": [],
-      "exit_deadline": "2026-11-20 02:15:00 MYT",
-      "last_check_ms": 1795026082262,
-      "last_price": 0.010785
+      "last_check_ms": 1795026381567,
+      "last_price": 0.02113
     }
   ]
 }
