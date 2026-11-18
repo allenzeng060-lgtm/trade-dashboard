@@ -880,3 +880,4 @@
 2026-11-18 07:16:48,956 INFO decision regime {"allow": "ANY", "btc_close": 64457.96, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
 2026-11-18 07:17:02,422 INFO decision scan {"bar_close": "2026-11-18 15:15:00 MYT", "breakouts": 11, "vol_ok": 1, "allow": "ANY"}
 2026-11-18 07:17:02,629 INFO decision open {"symbol": "BLESSUSDT", "side": "BUY", "entry": 0.012515502599999999, "stop": 0.011776978749638177, "qty": 561.0, "lev": 2, "liq": 0.00638546, "risk": 0.421}
+2026-11-18 07:26:50,083 INFO decision trail_update {"symbol": "PAXGUSDT", "stop": 3776.8411390017836, "best": 3764.19}
