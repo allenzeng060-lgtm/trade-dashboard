@@ -158,3 +158,5 @@
 2026-11-18 02:05:06,888 INFO decision scan {"bar_close": "2026-11-18 10:00:00 MYT", "breakouts": 4, "vol_ok": 0, "allow": "SELL"}
 2026-11-18 03:05:02,664 INFO decision regime {"allow": "SELL", "btc_close": 64947.35, "ref": 67568.0, "new_low": false, "reason": "BTC 4h close 64947.35 < filter 67568 → shorts only"}
 2026-11-18 03:05:16,603 INFO decision scan {"bar_close": "2026-11-18 11:00:00 MYT", "breakouts": 3, "vol_ok": 0, "allow": "SELL"}
+2026-11-18 04:00:25,467 INFO decision funding {"symbol": "SKRUSDT", "rate": "-0.00002750", "amount": -0.000331, "at": "2026-11-18 12:00:00 MYT"}
+2026-11-18 04:00:25,945 INFO decision funding {"symbol": "XAUTUSDT", "rate": "0.00000115", "amount": 6.5e-05, "at": "2026-11-18 12:00:00 MYT"}

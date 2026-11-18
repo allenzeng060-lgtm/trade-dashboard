@@ -40,16 +40,16 @@
       "stop_pct": 8.38,
       "risk_usdt": 0.9940007022039217,
       "entry_fee": 0.0058582246207,
-      "funding": -0.05576264,
+      "funding": -0.05609348,
       "best": 0.009429,
       "high_since_entry": 0.010232,
       "low_since_entry": 0.009429,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 09:00:00 MYT",
-      "last_check_ms": 1794974123202,
-      "last_price": 0.00989,
-      "last_funding_ms": 1794960000000
+      "last_check_ms": 1794974425345,
+      "last_price": 0.009909,
+      "last_funding_ms": 1794974400000
     },
     {
       "id": "F1H-20261118-0900-XAUTUSDT",
@@ -83,15 +83,16 @@
       "stop_pct": 0.801,
       "risk_usdt": 0.5140061561988618,
       "entry_fee": 0.028520169824999997,
-      "funding": 0.0,
+      "funding": 6.518e-05,
       "best": 3776.0,
       "high_since_entry": 3817.86,
       "low_since_entry": 3776.0,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-20 09:00:00 MYT",
-      "last_check_ms": 1794974123670,
-      "last_price": 3782.64
+      "last_check_ms": 1794974425819,
+      "last_price": 3777.34,
+      "last_funding_ms": 1794974400000
     }
   ]
 }

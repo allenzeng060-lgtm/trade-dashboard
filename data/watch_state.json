@@ -264,26 +264,6 @@
       "group": "合約高頻組"
     },
     {
-      "id": "FHF-20261118-1130-XMRUSDT",
-      "symbol": "XMRUSDT",
-      "side": "BUY",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 514.122804,
-      "entry_time": "2026-11-18 11:30:00 MYT",
-      "qty": 0.041,
-      "remaining_qty": 0.041,
-      "stop": 508.95882050766005,
-      "initial_stop": 508.95882050766005,
-      "R": 5.163983492339913,
-      "targets": [],
-      "high_since_entry": 514.83,
-      "low_since_entry": 509.31,
-      "exit_deadline": "2026-11-19 11:30:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
       "id": "FHF-20261118-1145-KAVAUSDT",
       "symbol": "KAVAUSDT",
       "side": "BUY",
@@ -298,11 +278,11 @@
       "R": 0.0006252820947327336,
       "targets": [],
       "high_since_entry": 0.02881,
-      "low_since_entry": 0.02844,
+      "low_since_entry": 0.02836,
       "exit_deadline": "2026-11-19 11:45:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-18 11:55:28 MYT"
+  "paper_updated_at": "2026-11-18 12:00:30 MYT"
 }

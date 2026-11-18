@@ -67,3 +67,4 @@
 {"time": "2026-11-18 08:04:08 MYT", "kind": "skip", "symbol": "BREVUSDT", "side": "BUY", "tf": "1d", "vol_ratio": 566.82, "reason": "direction filter: BTC 4h close 64947.35 < filter 67568 → shorts only"}
 {"time": "2026-11-18 08:04:08 MYT", "kind": "skip", "symbol": "MMTUSDT", "side": "BUY", "tf": "1d", "vol_ratio": 41.17, "reason": "direction filter: BTC 4h close 64947.35 < filter 67568 → shorts only"}
 {"time": "2026-11-18 08:04:08 MYT", "kind": "skip", "symbol": "CROSSUSDT", "side": "BUY", "tf": "1d", "vol_ratio": 11.72, "reason": "direction filter: BTC 4h close 64947.35 < filter 67568 → shorts only"}
+{"time": "2026-11-18 12:00:24 MYT", "kind": "funding", "symbol": "1000BONKUSDT", "rate": "-0.00003610", "amount": -0.001129, "at": "2026-11-18 12:00:00 MYT"}
