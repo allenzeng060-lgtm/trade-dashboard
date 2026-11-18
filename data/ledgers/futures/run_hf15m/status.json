@@ -3,7 +3,7 @@
   "set": "15m",
   "mode": "paper",
   "rules": "hf-15m-v0.1",
-  "updated_at": "2026-11-18 12:50:54 MYT",
+  "updated_at": "2026-11-18 12:55:48 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -16,10 +16,10 @@
     "slip": 0.0002,
     "regime": "none"
   },
-  "wallet_usdt": 85.6917,
-  "unrealized_usdt": 0.0269,
-  "equity_usdt": 85.7186,
-  "pnl_pct": -14.281,
+  "wallet_usdt": 85.3341,
+  "unrealized_usdt": 0.1914,
+  "equity_usdt": 85.5254,
+  "pnl_pct": -14.475,
   "regime": {
     "allow": "ANY",
     "btc_close": 64457.96,
@@ -123,7 +123,7 @@
       "R": 0.00378692168375275,
       "trail_armed": false,
       "funding": -0.00172752,
-      "last_price": 0.3058,
+      "last_price": 0.3059,
       "exit_deadline": "2026-11-19 05:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.58
@@ -144,7 +144,7 @@
       "R": 0.009235769866547429,
       "trail_armed": false,
       "funding": -0.00100567,
-      "last_price": 0.9795,
+      "last_price": 0.9798,
       "exit_deadline": "2026-11-19 05:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.06
@@ -165,7 +165,7 @@
       "R": 2.06340890465846,
       "trail_armed": false,
       "funding": -0.00170546,
-      "last_price": 195.16,
+      "last_price": 195.21,
       "exit_deadline": "2026-11-19 07:00:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.67
@@ -186,7 +186,7 @@
       "R": 12.651139001783589,
       "trail_armed": false,
       "funding": 0.00071587,
-      "last_price": 3777.41,
+      "last_price": 3778.97,
       "exit_deadline": "2026-11-19 10:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.58
@@ -207,31 +207,10 @@
       "R": 0.05022384317980284,
       "trail_armed": false,
       "funding": -0.00120394,
-      "last_price": 2.1381,
+      "last_price": 2.1454,
       "exit_deadline": "2026-11-19 10:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.18
-    },
-    {
-      "id": "FHF-20261118-1145-KAVAUSDT",
-      "symbol": "KAVAUSDT",
-      "side": "BUY",
-      "entry_time": "2026-11-18 11:45:00 MYT",
-      "entry_price": 0.02870574,
-      "qty": 660.5,
-      "notional": 18.96014127,
-      "leverage": 3,
-      "margin": 6.32004709,
-      "liq_price": 0.01942859,
-      "stop": 0.028080457905267267,
-      "initial_stop": 0.028080457905267267,
-      "R": 0.0006252820947327336,
-      "trail_armed": false,
-      "funding": 0.07784981,
-      "last_price": 0.02841,
-      "exit_deadline": "2026-11-19 11:45:00 MYT",
-      "signal_tf": "15m",
-      "vol_ratio": 2.05
     }
   ],
   "data_source": "www.binance.com /fapi (public)"

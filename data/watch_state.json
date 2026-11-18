@@ -258,31 +258,11 @@
       "R": 0.05022384317980284,
       "targets": [],
       "high_since_entry": 2.1955,
-      "low_since_entry": 2.1321,
+      "low_since_entry": 2.1216,
       "exit_deadline": "2026-11-19 10:15:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
-      "id": "FHF-20261118-1145-KAVAUSDT",
-      "symbol": "KAVAUSDT",
-      "side": "BUY",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 0.02870574,
-      "entry_time": "2026-11-18 11:45:00 MYT",
-      "qty": 660.5,
-      "remaining_qty": 660.5,
-      "stop": 0.028080457905267267,
-      "initial_stop": 0.028080457905267267,
-      "R": 0.0006252820947327336,
-      "targets": [],
-      "high_since_entry": 0.02882,
-      "low_since_entry": 0.02823,
-      "exit_deadline": "2026-11-19 11:45:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-18 12:50:55 MYT"
+  "paper_updated_at": "2026-11-18 12:55:49 MYT"
 }
