@@ -919,3 +919,7 @@
 {"time": "2026-11-18 12:00:28 MYT", "kind": "funding", "symbol": "PIEVERSEUSDT", "rate": "0.00006885", "amount": -0.001204, "at": "2026-11-18 12:00:00 MYT"}
 {"time": "2026-11-18 12:00:28 MYT", "kind": "close", "symbol": "XMRUSDT", "reason": "stop", "fill": 508.85702874355854, "net": -0.2369, "R": -1.02}
 {"time": "2026-11-18 12:00:29 MYT", "kind": "funding", "symbol": "KAVAUSDT", "rate": "-0.00412548", "amount": 0.07785, "at": "2026-11-18 12:00:00 MYT"}
+{"time": "2026-11-18 12:06:29 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64457.96, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-18 12:06:47 MYT", "kind": "scan", "bar_close": "2026-11-18 12:00:00 MYT", "breakouts": 2, "vol_ok": 1, "allow": "ANY"}
+{"time": "2026-11-18 12:06:48 MYT", "kind": "open", "symbol": "MMTUSDT", "side": "BUY", "entry": 0.15633126, "stop": 0.14862503725727425, "qty": 54.0, "lev": 2, "liq": 0.07935597, "risk": 0.424}
+{"time": "2026-11-18 12:06:52 MYT", "kind": "close", "symbol": "MMTUSDT", "reason": "stop", "fill": 0.14859531224982278, "net": -0.426, "R": -1.0}

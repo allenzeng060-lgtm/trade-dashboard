@@ -3,7 +3,7 @@
   "set": "4h",
   "mode": "paper",
   "rules": "v0.2",
-  "updated_at": "2026-11-18 12:00:24 MYT",
+  "updated_at": "2026-11-18 12:05:54 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -17,59 +17,35 @@
     "regime": "spot_level"
   },
   "wallet_usdt": 95.9999,
-  "unrealized_usdt": -1.1955,
-  "equity_usdt": 94.8044,
-  "pnl_pct": -5.196,
+  "unrealized_usdt": -1.2193,
+  "equity_usdt": 94.7806,
+  "pnl_pct": -5.219,
   "regime": {
     "allow": "SELL",
-    "btc_close": 64947.35,
+    "btc_close": 64457.96,
     "ref": 67568.0,
-    "reason": "BTC 4h close 64947.35 < filter 67568 → shorts only"
+    "reason": "BTC 4h close 64457.96 < filter 67568 → shorts only"
   },
   "last_scan": {
-    "time": "2026-11-18 08:04:08 MYT",
-    "bar_close": "2026-11-18 08:00:00 MYT",
+    "time": "2026-11-18 12:05:53 MYT",
+    "bar_close": "2026-11-18 12:00:00 MYT",
     "universe": 72,
     "breakouts": [
       {
-        "symbol": "ZECUSDT",
-        "side": "BUY",
-        "tf": "4h",
-        "level": 959.6,
-        "close": 967.83,
-        "vol_ratio": 0.7314
-      },
-      {
-        "symbol": "NEARUSDT",
-        "side": "BUY",
-        "tf": "4h",
-        "level": 3.351,
-        "close": 3.393,
-        "vol_ratio": 1.1851
-      },
-      {
-        "symbol": "CROSSUSDT",
-        "side": "BUY",
-        "tf": "1d",
-        "level": 0.1495,
-        "close": 0.1583,
-        "vol_ratio": 11.7235
-      },
-      {
         "symbol": "MMTUSDT",
         "side": "BUY",
-        "tf": "1d",
-        "level": 0.1433,
-        "close": 0.1451,
-        "vol_ratio": 41.1687
+        "tf": "4h",
+        "level": 0.1524,
+        "close": 0.1563,
+        "vol_ratio": 7.7378
       },
       {
-        "symbol": "BREVUSDT",
+        "symbol": "PIEVERSEUSDT",
         "side": "BUY",
-        "tf": "1d",
-        "level": 0.0906,
-        "close": 0.1081,
-        "vol_ratio": 566.8177
+        "tf": "4h",
+        "level": 2.1322,
+        "close": 2.1841,
+        "vol_ratio": 1.0212
       }
     ],
     "regime": "SELL"
@@ -91,7 +67,7 @@
       "R": 0.0001496381824028598,
       "trail_armed": false,
       "funding": -0.07561363,
-      "last_price": 0.002375,
+      "last_price": 0.002377,
       "exit_deadline": "2026-11-22 08:10:23 MYT",
       "signal_tf": "4h",
       "vol_ratio": 4.67

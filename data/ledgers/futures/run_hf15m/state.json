@@ -1,52 +1,36 @@
 {
   "last_regime": {
     "allow": "ANY",
-    "btc_close": 64947.35,
+    "btc_close": 64457.96,
     "ref": 67568.0,
     "mode": "spot_level",
     "new_low": false,
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-18 11:50:35 MYT",
-    "bar_close": "2026-11-18 11:45:00 MYT",
+    "time": "2026-11-18 12:06:47 MYT",
+    "bar_close": "2026-11-18 12:00:00 MYT",
     "universe": 72,
     "breakouts": [
-      {
-        "symbol": "KAVAUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 0.0283,
-        "close": 0.0287,
-        "vol_ratio": 2.0514
-      },
       {
         "symbol": "ASTERUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 0.5534,
-        "close": 0.5519,
-        "vol_ratio": 0.6142
+        "level": 0.5514,
+        "close": 0.5504,
+        "vol_ratio": 0.5136
       },
       {
-        "symbol": "BLESSUSDT",
+        "symbol": "MMTUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.0107,
-        "close": 0.0108,
-        "vol_ratio": 0.4991
-      },
-      {
-        "symbol": "JCTUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 0.0021,
-        "close": 0.0021,
-        "vol_ratio": 0.8722
+        "level": 0.1473,
+        "close": 0.1563,
+        "vol_ratio": 2.2106
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794973500000,
-  "last_equity_ts": 1794974428.7365215
+  "last_scan_bar_ms": 1794974400000,
+  "last_equity_ts": 1794974812.7565181
 }

@@ -5,7 +5,7 @@
   "rules": "hf-15m-v0.1",
   "cycle": 1,
   "start_equity_usdt": 100.0,
-  "wallet_usdt": 86.117643,
+  "wallet_usdt": 85.691669,
   "created": "2026-11-16 03:06:21 MYT",
   "positions": [
     {
@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794974426574,
-      "last_price": 0.3065,
+      "last_check_ms": 1794974808256,
+      "last_price": 0.3062,
       "last_funding_ms": 1794974400000
     },
     {
@@ -90,8 +90,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794974426829,
-      "last_price": 0.9756,
+      "last_check_ms": 1794974808746,
+      "last_price": 0.9761,
       "last_funding_ms": 1794960000000
     },
     {
@@ -133,8 +133,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 07:00:00 MYT",
-      "last_check_ms": 1794974427074,
-      "last_price": 195.78,
+      "last_check_ms": 1794974809211,
+      "last_price": 195.72,
       "last_funding_ms": 1794974400000
     },
     {
@@ -170,14 +170,14 @@
       "risk_usdt": 0.08225792797642241,
       "entry_fee": 0.00948530256,
       "funding": 0.00071587,
-      "best": 3778.83,
+      "best": 3777.13,
       "high_since_entry": 3800.82,
-      "low_since_entry": 3778.83,
+      "low_since_entry": 3777.13,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 10:15:00 MYT",
-      "last_check_ms": 1794974427548,
-      "last_price": 3780.0,
+      "last_check_ms": 1794974809994,
+      "last_price": 3778.37,
       "last_funding_ms": 1794974400000
     },
     {
@@ -219,8 +219,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 10:15:00 MYT",
-      "last_check_ms": 1794974428019,
-      "last_price": 2.1825,
+      "last_check_ms": 1794974810778,
+      "last_price": 2.175,
       "last_funding_ms": 1794974400000
     },
     {
@@ -258,12 +258,12 @@
       "funding": 0.07784981,
       "best": 0.02881,
       "high_since_entry": 0.02881,
-      "low_since_entry": 0.02836,
+      "low_since_entry": 0.02827,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 11:45:00 MYT",
-      "last_check_ms": 1794974428740,
-      "last_price": 0.0284,
+      "last_check_ms": 1794974811190,
+      "last_price": 0.02855,
       "last_funding_ms": 1794974400000
     }
   ]

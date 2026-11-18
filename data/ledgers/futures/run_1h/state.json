@@ -1,44 +1,44 @@
 {
   "last_regime": {
     "allow": "SELL",
-    "btc_close": 64947.35,
+    "btc_close": 64457.96,
     "ref": 67568.0,
     "mode": "spot_level",
     "new_low": false,
-    "reason": "BTC 4h close 64947.35 < filter 67568 → shorts only"
+    "reason": "BTC 4h close 64457.96 < filter 67568 → shorts only"
   },
   "last_scan": {
-    "time": "2026-11-18 11:05:16 MYT",
-    "bar_close": "2026-11-18 11:00:00 MYT",
-    "universe": 73,
+    "time": "2026-11-18 12:06:21 MYT",
+    "bar_close": "2026-11-18 12:00:00 MYT",
+    "universe": 72,
     "breakouts": [
       {
         "symbol": "PAXGUSDT",
         "side": "SELL",
         "tf": "1h",
-        "level": 3797.55,
-        "close": 3790.88,
-        "vol_ratio": 1.606
+        "level": 3785.73,
+        "close": 3781.6,
+        "vol_ratio": 2.4016
       },
       {
-        "symbol": "PIEVERSEUSDT",
+        "symbol": "MMTUSDT",
         "side": "BUY",
         "tf": "1h",
-        "level": 2.1322,
-        "close": 2.1611,
-        "vol_ratio": 1.7187
+        "level": 0.1524,
+        "close": 0.1563,
+        "vol_ratio": 6.3169
       },
       {
         "symbol": "XAUTUSDT",
         "side": "SELL",
         "tf": "1h",
-        "level": 3794.6,
-        "close": 3787.86,
-        "vol_ratio": 1.7949
+        "level": 3782.35,
+        "close": 3778.54,
+        "vol_ratio": 1.2348
       }
     ],
     "regime": "SELL"
   },
-  "last_scan_bar_ms": 1794970800000,
-  "last_equity_ts": 1794971117.2583642
+  "last_scan_bar_ms": 1794974400000,
+  "last_equity_ts": 1794974782.0538723
 }
