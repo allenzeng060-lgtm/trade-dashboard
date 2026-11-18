@@ -3,7 +3,7 @@
   "set": "15m",
   "mode": "paper",
   "rules": "hf-15m-v0.1",
-  "updated_at": "2026-11-18 13:10:58 MYT",
+  "updated_at": "2026-11-18 13:16:15 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -17,9 +17,9 @@
     "regime": "none"
   },
   "wallet_usdt": 85.3341,
-  "unrealized_usdt": 0.4814,
-  "equity_usdt": 85.8155,
-  "pnl_pct": -14.185,
+  "unrealized_usdt": 0.702,
+  "equity_usdt": 86.036,
+  "pnl_pct": -13.964,
   "regime": {
     "allow": "ANY",
     "btc_close": 64457.96,
@@ -27,41 +27,17 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-18 13:01:15 MYT",
-    "bar_close": "2026-11-18 13:00:00 MYT",
+    "time": "2026-11-18 13:16:13 MYT",
+    "bar_close": "2026-11-18 13:15:00 MYT",
     "universe": 73,
     "breakouts": [
       {
-        "symbol": "INJUSDT",
+        "symbol": "PENGUUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 7.252,
-        "close": 7.251,
-        "vol_ratio": 0.4056
-      },
-      {
-        "symbol": "1000PEPEUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 0.0038,
-        "close": 0.0038,
-        "vol_ratio": 0.5931
-      },
-      {
-        "symbol": "ENAUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 0.1129,
-        "close": 0.1127,
-        "vol_ratio": 0.9596
-      },
-      {
-        "symbol": "ZROUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 1.3583,
-        "close": 1.3521,
-        "vol_ratio": 1.2188
+        "level": 0.0047,
+        "close": 0.0047,
+        "vol_ratio": 0.6818
       },
       {
         "symbol": "HUMAUSDT",
@@ -69,23 +45,23 @@
         "tf": "15m",
         "level": 0.0072,
         "close": 0.0072,
-        "vol_ratio": 0.395
+        "vol_ratio": 0.4774
       },
       {
-        "symbol": "EVAAUSDT",
-        "side": "BUY",
+        "symbol": "ARIAUSDT",
+        "side": "SELL",
         "tf": "15m",
-        "level": 3.3785,
-        "close": 3.4732,
-        "vol_ratio": 0.8214
+        "level": 0.2286,
+        "close": 0.2279,
+        "vol_ratio": 0.853
       },
       {
         "symbol": "龙虾USDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 0.015,
-        "close": 0.0148,
-        "vol_ratio": 2.068
+        "level": 0.0145,
+        "close": 0.0138,
+        "vol_ratio": 2.5995
       }
     ],
     "regime": "ANY"
@@ -107,7 +83,7 @@
       "R": 0.00378692168375275,
       "trail_armed": false,
       "funding": -0.00172752,
-      "last_price": 0.3052,
+      "last_price": 0.3065,
       "exit_deadline": "2026-11-19 05:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.58
@@ -128,7 +104,7 @@
       "R": 0.009235769866547429,
       "trail_armed": false,
       "funding": -0.00100567,
-      "last_price": 0.9791,
+      "last_price": 0.982,
       "exit_deadline": "2026-11-19 05:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.06
@@ -149,7 +125,7 @@
       "R": 2.06340890465846,
       "trail_armed": false,
       "funding": -0.00170546,
-      "last_price": 194.34,
+      "last_price": 195.17,
       "exit_deadline": "2026-11-19 07:00:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.67
@@ -170,7 +146,7 @@
       "R": 12.651139001783589,
       "trail_armed": false,
       "funding": 0.00071587,
-      "last_price": 3774.28,
+      "last_price": 3780.86,
       "exit_deadline": "2026-11-19 10:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.58
@@ -191,7 +167,7 @@
       "R": 0.05022384317980284,
       "trail_armed": false,
       "funding": -0.00120394,
-      "last_price": 2.1484,
+      "last_price": 2.1438,
       "exit_deadline": "2026-11-19 10:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.18
@@ -212,7 +188,7 @@
       "R": 0.0008667366020083734,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 0.01401,
+      "last_price": 0.01383,
       "exit_deadline": "2026-11-19 13:00:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.07

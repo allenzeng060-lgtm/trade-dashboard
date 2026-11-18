@@ -8,41 +8,17 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-18 13:01:15 MYT",
-    "bar_close": "2026-11-18 13:00:00 MYT",
+    "time": "2026-11-18 13:16:13 MYT",
+    "bar_close": "2026-11-18 13:15:00 MYT",
     "universe": 73,
     "breakouts": [
       {
-        "symbol": "INJUSDT",
+        "symbol": "PENGUUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 7.252,
-        "close": 7.251,
-        "vol_ratio": 0.4056
-      },
-      {
-        "symbol": "1000PEPEUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 0.0038,
-        "close": 0.0038,
-        "vol_ratio": 0.5931
-      },
-      {
-        "symbol": "ENAUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 0.1129,
-        "close": 0.1127,
-        "vol_ratio": 0.9596
-      },
-      {
-        "symbol": "ZROUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 1.3583,
-        "close": 1.3521,
-        "vol_ratio": 1.2188
+        "level": 0.0047,
+        "close": 0.0047,
+        "vol_ratio": 0.6818
       },
       {
         "symbol": "HUMAUSDT",
@@ -50,27 +26,27 @@
         "tf": "15m",
         "level": 0.0072,
         "close": 0.0072,
-        "vol_ratio": 0.395
+        "vol_ratio": 0.4774
       },
       {
-        "symbol": "EVAAUSDT",
-        "side": "BUY",
+        "symbol": "ARIAUSDT",
+        "side": "SELL",
         "tf": "15m",
-        "level": 3.3785,
-        "close": 3.4732,
-        "vol_ratio": 0.8214
+        "level": 0.2286,
+        "close": 0.2279,
+        "vol_ratio": 0.853
       },
       {
         "symbol": "龙虾USDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 0.015,
-        "close": 0.0148,
-        "vol_ratio": 2.068
+        "level": 0.0145,
+        "close": 0.0138,
+        "vol_ratio": 2.5995
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794978000000,
+  "last_scan_bar_ms": 1794978900000,
   "last_equity_ts": 1794978075.847744
 }
