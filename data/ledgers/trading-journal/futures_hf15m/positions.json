@@ -5,7 +5,7 @@
   "rules": "hf-15m-v0.1",
   "cycle": 1,
   "start_equity_usdt": 100.0,
-  "wallet_usdt": 84.204725,
+  "wallet_usdt": 84.334871,
   "created": "2026-11-16 03:06:21 MYT",
   "positions": [
     {
@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794990431517,
-      "last_price": 0.3085,
+      "last_check_ms": 1794990758760,
+      "last_price": 0.3081,
       "last_funding_ms": 1794988800001
     },
     {
@@ -90,53 +90,9 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 07:00:00 MYT",
-      "last_check_ms": 1794990431738,
-      "last_price": 196.19,
+      "last_check_ms": 1794990759382,
+      "last_price": 195.99,
       "last_funding_ms": 1794988800001
-    },
-    {
-      "id": "FHF-20261118-1015-PAXGUSDT",
-      "symbol": "PAXGUSDT",
-      "side": "SELL",
-      "rules": "hf-15m-v0.1",
-      "cycle": 1,
-      "slippage": 0.0002,
-      "mode": "paper",
-      "status": "open",
-      "group": "合約高頻組",
-      "market": "usdm_perp",
-      "margin_type": "isolated",
-      "signal_tf": "15m",
-      "signal_bar_close_myt": "2026-11-18 10:15:00 MYT",
-      "vol_ratio": 3.58,
-      "breakout_level": 3797.55,
-      "entry_time": "2026-11-18 10:15:00 MYT",
-      "entry_ms": 1794968100000,
-      "entry_price": 3794.121024,
-      "qty": 0.005,
-      "remaining_qty": 0.005,
-      "notional": 18.970605120000002,
-      "leverage": 3,
-      "margin": 6.32353504,
-      "liq_price": 5008.74062574,
-      "mmr": 0.01,
-      "stop": 3763.8911390017834,
-      "initial_stop": 3806.7721630017836,
-      "R": 12.651139001783589,
-      "stop_pct": 0.333,
-      "risk_usdt": 0.08225792797642241,
-      "entry_fee": 0.00948530256,
-      "funding": 0.00165762,
-      "best": 3751.24,
-      "high_since_entry": 3800.82,
-      "low_since_entry": 3751.24,
-      "trail_armed": true,
-      "targets": [],
-      "exit_deadline": "2026-11-19 10:15:00 MYT",
-      "last_check_ms": 1794990431957,
-      "last_price": 3760.21,
-      "last_funding_ms": 1794988800001,
-      "_last_logged_stop": 3763.8911390017834
     },
     {
       "id": "FHF-20261118-1015-PIEVERSEUSDT",
@@ -177,8 +133,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 10:15:00 MYT",
-      "last_check_ms": 1794990432359,
-      "last_price": 2.1973,
+      "last_check_ms": 1794990760290,
+      "last_price": 2.1925,
       "last_funding_ms": 1794988800001
     },
     {
@@ -220,8 +176,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 13:00:00 MYT",
-      "last_check_ms": 1794990432622,
-      "last_price": 0.01395,
+      "last_check_ms": 1794990760605,
+      "last_price": 0.01394,
       "last_funding_ms": 1794988800001
     },
     {
@@ -263,8 +219,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 14:00:00 MYT",
-      "last_check_ms": 1794990432842,
-      "last_price": 0.2357,
+      "last_check_ms": 1794990761214,
+      "last_price": 0.2371,
       "last_funding_ms": 1794988800001
     },
     {
@@ -300,14 +256,14 @@
       "risk_usdt": 0.4173254406125812,
       "entry_fee": 0.00426955374,
       "funding": 0.0,
-      "best": 0.3216,
-      "high_since_entry": 0.3216,
+      "best": 0.3247,
+      "high_since_entry": 0.3247,
       "low_since_entry": 0.3147,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 16:15:00 MYT",
-      "last_check_ms": 1794990433063,
-      "last_price": 0.3189
+      "last_check_ms": 1794990761525,
+      "last_price": 0.3202
     },
     {
       "id": "FHF-20261118-1615-XAUTUSDT",
@@ -343,13 +299,13 @@
       "entry_fee": 0.009380098605000001,
       "funding": 0.0,
       "best": 3749.68,
-      "high_since_entry": 3759.77,
+      "high_since_entry": 3763.31,
       "low_since_entry": 3749.68,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 16:15:00 MYT",
-      "last_check_ms": 1794990433465,
-      "last_price": 3758.32
+      "last_check_ms": 1794990761845,
+      "last_price": 3760.97
     }
   ]
 }
