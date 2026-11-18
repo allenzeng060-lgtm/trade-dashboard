@@ -338,26 +338,6 @@
       "group": "合約高頻組"
     },
     {
-      "id": "FHF-20261118-1830-JCTUSDT",
-      "symbol": "JCTUSDT",
-      "side": "SELL",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 0.0019516096,
-      "entry_time": "2026-11-18 18:30:00 MYT",
-      "qty": 8847.0,
-      "remaining_qty": 8847.0,
-      "stop": 0.0019981635983249697,
-      "initial_stop": 0.0019981635983249697,
-      "R": 4.655399832496989e-05,
-      "targets": [],
-      "high_since_entry": 0.001998,
-      "low_since_entry": 0.001938,
-      "exit_deadline": "2026-11-19 18:30:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
       "id": "FHF-20261118-1845-ADAUSDT",
       "symbol": "ADAUSDT",
       "side": "SELL",
@@ -436,7 +416,27 @@
       "exit_deadline": "2026-11-19 20:30:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
+    },
+    {
+      "id": "FHF-20261118-2115-EVAAUSDT",
+      "symbol": "EVAAUSDT",
+      "side": "SELL",
+      "mode": "paper",
+      "status": "open",
+      "entry_price": 3.24625062,
+      "entry_time": "2026-11-18 21:15:00 MYT",
+      "qty": 2.0,
+      "remaining_qty": 2.0,
+      "stop": 3.4552078817631466,
+      "initial_stop": 3.4552078817631466,
+      "R": 0.20895726176314677,
+      "targets": [],
+      "high_since_entry": 3.3626,
+      "low_since_entry": 3.204,
+      "exit_deadline": "2026-11-19 21:15:00 MYT",
+      "market": "usdm_perp",
+      "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-18 21:14:13 MYT"
+  "paper_updated_at": "2026-11-18 21:19:23 MYT"
 }

@@ -8,61 +8,37 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-18 21:04:58 MYT",
-    "bar_close": "2026-11-18 21:00:00 MYT",
+    "time": "2026-11-18 21:19:19 MYT",
+    "bar_close": "2026-11-18 21:15:00 MYT",
     "universe": 75,
     "breakouts": [
       {
-        "symbol": "TRUMPUSDT",
-        "side": "SELL",
+        "symbol": "HUMAUSDT",
+        "side": "BUY",
         "tf": "15m",
-        "level": 0.959,
-        "close": 0.953,
-        "vol_ratio": 5.2877
+        "level": 0.0073,
+        "close": 0.0073,
+        "vol_ratio": 0.7553
       },
       {
-        "symbol": "PAXGUSDT",
+        "symbol": "EVAAUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 3744.24,
-        "close": 3737.4,
-        "vol_ratio": 2.084
-      },
-      {
-        "symbol": "ZKPUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 0.0337,
-        "close": 0.0336,
-        "vol_ratio": 0.9808
-      },
-      {
-        "symbol": "XAUTUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 3743.48,
-        "close": 3737.98,
-        "vol_ratio": 2.5326
+        "level": 3.3209,
+        "close": 3.2469,
+        "vol_ratio": 2.6305
       },
       {
         "symbol": "BTWUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.4723,
-        "close": 0.4757,
-        "vol_ratio": 1.3198
-      },
-      {
-        "symbol": "GRAMUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 1.024,
-        "close": 1.022,
-        "vol_ratio": 1.0828
+        "level": 0.4789,
+        "close": 0.4802,
+        "vol_ratio": 1.3797
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1795006800000,
-  "last_equity_ts": 1795007651.9673576
+  "last_scan_bar_ms": 1795007700000,
+  "last_equity_ts": 1795007960.0604959
 }
