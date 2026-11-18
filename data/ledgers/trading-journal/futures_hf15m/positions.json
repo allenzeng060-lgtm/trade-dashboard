@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794977746843,
-      "last_price": 0.3059,
+      "last_check_ms": 1794978075847,
+      "last_price": 0.3051,
       "last_funding_ms": 1794974400000
     },
     {
@@ -90,8 +90,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794977747139,
-      "last_price": 0.9798,
+      "last_check_ms": 1794978076093,
+      "last_price": 0.9786,
       "last_funding_ms": 1794960000000
     },
     {
@@ -133,8 +133,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 07:00:00 MYT",
-      "last_check_ms": 1794977747429,
-      "last_price": 195.21,
+      "last_check_ms": 1794978076345,
+      "last_price": 194.76,
       "last_funding_ms": 1794974400000
     },
     {
@@ -176,8 +176,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 10:15:00 MYT",
-      "last_check_ms": 1794977747725,
-      "last_price": 3778.97,
+      "last_check_ms": 1794978076588,
+      "last_price": 3778.54,
       "last_funding_ms": 1794974400000
     },
     {
@@ -219,9 +219,51 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 10:15:00 MYT",
-      "last_check_ms": 1794977748019,
-      "last_price": 2.1454,
+      "last_check_ms": 1794978076839,
+      "last_price": 2.146,
       "last_funding_ms": 1794974400000
+    },
+    {
+      "id": "FHF-20261118-1300-龙虾USDT",
+      "symbol": "龙虾USDT",
+      "side": "SELL",
+      "rules": "hf-15m-v0.1",
+      "cycle": 1,
+      "slippage": 0.0002,
+      "mode": "paper",
+      "status": "open",
+      "group": "合約高頻組",
+      "market": "usdm_perp",
+      "margin_type": "isolated",
+      "signal_tf": "15m",
+      "signal_bar_close_myt": "2026-11-18 13:00:00 MYT",
+      "vol_ratio": 2.07,
+      "breakout_level": 0.01504,
+      "entry_time": "2026-11-18 13:00:00 MYT",
+      "entry_ms": 1794978000000,
+      "entry_price": 0.014827034,
+      "qty": 483.0,
+      "remaining_qty": 483.0,
+      "notional": 7.161457422,
+      "leverage": 2,
+      "margin": 3.580728711,
+      "liq_price": 0.02118148,
+      "mmr": 0.05,
+      "stop": 0.015693770602008373,
+      "initial_stop": 0.015693770602008373,
+      "R": 0.0008667366020083734,
+      "stop_pct": 5.846,
+      "risk_usdt": 0.4260045530814293,
+      "entry_fee": 0.003580728711,
+      "funding": 0.0,
+      "best": 0.01411,
+      "high_since_entry": 0.01492,
+      "low_since_entry": 0.01411,
+      "trail_armed": false,
+      "targets": [],
+      "exit_deadline": "2026-11-19 13:00:00 MYT",
+      "last_check_ms": 1794978077085,
+      "last_price": 0.01416
     }
   ]
 }

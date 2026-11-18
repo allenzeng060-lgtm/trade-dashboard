@@ -847,3 +847,6 @@
 2026-11-18 04:45:46,632 INFO decision regime {"allow": "ANY", "btc_close": 64457.96, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
 2026-11-18 04:45:59,375 INFO decision scan {"bar_close": "2026-11-18 12:45:00 MYT", "breakouts": 9, "vol_ok": 0, "allow": "ANY"}
 2026-11-18 04:55:48,616 INFO decision close {"symbol": "KAVAUSDT", "reason": "stop", "fill": 0.028074841813686215, "net": -0.3576, "R": -0.83}
+2026-11-18 05:01:06,686 INFO decision regime {"allow": "ANY", "btc_close": 64457.96, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+2026-11-18 05:01:15,464 INFO decision scan {"bar_close": "2026-11-18 13:00:00 MYT", "breakouts": 7, "vol_ok": 1, "allow": "ANY"}
+2026-11-18 05:01:15,847 INFO decision open {"symbol": "龙虾USDT", "side": "SELL", "entry": 0.014827034, "stop": 0.015693770602008373, "qty": 483.0, "lev": 2, "liq": 0.02118148, "risk": 0.426}
