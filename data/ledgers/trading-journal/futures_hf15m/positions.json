@@ -47,7 +47,7 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794968444609,
+      "last_check_ms": 1794968686765,
       "last_price": 0.3066,
       "last_funding_ms": 1794960000000
     },
@@ -90,8 +90,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794968444933,
-      "last_price": 0.9744,
+      "last_check_ms": 1794968687086,
+      "last_price": 0.9737,
       "last_funding_ms": 1794960000000
     },
     {
@@ -133,8 +133,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794968445308,
-      "last_price": 7.169,
+      "last_check_ms": 1794968687419,
+      "last_price": 7.167,
       "last_funding_ms": 1794960000000
     },
     {
@@ -176,8 +176,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 07:00:00 MYT",
-      "last_check_ms": 1794968445622,
-      "last_price": 195.78,
+      "last_check_ms": 1794968687748,
+      "last_price": 196.53,
       "last_funding_ms": 1794960000000
     },
     {
@@ -219,8 +219,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 10:15:00 MYT",
-      "last_check_ms": 1794968446029,
-      "last_price": 3792.64
+      "last_check_ms": 1794968688361,
+      "last_price": 3791.85
     },
     {
       "id": "FHF-20261118-1015-PIEVERSEUSDT",
@@ -255,14 +255,14 @@
       "risk_usdt": 0.4186764667057035,
       "entry_fee": 0.008543308320000002,
       "funding": 0.0,
-      "best": 2.1575,
-      "high_since_entry": 2.1575,
+      "best": 2.188,
+      "high_since_entry": 2.188,
       "low_since_entry": 2.1348,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 10:15:00 MYT",
-      "last_check_ms": 1794968446348,
-      "last_price": 2.156
+      "last_check_ms": 1794968688980,
+      "last_price": 2.1732
     }
   ]
 }
