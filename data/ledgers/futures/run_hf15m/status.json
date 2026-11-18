@@ -3,7 +3,7 @@
   "set": "15m",
   "mode": "paper",
   "rules": "hf-15m-v0.1",
-  "updated_at": "2026-11-19 01:16:17 MYT",
+  "updated_at": "2026-11-19 01:20:53 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -16,10 +16,10 @@
     "slip": 0.0002,
     "regime": "none"
   },
-  "wallet_usdt": 83.3923,
-  "unrealized_usdt": 1.1473,
-  "equity_usdt": 84.5397,
-  "pnl_pct": -15.46,
+  "wallet_usdt": 83.0943,
+  "unrealized_usdt": 1.0155,
+  "equity_usdt": 84.1098,
+  "pnl_pct": -15.89,
   "regime": {
     "allow": "ANY",
     "btc_close": 63122.53,
@@ -91,7 +91,7 @@
       "R": 0.0008667366020083734,
       "trail_armed": false,
       "funding": 0.00104151,
-      "last_price": 0.01416,
+      "last_price": 0.01421,
       "exit_deadline": "2026-11-19 13:00:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.07
@@ -112,7 +112,7 @@
       "R": 0.00029044014411782964,
       "trail_armed": false,
       "funding": -0.04004112,
-      "last_price": 0.01137,
+      "last_price": 0.01148,
       "exit_deadline": "2026-11-19 17:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 6.22
@@ -154,7 +154,7 @@
       "R": 0.1526786270007942,
       "trail_armed": false,
       "funding": -0.00382478,
-      "last_price": 3.2564,
+      "last_price": 3.27,
       "exit_deadline": "2026-11-19 22:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 10.89
@@ -175,7 +175,7 @@
       "R": 4.446172436725169e-05,
       "trail_armed": false,
       "funding": 0.00017163,
-      "last_price": 0.002589,
+      "last_price": 0.002618,
       "exit_deadline": "2026-11-19 23:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 4.39
@@ -196,31 +196,10 @@
       "R": 0.09775824115479777,
       "trail_armed": false,
       "funding": 3.221e-05,
-      "last_price": 7.011,
+      "last_price": 7.073,
       "exit_deadline": "2026-11-19 23:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.37
-    },
-    {
-      "id": "FHF-20261119-0015-FILUSDT",
-      "symbol": "FILUSDT",
-      "side": "SELL",
-      "entry_time": "2026-11-19 00:15:00 MYT",
-      "entry_price": 0.57118574,
-      "qty": 36.9,
-      "notional": 21.076753806,
-      "leverage": 3,
-      "margin": 7.0255846019999995,
-      "liq_price": 0.75404058,
-      "stop": 0.5785731750940286,
-      "initial_stop": 0.5785731750940286,
-      "R": 0.00738743509402867,
-      "trail_armed": false,
-      "funding": 0.0,
-      "last_price": 0.575,
-      "exit_deadline": "2026-11-20 00:15:00 MYT",
-      "signal_tf": "15m",
-      "vol_ratio": 4.02
     },
     {
       "id": "FHF-20261119-0030-APTUSDT",
@@ -238,7 +217,7 @@
       "R": 0.005589187588304307,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 0.4267,
+      "last_price": 0.4304,
       "exit_deadline": "2026-11-20 00:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 8.03
@@ -259,7 +238,7 @@
       "R": 0.0003129298754599081,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 0.008341,
+      "last_price": 0.008647,
       "exit_deadline": "2026-11-20 01:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 5.81
