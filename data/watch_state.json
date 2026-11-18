@@ -262,7 +262,27 @@
       "exit_deadline": "2026-11-19 07:15:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
+    },
+    {
+      "id": "FHF-20261118-0830-PAXGUSDT",
+      "symbol": "PAXGUSDT",
+      "side": "SELL",
+      "mode": "paper",
+      "status": "open",
+      "entry_price": 3821.88547,
+      "entry_time": "2026-11-18 08:30:00 MYT",
+      "qty": 0.005,
+      "remaining_qty": 0.005,
+      "stop": 3830.305701571481,
+      "initial_stop": 3830.305701571481,
+      "R": 8.420231571481168,
+      "targets": [],
+      "high_since_entry": 3822.81,
+      "low_since_entry": 3812.36,
+      "exit_deadline": "2026-11-19 08:30:00 MYT",
+      "market": "usdm_perp",
+      "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-18 08:29:04 MYT"
+  "paper_updated_at": "2026-11-18 08:34:26 MYT"
 }

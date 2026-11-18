@@ -8,29 +8,29 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-18 08:19:11 MYT",
-    "bar_close": "2026-11-18 08:15:00 MYT",
-    "universe": 72,
+    "time": "2026-11-18 08:34:21 MYT",
+    "bar_close": "2026-11-18 08:30:00 MYT",
+    "universe": 73,
     "breakouts": [
       {
-        "symbol": "KAVAUSDT",
-        "side": "SELL",
+        "symbol": "TAOUSDT",
+        "side": "BUY",
         "tf": "15m",
-        "level": 0.0274,
-        "close": 0.0274,
-        "vol_ratio": 0.749
+        "level": 198.34,
+        "close": 198.36,
+        "vol_ratio": 1.4048
       },
       {
         "symbol": "PAXGUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 3832.42,
-        "close": 3831.5,
-        "vol_ratio": 1.4452
+        "level": 3830.85,
+        "close": 3822.65,
+        "vol_ratio": 3.0787
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794960900000,
-  "last_equity_ts": 1794961152.9415932
+  "last_scan_bar_ms": 1794961800000,
+  "last_equity_ts": 1794962061.7324665
 }

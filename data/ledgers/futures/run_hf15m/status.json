@@ -3,7 +3,7 @@
   "set": "15m",
   "mode": "paper",
   "rules": "hf-15m-v0.1",
-  "updated_at": "2026-11-18 08:29:03 MYT",
+  "updated_at": "2026-11-18 08:34:25 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -17,9 +17,9 @@
     "regime": "none"
   },
   "wallet_usdt": 87.9205,
-  "unrealized_usdt": 0.7554,
-  "equity_usdt": 88.676,
-  "pnl_pct": -11.324,
+  "unrealized_usdt": 0.7997,
+  "equity_usdt": 88.7203,
+  "pnl_pct": -11.28,
   "regime": {
     "allow": "ANY",
     "btc_close": 64947.35,
@@ -27,25 +27,25 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-18 08:19:11 MYT",
-    "bar_close": "2026-11-18 08:15:00 MYT",
-    "universe": 72,
+    "time": "2026-11-18 08:34:21 MYT",
+    "bar_close": "2026-11-18 08:30:00 MYT",
+    "universe": 73,
     "breakouts": [
       {
-        "symbol": "KAVAUSDT",
-        "side": "SELL",
+        "symbol": "TAOUSDT",
+        "side": "BUY",
         "tf": "15m",
-        "level": 0.0274,
-        "close": 0.0274,
-        "vol_ratio": 0.749
+        "level": 198.34,
+        "close": 198.36,
+        "vol_ratio": 1.4048
       },
       {
         "symbol": "PAXGUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 3832.42,
-        "close": 3831.5,
-        "vol_ratio": 1.4452
+        "level": 3830.85,
+        "close": 3822.65,
+        "vol_ratio": 3.0787
       }
     ],
     "regime": "ANY"
@@ -67,7 +67,7 @@
       "R": 0.00378692168375275,
       "trail_armed": false,
       "funding": -0.00093081,
-      "last_price": 0.3098,
+      "last_price": 0.3099,
       "exit_deadline": "2026-11-19 05:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.58
@@ -88,7 +88,7 @@
       "R": 0.0017359995969772595,
       "trail_armed": false,
       "funding": -0.00187326,
-      "last_price": 0.1546,
+      "last_price": 0.1545,
       "exit_deadline": "2026-11-19 05:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.51
@@ -109,7 +109,7 @@
       "R": 0.009235769866547429,
       "trail_armed": false,
       "funding": -0.00100567,
-      "last_price": 0.9823,
+      "last_price": 0.9827,
       "exit_deadline": "2026-11-19 05:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.06
@@ -130,7 +130,7 @@
       "R": 0.08330285589246789,
       "trail_armed": false,
       "funding": -0.0015674,
-      "last_price": 7.263,
+      "last_price": 7.262,
       "exit_deadline": "2026-11-19 05:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.01
@@ -151,7 +151,7 @@
       "R": 2.06340890465846,
       "trail_armed": false,
       "funding": -0.0011068,
-      "last_price": 197.8,
+      "last_price": 197.65,
       "exit_deadline": "2026-11-19 07:00:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.67
@@ -172,10 +172,31 @@
       "R": 3.496662685464335,
       "trail_armed": false,
       "funding": -0.00140154,
-      "last_price": 596.81,
+      "last_price": 597.54,
       "exit_deadline": "2026-11-19 07:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 7.07
+    },
+    {
+      "id": "FHF-20261118-0830-PAXGUSDT",
+      "symbol": "PAXGUSDT",
+      "side": "SELL",
+      "entry_time": "2026-11-18 08:30:00 MYT",
+      "entry_price": 3821.88547,
+      "qty": 0.005,
+      "notional": 19.10942735,
+      "leverage": 3,
+      "margin": 6.369809116666667,
+      "liq_price": 5045.39335974,
+      "stop": 3830.305701571481,
+      "initial_stop": 3830.305701571481,
+      "R": 8.420231571481168,
+      "trail_armed": false,
+      "funding": 0.0,
+      "last_price": 3813.51,
+      "exit_deadline": "2026-11-19 08:30:00 MYT",
+      "signal_tf": "15m",
+      "vol_ratio": 3.08
     }
   ],
   "data_source": "www.binance.com /fapi (public)"
