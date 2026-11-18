@@ -3,7 +3,7 @@
   "set": "15m",
   "mode": "paper",
   "rules": "hf-15m-v0.1",
-  "updated_at": "2026-11-18 16:12:12 MYT",
+  "updated_at": "2026-11-18 16:17:30 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -16,10 +16,10 @@
     "slip": 0.0002,
     "regime": "none"
   },
-  "wallet_usdt": 83.88,
-  "unrealized_usdt": 1.8434,
-  "equity_usdt": 85.7234,
-  "pnl_pct": -14.277,
+  "wallet_usdt": 84.2047,
+  "unrealized_usdt": 1.3575,
+  "equity_usdt": 85.5622,
+  "pnl_pct": -14.438,
   "regime": {
     "allow": "ANY",
     "btc_close": 64884.01,
@@ -27,57 +27,57 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-18 16:02:48 MYT",
-    "bar_close": "2026-11-18 16:00:00 MYT",
+    "time": "2026-11-18 16:17:26 MYT",
+    "bar_close": "2026-11-18 16:15:00 MYT",
     "universe": 76,
     "breakouts": [
       {
-        "symbol": "BTCUSDT",
-        "side": "BUY",
+        "symbol": "XMRUSDT",
+        "side": "SELL",
         "tf": "15m",
-        "level": 64833.6,
-        "close": 64851.1,
-        "vol_ratio": 0.9906
+        "level": 500.79,
+        "close": 498.22,
+        "vol_ratio": 1.2215
       },
       {
-        "symbol": "XRPUSDT",
-        "side": "BUY",
+        "symbol": "NEARUSDT",
+        "side": "SELL",
         "tf": "15m",
-        "level": 0.995,
-        "close": 1.0014,
-        "vol_ratio": 4.8264
+        "level": 3.355,
+        "close": 3.351,
+        "vol_ratio": 0.8349
       },
       {
-        "symbol": "LTCUSDT",
-        "side": "BUY",
+        "symbol": "ZROUSDT",
+        "side": "SELL",
         "tf": "15m",
-        "level": 44.78,
-        "close": 44.8,
-        "vol_ratio": 1.1002
+        "level": 1.3428,
+        "close": 1.3365,
+        "vol_ratio": 1.9395
       },
       {
-        "symbol": "XLMUSDT",
-        "side": "BUY",
+        "symbol": "PAXGUSDT",
+        "side": "SELL",
         "tf": "15m",
-        "level": 0.1419,
-        "close": 0.1423,
-        "vol_ratio": 2.4407
+        "level": 3758.57,
+        "close": 3754.31,
+        "vol_ratio": 2.3312
       },
       {
-        "symbol": "ADAUSDT",
+        "symbol": "ICNTUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.1545,
-        "close": 0.1546,
-        "vol_ratio": 1.8166
+        "level": 0.3103,
+        "close": 0.3162,
+        "vol_ratio": 3.5732
       },
       {
-        "symbol": "SUIUSDT",
-        "side": "BUY",
+        "symbol": "XAUTUSDT",
+        "side": "SELL",
         "tf": "15m",
-        "level": 0.7342,
-        "close": 0.7351,
-        "vol_ratio": 1.0558
+        "level": 3756.78,
+        "close": 3752.79,
+        "vol_ratio": 2.4627
       }
     ],
     "regime": "ANY"
@@ -99,31 +99,10 @@
       "R": 0.00378692168375275,
       "trail_armed": false,
       "funding": -0.00252915,
-      "last_price": 0.3078,
+      "last_price": 0.3072,
       "exit_deadline": "2026-11-19 05:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.58
-    },
-    {
-      "id": "FHF-20261118-0530-XRPUSDT",
-      "symbol": "XRPUSDT",
-      "side": "BUY",
-      "entry_time": "2026-11-18 05:30:00 MYT",
-      "entry_price": 0.97399476,
-      "qty": 22.6,
-      "notional": 22.012281576,
-      "leverage": 3,
-      "margin": 7.337427192,
-      "liq_price": 0.6525928,
-      "stop": 0.9972642301334526,
-      "initial_stop": 0.9647589901334526,
-      "R": 0.009235769866547429,
-      "trail_armed": true,
-      "funding": -0.00018202,
-      "last_price": 1.0001,
-      "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "signal_tf": "15m",
-      "vol_ratio": 2.06
     },
     {
       "id": "FHF-20261118-0700-TAOUSDT",
@@ -141,7 +120,7 @@
       "R": 2.06340890465846,
       "trail_armed": false,
       "funding": -0.00146908,
-      "last_price": 196.12,
+      "last_price": 195.67,
       "exit_deadline": "2026-11-19 07:00:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.67
@@ -157,12 +136,12 @@
       "leverage": 3,
       "margin": 6.32353504,
       "liq_price": 5008.74062574,
-      "stop": 3771.2211390017837,
+      "stop": 3763.8911390017834,
       "initial_stop": 3806.7721630017836,
       "R": 12.651139001783589,
       "trail_armed": true,
       "funding": 0.00165762,
-      "last_price": 3761.36,
+      "last_price": 3753.86,
       "exit_deadline": "2026-11-19 10:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.58
@@ -183,7 +162,7 @@
       "R": 0.05022384317980284,
       "trail_armed": false,
       "funding": -0.00310825,
-      "last_price": 2.1725,
+      "last_price": 2.1776,
       "exit_deadline": "2026-11-19 10:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.18
@@ -225,31 +204,52 @@
       "R": 0.018141443108737835,
       "trail_armed": false,
       "funding": -3.774e-05,
-      "last_price": 0.2335,
+      "last_price": 0.2346,
       "exit_deadline": "2026-11-19 14:00:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 9.76
     },
     {
-      "id": "FHF-20261118-1600-XLMUSDT",
-      "symbol": "XLMUSDT",
+      "id": "FHF-20261118-1615-ICNTUSDT",
+      "symbol": "ICNTUSDT",
       "side": "BUY",
-      "entry_time": "2026-11-18 16:00:00 MYT",
-      "entry_price": 0.142298454,
-      "qty": 147.0,
-      "notional": 20.917872738,
-      "leverage": 3,
-      "margin": 6.972624246,
-      "liq_price": 0.09582387,
-      "stop": 0.14128174989112335,
-      "initial_stop": 0.14128174989112335,
-      "R": 0.0010167041088766488,
+      "entry_time": "2026-11-18 16:15:00 MYT",
+      "entry_price": 0.31626324,
+      "qty": 27.0,
+      "notional": 8.53910748,
+      "leverage": 2,
+      "margin": 4.26955374,
+      "liq_price": 0.16053972,
+      "stop": 0.3011154315353017,
+      "initial_stop": 0.3011154315353017,
+      "R": 0.01514780846469832,
       "trail_armed": false,
-      "funding": 0.00028778,
-      "last_price": 0.14163,
-      "exit_deadline": "2026-11-19 16:00:00 MYT",
+      "funding": 0.0,
+      "last_price": 0.3173,
+      "exit_deadline": "2026-11-19 16:15:00 MYT",
       "signal_tf": "15m",
-      "vol_ratio": 2.44
+      "vol_ratio": 3.57
+    },
+    {
+      "id": "FHF-20261118-1615-XAUTUSDT",
+      "symbol": "XAUTUSDT",
+      "side": "SELL",
+      "entry_time": "2026-11-18 16:15:00 MYT",
+      "entry_price": 3752.0394420000002,
+      "qty": 0.005,
+      "notional": 18.76019721,
+      "leverage": 3,
+      "margin": 6.25339907,
+      "liq_price": 4953.18738218,
+      "stop": 3763.634338347781,
+      "initial_stop": 3763.634338347781,
+      "R": 11.594896347780772,
+      "trail_armed": false,
+      "funding": 0.0,
+      "last_price": 3752.38,
+      "exit_deadline": "2026-11-19 16:15:00 MYT",
+      "signal_tf": "15m",
+      "vol_ratio": 2.46
     }
   ],
   "data_source": "www.binance.com /fapi (public)"
