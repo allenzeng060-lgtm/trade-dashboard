@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794968408509,
-      "last_price": 0.306,
+      "last_check_ms": 1794968444609,
+      "last_price": 0.3066,
       "last_funding_ms": 1794960000000
     },
     {
@@ -90,8 +90,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794968408929,
-      "last_price": 0.9728,
+      "last_check_ms": 1794968444933,
+      "last_price": 0.9744,
       "last_funding_ms": 1794960000000
     },
     {
@@ -133,8 +133,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794968409722,
-      "last_price": 7.157,
+      "last_check_ms": 1794968445308,
+      "last_price": 7.169,
       "last_funding_ms": 1794960000000
     },
     {
@@ -176,8 +176,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 07:00:00 MYT",
-      "last_check_ms": 1794968410140,
-      "last_price": 195.42,
+      "last_check_ms": 1794968445622,
+      "last_price": 195.78,
       "last_funding_ms": 1794960000000
     },
     {
@@ -219,8 +219,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 10:15:00 MYT",
-      "last_check_ms": 1794968411304,
-      "last_price": 3792.41
+      "last_check_ms": 1794968446029,
+      "last_price": 3792.64
     },
     {
       "id": "FHF-20261118-1015-PIEVERSEUSDT",
@@ -255,14 +255,14 @@
       "risk_usdt": 0.4186764667057035,
       "entry_fee": 0.008543308320000002,
       "funding": 0.0,
-      "best": 2.1571,
-      "high_since_entry": 2.1571,
+      "best": 2.1575,
+      "high_since_entry": 2.1575,
       "low_since_entry": 2.1348,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 10:15:00 MYT",
-      "last_check_ms": 1794968411729,
-      "last_price": 2.1459
+      "last_check_ms": 1794968446348,
+      "last_price": 2.156
     }
   ]
 }
