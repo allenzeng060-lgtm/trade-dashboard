@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794998915752,
-      "last_price": 0.3073,
+      "last_check_ms": 1794999198383,
+      "last_price": 0.3077,
       "last_funding_ms": 1794988800001
     },
     {
@@ -90,8 +90,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 07:00:00 MYT",
-      "last_check_ms": 1794998916535,
-      "last_price": 195.37,
+      "last_check_ms": 1794999198598,
+      "last_price": 195.62,
       "last_funding_ms": 1794988800001
     },
     {
@@ -133,7 +133,7 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 13:00:00 MYT",
-      "last_check_ms": 1794998916949,
+      "last_check_ms": 1794999198809,
       "last_price": 0.01477,
       "last_funding_ms": 1794988800001
     },
@@ -176,8 +176,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 17:15:00 MYT",
-      "last_check_ms": 1794998917748,
-      "last_price": 0.01176
+      "last_check_ms": 1794999199024,
+      "last_price": 0.01165
     },
     {
       "id": "FHF-20261118-1815-PIPPINUSDT",
@@ -218,8 +218,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 18:15:00 MYT",
-      "last_check_ms": 1794998918924,
-      "last_price": 0.02148
+      "last_check_ms": 1794999199426,
+      "last_price": 0.02101
     },
     {
       "id": "FHF-20261118-1830-JCTUSDT",
@@ -255,13 +255,13 @@
       "entry_fee": 0.008632945065599999,
       "funding": 0.0,
       "best": 0.001946,
-      "high_since_entry": 0.001974,
+      "high_since_entry": 0.001979,
       "low_since_entry": 0.001946,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 18:30:00 MYT",
-      "last_check_ms": 1794998919726,
-      "last_price": 0.001972
+      "last_check_ms": 1794999199828,
+      "last_price": 0.001976
     },
     {
       "id": "FHF-20261118-1845-PIEVERSEUSDT",
@@ -302,8 +302,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 18:45:00 MYT",
-      "last_check_ms": 1794998920154,
-      "last_price": 2.4103
+      "last_check_ms": 1794999200236,
+      "last_price": 2.4
     },
     {
       "id": "FHF-20261118-1845-ADAUSDT",
@@ -339,12 +339,12 @@
       "entry_fee": 0.0107218552,
       "funding": 0.0,
       "best": 0.1531,
-      "high_since_entry": 0.1534,
+      "high_since_entry": 0.1537,
       "low_since_entry": 0.1531,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 18:45:00 MYT",
-      "last_check_ms": 1794998921322,
+      "last_check_ms": 1794999200449,
       "last_price": 0.1534
     }
   ]
