@@ -951,3 +951,5 @@
 {"time": "2026-11-18 14:31:38 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64457.96, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
 {"time": "2026-11-18 14:31:51 MYT", "kind": "scan", "bar_close": "2026-11-18 14:30:00 MYT", "breakouts": 5, "vol_ok": 1, "allow": "ANY"}
 {"time": "2026-11-18 14:31:51 MYT", "kind": "skip", "symbol": "ICNTUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 5.29, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+{"time": "2026-11-18 14:46:37 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64457.96, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-18 14:46:47 MYT", "kind": "scan", "bar_close": "2026-11-18 14:45:00 MYT", "breakouts": 3, "vol_ok": 0, "allow": "ANY"}
