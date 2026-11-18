@@ -252,3 +252,11 @@
 {"time": "2026-11-19 00:05:52 MYT", "kind": "skip", "symbol": "PUMPUSDT", "side": "SELL", "tf": "1h", "vol_ratio": 2.79, "reason": "same-direction cap 2 (v0.2 correlation cap)"}
 {"time": "2026-11-19 00:05:52 MYT", "kind": "skip", "symbol": "FILUSDT", "side": "SELL", "tf": "1h", "vol_ratio": 2.55, "reason": "same-direction cap 2 (v0.2 correlation cap)"}
 {"time": "2026-11-19 00:05:52 MYT", "kind": "skip", "symbol": "ADAUSDT", "side": "SELL", "tf": "1h", "vol_ratio": 2.07, "reason": "same-direction cap 2 (v0.2 correlation cap)"}
+{"time": "2026-11-19 01:00:39 MYT", "kind": "regime", "allow": "SELL", "btc_close": 63122.53, "ref": 67568.0, "new_low": true, "reason": "BTC 4h close 63122.53 < filter 67568 → shorts only"}
+{"time": "2026-11-19 01:00:52 MYT", "kind": "scan", "bar_close": "2026-11-19 01:00:00 MYT", "breakouts": 22, "vol_ok": 6, "allow": "SELL"}
+{"time": "2026-11-19 01:00:52 MYT", "kind": "skip", "symbol": "HUMAUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 4.67, "reason": "direction filter: BTC 4h close 63122.53 < filter 67568 → shorts only"}
+{"time": "2026-11-19 01:00:52 MYT", "kind": "skip", "symbol": "APTUSDT", "side": "SELL", "tf": "1h", "vol_ratio": 2.92, "reason": "same-direction cap 2 (v0.2 correlation cap)"}
+{"time": "2026-11-19 01:00:52 MYT", "kind": "skip", "symbol": "FETUSDT", "side": "SELL", "tf": "1h", "vol_ratio": 2.74, "reason": "same-direction cap 2 (v0.2 correlation cap)"}
+{"time": "2026-11-19 01:00:52 MYT", "kind": "skip", "symbol": "BTCUSDT", "side": "SELL", "tf": "1h", "vol_ratio": 2.49, "reason": "same-direction cap 2 (v0.2 correlation cap)"}
+{"time": "2026-11-19 01:00:52 MYT", "kind": "skip", "symbol": "ETHUSDT", "side": "SELL", "tf": "1h", "vol_ratio": 2.46, "reason": "already holding"}
+{"time": "2026-11-19 01:00:52 MYT", "kind": "skip", "symbol": "ICPUSDT", "side": "SELL", "tf": "1h", "vol_ratio": 2.3, "reason": "same-direction cap 2 (v0.2 correlation cap)"}
