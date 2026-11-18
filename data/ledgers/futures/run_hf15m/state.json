@@ -8,21 +8,21 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-18 12:15:52 MYT",
-    "bar_close": "2026-11-18 12:15:00 MYT",
+    "time": "2026-11-18 12:30:54 MYT",
+    "bar_close": "2026-11-18 12:30:00 MYT",
     "universe": 73,
     "breakouts": [
       {
-        "symbol": "ARBUSDT",
-        "side": "SELL",
+        "symbol": "INITUSDT",
+        "side": "BUY",
         "tf": "15m",
-        "level": 0.1305,
-        "close": 0.1305,
-        "vol_ratio": 0.6812
+        "level": 0.1037,
+        "close": 0.104,
+        "vol_ratio": 1.103
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794975300000,
+  "last_scan_bar_ms": 1794976200000,
   "last_equity_ts": 1794974812.7565181
 }

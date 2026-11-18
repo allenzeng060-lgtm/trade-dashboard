@@ -842,3 +842,5 @@
 2026-11-18 04:06:52,756 INFO decision close {"symbol": "MMTUSDT", "reason": "stop", "fill": 0.14859531224982278, "net": -0.426, "R": -1.0}
 2026-11-18 04:15:43,071 INFO decision regime {"allow": "ANY", "btc_close": 64457.96, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
 2026-11-18 04:15:52,531 INFO decision scan {"bar_close": "2026-11-18 12:15:00 MYT", "breakouts": 1, "vol_ok": 0, "allow": "ANY"}
+2026-11-18 04:30:41,254 INFO decision regime {"allow": "ANY", "btc_close": 64457.96, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+2026-11-18 04:30:54,232 INFO decision scan {"bar_close": "2026-11-18 12:30:00 MYT", "breakouts": 1, "vol_ok": 0, "allow": "ANY"}
