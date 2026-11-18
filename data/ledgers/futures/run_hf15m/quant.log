@@ -1034,3 +1034,22 @@
 2026-11-18 14:34:57,188 INFO decision open {"symbol": "EVAAUSDT", "side": "BUY", "entry": 3.9222843, "stop": 3.6935707519957273, "qty": 1.8, "lev": 2, "liq": 2.06436016, "risk": 0.419}
 2026-11-18 14:39:39,288 INFO decision close {"symbol": "ONDOUSDT", "reason": "stop", "fill": 0.303013823428584, "net": -0.3019, "R": -1.03}
 2026-11-18 14:39:39,523 INFO decision close {"symbol": "TAOUSDT", "reason": "stop", "fill": 192.78699598312247, "net": -0.2591, "R": -1.03}
+2026-11-18 14:49:45,546 INFO decision regime {"allow": "ANY", "btc_close": 64231.52, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+2026-11-18 14:49:57,192 INFO decision scan {"bar_close": "2026-11-18 22:45:00 MYT", "breakouts": 17, "vol_ok": 17, "allow": "ANY"}
+2026-11-18 14:49:57,583 INFO decision open {"symbol": "BNBUSDT", "side": "SELL", "entry": 585.852806, "stop": 588.5098441936752, "qty": 0.03, "lev": 3, "liq": 777.25082056, "risk": 0.097}
+2026-11-18 14:49:57,583 INFO decision skip {"symbol": "ETHUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 7.33, "reason": "notional 19.42 < exchange min 20"}
+2026-11-18 14:49:57,583 INFO decision skip {"symbol": "BTCUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 6.58, "reason": "notional 0.00 < exchange min 50"}
+2026-11-18 14:49:57,583 INFO decision open {"symbol": "SOLUSDT", "side": "SELL", "entry": 73.715254, "stop": 74.33376549325412, "qty": 0.28, "lev": 3, "liq": 97.79801526, "risk": 0.194}
+2026-11-18 14:49:57,584 INFO decision open {"symbol": "UNIUSDT", "side": "SELL", "entry": 5.1559686000000005, "stop": 5.207452602261316, "qty": 4.0, "lev": 3, "liq": 6.83362306, "risk": 0.227}
+2026-11-18 14:49:57,584 INFO decision open {"symbol": "HYPEUSDT", "side": "SELL", "entry": 66.6826608, "stop": 67.3897152060756, "qty": 0.31, "lev": 3, "liq": 88.02991525, "risk": 0.24}
+2026-11-18 14:49:57,584 INFO decision skip {"symbol": "APTUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 4.7, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+2026-11-18 14:49:57,584 INFO decision skip {"symbol": "AVAXUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 4.49, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+2026-11-18 14:49:57,584 INFO decision skip {"symbol": "ARBUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 4.38, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+2026-11-18 14:49:57,584 INFO decision skip {"symbol": "TAOUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 4.28, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+2026-11-18 14:49:57,584 INFO decision skip {"symbol": "FILUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 4.15, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+2026-11-18 14:49:57,584 INFO decision skip {"symbol": "LINKUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 4.04, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+2026-11-18 14:49:57,585 INFO decision skip {"symbol": "SUIUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 3.91, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+2026-11-18 14:49:57,585 INFO decision skip {"symbol": "ZECUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 3.73, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+2026-11-18 14:49:57,585 INFO decision skip {"symbol": "NEARUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 3.45, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+2026-11-18 14:49:57,585 INFO decision skip {"symbol": "ONDOUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 3.21, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+2026-11-18 14:49:57,585 INFO decision skip {"symbol": "INJUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.49, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
