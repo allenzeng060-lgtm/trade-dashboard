@@ -184,3 +184,5 @@
 {"time": "2026-11-18 09:04:27 MYT", "kind": "scan", "bar_close": "2026-11-18 09:00:00 MYT", "breakouts": 3, "vol_ok": 2, "allow": "SELL"}
 {"time": "2026-11-18 09:04:27 MYT", "kind": "open", "symbol": "XAUTUSDT", "side": "SELL", "entry": 3802.6893099999998, "stop": 3833.1384731883295, "qty": 0.015, "lev": 3, "liq": 5020.05189439, "risk": 0.514}
 {"time": "2026-11-18 09:04:27 MYT", "kind": "skip", "symbol": "PAXGUSDT", "side": "SELL", "tf": "1h", "vol_ratio": 2.01, "reason": "same-direction cap 2 (v0.2 correlation cap)"}
+{"time": "2026-11-18 10:04:42 MYT", "kind": "regime", "allow": "SELL", "btc_close": 64947.35, "ref": 67568.0, "new_low": false, "reason": "BTC 4h close 64947.35 < filter 67568 → shorts only"}
+{"time": "2026-11-18 10:05:06 MYT", "kind": "scan", "bar_close": "2026-11-18 10:00:00 MYT", "breakouts": 4, "vol_ok": 0, "allow": "SELL"}

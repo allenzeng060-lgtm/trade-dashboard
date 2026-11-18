@@ -8,37 +8,45 @@
     "reason": "BTC 4h close 64947.35 < filter 67568 → shorts only"
   },
   "last_scan": {
-    "time": "2026-11-18 09:04:27 MYT",
-    "bar_close": "2026-11-18 09:00:00 MYT",
+    "time": "2026-11-18 10:05:06 MYT",
+    "bar_close": "2026-11-18 10:00:00 MYT",
     "universe": 73,
     "breakouts": [
+      {
+        "symbol": "PHAUSDT",
+        "side": "SELL",
+        "tf": "1h",
+        "level": 0.0318,
+        "close": 0.0317,
+        "vol_ratio": 1.1311
+      },
       {
         "symbol": "PAXGUSDT",
         "side": "SELL",
         "tf": "1h",
-        "level": 3827.66,
-        "close": 3806.84,
-        "vol_ratio": 2.0067
+        "level": 3806.25,
+        "close": 3802.56,
+        "vol_ratio": 1.8056
       },
       {
-        "symbol": "BULLAUSDT",
+        "symbol": "EVAAUSDT",
         "side": "SELL",
         "tf": "1h",
-        "level": 0.012,
-        "close": 0.012,
-        "vol_ratio": 0.4444
+        "level": 3.1661,
+        "close": 3.1475,
+        "vol_ratio": 0.9866
       },
       {
         "symbol": "XAUTUSDT",
         "side": "SELL",
         "tf": "1h",
-        "level": 3824.43,
-        "close": 3803.45,
-        "vol_ratio": 2.0352
+        "level": 3803.43,
+        "close": 3798.8,
+        "vol_ratio": 1.3944
       }
     ],
     "regime": "SELL"
   },
-  "last_scan_bar_ms": 1794963600000,
-  "last_equity_ts": 1794963867.5898573
+  "last_scan_bar_ms": 1794967200000,
+  "last_equity_ts": 1794967507.7000048
 }

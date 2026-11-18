@@ -808,3 +808,5 @@
 2026-11-18 01:49:36,582 INFO decision close {"symbol": "BREVUSDT", "reason": "stop", "fill": 0.12008710297607916, "net": -0.4331, "R": -1.0}
 2026-11-18 01:49:38,238 INFO decision regime {"allow": "ANY", "btc_close": 64947.35, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
 2026-11-18 01:49:50,204 INFO decision scan {"bar_close": "2026-11-18 09:45:00 MYT", "breakouts": 3, "vol_ok": 0, "allow": "ANY"}
+2026-11-18 02:05:13,015 INFO decision regime {"allow": "ANY", "btc_close": 64947.35, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+2026-11-18 02:05:32,268 INFO decision scan {"bar_close": "2026-11-18 10:00:00 MYT", "breakouts": 6, "vol_ok": 0, "allow": "ANY"}
