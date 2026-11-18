@@ -1203,3 +1203,4 @@
 {"time": "2026-11-19 00:20:41 MYT", "kind": "skip", "symbol": "XMRUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.88, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
 {"time": "2026-11-19 00:20:41 MYT", "kind": "skip", "symbol": "LTCUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.57, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
 {"time": "2026-11-19 00:20:41 MYT", "kind": "skip", "symbol": "BNBUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.48, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+{"time": "2026-11-19 00:25:25 MYT", "kind": "close", "symbol": "UNIUSDT", "reason": "trail_stop", "fill": 5.099503699061768, "net": 0.2068, "R": 0.91}

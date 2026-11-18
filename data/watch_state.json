@@ -252,7 +252,7 @@
       "R": 35.44587940260692,
       "targets": [],
       "high_since_entry": 1782.32,
-      "low_since_entry": 1745.1,
+      "low_since_entry": 1742.41,
       "exit_deadline": "2026-11-20 23:00:00 MYT",
       "market": "usdm_perp",
       "group": "合約1h組"
@@ -338,26 +338,6 @@
       "group": "合約高頻組"
     },
     {
-      "id": "FHF-20261118-2245-UNIUSDT",
-      "symbol": "UNIUSDT",
-      "side": "SELL",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 5.1559686000000005,
-      "entry_time": "2026-11-18 22:45:00 MYT",
-      "qty": 4.0,
-      "remaining_qty": 4.0,
-      "stop": 5.207452602261316,
-      "initial_stop": 5.207452602261316,
-      "R": 0.051484002261316,
-      "targets": [],
-      "high_since_entry": 5.206,
-      "low_since_entry": 5.055,
-      "exit_deadline": "2026-11-19 22:45:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
       "id": "FHF-20261118-2315-PUMPUSDT",
       "symbol": "PUMPUSDT",
       "side": "SELL",
@@ -372,7 +352,7 @@
       "R": 4.446172436725169e-05,
       "targets": [],
       "high_since_entry": 0.002622,
-      "low_since_entry": 0.002535,
+      "low_since_entry": 0.002532,
       "exit_deadline": "2026-11-19 23:15:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
@@ -392,7 +372,7 @@
       "R": 0.09775824115479777,
       "targets": [],
       "high_since_entry": 7.147,
-      "low_since_entry": 6.924,
+      "low_since_entry": 6.921,
       "exit_deadline": "2026-11-19 23:15:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
@@ -432,11 +412,11 @@
       "R": 0.00738743509402867,
       "targets": [],
       "high_since_entry": 0.572,
-      "low_since_entry": 0.5656,
+      "low_since_entry": 0.5641,
       "exit_deadline": "2026-11-20 00:15:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-19 00:20:47 MYT"
+  "paper_updated_at": "2026-11-19 00:25:28 MYT"
 }
