@@ -1062,3 +1062,13 @@
 2026-11-18 15:05:31,292 INFO decision open {"symbol": "ZILUSDT", "side": "BUY", "entry": 0.0011432285999999998, "stop": 0.0010923587886895669, "qty": 8034.0, "lev": 2, "liq": 0.00058328, "risk": 0.418}
 2026-11-18 15:09:51,747 INFO decision trail_update {"symbol": "ZILUSDT", "stop": 0.001195130188689567, "best": 0.001246}
 2026-11-18 15:15:10,188 INFO decision trail_update {"symbol": "ZILUSDT", "stop": 0.001231130188689567, "best": 0.001282}
+2026-11-18 15:20:03,364 INFO decision close {"symbol": "ZILUSDT", "reason": "trail_stop", "fill": 0.0012408819626518292, "net": 0.775, "R": 1.86}
+2026-11-18 15:20:04,241 INFO decision regime {"allow": "ANY", "btc_close": 64231.52, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+2026-11-18 15:20:16,429 INFO decision scan {"bar_close": "2026-11-18 23:15:00 MYT", "breakouts": 9, "vol_ok": 6, "allow": "ANY"}
+2026-11-18 15:20:16,638 INFO decision open {"symbol": "ZILUSDT", "side": "BUY", "entry": 0.0012662532, "stop": 0.0012050540583215504, "qty": 6752.0, "lev": 2, "liq": 0.00064605, "risk": 0.422}
+2026-11-18 15:20:16,638 INFO decision open {"symbol": "PUMPUSDT", "side": "SELL", "entry": 0.002609478, "stop": 0.0026539397243672516, "qty": 8078.0, "lev": 3, "liq": 0.00344486, "risk": 0.38}
+2026-11-18 15:20:16,638 INFO decision open {"symbol": "ZROUSDT", "side": "SELL", "entry": 1.3315336400000002, "stop": 1.3530298347728542, "qty": 15.8, "lev": 3, "liq": 1.75780018, "risk": 0.361}
+2026-11-18 15:20:16,639 INFO decision open {"symbol": "BTWUSDT", "side": "BUY", "entry": 0.5215042799999999, "stop": 0.5012437465560262, "qty": 20.0, "lev": 2, "liq": 0.27447594, "risk": 0.415}
+2026-11-18 15:20:16,639 INFO decision open {"symbol": "AKEUSDT", "side": "BUY", "entry": 0.0105681132, "stop": 0.010305796056291304, "qty": 1545.0, "lev": 3, "liq": 0.00741622, "risk": 0.421}
+2026-11-18 15:20:16,639 INFO decision open {"symbol": "INJUSDT", "side": "SELL", "entry": 7.1105776, "stop": 7.208335841154798, "qty": 2.9000000000000004, "lev": 3, "liq": 9.38690112, "risk": 0.304}
+2026-11-18 15:20:18,586 INFO decision close {"symbol": "ZILUSDT", "reason": "stop", "fill": 0.001204813047509886, "net": -0.4232, "R": -1.0}
