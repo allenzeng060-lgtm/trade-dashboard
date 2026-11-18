@@ -1090,3 +1090,13 @@
 2026-11-18 15:50:34,829 INFO decision skip {"symbol": "HYPEUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.33, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
 2026-11-18 15:50:34,829 INFO decision skip {"symbol": "AVAXUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.23, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
 2026-11-18 15:50:34,829 INFO decision skip {"symbol": "UNIUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.1, "reason": "already holding"}
+2026-11-18 16:00:13,543 INFO decision funding {"symbol": "龙虾USDT", "rate": "0.00005000", "amount": 0.000343, "at": "2026-11-19 00:00:00 MYT"}
+2026-11-18 16:00:13,872 INFO decision funding {"symbol": "RAREUSDT", "rate": "-0.00086131", "amount": -0.013803, "at": "2026-11-19 00:00:00 MYT"}
+2026-11-18 16:00:14,195 INFO decision funding {"symbol": "ICNTUSDT", "rate": "0.00005000", "amount": -0.000348, "at": "2026-11-19 00:00:00 MYT"}
+2026-11-18 16:00:14,524 INFO decision funding {"symbol": "PIEVERSEUSDT", "rate": "0.00060322", "amount": -0.003825, "at": "2026-11-19 00:00:00 MYT"}
+2026-11-18 16:00:15,044 INFO decision funding {"symbol": "UNIUSDT", "rate": "0.00007144", "amount": 0.001458, "at": "2026-11-19 00:00:00 MYT"}
+2026-11-18 16:00:15,363 INFO decision funding {"symbol": "PUMPUSDT", "rate": "0.00000825", "amount": 0.000172, "at": "2026-11-19 00:00:00 MYT"}
+2026-11-18 16:00:15,703 INFO decision funding {"symbol": "ZROUSDT", "rate": "0.00003689", "amount": 0.000753, "at": "2026-11-19 00:00:00 MYT"}
+2026-11-18 16:00:16,034 INFO decision funding {"symbol": "AKEUSDT", "rate": "0.00005000", "amount": -0.000809, "at": "2026-11-19 00:00:00 MYT"}
+2026-11-18 16:00:16,360 INFO decision funding {"symbol": "INJUSDT", "rate": "0.00000159", "amount": 3.2e-05, "at": "2026-11-19 00:00:00 MYT"}
+2026-11-18 16:00:16,696 INFO decision funding {"symbol": "HUMAUSDT", "rate": "-0.00094639", "amount": 0.018088, "at": "2026-11-19 00:00:00 MYT"}

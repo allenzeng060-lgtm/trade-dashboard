@@ -213,3 +213,5 @@
 2026-11-18 15:05:18,552 INFO decision skip {"symbol": "PIEVERSEUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 18.87, "reason": "direction filter: BTC 4h close 64231.52 < filter 67568 → shorts only"}
 2026-11-18 15:05:18,552 INFO decision skip {"symbol": "ZILUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 8.23, "reason": "direction filter: BTC 4h close 64231.52 < filter 67568 → shorts only"}
 2026-11-18 15:05:18,790 INFO decision open {"symbol": "ETHUSDT", "side": "SELL", "entry": 1774.8749540000001, "stop": 1810.3208334026071, "qty": 0.026000000000000002, "lev": 3, "liq": 2357.07165206, "risk": 0.968}
+2026-11-18 16:00:12,352 INFO decision funding {"symbol": "SKRUSDT", "rate": "-0.00011689", "amount": -0.001384, "at": "2026-11-19 00:00:00 MYT"}
+2026-11-18 16:00:12,681 INFO decision funding {"symbol": "ETHUSDT", "rate": "-0.00001129", "amount": -0.000519, "at": "2026-11-19 00:00:00 MYT"}

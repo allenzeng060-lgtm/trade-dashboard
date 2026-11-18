@@ -40,16 +40,16 @@
       "stop_pct": 5.846,
       "risk_usdt": 0.4260045530814293,
       "entry_fee": 0.003580728711,
-      "funding": 0.00069882,
+      "funding": 0.00104151,
       "best": 0.01335,
       "high_since_entry": 0.01519,
       "low_since_entry": 0.01335,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 13:00:00 MYT",
-      "last_check_ms": 1795017313016,
-      "last_price": 0.01422,
-      "last_funding_ms": 1795003200002
+      "last_check_ms": 1795017613375,
+      "last_price": 0.0142,
+      "last_funding_ms": 1795017600000
     },
     {
       "id": "FHF-20261118-1715-RAREUSDT",
@@ -83,16 +83,16 @@
       "stop_pct": 2.468,
       "risk_usdt": 0.42208480222508443,
       "entry_fee": 0.008213816908,
-      "funding": -0.0262377,
+      "funding": -0.04004112,
       "best": 0.01135,
       "high_since_entry": 0.01192,
       "low_since_entry": 0.01135,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 17:15:00 MYT",
-      "last_check_ms": 1795017313360,
-      "last_price": 0.01144,
-      "last_funding_ms": 1795003200002
+      "last_check_ms": 1795017613708,
+      "last_price": 0.01148,
+      "last_funding_ms": 1795017600000
     },
     {
       "id": "FHF-20261118-1900-ICNTUSDT",
@@ -126,16 +126,16 @@
       "stop_pct": 5.94,
       "risk_usdt": 0.41477351593551026,
       "entry_fee": 0.00343523691,
-      "funding": 0.0049217,
+      "funding": 0.00457341,
       "best": 0.3448,
       "high_since_entry": 0.3448,
       "low_since_entry": 0.311,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 19:00:00 MYT",
-      "last_check_ms": 1795017313708,
-      "last_price": 0.327,
-      "last_funding_ms": 1795003200002
+      "last_check_ms": 1795017614031,
+      "last_price": 0.3325,
+      "last_funding_ms": 1795017600000
     },
     {
       "id": "FHF-20261118-2215-PIEVERSEUSDT",
@@ -169,15 +169,16 @@
       "stop_pct": 4.892,
       "risk_usdt": 0.3114462234545876,
       "entry_fee": 0.00312082404,
-      "funding": 0.0,
+      "funding": -0.00382478,
       "best": 3.3283,
       "high_since_entry": 3.3283,
       "low_since_entry": 3.0033,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 22:15:00 MYT",
-      "last_check_ms": 1795017314053,
-      "last_price": 3.1471
+      "last_check_ms": 1795017614361,
+      "last_price": 3.1775,
+      "last_funding_ms": 1795017600000
     },
     {
       "id": "FHF-20261118-2245-UNIUSDT",
@@ -211,15 +212,16 @@
       "stop_pct": 0.999,
       "risk_usdt": 0.22666285144978662,
       "entry_fee": 0.010311937200000001,
-      "funding": 0.0,
+      "funding": 0.00145759,
       "best": 5.082,
       "high_since_entry": 5.206,
       "low_since_entry": 5.082,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 22:45:00 MYT",
-      "last_check_ms": 1795017314383,
-      "last_price": 5.118
+      "last_check_ms": 1795017614885,
+      "last_price": 5.097,
+      "last_funding_ms": 1795017600000
     },
     {
       "id": "FHF-20261118-2315-PUMPUSDT",
@@ -253,15 +255,16 @@
       "stop_pct": 1.704,
       "risk_usdt": 0.3804207536273784,
       "entry_fee": 0.010539681642000002,
-      "funding": 0.0,
+      "funding": 0.00017163,
       "best": 0.002556,
       "high_since_entry": 0.002622,
       "low_since_entry": 0.002556,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 23:15:00 MYT",
-      "last_check_ms": 1795017314724,
-      "last_price": 0.00257
+      "last_check_ms": 1795017615202,
+      "last_price": 0.002574,
+      "last_funding_ms": 1795017600000
     },
     {
       "id": "FHF-20261118-2315-ZROUSDT",
@@ -295,15 +298,16 @@
       "stop_pct": 1.614,
       "risk_usdt": 0.3608479288617996,
       "entry_fee": 0.010519115756000001,
-      "funding": 0.0,
+      "funding": 0.00075333,
       "best": 1.2886,
       "high_since_entry": 1.3429,
       "low_since_entry": 1.2886,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 23:15:00 MYT",
-      "last_check_ms": 1795017315070,
-      "last_price": 1.2945
+      "last_check_ms": 1795017615534,
+      "last_price": 1.2921,
+      "last_funding_ms": 1795017600000
     },
     {
       "id": "FHF-20261118-2315-AKEUSDT",
@@ -337,15 +341,16 @@
       "stop_pct": 2.482,
       "risk_usdt": 0.421405081930421,
       "entry_fee": 0.008163867447,
-      "funding": 0.0,
+      "funding": -0.0008093,
       "best": 0.0105681132,
       "high_since_entry": 0.0105681132,
       "low_since_entry": 0.010323,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 23:15:00 MYT",
-      "last_check_ms": 1795017315413,
-      "last_price": 0.010399
+      "last_check_ms": 1795017615865,
+      "last_price": 0.010506,
+      "last_funding_ms": 1795017600000
     },
     {
       "id": "FHF-20261118-2315-INJUSDT",
@@ -379,15 +384,16 @@
       "stop_pct": 1.375,
       "risk_usdt": 0.304261323838588,
       "entry_fee": 0.01031033752,
-      "funding": 0.0,
+      "funding": 3.221e-05,
       "best": 6.925,
       "high_since_entry": 7.147,
       "low_since_entry": 6.925,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 23:15:00 MYT",
-      "last_check_ms": 1795017315761,
-      "last_price": 6.979
+      "last_check_ms": 1795017616197,
+      "last_price": 6.978,
+      "last_funding_ms": 1795017600000
     },
     {
       "id": "FHF-20261118-2330-HUMAUSDT",
@@ -421,15 +427,16 @@
       "stop_pct": 2.106,
       "risk_usdt": 0.41940361407648913,
       "entry_fee": 0.0095123145825,
-      "funding": 0.0,
+      "funding": 0.01808838,
       "best": 0.007729,
       "high_since_entry": 0.007729,
       "low_since_entry": 0.007417,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 23:30:00 MYT",
-      "last_check_ms": 1795017316098,
-      "last_price": 0.007576
+      "last_check_ms": 1795017616527,
+      "last_price": 0.007609,
+      "last_funding_ms": 1795017600000
     }
   ]
 }

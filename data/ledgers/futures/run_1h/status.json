@@ -3,7 +3,7 @@
   "set": "1h",
   "mode": "paper",
   "rules": "v0.2-1h",
-  "updated_at": "2026-11-18 23:55:12 MYT",
+  "updated_at": "2026-11-19 00:00:12 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -17,9 +17,9 @@
     "regime": "spot_level"
   },
   "wallet_usdt": 97.8587,
-  "unrealized_usdt": -0.0905,
-  "equity_usdt": 97.7683,
-  "pnl_pct": -2.232,
+  "unrealized_usdt": -0.0068,
+  "equity_usdt": 97.8519,
+  "pnl_pct": -2.148,
   "regime": {
     "allow": "SELL",
     "btc_close": 64231.52,
@@ -114,8 +114,8 @@
       "initial_stop": 0.010468460509220427,
       "R": 0.0008093927092204283,
       "trail_armed": false,
-      "funding": -0.05625757,
-      "last_price": 0.00979,
+      "funding": -0.05764167,
+      "last_price": 0.009755,
       "exit_deadline": "2026-11-19 09:00:00 MYT",
       "signal_tf": "1h",
       "vol_ratio": 3.85
@@ -135,8 +135,8 @@
       "initial_stop": 1810.3208334026071,
       "R": 35.44587940260692,
       "trail_armed": false,
-      "funding": 0.0,
-      "last_price": 1768.51,
+      "funding": -0.00051906,
+      "last_price": 1766.83,
       "exit_deadline": "2026-11-20 23:00:00 MYT",
       "signal_tf": "1h",
       "vol_ratio": 2.67
