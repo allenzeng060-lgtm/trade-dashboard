@@ -150,3 +150,7 @@
 2026-11-18 00:04:08,942 INFO decision funding {"symbol": "SKRUSDT", "rate": "-0.00006867", "amount": -0.000838, "at": "2026-11-18 08:00:00 MYT"}
 2026-11-18 00:04:09,733 INFO decision regime {"allow": "SELL", "btc_close": 64947.35, "ref": 67568.0, "new_low": false, "reason": "BTC 4h close 64947.35 < filter 67568 → shorts only"}
 2026-11-18 00:04:21,166 INFO decision scan {"bar_close": "2026-11-18 08:00:00 MYT", "breakouts": 11, "vol_ok": 0, "allow": "SELL"}
+2026-11-18 01:04:15,536 INFO decision regime {"allow": "SELL", "btc_close": 64947.35, "ref": 67568.0, "new_low": false, "reason": "BTC 4h close 64947.35 < filter 67568 → shorts only"}
+2026-11-18 01:04:27,073 INFO decision scan {"bar_close": "2026-11-18 09:00:00 MYT", "breakouts": 3, "vol_ok": 2, "allow": "SELL"}
+2026-11-18 01:04:27,589 INFO decision open {"symbol": "XAUTUSDT", "side": "SELL", "entry": 3802.6893099999998, "stop": 3833.1384731883295, "qty": 0.015, "lev": 3, "liq": 5020.05189439, "risk": 0.514}
+2026-11-18 01:04:27,589 INFO decision skip {"symbol": "PAXGUSDT", "side": "SELL", "tf": "1h", "vol_ratio": 2.01, "reason": "same-direction cap 2 (v0.2 correlation cap)"}

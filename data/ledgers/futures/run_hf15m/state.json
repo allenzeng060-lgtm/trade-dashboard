@@ -8,21 +8,29 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-18 08:49:24 MYT",
-    "bar_close": "2026-11-18 08:45:00 MYT",
+    "time": "2026-11-18 09:04:40 MYT",
+    "bar_close": "2026-11-18 09:00:00 MYT",
     "universe": 73,
     "breakouts": [
       {
         "symbol": "PAXGUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 3820.63,
-        "close": 3809.11,
-        "vol_ratio": 2.0325
+        "level": 3809.11,
+        "close": 3806.84,
+        "vol_ratio": 2.8664
+      },
+      {
+        "symbol": "BTWUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.4381,
+        "close": 0.4714,
+        "vol_ratio": 2.5005
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794962700000,
-  "last_equity_ts": 1794962061.7324665
+  "last_scan_bar_ms": 1794963600000,
+  "last_equity_ts": 1794963882.5526865
 }
