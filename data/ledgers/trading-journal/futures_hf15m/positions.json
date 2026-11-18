@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794962344309,
-      "last_price": 0.3102,
+      "last_check_ms": 1794962646614,
+      "last_price": 0.3096,
       "last_funding_ms": 1794960000000
     },
     {
@@ -90,8 +90,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794962344784,
-      "last_price": 0.1547,
+      "last_check_ms": 1794962646927,
+      "last_price": 0.1543,
       "last_funding_ms": 1794960000000
     },
     {
@@ -133,8 +133,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794962345031,
-      "last_price": 0.9834,
+      "last_check_ms": 1794962647246,
+      "last_price": 0.9803,
       "last_funding_ms": 1794960000000
     },
     {
@@ -176,8 +176,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794962345733,
-      "last_price": 7.266,
+      "last_check_ms": 1794962647708,
+      "last_price": 7.251,
       "last_funding_ms": 1794960000000
     },
     {
@@ -219,8 +219,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 07:00:00 MYT",
-      "last_check_ms": 1794962346433,
-      "last_price": 198.01,
+      "last_check_ms": 1794962648025,
+      "last_price": 198.05,
       "last_funding_ms": 1794960000000
     },
     {
@@ -262,8 +262,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 07:15:00 MYT",
-      "last_check_ms": 1794962346907,
-      "last_price": 597.93,
+      "last_check_ms": 1794962648345,
+      "last_price": 596.99,
       "last_funding_ms": 1794960000000
     },
     {
@@ -305,8 +305,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 08:30:00 MYT",
-      "last_check_ms": 1794962347382,
-      "last_price": 3818.16
+      "last_check_ms": 1794962648657,
+      "last_price": 3811.58
     }
   ]
 }
