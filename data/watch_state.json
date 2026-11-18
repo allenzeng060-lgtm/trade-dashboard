@@ -441,12 +441,32 @@
       "initial_stop": 0.01841419064495284,
       "R": 0.0014797873550471596,
       "targets": [],
-      "high_since_entry": 0.02033,
+      "high_since_entry": 0.02086,
       "low_since_entry": 0.01931,
       "exit_deadline": "2026-11-20 02:00:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
+    },
+    {
+      "id": "FHF-20261119-0215-AKEUSDT",
+      "symbol": "AKEUSDT",
+      "side": "BUY",
+      "mode": "paper",
+      "status": "open",
+      "entry_price": 0.0109801956,
+      "entry_time": "2026-11-19 02:15:00 MYT",
+      "qty": 1027.0,
+      "remaining_qty": 1027.0,
+      "stop": 0.010587963347661032,
+      "initial_stop": 0.010587963347661032,
+      "R": 0.00039223225233896673,
+      "targets": [],
+      "high_since_entry": 0.011263,
+      "low_since_entry": 0.01096,
+      "exit_deadline": "2026-11-20 02:15:00 MYT",
+      "market": "usdm_perp",
+      "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-19 02:11:17 MYT"
+  "paper_updated_at": "2026-11-19 02:16:35 MYT"
 }
