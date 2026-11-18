@@ -292,7 +292,7 @@
       "R": 0.00029044014411782964,
       "targets": [],
       "high_since_entry": 0.01192,
-      "low_since_entry": 0.0114,
+      "low_since_entry": 0.01135,
       "exit_deadline": "2026-11-19 17:15:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
@@ -352,7 +352,7 @@
       "R": 0.051484002261316,
       "targets": [],
       "high_since_entry": 5.206,
-      "low_since_entry": 5.133,
+      "low_since_entry": 5.122,
       "exit_deadline": "2026-11-19 22:45:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
@@ -372,7 +372,7 @@
       "R": 4.446172436725169e-05,
       "targets": [],
       "high_since_entry": 0.002622,
-      "low_since_entry": 0.002591,
+      "low_since_entry": 0.002582,
       "exit_deadline": "2026-11-19 23:15:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
@@ -392,7 +392,7 @@
       "R": 0.021496194772854055,
       "targets": [],
       "high_since_entry": 1.3429,
-      "low_since_entry": 1.3238,
+      "low_since_entry": 1.3182,
       "exit_deadline": "2026-11-19 23:15:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
@@ -412,7 +412,7 @@
       "R": 0.020260533443973758,
       "targets": [],
       "high_since_entry": 0.5228,
-      "low_since_entry": 0.5062,
+      "low_since_entry": 0.5032,
       "exit_deadline": "2026-11-19 23:15:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
@@ -432,7 +432,7 @@
       "R": 0.0002623171437086964,
       "targets": [],
       "high_since_entry": 0.0105681132,
-      "low_since_entry": 0.010363,
+      "low_since_entry": 0.010323,
       "exit_deadline": "2026-11-19 23:15:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
@@ -452,7 +452,7 @@
       "R": 0.09775824115479777,
       "targets": [],
       "high_since_entry": 7.147,
-      "low_since_entry": 7.063,
+      "low_since_entry": 7.035,
       "exit_deadline": "2026-11-19 23:15:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
@@ -478,5 +478,5 @@
       "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-18 23:35:18 MYT"
+  "paper_updated_at": "2026-11-18 23:40:14 MYT"
 }
