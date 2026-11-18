@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794963881257,
-      "last_price": 0.3091,
+      "last_check_ms": 1794964157692,
+      "last_price": 0.3089,
       "last_funding_ms": 1794960000000
     },
     {
@@ -90,8 +90,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794963881473,
-      "last_price": 0.1539,
+      "last_check_ms": 1794964157924,
+      "last_price": 0.1537,
       "last_funding_ms": 1794960000000
     },
     {
@@ -133,8 +133,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794963881687,
-      "last_price": 0.9777,
+      "last_check_ms": 1794964158153,
+      "last_price": 0.9765,
       "last_funding_ms": 1794960000000
     },
     {
@@ -176,8 +176,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794963881901,
-      "last_price": 7.237,
+      "last_check_ms": 1794964158381,
+      "last_price": 7.231,
       "last_funding_ms": 1794960000000
     },
     {
@@ -219,8 +219,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 07:00:00 MYT",
-      "last_check_ms": 1794963882115,
-      "last_price": 197.7,
+      "last_check_ms": 1794964158613,
+      "last_price": 197.54,
       "last_funding_ms": 1794960000000
     },
     {
@@ -256,14 +256,14 @@
       "risk_usdt": 0.423907225808317,
       "entry_fee": 0.00518643708,
       "funding": 0.0,
-      "best": 0.4943,
-      "high_since_entry": 0.4943,
+      "best": 0.4988,
+      "high_since_entry": 0.4988,
       "low_since_entry": 0.4667,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 09:00:00 MYT",
-      "last_check_ms": 1794963882555,
-      "last_price": 0.4891
+      "last_check_ms": 1794964158843,
+      "last_price": 0.4883
     }
   ]
 }
