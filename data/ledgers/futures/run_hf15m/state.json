@@ -8,29 +8,21 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-19 02:31:36 MYT",
-    "bar_close": "2026-11-19 02:30:00 MYT",
+    "time": "2026-11-19 02:46:44 MYT",
+    "bar_close": "2026-11-19 02:45:00 MYT",
     "universe": 72,
     "breakouts": [
-      {
-        "symbol": "PIPPINUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 0.0212,
-        "close": 0.0214,
-        "vol_ratio": 3.5636
-      },
       {
         "symbol": "ARIAUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.2368,
-        "close": 0.2386,
-        "vol_ratio": 0.4002
+        "level": 0.24,
+        "close": 0.2436,
+        "vol_ratio": 1.0165
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1795026600000,
+  "last_scan_bar_ms": 1795027500000,
   "last_equity_ts": 1795026382.1214805
 }
