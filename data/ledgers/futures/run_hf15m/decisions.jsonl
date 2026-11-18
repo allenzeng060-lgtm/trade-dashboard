@@ -1144,3 +1144,4 @@
 {"time": "2026-11-18 23:05:31 MYT", "kind": "scan", "bar_close": "2026-11-18 23:00:00 MYT", "breakouts": 4, "vol_ok": 1, "allow": "ANY"}
 {"time": "2026-11-18 23:05:31 MYT", "kind": "open", "symbol": "ZILUSDT", "side": "BUY", "entry": 0.0011432285999999998, "stop": 0.0010923587886895669, "qty": 8034.0, "lev": 2, "liq": 0.00058328, "risk": 0.418}
 {"time": "2026-11-18 23:09:51 MYT", "kind": "trail_update", "symbol": "ZILUSDT", "stop": 0.001195130188689567, "best": 0.001246}
+{"time": "2026-11-18 23:15:10 MYT", "kind": "trail_update", "symbol": "ZILUSDT", "stop": 0.001231130188689567, "best": 0.001282}
