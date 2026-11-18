@@ -8,45 +8,45 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-18 13:16:13 MYT",
-    "bar_close": "2026-11-18 13:15:00 MYT",
-    "universe": 73,
+    "time": "2026-11-18 13:31:20 MYT",
+    "bar_close": "2026-11-18 13:30:00 MYT",
+    "universe": 72,
     "breakouts": [
       {
-        "symbol": "PENGUUSDT",
-        "side": "SELL",
+        "symbol": "XRPUSDT",
+        "side": "BUY",
         "tf": "15m",
-        "level": 0.0047,
-        "close": 0.0047,
-        "vol_ratio": 0.6818
+        "level": 0.985,
+        "close": 0.9861,
+        "vol_ratio": 1.1587
       },
       {
-        "symbol": "HUMAUSDT",
+        "symbol": "RAREUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 0.0072,
-        "close": 0.0072,
-        "vol_ratio": 0.4774
+        "level": 0.0123,
+        "close": 0.0121,
+        "vol_ratio": 0.74
       },
       {
-        "symbol": "ARIAUSDT",
-        "side": "SELL",
+        "symbol": "FHEUSDT",
+        "side": "BUY",
         "tf": "15m",
-        "level": 0.2286,
-        "close": 0.2279,
-        "vol_ratio": 0.853
+        "level": 0.0158,
+        "close": 0.016,
+        "vol_ratio": 0.9879
       },
       {
-        "symbol": "龙虾USDT",
-        "side": "SELL",
+        "symbol": "MMTUSDT",
+        "side": "BUY",
         "tf": "15m",
-        "level": 0.0145,
-        "close": 0.0138,
-        "vol_ratio": 2.5995
+        "level": 0.1597,
+        "close": 0.1807,
+        "vol_ratio": 7.538
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794978900000,
-  "last_equity_ts": 1794978075.847744
+  "last_scan_bar_ms": 1794979800000,
+  "last_equity_ts": 1794979881.1837087
 }

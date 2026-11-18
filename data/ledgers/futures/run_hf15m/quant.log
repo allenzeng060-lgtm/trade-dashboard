@@ -853,3 +853,6 @@
 2026-11-18 05:16:00,846 INFO decision regime {"allow": "ANY", "btc_close": 64457.96, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
 2026-11-18 05:16:13,472 INFO decision scan {"bar_close": "2026-11-18 13:15:00 MYT", "breakouts": 4, "vol_ok": 1, "allow": "ANY"}
 2026-11-18 05:16:13,472 INFO decision skip {"symbol": "龙虾USDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.6, "reason": "already holding"}
+2026-11-18 05:31:07,282 INFO decision regime {"allow": "ANY", "btc_close": 64457.96, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+2026-11-18 05:31:20,789 INFO decision scan {"bar_close": "2026-11-18 13:30:00 MYT", "breakouts": 4, "vol_ok": 1, "allow": "ANY"}
+2026-11-18 05:31:21,183 INFO decision open {"symbol": "MMTUSDT", "side": "BUY", "entry": 0.18073614, "stop": 0.16890309865249337, "qty": 35.0, "lev": 1, "liq": 0.0, "risk": 0.42}
