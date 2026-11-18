@@ -3,7 +3,7 @@
   "set": "15m",
   "mode": "paper",
   "rules": "hf-15m-v0.1",
-  "updated_at": "2026-11-18 11:30:19 MYT",
+  "updated_at": "2026-11-18 11:35:35 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -17,9 +17,9 @@
     "regime": "none"
   },
   "wallet_usdt": 86.3545,
-  "unrealized_usdt": 0.6445,
-  "equity_usdt": 86.999,
-  "pnl_pct": -13.001,
+  "unrealized_usdt": 0.7223,
+  "equity_usdt": 87.0768,
+  "pnl_pct": -12.923,
   "regime": {
     "allow": "ANY",
     "btc_close": 64947.35,
@@ -27,17 +27,41 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-18 11:20:26 MYT",
-    "bar_close": "2026-11-18 11:15:00 MYT",
-    "universe": 73,
+    "time": "2026-11-18 11:35:32 MYT",
+    "bar_close": "2026-11-18 11:30:00 MYT",
+    "universe": 72,
     "breakouts": [
+      {
+        "symbol": "XMRUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 512.54,
+        "close": 514.02,
+        "vol_ratio": 3.5011
+      },
+      {
+        "symbol": "ZROUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 1.3686,
+        "close": 1.3638,
+        "vol_ratio": 1.1009
+      },
       {
         "symbol": "ASTERUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 0.5603,
-        "close": 0.5575,
-        "vol_ratio": 0.6886
+        "level": 0.557,
+        "close": 0.5558,
+        "vol_ratio": 0.7957
+      },
+      {
+        "symbol": "BLESSUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.0105,
+        "close": 0.0106,
+        "vol_ratio": 0.2311
       }
     ],
     "regime": "ANY"
@@ -59,7 +83,7 @@
       "R": 0.00378692168375275,
       "trail_armed": false,
       "funding": -0.00093081,
-      "last_price": 0.3076,
+      "last_price": 0.3078,
       "exit_deadline": "2026-11-19 05:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.58
@@ -80,7 +104,7 @@
       "R": 0.009235769866547429,
       "trail_armed": false,
       "funding": -0.00100567,
-      "last_price": 0.978,
+      "last_price": 0.9801,
       "exit_deadline": "2026-11-19 05:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.06
@@ -101,7 +125,7 @@
       "R": 2.06340890465846,
       "trail_armed": false,
       "funding": -0.0011068,
-      "last_price": 196.1,
+      "last_price": 196.31,
       "exit_deadline": "2026-11-19 07:00:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.67
@@ -122,7 +146,7 @@
       "R": 12.651139001783589,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 3786.01,
+      "last_price": 3783.87,
       "exit_deadline": "2026-11-19 10:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.58
@@ -143,10 +167,31 @@
       "R": 0.05022384317980284,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 2.182,
+      "last_price": 2.1764,
       "exit_deadline": "2026-11-19 10:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.18
+    },
+    {
+      "id": "FHF-20261118-1130-XMRUSDT",
+      "symbol": "XMRUSDT",
+      "side": "BUY",
+      "entry_time": "2026-11-18 11:30:00 MYT",
+      "entry_price": 514.122804,
+      "qty": 0.041,
+      "notional": 21.079034963999998,
+      "leverage": 3,
+      "margin": 7.026344987999999,
+      "liq_price": 346.21064242,
+      "stop": 508.95882050766005,
+      "initial_stop": 508.95882050766005,
+      "R": 5.163983492339913,
+      "trail_armed": false,
+      "funding": 0.0,
+      "last_price": 514.77,
+      "exit_deadline": "2026-11-19 11:30:00 MYT",
+      "signal_tf": "15m",
+      "vol_ratio": 3.5
     }
   ],
   "data_source": "www.binance.com /fapi (public)"

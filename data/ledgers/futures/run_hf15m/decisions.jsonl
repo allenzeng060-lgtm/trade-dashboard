@@ -907,3 +907,6 @@
 {"time": "2026-11-18 11:05:32 MYT", "kind": "scan", "bar_close": "2026-11-18 11:00:00 MYT", "breakouts": 5, "vol_ok": 0, "allow": "ANY"}
 {"time": "2026-11-18 11:20:15 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64947.35, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
 {"time": "2026-11-18 11:20:26 MYT", "kind": "scan", "bar_close": "2026-11-18 11:15:00 MYT", "breakouts": 1, "vol_ok": 0, "allow": "ANY"}
+{"time": "2026-11-18 11:35:18 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64947.35, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-18 11:35:32 MYT", "kind": "scan", "bar_close": "2026-11-18 11:30:00 MYT", "breakouts": 4, "vol_ok": 1, "allow": "ANY"}
+{"time": "2026-11-18 11:35:32 MYT", "kind": "open", "symbol": "XMRUSDT", "side": "BUY", "entry": 514.122804, "stop": 508.95882050766005, "qty": 0.041, "lev": 3, "liq": 346.21064242, "risk": 0.233}
