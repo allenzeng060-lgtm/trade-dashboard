@@ -242,7 +242,47 @@
       "exit_deadline": "2026-11-19 07:00:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
+    },
+    {
+      "id": "FHF-20261118-1015-PAXGUSDT",
+      "symbol": "PAXGUSDT",
+      "side": "SELL",
+      "mode": "paper",
+      "status": "open",
+      "entry_price": 3794.121024,
+      "entry_time": "2026-11-18 10:15:00 MYT",
+      "qty": 0.005,
+      "remaining_qty": 0.005,
+      "stop": 3806.7721630017836,
+      "initial_stop": 3806.7721630017836,
+      "R": 12.651139001783589,
+      "targets": [],
+      "high_since_entry": 3794.82,
+      "low_since_entry": 3787.21,
+      "exit_deadline": "2026-11-19 10:15:00 MYT",
+      "market": "usdm_perp",
+      "group": "合約高頻組"
+    },
+    {
+      "id": "FHF-20261118-1015-PIEVERSEUSDT",
+      "symbol": "PIEVERSEUSDT",
+      "side": "BUY",
+      "mode": "paper",
+      "status": "open",
+      "entry_price": 2.1358270800000003,
+      "entry_time": "2026-11-18 10:15:00 MYT",
+      "qty": 8.0,
+      "remaining_qty": 8.0,
+      "stop": 2.0856032368201975,
+      "initial_stop": 2.0856032368201975,
+      "R": 0.05022384317980284,
+      "targets": [],
+      "high_since_entry": 2.1571,
+      "low_since_entry": 2.1348,
+      "exit_deadline": "2026-11-19 10:15:00 MYT",
+      "market": "usdm_perp",
+      "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-18 10:14:46 MYT"
+  "paper_updated_at": "2026-11-18 10:20:13 MYT"
 }
