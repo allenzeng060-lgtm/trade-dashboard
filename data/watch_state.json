@@ -336,7 +336,27 @@
       "exit_deadline": "2026-11-19 19:00:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
+    },
+    {
+      "id": "FHF-20261118-2215-PIEVERSEUSDT",
+      "symbol": "PIEVERSEUSDT",
+      "side": "BUY",
+      "mode": "paper",
+      "status": "open",
+      "entry_price": 3.12082404,
+      "entry_time": "2026-11-18 22:15:00 MYT",
+      "qty": 2.0,
+      "remaining_qty": 2.0,
+      "stop": 2.9681454129992058,
+      "initial_stop": 2.9681454129992058,
+      "R": 0.1526786270007942,
+      "targets": [],
+      "high_since_entry": 3.1649,
+      "low_since_entry": 3.1169,
+      "exit_deadline": "2026-11-19 22:15:00 MYT",
+      "market": "usdm_perp",
+      "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-18 22:14:30 MYT"
+  "paper_updated_at": "2026-11-18 22:19:50 MYT"
 }
