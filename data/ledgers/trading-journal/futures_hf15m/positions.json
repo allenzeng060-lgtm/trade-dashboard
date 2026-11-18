@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794971405058,
-      "last_price": 0.3072,
+      "last_check_ms": 1794971706326,
+      "last_price": 0.3076,
       "last_funding_ms": 1794960000000
     },
     {
@@ -90,8 +90,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794971405384,
-      "last_price": 0.9777,
+      "last_check_ms": 1794971706615,
+      "last_price": 0.9784,
       "last_funding_ms": 1794960000000
     },
     {
@@ -133,8 +133,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 07:00:00 MYT",
-      "last_check_ms": 1794971405716,
-      "last_price": 196.07,
+      "last_check_ms": 1794971706905,
+      "last_price": 196.47,
       "last_funding_ms": 1794960000000
     },
     {
@@ -176,8 +176,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 10:15:00 MYT",
-      "last_check_ms": 1794971406039,
-      "last_price": 3791.73
+      "last_check_ms": 1794971707201,
+      "last_price": 3790.9
     },
     {
       "id": "FHF-20261118-1015-PIEVERSEUSDT",
@@ -218,8 +218,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 10:15:00 MYT",
-      "last_check_ms": 1794971406368,
-      "last_price": 2.1565
+      "last_check_ms": 1794971707498,
+      "last_price": 2.1608
     }
   ]
 }
