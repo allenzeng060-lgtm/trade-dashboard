@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18 21:29:13 MYT",
+ "updated_at": "2026-11-18 21:34:34 MYT",
  "mode": "paper",
  "note": "累計統計（不因補充本金重置）。gross_profit=獲利單淨損益合計，gross_loss=虧損單淨損益合計，皆已扣手續費。",
  "groups": {
@@ -54,7 +54,7 @@
    "capital_injected_usdt": 100.0,
    "current_cycle": 1,
    "ledger": "/home/runner/work/trade-dashboard/trade-dashboard/data-repo/data/ledgers/trading-journal/futures/trades.csv",
-   "current_equity_usdt": 94.9324
+   "current_equity_usdt": 94.884
   },
   "futures_1h": {
    "label": "合約1h組",
@@ -72,37 +72,37 @@
    "capital_injected_usdt": 100.0,
    "current_cycle": 1,
    "ledger": "/home/runner/work/trade-dashboard/trade-dashboard/data-repo/data/ledgers/trading-journal/futures_1h/trades.csv",
-   "current_equity_usdt": 97.7457
+   "current_equity_usdt": 97.7518
   },
   "futures_hf15m": {
    "label": "合約高頻組（15m）",
-   "trades": 140,
+   "trades": 141,
    "wins": 33,
-   "losses": 107,
-   "win_rate_pct": 23.6,
+   "losses": 108,
+   "win_rate_pct": 23.4,
    "gross_profit_usdt": 22.962,
-   "gross_loss_usdt": -38.4722,
-   "net_pnl_usdt": -15.5102,
-   "profit_factor": 0.597,
-   "fees_paid_usdt": 2.2557,
+   "gross_loss_usdt": -38.6421,
+   "net_pnl_usdt": -15.6801,
+   "profit_factor": 0.594,
+   "fees_paid_usdt": 2.2773,
    "funding_usdt": 0.079,
    "refills": 0,
    "capital_injected_usdt": 100.0,
    "current_cycle": 1,
    "ledger": "/home/runner/work/trade-dashboard/trade-dashboard/data-repo/data/ledgers/trading-journal/futures_hf15m/trades.csv",
-   "current_equity_usdt": 84.9616
+   "current_equity_usdt": 85.2369
   }
  },
  "total": {
-  "trades": 156,
+  "trades": 157,
   "wins": 35,
-  "losses": 121,
-  "win_rate_pct": 22.4,
+  "losses": 122,
+  "win_rate_pct": 22.3,
   "gross_profit_usdt": 25.3873,
-  "gross_loss_usdt": -51.9272,
-  "net_pnl_usdt": -26.5399,
-  "profit_factor": 0.489,
-  "fees_paid_usdt": 2.9196,
+  "gross_loss_usdt": -52.0971,
+  "net_pnl_usdt": -26.7098,
+  "profit_factor": 0.487,
+  "fees_paid_usdt": 2.9411,
   "funding_usdt": 0.0213,
   "refills": 0,
   "capital_injected_usdt": 500.0

@@ -1096,3 +1096,7 @@
 {"time": "2026-11-18 21:19:20 MYT", "kind": "open", "symbol": "EVAAUSDT", "side": "SELL", "entry": 3.24625062, "stop": 3.4552078817631466, "qty": 2.0, "lev": 1, "liq": 6.18333451, "risk": 0.425}
 {"time": "2026-11-18 21:29:11 MYT", "kind": "close", "symbol": "ENAUSDT", "reason": "stop", "fill": 0.11259625569784774, "net": -0.3034, "R": -1.02}
 {"time": "2026-11-18 21:29:12 MYT", "kind": "close", "symbol": "EVAAUSDT", "reason": "stop", "fill": 3.455898923339499, "net": -0.426, "R": -1.0}
+{"time": "2026-11-18 21:34:16 MYT", "kind": "close", "symbol": "ADAUSDT", "reason": "stop", "fill": 0.1542292238518626, "net": -0.1699, "R": -1.03}
+{"time": "2026-11-18 21:34:18 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64231.52, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-18 21:34:31 MYT", "kind": "scan", "bar_close": "2026-11-18 21:30:00 MYT", "breakouts": 2, "vol_ok": 1, "allow": "ANY"}
+{"time": "2026-11-18 21:34:31 MYT", "kind": "skip", "symbol": "PIEVERSEUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 3.94, "reason": "already holding"}

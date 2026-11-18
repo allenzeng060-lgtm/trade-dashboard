@@ -318,26 +318,6 @@
       "group": "合約高頻組"
     },
     {
-      "id": "FHF-20261118-1845-ADAUSDT",
-      "symbol": "ADAUSDT",
-      "side": "SELL",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 0.15316936,
-      "entry_time": "2026-11-18 18:45:00 MYT",
-      "qty": 140.0,
-      "remaining_qty": 140.0,
-      "stop": 0.1541983841750276,
-      "initial_stop": 0.1541983841750276,
-      "R": 0.0010290241750275874,
-      "targets": [],
-      "high_since_entry": 0.1541,
-      "low_since_entry": 0.1523,
-      "exit_deadline": "2026-11-19 18:45:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
       "id": "FHF-20261118-1900-ICNTUSDT",
       "symbol": "ICNTUSDT",
       "side": "BUY",
@@ -371,12 +351,12 @@
       "initial_stop": 2.6949788876140657,
       "R": 0.12088417238593402,
       "targets": [],
-      "high_since_entry": 2.93,
+      "high_since_entry": 2.9788,
       "low_since_entry": 2.754,
       "exit_deadline": "2026-11-19 20:30:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-18 21:29:13 MYT"
+  "paper_updated_at": "2026-11-18 21:34:35 MYT"
 }

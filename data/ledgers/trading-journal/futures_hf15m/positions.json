@@ -5,7 +5,7 @@
   "rules": "hf-15m-v0.1",
   "cycle": 1,
   "start_equity_usdt": 100.0,
-  "wallet_usdt": 84.489786,
+  "wallet_usdt": 84.319887,
   "created": "2026-11-16 03:06:21 MYT",
   "positions": [
     {
@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1795008549808,
-      "last_price": 0.3063,
+      "last_check_ms": 1795008871598,
+      "last_price": 0.3071,
       "last_funding_ms": 1795003200002
     },
     {
@@ -90,8 +90,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 07:00:00 MYT",
-      "last_check_ms": 1795008550099,
-      "last_price": 195.56,
+      "last_check_ms": 1795008871926,
+      "last_price": 196.0,
       "last_funding_ms": 1795003200002
     },
     {
@@ -133,8 +133,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 13:00:00 MYT",
-      "last_check_ms": 1795008550388,
-      "last_price": 0.0147,
+      "last_check_ms": 1795008872248,
+      "last_price": 0.01467,
       "last_funding_ms": 1795003200002
     },
     {
@@ -176,51 +176,9 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 17:15:00 MYT",
-      "last_check_ms": 1795008550677,
-      "last_price": 0.01158,
+      "last_check_ms": 1795008872568,
+      "last_price": 0.01155,
       "last_funding_ms": 1795003200002
-    },
-    {
-      "id": "FHF-20261118-1845-ADAUSDT",
-      "symbol": "ADAUSDT",
-      "side": "SELL",
-      "rules": "hf-15m-v0.1",
-      "cycle": 1,
-      "slippage": 0.0002,
-      "mode": "paper",
-      "status": "open",
-      "group": "合約高頻組",
-      "market": "usdm_perp",
-      "margin_type": "isolated",
-      "signal_tf": "15m",
-      "signal_bar_close_myt": "2026-11-18 18:45:00 MYT",
-      "vol_ratio": 2.82,
-      "breakout_level": 0.1535,
-      "entry_time": "2026-11-18 18:45:00 MYT",
-      "entry_ms": 1794998700000,
-      "entry_price": 0.15316936,
-      "qty": 140.0,
-      "remaining_qty": 140.0,
-      "notional": 21.4437104,
-      "leverage": 3,
-      "margin": 7.1479034666666665,
-      "liq_price": 0.20320976,
-      "mmr": 0.005,
-      "stop": 0.1541983841750276,
-      "initial_stop": 0.1541983841750276,
-      "R": 0.0010290241750275874,
-      "stop_pct": 0.672,
-      "risk_usdt": 0.16557912659611418,
-      "entry_fee": 0.0107218552,
-      "funding": 0.0,
-      "best": 0.1523,
-      "high_since_entry": 0.1541,
-      "low_since_entry": 0.1523,
-      "trail_armed": false,
-      "targets": [],
-      "exit_deadline": "2026-11-19 18:45:00 MYT",
-      "last_check_ms": 1795008550966,
-      "last_price": 0.1539
     },
     {
       "id": "FHF-20261118-1900-ICNTUSDT",
@@ -261,8 +219,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 19:00:00 MYT",
-      "last_check_ms": 1795008551264,
-      "last_price": 0.3284,
+      "last_check_ms": 1795008872889,
+      "last_price": 0.3275,
       "last_funding_ms": 1795003200002
     },
     {
@@ -298,14 +256,14 @@
       "risk_usdt": 0.37091878007922313,
       "entry_fee": 0.00422379459,
       "funding": 0.0,
-      "best": 2.93,
-      "high_since_entry": 2.93,
+      "best": 2.9788,
+      "high_since_entry": 2.9788,
       "low_since_entry": 2.754,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 20:30:00 MYT",
-      "last_check_ms": 1795008551848,
-      "last_price": 2.9151
+      "last_check_ms": 1795008873210,
+      "last_price": 2.9593
     }
   ]
 }
