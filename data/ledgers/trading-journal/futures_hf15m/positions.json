@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794962964101,
-      "last_price": 0.3096,
+      "last_check_ms": 1794963251398,
+      "last_price": 0.3094,
       "last_funding_ms": 1794960000000
     },
     {
@@ -90,8 +90,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794962964385,
-      "last_price": 0.1543,
+      "last_check_ms": 1794963251623,
+      "last_price": 0.1541,
       "last_funding_ms": 1794960000000
     },
     {
@@ -133,8 +133,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794962964677,
-      "last_price": 0.9793,
+      "last_check_ms": 1794963251842,
+      "last_price": 0.9784,
       "last_funding_ms": 1794960000000
     },
     {
@@ -176,8 +176,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794962964960,
-      "last_price": 7.256,
+      "last_check_ms": 1794963252244,
+      "last_price": 7.248,
       "last_funding_ms": 1794960000000
     },
     {
@@ -219,8 +219,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 07:00:00 MYT",
-      "last_check_ms": 1794962965246,
-      "last_price": 198.25,
+      "last_check_ms": 1794963252462,
+      "last_price": 197.97,
       "last_funding_ms": 1794960000000
     },
     {
@@ -262,8 +262,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 07:15:00 MYT",
-      "last_check_ms": 1794962965537,
-      "last_price": 597.04,
+      "last_check_ms": 1794963252867,
+      "last_price": 596.4,
       "last_funding_ms": 1794960000000
     },
     {
@@ -305,8 +305,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 08:30:00 MYT",
-      "last_check_ms": 1794962965826,
-      "last_price": 3810.56
+      "last_check_ms": 1794963253463,
+      "last_price": 3811.25
     }
   ]
 }
