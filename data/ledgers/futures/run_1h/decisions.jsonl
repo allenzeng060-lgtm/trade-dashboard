@@ -177,3 +177,6 @@
 {"time": "2026-11-18 07:03:29 MYT", "kind": "regime", "allow": "SELL", "btc_close": 63753.75, "ref": 67568.0, "new_low": true, "reason": "BTC 4h close 63753.75 < filter 67568 → shorts only"}
 {"time": "2026-11-18 07:03:46 MYT", "kind": "scan", "bar_close": "2026-11-18 07:00:00 MYT", "breakouts": 2, "vol_ok": 0, "allow": "SELL"}
 {"time": "2026-11-18 07:13:30 MYT", "kind": "close", "symbol": "APTUSDT", "reason": "stop", "fill": 0.4551000592320341, "net": -0.9889, "R": -1.01}
+{"time": "2026-11-18 08:04:08 MYT", "kind": "funding", "symbol": "SKRUSDT", "rate": "-0.00006867", "amount": -0.000838, "at": "2026-11-18 08:00:00 MYT"}
+{"time": "2026-11-18 08:04:09 MYT", "kind": "regime", "allow": "SELL", "btc_close": 64947.35, "ref": 67568.0, "new_low": false, "reason": "BTC 4h close 64947.35 < filter 67568 → shorts only"}
+{"time": "2026-11-18 08:04:21 MYT", "kind": "scan", "bar_close": "2026-11-18 08:00:00 MYT", "breakouts": 11, "vol_ok": 0, "allow": "SELL"}

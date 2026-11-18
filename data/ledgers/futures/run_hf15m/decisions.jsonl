@@ -857,3 +857,11 @@
 {"time": "2026-11-18 07:33:59 MYT", "kind": "scan", "bar_close": "2026-11-18 07:30:00 MYT", "breakouts": 0, "vol_ok": 0, "allow": "ANY"}
 {"time": "2026-11-18 07:48:49 MYT", "kind": "regime", "allow": "ANY", "btc_close": 63753.75, "ref": 67568.0, "new_low": true, "reason": "both directions allowed (hf set; BTC filter only reported)"}
 {"time": "2026-11-18 07:49:00 MYT", "kind": "scan", "bar_close": "2026-11-18 07:45:00 MYT", "breakouts": 1, "vol_ok": 0, "allow": "ANY"}
+{"time": "2026-11-18 08:04:21 MYT", "kind": "funding", "symbol": "ONDOUSDT", "rate": "0.00004150", "amount": -0.000931, "at": "2026-11-18 08:00:00 MYT"}
+{"time": "2026-11-18 08:04:22 MYT", "kind": "funding", "symbol": "ADAUSDT", "rate": "0.00008490", "amount": -0.001873, "at": "2026-11-18 08:00:00 MYT"}
+{"time": "2026-11-18 08:04:22 MYT", "kind": "funding", "symbol": "XRPUSDT", "rate": "0.00004525", "amount": -0.001006, "at": "2026-11-18 08:00:00 MYT"}
+{"time": "2026-11-18 08:04:23 MYT", "kind": "funding", "symbol": "AVAXUSDT", "rate": "0.00007161", "amount": -0.001567, "at": "2026-11-18 08:00:00 MYT"}
+{"time": "2026-11-18 08:04:23 MYT", "kind": "funding", "symbol": "TAOUSDT", "rate": "0.00005000", "amount": -0.001107, "at": "2026-11-18 08:00:00 MYT"}
+{"time": "2026-11-18 08:04:23 MYT", "kind": "funding", "symbol": "BNBUSDT", "rate": "0.00007814", "amount": -0.001402, "at": "2026-11-18 08:00:00 MYT"}
+{"time": "2026-11-18 08:04:25 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64947.35, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-18 08:04:36 MYT", "kind": "scan", "bar_close": "2026-11-18 08:00:00 MYT", "breakouts": 1, "vol_ok": 0, "allow": "ANY"}
