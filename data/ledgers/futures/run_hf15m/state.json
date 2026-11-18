@@ -8,53 +8,21 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-18 16:32:38 MYT",
-    "bar_close": "2026-11-18 16:30:00 MYT",
+    "time": "2026-11-18 16:47:37 MYT",
+    "bar_close": "2026-11-18 16:45:00 MYT",
     "universe": 75,
     "breakouts": [
       {
-        "symbol": "NEARUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 3.347,
-        "close": 3.336,
-        "vol_ratio": 0.8869
-      },
-      {
-        "symbol": "ICNTUSDT",
+        "symbol": "ARIAUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.3173,
-        "close": 0.3202,
-        "vol_ratio": 3.4203
-      },
-      {
-        "symbol": "EVAAUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 3.744,
-        "close": 3.7597,
-        "vol_ratio": 0.8591
-      },
-      {
-        "symbol": "PIEVERSEUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 2.188,
-        "close": 2.1962,
-        "vol_ratio": 0.8562
-      },
-      {
-        "symbol": "BREVUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 0.0969,
-        "close": 0.096,
-        "vol_ratio": 1.1371
+        "level": 0.256,
+        "close": 0.2579,
+        "vol_ratio": 1.1736
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794990600000,
+  "last_scan_bar_ms": 1794991500000,
   "last_equity_ts": 1794991338.5477424
 }
