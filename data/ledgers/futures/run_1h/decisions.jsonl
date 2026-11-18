@@ -196,3 +196,6 @@
 {"time": "2026-11-18 12:06:21 MYT", "kind": "skip", "symbol": "PAXGUSDT", "side": "SELL", "tf": "1h", "vol_ratio": 2.4, "reason": "same-direction cap 2 (v0.2 correlation cap)"}
 {"time": "2026-11-18 13:00:52 MYT", "kind": "regime", "allow": "SELL", "btc_close": 64457.96, "ref": 67568.0, "new_low": false, "reason": "BTC 4h close 64457.96 < filter 67568 → shorts only"}
 {"time": "2026-11-18 13:01:02 MYT", "kind": "scan", "bar_close": "2026-11-18 13:00:00 MYT", "breakouts": 2, "vol_ok": 0, "allow": "SELL"}
+{"time": "2026-11-18 14:01:13 MYT", "kind": "regime", "allow": "SELL", "btc_close": 64457.96, "ref": 67568.0, "new_low": false, "reason": "BTC 4h close 64457.96 < filter 67568 → shorts only"}
+{"time": "2026-11-18 14:01:27 MYT", "kind": "scan", "bar_close": "2026-11-18 14:00:00 MYT", "breakouts": 4, "vol_ok": 1, "allow": "SELL"}
+{"time": "2026-11-18 14:01:27 MYT", "kind": "skip", "symbol": "MMTUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 49.57, "reason": "direction filter: BTC 4h close 64457.96 < filter 67568 → shorts only"}
