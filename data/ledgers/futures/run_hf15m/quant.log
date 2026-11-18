@@ -1075,3 +1075,18 @@
 2026-11-18 15:35:06,361 INFO decision regime {"allow": "ANY", "btc_close": 64231.52, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
 2026-11-18 15:35:13,807 INFO decision scan {"bar_close": "2026-11-18 23:30:00 MYT", "breakouts": 3, "vol_ok": 1, "allow": "ANY"}
 2026-11-18 15:35:14,076 INFO decision open {"symbol": "HUMAUSDT", "side": "BUY", "entry": 0.007576515, "stop": 0.007416985221207183, "qty": 2511.0, "lev": 3, "liq": 0.00515409, "risk": 0.419}
+2026-11-18 15:50:19,716 INFO decision close {"symbol": "BTWUSDT", "reason": "stop", "fill": 0.501143497806715, "net": -0.4174, "R": -1.0}
+2026-11-18 15:50:22,512 INFO decision regime {"allow": "ANY", "btc_close": 64231.52, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+2026-11-18 15:50:34,828 INFO decision scan {"bar_close": "2026-11-18 23:45:00 MYT", "breakouts": 18, "vol_ok": 12, "allow": "ANY"}
+2026-11-18 15:50:34,828 INFO decision skip {"symbol": "ZROUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 4.98, "reason": "already holding"}
+2026-11-18 15:50:34,828 INFO decision skip {"symbol": "FILUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 4.56, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+2026-11-18 15:50:34,828 INFO decision skip {"symbol": "NEARUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 4.4, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+2026-11-18 15:50:34,828 INFO decision skip {"symbol": "AAVEUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 3.53, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+2026-11-18 15:50:34,829 INFO decision skip {"symbol": "INJUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 3.43, "reason": "already holding"}
+2026-11-18 15:50:34,829 INFO decision skip {"symbol": "ENAUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 3.22, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+2026-11-18 15:50:34,829 INFO decision skip {"symbol": "WLDUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 3.12, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+2026-11-18 15:50:34,829 INFO decision skip {"symbol": "APTUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.84, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+2026-11-18 15:50:34,829 INFO decision skip {"symbol": "PUMPUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.72, "reason": "already holding"}
+2026-11-18 15:50:34,829 INFO decision skip {"symbol": "HYPEUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.33, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+2026-11-18 15:50:34,829 INFO decision skip {"symbol": "AVAXUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.23, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+2026-11-18 15:50:34,829 INFO decision skip {"symbol": "UNIUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.1, "reason": "already holding"}

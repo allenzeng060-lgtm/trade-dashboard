@@ -252,7 +252,7 @@
       "R": 35.44587940260692,
       "targets": [],
       "high_since_entry": 1782.32,
-      "low_since_entry": 1761.82,
+      "low_since_entry": 1760.07,
       "exit_deadline": "2026-11-20 23:00:00 MYT",
       "market": "usdm_perp",
       "group": "合約1h組"
@@ -352,7 +352,7 @@
       "R": 0.051484002261316,
       "targets": [],
       "high_since_entry": 5.206,
-      "low_since_entry": 5.086,
+      "low_since_entry": 5.082,
       "exit_deadline": "2026-11-19 22:45:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
@@ -392,27 +392,7 @@
       "R": 0.021496194772854055,
       "targets": [],
       "high_since_entry": 1.3429,
-      "low_since_entry": 1.2937,
-      "exit_deadline": "2026-11-19 23:15:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
-      "id": "FHF-20261118-2315-BTWUSDT",
-      "symbol": "BTWUSDT",
-      "side": "BUY",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 0.5215042799999999,
-      "entry_time": "2026-11-18 23:15:00 MYT",
-      "qty": 20.0,
-      "remaining_qty": 20.0,
-      "stop": 0.5012437465560262,
-      "initial_stop": 0.5012437465560262,
-      "R": 0.020260533443973758,
-      "targets": [],
-      "high_since_entry": 0.5228,
-      "low_since_entry": 0.5013,
+      "low_since_entry": 1.2886,
       "exit_deadline": "2026-11-19 23:15:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
@@ -452,7 +432,7 @@
       "R": 0.09775824115479777,
       "targets": [],
       "high_since_entry": 7.147,
-      "low_since_entry": 6.954,
+      "low_since_entry": 6.925,
       "exit_deadline": "2026-11-19 23:15:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
@@ -472,11 +452,11 @@
       "R": 0.00015952977879281702,
       "targets": [],
       "high_since_entry": 0.007729,
-      "low_since_entry": 0.007506,
+      "low_since_entry": 0.007417,
       "exit_deadline": "2026-11-19 23:30:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-18 23:45:21 MYT"
+  "paper_updated_at": "2026-11-18 23:50:39 MYT"
 }
