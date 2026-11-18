@@ -284,26 +284,6 @@
       "group": "合約高頻組"
     },
     {
-      "id": "FHF-20261118-1345-QNTUSDT",
-      "symbol": "QNTUSDT",
-      "side": "BUY",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 155.92117799999997,
-      "entry_time": "2026-11-18 13:45:00 MYT",
-      "qty": 0.1,
-      "remaining_qty": 0.1,
-      "stop": 154.25045077117372,
-      "initial_stop": 154.25045077117372,
-      "R": 1.670727228826255,
-      "targets": [],
-      "high_since_entry": 156.37,
-      "low_since_entry": 154.63,
-      "exit_deadline": "2026-11-19 13:45:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
       "id": "FHF-20261118-1400-MMTUSDT",
       "symbol": "MMTUSDT",
       "side": "BUY",
@@ -324,5 +304,5 @@
       "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-18 14:51:46 MYT"
+  "paper_updated_at": "2026-11-18 14:56:38 MYT"
 }
