@@ -252,7 +252,7 @@
       "R": 35.44587940260692,
       "targets": [],
       "high_since_entry": 1782.32,
-      "low_since_entry": 1734.21,
+      "low_since_entry": 1731.42,
       "exit_deadline": "2026-11-20 23:00:00 MYT",
       "market": "usdm_perp",
       "group": "合約1h組"
@@ -378,26 +378,6 @@
       "group": "合約高頻組"
     },
     {
-      "id": "FHF-20261119-0015-HUMAUSDT",
-      "symbol": "HUMAUSDT",
-      "side": "BUY",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 0.0081136224,
-      "entry_time": "2026-11-19 00:15:00 MYT",
-      "qty": 1763.0,
-      "remaining_qty": 1763.0,
-      "stop": 0.007882220892460094,
-      "initial_stop": 0.007882220892460094,
-      "R": 0.00023140150753990534,
-      "targets": [],
-      "high_since_entry": 0.008225,
-      "low_since_entry": 0.007956,
-      "exit_deadline": "2026-11-20 00:15:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
       "id": "FHF-20261119-0015-FILUSDT",
       "symbol": "FILUSDT",
       "side": "SELL",
@@ -436,7 +416,27 @@
       "exit_deadline": "2026-11-20 00:30:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
+    },
+    {
+      "id": "FHF-20261119-0045-BULLAUSDT",
+      "symbol": "BULLAUSDT",
+      "side": "BUY",
+      "mode": "paper",
+      "status": "open",
+      "entry_price": 0.016303259999999997,
+      "entry_time": "2026-11-19 00:45:00 MYT",
+      "qty": 471.0,
+      "remaining_qty": 471.0,
+      "stop": 0.01542536290348422,
+      "initial_stop": 0.01542536290348422,
+      "R": 0.0008778970965157775,
+      "targets": [],
+      "high_since_entry": 0.01652,
+      "low_since_entry": 0.01629,
+      "exit_deadline": "2026-11-20 00:45:00 MYT",
+      "market": "usdm_perp",
+      "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-19 00:40:49 MYT"
+  "paper_updated_at": "2026-11-19 00:45:54 MYT"
 }
