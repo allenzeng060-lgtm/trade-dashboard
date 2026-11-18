@@ -8,21 +8,12 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-19 04:17:23 MYT",
-    "bar_close": "2026-11-19 04:15:00 MYT",
+    "time": "2026-11-19 04:32:24 MYT",
+    "bar_close": "2026-11-19 04:30:00 MYT",
     "universe": 70,
-    "breakouts": [
-      {
-        "symbol": "PHAROSUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 0.6649,
-        "close": 0.6964,
-        "vol_ratio": 4.5085
-      }
-    ],
+    "breakouts": [],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1795032900000,
+  "last_scan_bar_ms": 1795033800000,
   "last_equity_ts": 1795033043.5630589
 }
