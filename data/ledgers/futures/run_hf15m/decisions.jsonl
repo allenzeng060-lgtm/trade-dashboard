@@ -880,3 +880,6 @@
 {"time": "2026-11-18 09:04:41 MYT", "kind": "open", "symbol": "PAXGUSDT", "side": "SELL", "entry": 3806.078632, "stop": 3815.606358351948, "qty": 0.005, "lev": 3, "liq": 5024.52624686, "risk": 0.067}
 {"time": "2026-11-18 09:04:41 MYT", "kind": "open", "symbol": "BTWUSDT", "side": "BUY", "entry": 0.47149428, "stop": 0.4526878608063888, "qty": 22.0, "lev": 2, "liq": 0.24815488, "risk": 0.424}
 {"time": "2026-11-18 09:04:42 MYT", "kind": "close", "symbol": "PAXGUSDT", "reason": "stop", "fill": 3816.369479623618, "net": -0.0705, "R": -1.06}
+{"time": "2026-11-18 09:19:25 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64947.35, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-18 09:19:38 MYT", "kind": "scan", "bar_close": "2026-11-18 09:15:00 MYT", "breakouts": 3, "vol_ok": 1, "allow": "ANY"}
+{"time": "2026-11-18 09:19:38 MYT", "kind": "skip", "symbol": "BTWUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 3.32, "reason": "already holding"}
