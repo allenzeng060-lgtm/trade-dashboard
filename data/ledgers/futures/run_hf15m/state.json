@@ -8,53 +8,85 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-19 00:06:10 MYT",
-    "bar_close": "2026-11-19 00:00:00 MYT",
+    "time": "2026-11-19 00:20:41 MYT",
+    "bar_close": "2026-11-19 00:15:00 MYT",
     "universe": 73,
     "breakouts": [
       {
-        "symbol": "ADAUSDT",
+        "symbol": "BTCUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 0.1507,
-        "close": 0.1506,
-        "vol_ratio": 2.6373
+        "level": 62970.4,
+        "close": 62768.9,
+        "vol_ratio": 3.0103
+      },
+      {
+        "symbol": "LTCUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 43.6,
+        "close": 43.57,
+        "vol_ratio": 2.5741
+      },
+      {
+        "symbol": "XMRUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 498.23,
+        "close": 495.69,
+        "vol_ratio": 2.8816
       },
       {
         "symbol": "BNBUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 582.87,
-        "close": 582.54,
-        "vol_ratio": 1.672
+        "level": 581.89,
+        "close": 580.66,
+        "vol_ratio": 2.4822
       },
       {
         "symbol": "FILUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 0.5729,
-        "close": 0.5723,
-        "vol_ratio": 3.4041
+        "level": 0.5716,
+        "close": 0.5713,
+        "vol_ratio": 4.0244
       },
       {
-        "symbol": "ZROUSDT",
+        "symbol": "ARBUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 1.2937,
-        "close": 1.2922,
-        "vol_ratio": 3.0327
+        "level": 0.1267,
+        "close": 0.1265,
+        "vol_ratio": 1.5773
+      },
+      {
+        "symbol": "HUMAUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.0077,
+        "close": 0.0081,
+        "vol_ratio": 12.9919
       },
       {
         "symbol": "HYPEUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 66.102,
-        "close": 65.846,
-        "vol_ratio": 3.2675
+        "level": 65.701,
+        "close": 65.646,
+        "vol_ratio": 1.9054
+      },
+      {
+        "symbol": "PUMPUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 0.0026,
+        "close": 0.0026,
+        "vol_ratio": 1.5114
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1795017600000,
-  "last_equity_ts": 1795018220.0281467
+  "last_scan_bar_ms": 1795018500000,
+  "last_equity_ts": 1795018841.785553
 }
