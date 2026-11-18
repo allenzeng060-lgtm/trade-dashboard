@@ -204,26 +204,6 @@
       "group": "合約高頻組"
     },
     {
-      "id": "FHF-20261118-0530-AVAXUSDT",
-      "symbol": "AVAXUSDT",
-      "side": "BUY",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 7.2084414,
-      "entry_time": "2026-11-18 05:30:00 MYT",
-      "qty": 3.0,
-      "remaining_qty": 3.0,
-      "stop": 7.125138544107532,
-      "initial_stop": 7.125138544107532,
-      "R": 0.08330285589246789,
-      "targets": [],
-      "high_since_entry": 7.312,
-      "low_since_entry": 7.133,
-      "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
       "id": "FHF-20261118-0700-TAOUSDT",
       "symbol": "TAOUSDT",
       "side": "BUY",
@@ -258,7 +238,7 @@
       "R": 12.651139001783589,
       "targets": [],
       "high_since_entry": 3800.82,
-      "low_since_entry": 3787.21,
+      "low_since_entry": 3785.73,
       "exit_deadline": "2026-11-19 10:15:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
@@ -284,5 +264,5 @@
       "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-18 10:45:08 MYT"
+  "paper_updated_at": "2026-11-18 10:50:19 MYT"
 }
