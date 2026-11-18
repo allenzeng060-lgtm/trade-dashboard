@@ -969,3 +969,4 @@
 {"time": "2026-11-18 15:32:20 MYT", "kind": "scan", "bar_close": "2026-11-18 15:30:00 MYT", "breakouts": 5, "vol_ok": 2, "allow": "ANY"}
 {"time": "2026-11-18 15:32:20 MYT", "kind": "skip", "symbol": "KAVAUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 7.08, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
 {"time": "2026-11-18 15:32:20 MYT", "kind": "skip", "symbol": "BLESSUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 4.98, "reason": "already holding"}
+{"time": "2026-11-18 15:36:57 MYT", "kind": "trail_update", "symbol": "PAXGUSDT", "stop": 3773.1111390017836, "best": 3760.46}

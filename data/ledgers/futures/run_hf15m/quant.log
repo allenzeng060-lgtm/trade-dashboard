@@ -886,3 +886,4 @@
 2026-11-18 07:32:20,662 INFO decision scan {"bar_close": "2026-11-18 15:30:00 MYT", "breakouts": 5, "vol_ok": 2, "allow": "ANY"}
 2026-11-18 07:32:20,663 INFO decision skip {"symbol": "KAVAUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 7.08, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
 2026-11-18 07:32:20,663 INFO decision skip {"symbol": "BLESSUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 4.98, "reason": "already holding"}
+2026-11-18 07:36:57,746 INFO decision trail_update {"symbol": "PAXGUSDT", "stop": 3773.1111390017836, "best": 3760.46}
