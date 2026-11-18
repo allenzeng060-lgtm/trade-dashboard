@@ -976,3 +976,4 @@
 {"time": "2026-11-18 15:47:13 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64457.96, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
 {"time": "2026-11-18 15:47:33 MYT", "kind": "scan", "bar_close": "2026-11-18 15:45:00 MYT", "breakouts": 4, "vol_ok": 0, "allow": "ANY"}
 {"time": "2026-11-18 15:47:35 MYT", "kind": "trail_update", "symbol": "XRPUSDT", "stop": 0.9940642301334527, "best": 1.0033}
+{"time": "2026-11-18 15:52:00 MYT", "kind": "trail_update", "symbol": "XRPUSDT", "stop": 0.9952642301334526, "best": 1.0045}
