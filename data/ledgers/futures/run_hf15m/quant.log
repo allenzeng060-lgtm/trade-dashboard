@@ -964,3 +964,9 @@
 2026-11-18 11:03:35,408 INFO decision regime {"allow": "ANY", "btc_close": 64884.01, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
 2026-11-18 11:03:47,540 INFO decision scan {"bar_close": "2026-11-18 19:00:00 MYT", "breakouts": 2, "vol_ok": 1, "allow": "ANY"}
 2026-11-18 11:03:47,892 INFO decision open {"symbol": "ICNTUSDT", "side": "BUY", "entry": 0.32716542, "stop": 0.3077317487779361, "qty": 21.0, "lev": 1, "liq": 0.0, "risk": 0.415}
+2026-11-18 11:18:23,131 INFO decision regime {"allow": "ANY", "btc_close": 64884.01, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+2026-11-18 11:18:32,314 INFO decision scan {"bar_close": "2026-11-18 19:15:00 MYT", "breakouts": 17, "vol_ok": 4, "allow": "ANY"}
+2026-11-18 11:18:32,840 INFO decision open {"symbol": "ARBUSDT", "side": "SELL", "entry": 0.12837432, "stop": 0.12935949607926273, "qty": 167.20000000000002, "lev": 3, "liq": 0.17014489, "risk": 0.186}
+2026-11-18 11:18:32,840 INFO decision open {"symbol": "ENAUSDT", "side": "SELL", "entry": 0.111137768, "stop": 0.11257374094965782, "qty": 193.0, "lev": 3, "liq": 0.14671653, "risk": 0.299}
+2026-11-18 11:18:32,840 INFO decision skip {"symbol": "ZKPUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.32, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+2026-11-18 11:18:32,840 INFO decision skip {"symbol": "SUIUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.18, "reason": "same-direction cap 6 (v0.2 correlation cap)"}

@@ -352,7 +352,7 @@
       "R": 0.0016171719033375226,
       "targets": [],
       "high_since_entry": 0.02198,
-      "low_since_entry": 0.01934,
+      "low_since_entry": 0.01902,
       "exit_deadline": "2026-11-19 18:15:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
@@ -432,11 +432,51 @@
       "R": 0.0194336712220639,
       "targets": [],
       "high_since_entry": 0.33,
-      "low_since_entry": 0.3179,
+      "low_since_entry": 0.3154,
       "exit_deadline": "2026-11-19 19:00:00 MYT",
+      "market": "usdm_perp",
+      "group": "合約高頻組"
+    },
+    {
+      "id": "FHF-20261118-1915-ARBUSDT",
+      "symbol": "ARBUSDT",
+      "side": "SELL",
+      "mode": "paper",
+      "status": "open",
+      "entry_price": 0.12837432,
+      "entry_time": "2026-11-18 19:15:00 MYT",
+      "qty": 167.20000000000002,
+      "remaining_qty": 167.20000000000002,
+      "stop": 0.12935949607926273,
+      "initial_stop": 0.12935949607926273,
+      "R": 0.000985176079262749,
+      "targets": [],
+      "high_since_entry": 0.12878,
+      "low_since_entry": 0.12836,
+      "exit_deadline": "2026-11-19 19:15:00 MYT",
+      "market": "usdm_perp",
+      "group": "合約高頻組"
+    },
+    {
+      "id": "FHF-20261118-1915-ENAUSDT",
+      "symbol": "ENAUSDT",
+      "side": "SELL",
+      "mode": "paper",
+      "status": "open",
+      "entry_price": 0.111137768,
+      "entry_time": "2026-11-18 19:15:00 MYT",
+      "qty": 193.0,
+      "remaining_qty": 193.0,
+      "stop": 0.11257374094965782,
+      "initial_stop": 0.11257374094965782,
+      "R": 0.0014359729496578118,
+      "targets": [],
+      "high_since_entry": 0.11183,
+      "low_since_entry": 0.11111,
+      "exit_deadline": "2026-11-19 19:15:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-18 19:13:25 MYT"
+  "paper_updated_at": "2026-11-18 19:18:36 MYT"
 }
