@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794978075847,
-      "last_price": 0.3051,
+      "last_check_ms": 1794978351888,
+      "last_price": 0.3053,
       "last_funding_ms": 1794974400000
     },
     {
@@ -90,8 +90,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794978076093,
-      "last_price": 0.9786,
+      "last_check_ms": 1794978352188,
+      "last_price": 0.9791,
       "last_funding_ms": 1794960000000
     },
     {
@@ -133,8 +133,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 07:00:00 MYT",
-      "last_check_ms": 1794978076345,
-      "last_price": 194.76,
+      "last_check_ms": 1794978352580,
+      "last_price": 194.82,
       "last_funding_ms": 1794974400000
     },
     {
@@ -170,14 +170,14 @@
       "risk_usdt": 0.08225792797642241,
       "entry_fee": 0.00948530256,
       "funding": 0.00071587,
-      "best": 3775.0,
+      "best": 3774.4,
       "high_since_entry": 3800.82,
-      "low_since_entry": 3775.0,
+      "low_since_entry": 3774.4,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 10:15:00 MYT",
-      "last_check_ms": 1794978076588,
-      "last_price": 3778.54,
+      "last_check_ms": 1794978352872,
+      "last_price": 3774.75,
       "last_funding_ms": 1794974400000
     },
     {
@@ -219,8 +219,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 10:15:00 MYT",
-      "last_check_ms": 1794978076839,
-      "last_price": 2.146,
+      "last_check_ms": 1794978353169,
+      "last_price": 2.143,
       "last_funding_ms": 1794974400000
     },
     {
@@ -256,14 +256,14 @@
       "risk_usdt": 0.4260045530814293,
       "entry_fee": 0.003580728711,
       "funding": 0.0,
-      "best": 0.01411,
+      "best": 0.01335,
       "high_since_entry": 0.01492,
-      "low_since_entry": 0.01411,
+      "low_since_entry": 0.01335,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 13:00:00 MYT",
-      "last_check_ms": 1794978077085,
-      "last_price": 0.01416
+      "last_check_ms": 1794978353459,
+      "last_price": 0.01411
     }
   ]
 }
