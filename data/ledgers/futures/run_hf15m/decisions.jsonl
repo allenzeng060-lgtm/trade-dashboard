@@ -1074,3 +1074,4 @@
 {"time": "2026-11-18 20:18:57 MYT", "kind": "scan", "bar_close": "2026-11-18 20:15:00 MYT", "breakouts": 2, "vol_ok": 1, "allow": "ANY"}
 {"time": "2026-11-18 20:18:57 MYT", "kind": "open", "symbol": "PIEVERSEUSDT", "side": "BUY", "entry": 2.5572113400000003, "stop": 2.4632987711600567, "qty": 4.0, "lev": 2, "liq": 1.31139043, "risk": 0.386}
 {"time": "2026-11-18 20:18:59 MYT", "kind": "trail_update", "symbol": "PIEVERSEUSDT", "stop": 2.7465874311600564, "best": 2.8405}
+{"time": "2026-11-18 20:23:49 MYT", "kind": "close", "symbol": "PIEVERSEUSDT", "reason": "trail_stop", "fill": 2.7795314136738245, "net": 0.8786, "R": 2.28}
