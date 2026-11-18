@@ -3,7 +3,7 @@
   "set": "15m",
   "mode": "paper",
   "rules": "hf-15m-v0.1",
-  "updated_at": "2026-11-18 09:29:30 MYT",
+  "updated_at": "2026-11-18 09:34:46 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -16,10 +16,10 @@
     "slip": 0.0002,
     "regime": "none"
   },
-  "wallet_usdt": 87.3394,
-  "unrealized_usdt": 0.0203,
-  "equity_usdt": 87.3597,
-  "pnl_pct": -12.64,
+  "wallet_usdt": 87.0649,
+  "unrealized_usdt": 0.4298,
+  "equity_usdt": 87.4947,
+  "pnl_pct": -12.505,
   "regime": {
     "allow": "ANY",
     "btc_close": 64947.35,
@@ -27,33 +27,33 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-18 09:19:38 MYT",
-    "bar_close": "2026-11-18 09:15:00 MYT",
+    "time": "2026-11-18 09:34:43 MYT",
+    "bar_close": "2026-11-18 09:30:00 MYT",
     "universe": 73,
     "breakouts": [
       {
         "symbol": "CROSSUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 0.1508,
-        "close": 0.1496,
-        "vol_ratio": 0.4199
+        "level": 0.1495,
+        "close": 0.1441,
+        "vol_ratio": 1.03
       },
       {
-        "symbol": "EVAAUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 3.227,
-        "close": 3.1824,
-        "vol_ratio": 1.1737
-      },
-      {
-        "symbol": "BTWUSDT",
+        "symbol": "ARIAUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.4754,
-        "close": 0.4824,
-        "vol_ratio": 3.3235
+        "level": 0.2342,
+        "close": 0.235,
+        "vol_ratio": 0.4084
+      },
+      {
+        "symbol": "BREVUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.1129,
+        "close": 0.129,
+        "vol_ratio": 5.1099
       }
     ],
     "regime": "ANY"
@@ -81,27 +81,6 @@
       "vol_ratio": 2.58
     },
     {
-      "id": "FHF-20261118-0530-ADAUSDT",
-      "symbol": "ADAUSDT",
-      "side": "BUY",
-      "entry_time": "2026-11-18 05:30:00 MYT",
-      "entry_price": 0.15463091999999998,
-      "qty": 142.0,
-      "notional": 21.957590639999996,
-      "leverage": 3,
-      "margin": 7.319196879999999,
-      "liq_price": 0.10360531,
-      "stop": 0.15289492040302272,
-      "initial_stop": 0.15289492040302272,
-      "R": 0.0017359995969772595,
-      "trail_armed": false,
-      "funding": -0.00187326,
-      "last_price": 0.1531,
-      "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "signal_tf": "15m",
-      "vol_ratio": 2.51
-    },
-    {
       "id": "FHF-20261118-0530-XRPUSDT",
       "symbol": "XRPUSDT",
       "side": "BUY",
@@ -117,7 +96,7 @@
       "R": 0.009235769866547429,
       "trail_armed": false,
       "funding": -0.00100567,
-      "last_price": 0.9748,
+      "last_price": 0.9747,
       "exit_deadline": "2026-11-19 05:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.06
@@ -138,7 +117,7 @@
       "R": 0.08330285589246789,
       "trail_armed": false,
       "funding": -0.0015674,
-      "last_price": 7.208,
+      "last_price": 7.21,
       "exit_deadline": "2026-11-19 05:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.01
@@ -159,10 +138,31 @@
       "R": 2.06340890465846,
       "trail_armed": false,
       "funding": -0.0011068,
-      "last_price": 196.69,
+      "last_price": 196.34,
       "exit_deadline": "2026-11-19 07:00:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.67
+    },
+    {
+      "id": "FHF-20261118-0930-BREVUSDT",
+      "symbol": "BREVUSDT",
+      "side": "BUY",
+      "entry_time": "2026-11-18 09:30:00 MYT",
+      "entry_price": 0.128985792,
+      "qty": 48.0,
+      "notional": 6.191318015999999,
+      "leverage": 1,
+      "margin": 6.191318015999999,
+      "liq_price": 0.0,
+      "stop": 0.12011112520111938,
+      "initial_stop": 0.12011112520111938,
+      "R": 0.008874666798880609,
+      "trail_armed": false,
+      "funding": 0.0,
+      "last_price": 0.13324,
+      "exit_deadline": "2026-11-19 09:30:00 MYT",
+      "signal_tf": "15m",
+      "vol_ratio": 5.11
     }
   ],
   "data_source": "www.binance.com /fapi (public)"

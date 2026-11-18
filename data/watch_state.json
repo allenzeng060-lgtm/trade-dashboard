@@ -184,26 +184,6 @@
       "group": "合約高頻組"
     },
     {
-      "id": "FHF-20261118-0530-ADAUSDT",
-      "symbol": "ADAUSDT",
-      "side": "BUY",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 0.15463091999999998,
-      "entry_time": "2026-11-18 05:30:00 MYT",
-      "qty": 142.0,
-      "remaining_qty": 142.0,
-      "stop": 0.15289492040302272,
-      "initial_stop": 0.15289492040302272,
-      "R": 0.0017359995969772595,
-      "targets": [],
-      "high_since_entry": 0.1565,
-      "low_since_entry": 0.1529,
-      "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
       "id": "FHF-20261118-0530-XRPUSDT",
       "symbol": "XRPUSDT",
       "side": "BUY",
@@ -262,7 +242,27 @@
       "exit_deadline": "2026-11-19 07:00:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
+    },
+    {
+      "id": "FHF-20261118-0930-BREVUSDT",
+      "symbol": "BREVUSDT",
+      "side": "BUY",
+      "mode": "paper",
+      "status": "open",
+      "entry_price": 0.128985792,
+      "entry_time": "2026-11-18 09:30:00 MYT",
+      "qty": 48.0,
+      "remaining_qty": 48.0,
+      "stop": 0.12011112520111938,
+      "initial_stop": 0.12011112520111938,
+      "R": 0.008874666798880609,
+      "targets": [],
+      "high_since_entry": 0.1363,
+      "low_since_entry": 0.12443,
+      "exit_deadline": "2026-11-19 09:30:00 MYT",
+      "market": "usdm_perp",
+      "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-18 09:29:31 MYT"
+  "paper_updated_at": "2026-11-18 09:34:47 MYT"
 }
