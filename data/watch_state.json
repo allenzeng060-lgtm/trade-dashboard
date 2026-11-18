@@ -158,7 +158,7 @@
       "R": 30.449163188329955,
       "targets": [],
       "high_since_entry": 3817.86,
-      "low_since_entry": 3767.5,
+      "low_since_entry": 3766.81,
       "exit_deadline": "2026-11-20 09:00:00 MYT",
       "market": "usdm_perp",
       "group": "合約1h組"
@@ -238,7 +238,7 @@
       "R": 12.651139001783589,
       "targets": [],
       "high_since_entry": 3800.82,
-      "low_since_entry": 3770.34,
+      "low_since_entry": 3769.0,
       "exit_deadline": "2026-11-19 10:15:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
@@ -302,7 +302,27 @@
       "exit_deadline": "2026-11-19 14:00:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
+    },
+    {
+      "id": "FHF-20261118-1500-BLESSUSDT",
+      "symbol": "BLESSUSDT",
+      "side": "BUY",
+      "mode": "paper",
+      "status": "open",
+      "entry_price": 0.011992398,
+      "entry_time": "2026-11-18 15:00:00 MYT",
+      "qty": 638.0,
+      "remaining_qty": 638.0,
+      "stop": 0.01134092493780823,
+      "initial_stop": 0.01134092493780823,
+      "R": 0.0006514730621917711,
+      "targets": [],
+      "high_since_entry": 0.01234,
+      "low_since_entry": 0.011958,
+      "exit_deadline": "2026-11-19 15:00:00 MYT",
+      "market": "usdm_perp",
+      "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-18 14:56:38 MYT"
+  "paper_updated_at": "2026-11-18 15:02:17 MYT"
 }

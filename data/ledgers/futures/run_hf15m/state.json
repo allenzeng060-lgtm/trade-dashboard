@@ -8,37 +8,45 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-18 14:46:47 MYT",
-    "bar_close": "2026-11-18 14:45:00 MYT",
+    "time": "2026-11-18 15:02:13 MYT",
+    "bar_close": "2026-11-18 15:00:00 MYT",
     "universe": 73,
     "breakouts": [
       {
         "symbol": "TRXUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.3085,
-        "close": 0.309,
-        "vol_ratio": 1.6618
+        "level": 0.309,
+        "close": 0.3092,
+        "vol_ratio": 1.7162
       },
       {
         "symbol": "KAVAUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.0288,
-        "close": 0.0294,
-        "vol_ratio": 1.4977
+        "level": 0.0295,
+        "close": 0.0296,
+        "vol_ratio": 1.2965
       },
       {
-        "symbol": "FILUSDT",
+        "symbol": "BLESSUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.6007,
-        "close": 0.6013,
-        "vol_ratio": 0.5178
+        "level": 0.0111,
+        "close": 0.012,
+        "vol_ratio": 3.6546
+      },
+      {
+        "symbol": "EVAAUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 3.6324,
+        "close": 3.6713,
+        "vol_ratio": 0.989
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794984300000,
-  "last_equity_ts": 1794984997.035486
+  "last_scan_bar_ms": 1794985200000,
+  "last_equity_ts": 1794985333.8294146
 }
