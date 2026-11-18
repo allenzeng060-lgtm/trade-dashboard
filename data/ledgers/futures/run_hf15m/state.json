@@ -8,29 +8,12 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-19 01:31:21 MYT",
-    "bar_close": "2026-11-19 01:30:00 MYT",
+    "time": "2026-11-19 01:46:29 MYT",
+    "bar_close": "2026-11-19 01:45:00 MYT",
     "universe": 73,
-    "breakouts": [
-      {
-        "symbol": "HUMAUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 0.0084,
-        "close": 0.0088,
-        "vol_ratio": 7.8596
-      },
-      {
-        "symbol": "BULLAUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 0.0136,
-        "close": 0.0134,
-        "vol_ratio": 5.41
-      }
-    ],
+    "breakouts": [],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1795023000000,
+  "last_scan_bar_ms": 1795023900000,
   "last_equity_ts": 1795022754.763114
 }

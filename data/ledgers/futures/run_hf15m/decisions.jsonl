@@ -1248,3 +1248,5 @@
 {"time": "2026-11-19 01:31:21 MYT", "kind": "scan", "bar_close": "2026-11-19 01:30:00 MYT", "breakouts": 2, "vol_ok": 2, "allow": "ANY"}
 {"time": "2026-11-19 01:31:21 MYT", "kind": "skip", "symbol": "HUMAUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 7.86, "reason": "already holding"}
 {"time": "2026-11-19 01:31:21 MYT", "kind": "skip", "symbol": "BULLAUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 5.41, "reason": "notional 4.23 < exchange min 5"}
+{"time": "2026-11-19 01:46:08 MYT", "kind": "regime", "allow": "ANY", "btc_close": 63122.53, "ref": 67568.0, "new_low": true, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-19 01:46:29 MYT", "kind": "scan", "bar_close": "2026-11-19 01:45:00 MYT", "breakouts": 0, "vol_ok": 0, "allow": "ANY"}
