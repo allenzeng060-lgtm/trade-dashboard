@@ -8,53 +8,29 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-19 01:16:11 MYT",
-    "bar_close": "2026-11-19 01:15:00 MYT",
+    "time": "2026-11-19 01:31:21 MYT",
+    "bar_close": "2026-11-19 01:30:00 MYT",
     "universe": 73,
     "breakouts": [
-      {
-        "symbol": "TRXUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 0.3084,
-        "close": 0.3083,
-        "vol_ratio": 1.2073
-      },
       {
         "symbol": "HUMAUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.0082,
-        "close": 0.0084,
-        "vol_ratio": 5.807
+        "level": 0.0084,
+        "close": 0.0088,
+        "vol_ratio": 7.8596
       },
       {
-        "symbol": "EVAAUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 3.9854,
-        "close": 4.0262,
-        "vol_ratio": 1.4964
-      },
-      {
-        "symbol": "MMTUSDT",
+        "symbol": "BULLAUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 0.2311,
-        "close": 0.2276,
-        "vol_ratio": 4.1009
-      },
-      {
-        "symbol": "BREVUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 0.0831,
-        "close": 0.0827,
-        "vol_ratio": 0.202
+        "level": 0.0136,
+        "close": 0.0134,
+        "vol_ratio": 5.41
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1795022100000,
+  "last_scan_bar_ms": 1795023000000,
   "last_equity_ts": 1795022754.763114
 }
