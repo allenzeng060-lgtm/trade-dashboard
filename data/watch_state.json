@@ -332,7 +332,7 @@
       "R": 0.00029044014411782964,
       "targets": [],
       "high_since_entry": 0.01192,
-      "low_since_entry": 0.01151,
+      "low_since_entry": 0.0115,
       "exit_deadline": "2026-11-19 17:15:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
@@ -374,26 +374,6 @@
       "high_since_entry": 0.001981,
       "low_since_entry": 0.001946,
       "exit_deadline": "2026-11-19 18:30:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
-      "id": "FHF-20261118-1845-PIEVERSEUSDT",
-      "symbol": "PIEVERSEUSDT",
-      "side": "BUY",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 2.42688528,
-      "entry_time": "2026-11-18 18:45:00 MYT",
-      "qty": 6.0,
-      "remaining_qty": 6.0,
-      "stop": 2.362690170758903,
-      "initial_stop": 2.362690170758903,
-      "R": 0.06419510924109692,
-      "targets": [],
-      "high_since_entry": 2.5196,
-      "low_since_entry": 2.3854,
-      "exit_deadline": "2026-11-19 18:45:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
     },
@@ -471,12 +451,12 @@
       "initial_stop": 0.11257374094965782,
       "R": 0.0014359729496578118,
       "targets": [],
-      "high_since_entry": 0.11209,
+      "high_since_entry": 0.11237,
       "low_since_entry": 0.11111,
       "exit_deadline": "2026-11-19 19:15:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-18 19:43:33 MYT"
+  "paper_updated_at": "2026-11-18 19:49:00 MYT"
 }
