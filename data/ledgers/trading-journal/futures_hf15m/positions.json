@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 13:00:00 MYT",
-      "last_check_ms": 1795030004397,
-      "last_price": 0.01454,
+      "last_check_ms": 1795030323014,
+      "last_price": 0.01458,
       "last_funding_ms": 1795017600000
     },
     {
@@ -90,8 +90,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 17:15:00 MYT",
-      "last_check_ms": 1795030004621,
-      "last_price": 0.01147,
+      "last_check_ms": 1795030323303,
+      "last_price": 0.01145,
       "last_funding_ms": 1795017600000
     },
     {
@@ -133,8 +133,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 19:00:00 MYT",
-      "last_check_ms": 1795030004847,
-      "last_price": 0.3281,
+      "last_check_ms": 1795030323849,
+      "last_price": 0.3295,
       "last_funding_ms": 1795017600000
     },
     {
@@ -176,8 +176,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 22:15:00 MYT",
-      "last_check_ms": 1795030005258,
-      "last_price": 3.3125,
+      "last_check_ms": 1795030324138,
+      "last_price": 3.3393,
       "last_funding_ms": 1795017600000
     },
     {
@@ -219,8 +219,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 23:15:00 MYT",
-      "last_check_ms": 1795030005484,
-      "last_price": 0.002562,
+      "last_check_ms": 1795030324431,
+      "last_price": 0.002563,
       "last_funding_ms": 1795017600000
     },
     {
@@ -262,8 +262,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 23:15:00 MYT",
-      "last_check_ms": 1795030006091,
-      "last_price": 7.005,
+      "last_check_ms": 1795030324721,
+      "last_price": 7.013,
       "last_funding_ms": 1795017600000
     },
     {
@@ -305,8 +305,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-20 01:15:00 MYT",
-      "last_check_ms": 1795030006498,
-      "last_price": 0.00865,
+      "last_check_ms": 1795030325008,
+      "last_price": 0.008515,
       "last_funding_ms": 1795028400002
     },
     {
@@ -348,8 +348,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-20 02:00:00 MYT",
-      "last_check_ms": 1795030006718,
-      "last_price": 0.02003
+      "last_check_ms": 1795030325298,
+      "last_price": 0.02002
     },
     {
       "id": "FHF-20261119-0315-ZECUSDT",
@@ -385,13 +385,13 @@
       "entry_fee": 0.009989961608,
       "funding": 0.0,
       "best": 907.29,
-      "high_since_entry": 915.96,
+      "high_since_entry": 917.41,
       "low_since_entry": 907.29,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-20 03:15:00 MYT",
-      "last_check_ms": 1795030007124,
-      "last_price": 913.89
+      "last_check_ms": 1795030325585,
+      "last_price": 912.38
     }
   ]
 }
