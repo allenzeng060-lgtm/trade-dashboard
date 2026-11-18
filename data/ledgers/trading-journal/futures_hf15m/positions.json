@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 13:00:00 MYT",
-      "last_check_ms": 1795019124743,
-      "last_price": 0.01413,
+      "last_check_ms": 1795019443553,
+      "last_price": 0.01419,
       "last_funding_ms": 1795017600000
     },
     {
@@ -90,8 +90,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 17:15:00 MYT",
-      "last_check_ms": 1795019124976,
-      "last_price": 0.01142,
+      "last_check_ms": 1795019443835,
+      "last_price": 0.01141,
       "last_funding_ms": 1795017600000
     },
     {
@@ -133,8 +133,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 19:00:00 MYT",
-      "last_check_ms": 1795019125279,
-      "last_price": 0.3264,
+      "last_check_ms": 1795019444112,
+      "last_price": 0.3258,
       "last_funding_ms": 1795017600000
     },
     {
@@ -176,8 +176,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 22:15:00 MYT",
-      "last_check_ms": 1795019125509,
-      "last_price": 3.2256,
+      "last_check_ms": 1795019444391,
+      "last_price": 3.2208,
       "last_funding_ms": 1795017600000
     },
     {
@@ -219,8 +219,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 23:15:00 MYT",
-      "last_check_ms": 1795019125975,
-      "last_price": 0.002558,
+      "last_check_ms": 1795019444669,
+      "last_price": 0.00256,
       "last_funding_ms": 1795017600000
     },
     {
@@ -262,8 +262,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 23:15:00 MYT",
-      "last_check_ms": 1795019126206,
-      "last_price": 7.01,
+      "last_check_ms": 1795019444946,
+      "last_price": 7.002,
       "last_funding_ms": 1795017600000
     },
     {
@@ -305,8 +305,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-20 00:15:00 MYT",
-      "last_check_ms": 1795019126432,
-      "last_price": 0.008043
+      "last_check_ms": 1795019445222,
+      "last_price": 0.008088
     },
     {
       "id": "FHF-20261119-0015-FILUSDT",
@@ -347,8 +347,50 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-20 00:15:00 MYT",
-      "last_check_ms": 1795019126662,
-      "last_price": 0.57
+      "last_check_ms": 1795019445499,
+      "last_price": 0.5709
+    },
+    {
+      "id": "FHF-20261119-0030-APTUSDT",
+      "symbol": "APTUSDT",
+      "side": "SELL",
+      "rules": "hf-15m-v0.1",
+      "cycle": 1,
+      "slippage": 0.0002,
+      "mode": "paper",
+      "status": "open",
+      "group": "合約高頻組",
+      "market": "usdm_perp",
+      "margin_type": "isolated",
+      "signal_tf": "15m",
+      "signal_bar_close_myt": "2026-11-19 00:30:00 MYT",
+      "vol_ratio": 8.03,
+      "breakout_level": 0.4265,
+      "entry_time": "2026-11-19 00:30:00 MYT",
+      "entry_ms": 1795019400000,
+      "entry_price": 0.42551488,
+      "qty": 49.7,
+      "remaining_qty": 49.7,
+      "notional": 21.148089536,
+      "leverage": 3,
+      "margin": 7.049363178666667,
+      "liq_price": 0.56173582,
+      "mmr": 0.01,
+      "stop": 0.4311040675883043,
+      "initial_stop": 0.4311040675883043,
+      "R": 0.005589187588304307,
+      "stop_pct": 1.314,
+      "risk_usdt": 0.29906960398629345,
+      "entry_fee": 0.010574044768,
+      "funding": 0.0,
+      "best": 0.425,
+      "high_since_entry": 0.4257,
+      "low_since_entry": 0.425,
+      "trail_armed": false,
+      "targets": [],
+      "exit_deadline": "2026-11-20 00:30:00 MYT",
+      "last_check_ms": 1795019445780,
+      "last_price": 0.4254
     }
   ]
 }

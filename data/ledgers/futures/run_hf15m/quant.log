@@ -1121,3 +1121,26 @@
 2026-11-18 16:20:41,785 INFO decision skip {"symbol": "LTCUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.57, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
 2026-11-18 16:20:41,785 INFO decision skip {"symbol": "BNBUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.48, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
 2026-11-18 16:25:25,968 INFO decision close {"symbol": "UNIUSDT", "reason": "trail_stop", "fill": 5.099503699061768, "net": 0.2068, "R": 0.91}
+2026-11-18 16:30:32,962 INFO decision regime {"allow": "ANY", "btc_close": 63122.53, "ref": 67568.0, "new_low": true, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+2026-11-18 16:30:43,235 INFO decision scan {"bar_close": "2026-11-19 00:30:00 MYT", "breakouts": 23, "vol_ok": 21, "allow": "ANY"}
+2026-11-18 16:30:43,551 INFO decision open {"symbol": "APTUSDT", "side": "SELL", "entry": 0.42551488, "stop": 0.4311040675883043, "qty": 49.7, "lev": 3, "liq": 0.56173582, "risk": 0.299}
+2026-11-18 16:30:43,551 INFO decision skip {"symbol": "ICPUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 5.95, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+2026-11-18 16:30:43,551 INFO decision skip {"symbol": "DOGEUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 5.43, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+2026-11-18 16:30:43,551 INFO decision skip {"symbol": "ETHUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 5.16, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+2026-11-18 16:30:43,551 INFO decision skip {"symbol": "VVVUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 5.1, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+2026-11-18 16:30:43,551 INFO decision skip {"symbol": "BTCUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 4.72, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+2026-11-18 16:30:43,551 INFO decision skip {"symbol": "BNBUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 4.47, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+2026-11-18 16:30:43,552 INFO decision skip {"symbol": "LTCUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 4.44, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+2026-11-18 16:30:43,552 INFO decision skip {"symbol": "SOLUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 4.31, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+2026-11-18 16:30:43,552 INFO decision skip {"symbol": "AVAXUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 4.08, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+2026-11-18 16:30:43,552 INFO decision skip {"symbol": "LINKUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 4.02, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+2026-11-18 16:30:43,552 INFO decision skip {"symbol": "BCHUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 3.37, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+2026-11-18 16:30:43,552 INFO decision skip {"symbol": "XMRUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 3.36, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+2026-11-18 16:30:43,552 INFO decision skip {"symbol": "ARBUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 3.31, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+2026-11-18 16:30:43,552 INFO decision skip {"symbol": "XLMUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 3.24, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+2026-11-18 16:30:43,552 INFO decision skip {"symbol": "XRPUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 3.2, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+2026-11-18 16:30:43,553 INFO decision skip {"symbol": "SUIUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 3.16, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+2026-11-18 16:30:43,553 INFO decision skip {"symbol": "TAOUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.95, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+2026-11-18 16:30:43,553 INFO decision skip {"symbol": "XAUTUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.29, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+2026-11-18 16:30:43,553 INFO decision skip {"symbol": "PAXGUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.24, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+2026-11-18 16:30:43,553 INFO decision skip {"symbol": "TRXUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.02, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
