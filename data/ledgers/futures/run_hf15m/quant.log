@@ -1160,3 +1160,4 @@
 2026-11-18 17:16:11,574 INFO decision open {"symbol": "HUMAUSDT", "side": "BUY", "entry": 0.008364672600000001, "stop": 0.008051742724540093, "qty": 1298.0, "lev": 2, "liq": 0.00426769, "risk": 0.417}
 2026-11-18 17:16:11,575 INFO decision skip {"symbol": "MMTUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 4.1, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
 2026-11-18 17:20:52,758 INFO decision close {"symbol": "FILUSDT", "reason": "stop", "fill": 0.5786888897290474, "net": -0.2981, "R": -1.01}
+2026-11-18 17:25:54,762 INFO decision close {"symbol": "APTUSDT", "reason": "stop", "fill": 0.43119028840182194, "net": -0.3034, "R": -1.01}

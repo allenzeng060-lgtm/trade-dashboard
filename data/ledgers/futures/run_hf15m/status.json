@@ -3,7 +3,7 @@
   "set": "15m",
   "mode": "paper",
   "rules": "hf-15m-v0.1",
-  "updated_at": "2026-11-19 01:20:53 MYT",
+  "updated_at": "2026-11-19 01:25:55 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -16,10 +16,10 @@
     "slip": 0.0002,
     "regime": "none"
   },
-  "wallet_usdt": 83.0943,
-  "unrealized_usdt": 1.0155,
-  "equity_usdt": 84.1098,
-  "pnl_pct": -15.89,
+  "wallet_usdt": 82.7909,
+  "unrealized_usdt": 0.8375,
+  "equity_usdt": 83.6285,
+  "pnl_pct": -16.372,
   "regime": {
     "allow": "ANY",
     "btc_close": 63122.53,
@@ -91,7 +91,7 @@
       "R": 0.0008667366020083734,
       "trail_armed": false,
       "funding": 0.00104151,
-      "last_price": 0.01421,
+      "last_price": 0.01436,
       "exit_deadline": "2026-11-19 13:00:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.07
@@ -112,7 +112,7 @@
       "R": 0.00029044014411782964,
       "trail_armed": false,
       "funding": -0.04004112,
-      "last_price": 0.01148,
+      "last_price": 0.01151,
       "exit_deadline": "2026-11-19 17:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 6.22
@@ -133,7 +133,7 @@
       "R": 0.0194336712220639,
       "trail_armed": false,
       "funding": 0.00457341,
-      "last_price": 0.324,
+      "last_price": 0.3232,
       "exit_deadline": "2026-11-19 19:00:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.15
@@ -154,7 +154,7 @@
       "R": 0.1526786270007942,
       "trail_armed": false,
       "funding": -0.00382478,
-      "last_price": 3.27,
+      "last_price": 3.2471,
       "exit_deadline": "2026-11-19 22:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 10.89
@@ -175,7 +175,7 @@
       "R": 4.446172436725169e-05,
       "trail_armed": false,
       "funding": 0.00017163,
-      "last_price": 0.002618,
+      "last_price": 0.002636,
       "exit_deadline": "2026-11-19 23:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 4.39
@@ -196,31 +196,10 @@
       "R": 0.09775824115479777,
       "trail_armed": false,
       "funding": 3.221e-05,
-      "last_price": 7.073,
+      "last_price": 7.09,
       "exit_deadline": "2026-11-19 23:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.37
-    },
-    {
-      "id": "FHF-20261119-0030-APTUSDT",
-      "symbol": "APTUSDT",
-      "side": "SELL",
-      "entry_time": "2026-11-19 00:30:00 MYT",
-      "entry_price": 0.42551488,
-      "qty": 49.7,
-      "notional": 21.148089536,
-      "leverage": 3,
-      "margin": 7.049363178666667,
-      "liq_price": 0.56173582,
-      "stop": 0.4311040675883043,
-      "initial_stop": 0.4311040675883043,
-      "R": 0.005589187588304307,
-      "trail_armed": false,
-      "funding": 0.0,
-      "last_price": 0.4304,
-      "exit_deadline": "2026-11-20 00:30:00 MYT",
-      "signal_tf": "15m",
-      "vol_ratio": 8.03
     },
     {
       "id": "FHF-20261119-0115-HUMAUSDT",
@@ -238,7 +217,7 @@
       "R": 0.0003129298754599081,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 0.008647,
+      "last_price": 0.008727,
       "exit_deadline": "2026-11-20 01:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 5.81

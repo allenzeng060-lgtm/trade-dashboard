@@ -351,7 +351,7 @@
       "initial_stop": 0.0026539397243672516,
       "R": 4.446172436725169e-05,
       "targets": [],
-      "high_since_entry": 0.002622,
+      "high_since_entry": 0.002639,
       "low_since_entry": 0.002532,
       "exit_deadline": "2026-11-19 23:15:00 MYT",
       "market": "usdm_perp",
@@ -378,26 +378,6 @@
       "group": "合約高頻組"
     },
     {
-      "id": "FHF-20261119-0030-APTUSDT",
-      "symbol": "APTUSDT",
-      "side": "SELL",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 0.42551488,
-      "entry_time": "2026-11-19 00:30:00 MYT",
-      "qty": 49.7,
-      "remaining_qty": 49.7,
-      "stop": 0.4311040675883043,
-      "initial_stop": 0.4311040675883043,
-      "R": 0.005589187588304307,
-      "targets": [],
-      "high_since_entry": 0.4304,
-      "low_since_entry": 0.4228,
-      "exit_deadline": "2026-11-20 00:30:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
       "id": "FHF-20261119-0115-HUMAUSDT",
       "symbol": "HUMAUSDT",
       "side": "BUY",
@@ -411,12 +391,12 @@
       "initial_stop": 0.008051742724540093,
       "R": 0.0003129298754599081,
       "targets": [],
-      "high_since_entry": 0.00867,
+      "high_since_entry": 0.008783,
       "low_since_entry": 0.008319,
       "exit_deadline": "2026-11-20 01:15:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-19 01:20:54 MYT"
+  "paper_updated_at": "2026-11-19 01:25:56 MYT"
 }
