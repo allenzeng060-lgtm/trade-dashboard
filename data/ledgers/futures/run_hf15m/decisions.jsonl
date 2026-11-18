@@ -1297,3 +1297,5 @@
 {"time": "2026-11-19 05:02:48 MYT", "kind": "funding", "symbol": "HUMAUSDT", "rate": "-0.00104687", "amount": 0.011365, "at": "2026-11-19 05:00:00 MYT"}
 {"time": "2026-11-19 05:02:50 MYT", "kind": "regime", "allow": "ANY", "btc_close": 62747.22, "ref": 67568.0, "new_low": true, "reason": "both directions allowed (hf set; BTC filter only reported)"}
 {"time": "2026-11-19 05:03:01 MYT", "kind": "scan", "bar_close": "2026-11-19 05:00:00 MYT", "breakouts": 0, "vol_ok": 0, "allow": "ANY"}
+{"time": "2026-11-19 05:17:31 MYT", "kind": "regime", "allow": "ANY", "btc_close": 62747.22, "ref": 67568.0, "new_low": true, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-19 05:17:43 MYT", "kind": "scan", "bar_close": "2026-11-19 05:15:00 MYT", "breakouts": 2, "vol_ok": 0, "allow": "ANY"}

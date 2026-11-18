@@ -8,12 +8,29 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-19 05:03:01 MYT",
-    "bar_close": "2026-11-19 05:00:00 MYT",
+    "time": "2026-11-19 05:17:43 MYT",
+    "bar_close": "2026-11-19 05:15:00 MYT",
     "universe": 70,
-    "breakouts": [],
+    "breakouts": [
+      {
+        "symbol": "VVVUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 21.097,
+        "close": 21.119,
+        "vol_ratio": 1.2934
+      },
+      {
+        "symbol": "IRYSUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.0176,
+        "close": 0.0177,
+        "vol_ratio": 0.8156
+      }
+    ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1795035600000,
+  "last_scan_bar_ms": 1795036500000,
   "last_equity_ts": 1795034545.3493264
 }
