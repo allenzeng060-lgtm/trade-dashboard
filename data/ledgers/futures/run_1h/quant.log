@@ -198,3 +198,4 @@
 2026-11-18 12:04:05,136 INFO decision skip {"symbol": "BREVUSDT", "side": "SELL", "tf": "1h", "vol_ratio": 3.05, "reason": "same-direction cap 2 (v0.2 correlation cap)"}
 2026-11-18 12:48:55,358 INFO decision trail_update {"symbol": "XAUTUSDT", "stop": 3771.3191631883296, "best": 3740.87}
 2026-11-18 12:53:56,738 INFO decision trail_update {"symbol": "XAUTUSDT", "stop": 3769.7791631883297, "best": 3739.33}
+2026-11-18 12:59:00,581 INFO decision trail_update {"symbol": "XAUTUSDT", "stop": 3766.7991631883297, "best": 3736.35}
