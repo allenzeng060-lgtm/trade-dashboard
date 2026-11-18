@@ -1018,3 +1018,6 @@
 {"time": "2026-11-18 17:32:42 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64884.01, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
 {"time": "2026-11-18 17:32:53 MYT", "kind": "scan", "bar_close": "2026-11-18 17:30:00 MYT", "breakouts": 3, "vol_ok": 0, "allow": "ANY"}
 {"time": "2026-11-18 17:37:51 MYT", "kind": "trail_update", "symbol": "PIEVERSEUSDT", "stop": 2.1968761568201973, "best": 2.2471}
+{"time": "2026-11-18 17:47:50 MYT", "kind": "trail_update", "symbol": "PIEVERSEUSDT", "stop": 2.1972761568201973, "best": 2.2475}
+{"time": "2026-11-18 17:47:52 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64884.01, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-18 17:48:06 MYT", "kind": "scan", "bar_close": "2026-11-18 17:45:00 MYT", "breakouts": 2, "vol_ok": 0, "allow": "ANY"}
