@@ -1238,3 +1238,7 @@
 {"time": "2026-11-19 01:01:11 MYT", "kind": "open", "symbol": "MMTUSDT", "side": "BUY", "entry": 0.265053, "stop": 0.24543718707929452, "qty": 21.0, "lev": 1, "liq": 0.0, "risk": 0.417}
 {"time": "2026-11-19 01:01:11 MYT", "kind": "skip", "symbol": "AKEUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.08, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
 {"time": "2026-11-19 01:05:42 MYT", "kind": "close", "symbol": "MMTUSDT", "reason": "stop", "fill": 0.24538809964187866, "net": -0.4183, "R": -1.0}
+{"time": "2026-11-19 01:15:55 MYT", "kind": "regime", "allow": "ANY", "btc_close": 63122.53, "ref": 67568.0, "new_low": true, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-19 01:16:11 MYT", "kind": "scan", "bar_close": "2026-11-19 01:15:00 MYT", "breakouts": 5, "vol_ok": 2, "allow": "ANY"}
+{"time": "2026-11-19 01:16:11 MYT", "kind": "open", "symbol": "HUMAUSDT", "side": "BUY", "entry": 0.008364672600000001, "stop": 0.008051742724540093, "qty": 1298.0, "lev": 2, "liq": 0.00426769, "risk": 0.417}
+{"time": "2026-11-19 01:16:11 MYT", "kind": "skip", "symbol": "MMTUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 4.1, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
