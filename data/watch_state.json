@@ -431,12 +431,12 @@
       "initial_stop": 0.01542536290348422,
       "R": 0.0008778970965157775,
       "targets": [],
-      "high_since_entry": 0.01652,
-      "low_since_entry": 0.01629,
+      "high_since_entry": 0.01719,
+      "low_since_entry": 0.01568,
       "exit_deadline": "2026-11-20 00:45:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-19 00:45:54 MYT"
+  "paper_updated_at": "2026-11-19 00:50:45 MYT"
 }
