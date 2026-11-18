@@ -1250,3 +1250,7 @@
 {"time": "2026-11-19 01:31:21 MYT", "kind": "skip", "symbol": "BULLAUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 5.41, "reason": "notional 4.23 < exchange min 5"}
 {"time": "2026-11-19 01:46:08 MYT", "kind": "regime", "allow": "ANY", "btc_close": 63122.53, "ref": 67568.0, "new_low": true, "reason": "both directions allowed (hf set; BTC filter only reported)"}
 {"time": "2026-11-19 01:46:29 MYT", "kind": "scan", "bar_close": "2026-11-19 01:45:00 MYT", "breakouts": 0, "vol_ok": 0, "allow": "ANY"}
+{"time": "2026-11-19 02:06:42 MYT", "kind": "funding", "symbol": "HUMAUSDT", "rate": "-0.00328595", "amount": 0.036411, "at": "2026-11-19 02:00:00 MYT"}
+{"time": "2026-11-19 02:06:43 MYT", "kind": "regime", "allow": "ANY", "btc_close": 63122.53, "ref": 67568.0, "new_low": true, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-19 02:06:54 MYT", "kind": "scan", "bar_close": "2026-11-19 02:00:00 MYT", "breakouts": 2, "vol_ok": 1, "allow": "ANY"}
+{"time": "2026-11-19 02:06:54 MYT", "kind": "open", "symbol": "PIPPINUSDT", "side": "BUY", "entry": 0.019893978, "stop": 0.01841419064495284, "qty": 276.0, "lev": 1, "liq": 0.0, "risk": 0.414}

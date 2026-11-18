@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 13:00:00 MYT",
-      "last_check_ms": 1795024569104,
-      "last_price": 0.0146,
+      "last_check_ms": 1795025214814,
+      "last_price": 0.01451,
       "last_funding_ms": 1795017600000
     },
     {
@@ -90,8 +90,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 17:15:00 MYT",
-      "last_check_ms": 1795024569336,
-      "last_price": 0.01161,
+      "last_check_ms": 1795025215026,
+      "last_price": 0.0116,
       "last_funding_ms": 1795017600000
     },
     {
@@ -133,8 +133,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 19:00:00 MYT",
-      "last_check_ms": 1795024569569,
-      "last_price": 0.3194,
+      "last_check_ms": 1795025215236,
+      "last_price": 0.3212,
       "last_funding_ms": 1795017600000
     },
     {
@@ -176,8 +176,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 22:15:00 MYT",
-      "last_check_ms": 1795024569801,
-      "last_price": 3.2554,
+      "last_check_ms": 1795025215448,
+      "last_price": 3.265,
       "last_funding_ms": 1795017600000
     },
     {
@@ -219,8 +219,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 23:15:00 MYT",
-      "last_check_ms": 1795024570034,
-      "last_price": 0.002595,
+      "last_check_ms": 1795025215661,
+      "last_price": 0.002581,
       "last_funding_ms": 1795017600000
     },
     {
@@ -262,8 +262,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 23:15:00 MYT",
-      "last_check_ms": 1795024570268,
-      "last_price": 6.98,
+      "last_check_ms": 1795025215872,
+      "last_price": 6.977,
       "last_funding_ms": 1795017600000
     },
     {
@@ -298,15 +298,58 @@
       "stop_pct": 3.741,
       "risk_usdt": 0.41683723189258726,
       "entry_fee": 0.005428672517400001,
-      "funding": 0.0,
-      "best": 0.008817,
-      "high_since_entry": 0.008817,
+      "funding": 0.03641076,
+      "best": 0.00892,
+      "high_since_entry": 0.00892,
       "low_since_entry": 0.008319,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-20 01:15:00 MYT",
-      "last_check_ms": 1795024570498,
-      "last_price": 0.00853
+      "last_check_ms": 1795025216087,
+      "last_price": 0.008893,
+      "last_funding_ms": 1795024800001
+    },
+    {
+      "id": "FHF-20261119-0200-PIPPINUSDT",
+      "symbol": "PIPPINUSDT",
+      "side": "BUY",
+      "rules": "hf-15m-v0.1",
+      "cycle": 1,
+      "slippage": 0.0002,
+      "mode": "paper",
+      "status": "open",
+      "group": "合約高頻組",
+      "market": "usdm_perp",
+      "margin_type": "isolated",
+      "signal_tf": "15m",
+      "signal_bar_close_myt": "2026-11-19 02:00:00 MYT",
+      "vol_ratio": 5.47,
+      "breakout_level": 0.0195,
+      "entry_time": "2026-11-19 02:00:00 MYT",
+      "entry_ms": 1795024800000,
+      "entry_price": 0.019893978,
+      "qty": 276.0,
+      "remaining_qty": 276.0,
+      "notional": 5.490737928,
+      "leverage": 1,
+      "margin": 5.490737928,
+      "liq_price": 0.0,
+      "mmr": 0.02,
+      "stop": 0.01841419064495284,
+      "initial_stop": 0.01841419064495284,
+      "R": 0.0014797873550471596,
+      "stop_pct": 7.438,
+      "risk_usdt": 0.41370783726601956,
+      "entry_fee": 0.002745368964,
+      "funding": 0.0,
+      "best": 0.02033,
+      "high_since_entry": 0.02033,
+      "low_since_entry": 0.01931,
+      "trail_armed": false,
+      "targets": [],
+      "exit_deadline": "2026-11-20 02:00:00 MYT",
+      "last_check_ms": 1795025216300,
+      "last_price": 0.01975
     }
   ]
 }

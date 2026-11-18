@@ -8,12 +8,29 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-19 01:46:29 MYT",
-    "bar_close": "2026-11-19 01:45:00 MYT",
+    "time": "2026-11-19 02:06:54 MYT",
+    "bar_close": "2026-11-19 02:00:00 MYT",
     "universe": 73,
-    "breakouts": [],
+    "breakouts": [
+      {
+        "symbol": "PIPPINUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.0195,
+        "close": 0.0199,
+        "vol_ratio": 5.4696
+      },
+      {
+        "symbol": "BLESSUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.012,
+        "close": 0.0122,
+        "vol_ratio": 1.3692
+      }
+    ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1795023900000,
-  "last_equity_ts": 1795022754.763114
+  "last_scan_bar_ms": 1795024800000,
+  "last_equity_ts": 1795025214.8138614
 }
