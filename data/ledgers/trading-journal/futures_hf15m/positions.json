@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 05:30:00 MYT",
-      "last_check_ms": 1794999492377,
-      "last_price": 0.3075,
+      "last_check_ms": 1794999827893,
+      "last_price": 0.3068,
       "last_funding_ms": 1794988800001
     },
     {
@@ -90,8 +90,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 07:00:00 MYT",
-      "last_check_ms": 1794999492697,
-      "last_price": 195.32,
+      "last_check_ms": 1794999828209,
+      "last_price": 194.95,
       "last_funding_ms": 1794988800001
     },
     {
@@ -133,8 +133,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 13:00:00 MYT",
-      "last_check_ms": 1794999493030,
-      "last_price": 0.01482,
+      "last_check_ms": 1794999828527,
+      "last_price": 0.01486,
       "last_funding_ms": 1794988800001
     },
     {
@@ -176,8 +176,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 17:15:00 MYT",
-      "last_check_ms": 1794999493341,
-      "last_price": 0.01164
+      "last_check_ms": 1794999828851,
+      "last_price": 0.0116
     },
     {
       "id": "FHF-20261118-1815-PIPPINUSDT",
@@ -218,8 +218,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 18:15:00 MYT",
-      "last_check_ms": 1794999493657,
-      "last_price": 0.02101
+      "last_check_ms": 1794999829168,
+      "last_price": 0.02088
     },
     {
       "id": "FHF-20261118-1830-JCTUSDT",
@@ -260,8 +260,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 18:30:00 MYT",
-      "last_check_ms": 1794999493971,
-      "last_price": 0.001978
+      "last_check_ms": 1794999829490,
+      "last_price": 0.001969
     },
     {
       "id": "FHF-20261118-1845-PIEVERSEUSDT",
@@ -296,14 +296,14 @@
       "risk_usdt": 0.39953938179885823,
       "entry_fee": 0.00728065584,
       "funding": 0.0,
-      "best": 2.4744,
-      "high_since_entry": 2.4744,
+      "best": 2.4868,
+      "high_since_entry": 2.4868,
       "low_since_entry": 2.3854,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 18:45:00 MYT",
-      "last_check_ms": 1794999494462,
-      "last_price": 2.4503
+      "last_check_ms": 1794999829801,
+      "last_price": 2.4325
     },
     {
       "id": "FHF-20261118-1845-ADAUSDT",
@@ -338,14 +338,56 @@
       "risk_usdt": 0.16557912659611418,
       "entry_fee": 0.0107218552,
       "funding": 0.0,
-      "best": 0.1531,
+      "best": 0.153,
       "high_since_entry": 0.1537,
-      "low_since_entry": 0.1531,
+      "low_since_entry": 0.153,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 18:45:00 MYT",
-      "last_check_ms": 1794999494776,
-      "last_price": 0.1534
+      "last_check_ms": 1794999830110,
+      "last_price": 0.1531
+    },
+    {
+      "id": "FHF-20261118-1900-ICNTUSDT",
+      "symbol": "ICNTUSDT",
+      "side": "BUY",
+      "rules": "hf-15m-v0.1",
+      "cycle": 1,
+      "slippage": 0.0002,
+      "mode": "paper",
+      "status": "open",
+      "group": "合約高頻組",
+      "market": "usdm_perp",
+      "margin_type": "isolated",
+      "signal_tf": "15m",
+      "signal_bar_close_myt": "2026-11-18 19:00:00 MYT",
+      "vol_ratio": 3.15,
+      "breakout_level": 0.3247,
+      "entry_time": "2026-11-18 19:00:00 MYT",
+      "entry_ms": 1794999600000,
+      "entry_price": 0.32716542,
+      "qty": 21.0,
+      "remaining_qty": 21.0,
+      "notional": 6.87047382,
+      "leverage": 1,
+      "margin": 6.87047382,
+      "liq_price": 0.0,
+      "mmr": 0.015,
+      "stop": 0.3077317487779361,
+      "initial_stop": 0.3077317487779361,
+      "R": 0.0194336712220639,
+      "stop_pct": 5.94,
+      "risk_usdt": 0.41477351593551026,
+      "entry_fee": 0.00343523691,
+      "funding": 0.0,
+      "best": 0.3298,
+      "high_since_entry": 0.3298,
+      "low_since_entry": 0.3256,
+      "trail_armed": false,
+      "targets": [],
+      "exit_deadline": "2026-11-19 19:00:00 MYT",
+      "last_check_ms": 1794999830434,
+      "last_price": 0.327
     }
   ]
 }

@@ -216,3 +216,8 @@
 {"time": "2026-11-18 18:02:57 MYT", "kind": "regime", "allow": "SELL", "btc_close": 64884.01, "ref": 67568.0, "new_low": false, "reason": "BTC 4h close 64884.01 < filter 67568 → shorts only"}
 {"time": "2026-11-18 18:03:13 MYT", "kind": "scan", "bar_close": "2026-11-18 18:00:00 MYT", "breakouts": 4, "vol_ok": 1, "allow": "SELL"}
 {"time": "2026-11-18 18:03:13 MYT", "kind": "skip", "symbol": "ZKCUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 136.85, "reason": "direction filter: BTC 4h close 64884.01 < filter 67568 → shorts only"}
+{"time": "2026-11-18 19:03:14 MYT", "kind": "regime", "allow": "SELL", "btc_close": 64884.01, "ref": 67568.0, "new_low": false, "reason": "BTC 4h close 64884.01 < filter 67568 → shorts only"}
+{"time": "2026-11-18 19:03:30 MYT", "kind": "scan", "bar_close": "2026-11-18 19:00:00 MYT", "breakouts": 3, "vol_ok": 3, "allow": "SELL"}
+{"time": "2026-11-18 19:03:30 MYT", "kind": "skip", "symbol": "PIPPINUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 83.6, "reason": "direction filter: BTC 4h close 64884.01 < filter 67568 → shorts only"}
+{"time": "2026-11-18 19:03:30 MYT", "kind": "skip", "symbol": "ICNTUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 8.88, "reason": "direction filter: BTC 4h close 64884.01 < filter 67568 → shorts only"}
+{"time": "2026-11-18 19:03:30 MYT", "kind": "skip", "symbol": "PIEVERSEUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 6.7, "reason": "direction filter: BTC 4h close 64884.01 < filter 67568 → shorts only"}

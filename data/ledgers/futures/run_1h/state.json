@@ -8,45 +8,37 @@
     "reason": "BTC 4h close 64884.01 < filter 67568 → shorts only"
   },
   "last_scan": {
-    "time": "2026-11-18 18:03:13 MYT",
-    "bar_close": "2026-11-18 18:00:00 MYT",
-    "universe": 75,
+    "time": "2026-11-18 19:03:30 MYT",
+    "bar_close": "2026-11-18 19:00:00 MYT",
+    "universe": 73,
     "breakouts": [
       {
-        "symbol": "QNTUSDT",
+        "symbol": "PIPPINUSDT",
         "side": "BUY",
         "tf": "1h",
-        "level": 157.52,
-        "close": 157.54,
-        "vol_ratio": 0.6766
+        "level": 0.0184,
+        "close": 0.0209,
+        "vol_ratio": 83.6001
       },
       {
-        "symbol": "RAREUSDT",
-        "side": "SELL",
-        "tf": "1h",
-        "level": 0.0118,
-        "close": 0.0117,
-        "vol_ratio": 1.0626
-      },
-      {
-        "symbol": "ZKCUSDT",
+        "symbol": "ICNTUSDT",
         "side": "BUY",
         "tf": "1h",
-        "level": 0.0277,
-        "close": 0.0302,
-        "vol_ratio": 136.8485
+        "level": 0.3247,
+        "close": 0.3271,
+        "vol_ratio": 8.8752
       },
       {
         "symbol": "PIEVERSEUSDT",
         "side": "BUY",
         "tf": "1h",
-        "level": 2.2186,
-        "close": 2.286,
-        "vol_ratio": 1.986
+        "level": 2.292,
+        "close": 2.4519,
+        "vol_ratio": 6.7019
       }
     ],
     "regime": "SELL"
   },
-  "last_scan_bar_ms": 1794996000000,
+  "last_scan_bar_ms": 1794999600000,
   "last_equity_ts": 1794996771.4672763
 }

@@ -391,7 +391,7 @@
       "initial_stop": 2.362690170758903,
       "R": 0.06419510924109692,
       "targets": [],
-      "high_since_entry": 2.4744,
+      "high_since_entry": 2.4868,
       "low_since_entry": 2.3854,
       "exit_deadline": "2026-11-19 18:45:00 MYT",
       "market": "usdm_perp",
@@ -412,11 +412,31 @@
       "R": 0.0010290241750275874,
       "targets": [],
       "high_since_entry": 0.1537,
-      "low_since_entry": 0.1531,
+      "low_since_entry": 0.153,
       "exit_deadline": "2026-11-19 18:45:00 MYT",
+      "market": "usdm_perp",
+      "group": "合約高頻組"
+    },
+    {
+      "id": "FHF-20261118-1900-ICNTUSDT",
+      "symbol": "ICNTUSDT",
+      "side": "BUY",
+      "mode": "paper",
+      "status": "open",
+      "entry_price": 0.32716542,
+      "entry_time": "2026-11-18 19:00:00 MYT",
+      "qty": 21.0,
+      "remaining_qty": 21.0,
+      "stop": 0.3077317487779361,
+      "initial_stop": 0.3077317487779361,
+      "R": 0.0194336712220639,
+      "targets": [],
+      "high_since_entry": 0.3298,
+      "low_since_entry": 0.3256,
+      "exit_deadline": "2026-11-19 19:00:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-18 18:58:16 MYT"
+  "paper_updated_at": "2026-11-18 19:03:52 MYT"
 }
