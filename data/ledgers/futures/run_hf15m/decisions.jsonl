@@ -1084,3 +1084,8 @@
 {"time": "2026-11-18 20:49:11 MYT", "kind": "skip", "symbol": "PAXGUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.96, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
 {"time": "2026-11-18 20:49:11 MYT", "kind": "skip", "symbol": "APTUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.6, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
 {"time": "2026-11-18 20:49:11 MYT", "kind": "skip", "symbol": "LTCUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.07, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+{"time": "2026-11-18 21:04:37 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64231.52, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-18 21:04:58 MYT", "kind": "scan", "bar_close": "2026-11-18 21:00:00 MYT", "breakouts": 6, "vol_ok": 3, "allow": "ANY"}
+{"time": "2026-11-18 21:04:58 MYT", "kind": "skip", "symbol": "TRUMPUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 5.29, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+{"time": "2026-11-18 21:04:58 MYT", "kind": "skip", "symbol": "XAUTUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.53, "reason": "already holding"}
+{"time": "2026-11-18 21:04:58 MYT", "kind": "skip", "symbol": "PAXGUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.08, "reason": "same-direction cap 6 (v0.2 correlation cap)"}

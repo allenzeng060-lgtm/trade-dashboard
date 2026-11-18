@@ -229,3 +229,7 @@
 {"time": "2026-11-18 20:48:55 MYT", "kind": "trail_update", "symbol": "XAUTUSDT", "stop": 3771.3191631883296, "best": 3740.87}
 {"time": "2026-11-18 20:53:56 MYT", "kind": "trail_update", "symbol": "XAUTUSDT", "stop": 3769.7791631883297, "best": 3739.33}
 {"time": "2026-11-18 20:59:00 MYT", "kind": "trail_update", "symbol": "XAUTUSDT", "stop": 3766.7991631883297, "best": 3736.35}
+{"time": "2026-11-18 21:04:03 MYT", "kind": "regime", "allow": "SELL", "btc_close": 64231.52, "ref": 67568.0, "new_low": false, "reason": "BTC 4h close 64231.52 < filter 67568 → shorts only"}
+{"time": "2026-11-18 21:04:28 MYT", "kind": "scan", "bar_close": "2026-11-18 21:00:00 MYT", "breakouts": 5, "vol_ok": 2, "allow": "SELL"}
+{"time": "2026-11-18 21:04:28 MYT", "kind": "skip", "symbol": "PIEVERSEUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 16.81, "reason": "direction filter: BTC 4h close 64231.52 < filter 67568 → shorts only"}
+{"time": "2026-11-18 21:04:28 MYT", "kind": "skip", "symbol": "XAUTUSDT", "side": "SELL", "tf": "1h", "vol_ratio": 2.48, "reason": "already holding"}

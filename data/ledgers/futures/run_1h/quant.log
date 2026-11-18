@@ -199,3 +199,7 @@
 2026-11-18 12:48:55,358 INFO decision trail_update {"symbol": "XAUTUSDT", "stop": 3771.3191631883296, "best": 3740.87}
 2026-11-18 12:53:56,738 INFO decision trail_update {"symbol": "XAUTUSDT", "stop": 3769.7791631883297, "best": 3739.33}
 2026-11-18 12:59:00,581 INFO decision trail_update {"symbol": "XAUTUSDT", "stop": 3766.7991631883297, "best": 3736.35}
+2026-11-18 13:04:03,573 INFO decision regime {"allow": "SELL", "btc_close": 64231.52, "ref": 67568.0, "new_low": false, "reason": "BTC 4h close 64231.52 < filter 67568 → shorts only"}
+2026-11-18 13:04:28,344 INFO decision scan {"bar_close": "2026-11-18 21:00:00 MYT", "breakouts": 5, "vol_ok": 2, "allow": "SELL"}
+2026-11-18 13:04:28,344 INFO decision skip {"symbol": "PIEVERSEUSDT", "side": "BUY", "tf": "1h", "vol_ratio": 16.81, "reason": "direction filter: BTC 4h close 64231.52 < filter 67568 → shorts only"}
+2026-11-18 13:04:28,345 INFO decision skip {"symbol": "XAUTUSDT", "side": "SELL", "tf": "1h", "vol_ratio": 2.48, "reason": "already holding"}
