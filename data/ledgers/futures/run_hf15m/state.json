@@ -8,21 +8,29 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-18 08:04:36 MYT",
-    "bar_close": "2026-11-18 08:00:00 MYT",
+    "time": "2026-11-18 08:19:11 MYT",
+    "bar_close": "2026-11-18 08:15:00 MYT",
     "universe": 72,
     "breakouts": [
       {
-        "symbol": "NEARUSDT",
-        "side": "BUY",
+        "symbol": "KAVAUSDT",
+        "side": "SELL",
         "tf": "15m",
-        "level": 3.391,
-        "close": 3.393,
-        "vol_ratio": 1.0578
+        "level": 0.0274,
+        "close": 0.0274,
+        "vol_ratio": 0.749
+      },
+      {
+        "symbol": "PAXGUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 3832.42,
+        "close": 3831.5,
+        "vol_ratio": 1.4452
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794960000000,
-  "last_equity_ts": 1794957526.5926244
+  "last_scan_bar_ms": 1794960900000,
+  "last_equity_ts": 1794961152.9415932
 }
