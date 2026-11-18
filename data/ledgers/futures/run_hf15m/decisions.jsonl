@@ -1136,3 +1136,4 @@
 {"time": "2026-11-18 22:49:57 MYT", "kind": "skip", "symbol": "NEARUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 3.45, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
 {"time": "2026-11-18 22:49:57 MYT", "kind": "skip", "symbol": "ONDOUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 3.21, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
 {"time": "2026-11-18 22:49:57 MYT", "kind": "skip", "symbol": "INJUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.49, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+{"time": "2026-11-18 22:59:48 MYT", "kind": "close", "symbol": "EVAAUSDT", "reason": "stop", "fill": 3.6928320378453283, "net": -0.4199, "R": -1.0}

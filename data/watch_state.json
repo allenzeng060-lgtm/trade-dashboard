@@ -311,29 +311,9 @@
       "initial_stop": 2.9681454129992058,
       "R": 0.1526786270007942,
       "targets": [],
-      "high_since_entry": 3.226,
+      "high_since_entry": 3.2675,
       "low_since_entry": 3.0033,
       "exit_deadline": "2026-11-19 22:15:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
-    },
-    {
-      "id": "FHF-20261118-2230-EVAAUSDT",
-      "symbol": "EVAAUSDT",
-      "side": "BUY",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 3.9222843,
-      "entry_time": "2026-11-18 22:30:00 MYT",
-      "qty": 1.8,
-      "remaining_qty": 1.8,
-      "stop": 3.6935707519957273,
-      "initial_stop": 3.6935707519957273,
-      "R": 0.22871354800427265,
-      "targets": [],
-      "high_since_entry": 3.9854,
-      "low_since_entry": 3.7514,
-      "exit_deadline": "2026-11-19 22:30:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
     },
@@ -351,7 +331,7 @@
       "initial_stop": 588.5098441936752,
       "R": 2.657038193675194,
       "targets": [],
-      "high_since_entry": 587.89,
+      "high_since_entry": 588.31,
       "low_since_entry": 584.42,
       "exit_deadline": "2026-11-19 22:45:00 MYT",
       "market": "usdm_perp",
@@ -411,12 +391,12 @@
       "initial_stop": 67.3897152060756,
       "R": 0.707054406075613,
       "targets": [],
-      "high_since_entry": 67.303,
+      "high_since_entry": 67.345,
       "low_since_entry": 66.585,
       "exit_deadline": "2026-11-19 22:45:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-18 22:54:52 MYT"
+  "paper_updated_at": "2026-11-18 22:59:51 MYT"
 }

@@ -5,7 +5,7 @@
   "rules": "hf-15m-v0.1",
   "cycle": 1,
   "start_equity_usdt": 100.0,
-  "wallet_usdt": 84.506745,
+  "wallet_usdt": 84.086877,
   "created": "2026-11-16 03:06:21 MYT",
   "positions": [
     {
@@ -47,8 +47,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 13:00:00 MYT",
-      "last_check_ms": 1795013687933,
-      "last_price": 0.01404,
+      "last_check_ms": 1795013986455,
+      "last_price": 0.01414,
       "last_funding_ms": 1795003200002
     },
     {
@@ -90,8 +90,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 17:15:00 MYT",
-      "last_check_ms": 1795013688252,
-      "last_price": 0.01158,
+      "last_check_ms": 1795013986759,
+      "last_price": 0.01161,
       "last_funding_ms": 1795003200002
     },
     {
@@ -133,8 +133,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 19:00:00 MYT",
-      "last_check_ms": 1795013688568,
-      "last_price": 0.3431,
+      "last_check_ms": 1795013987062,
+      "last_price": 0.3408,
       "last_funding_ms": 1795003200002
     },
     {
@@ -170,56 +170,14 @@
       "risk_usdt": 0.3114462234545876,
       "entry_fee": 0.00312082404,
       "funding": 0.0,
-      "best": 3.226,
-      "high_since_entry": 3.226,
+      "best": 3.2675,
+      "high_since_entry": 3.2675,
       "low_since_entry": 3.0033,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 22:15:00 MYT",
-      "last_check_ms": 1795013688894,
-      "last_price": 3.208
-    },
-    {
-      "id": "FHF-20261118-2230-EVAAUSDT",
-      "symbol": "EVAAUSDT",
-      "side": "BUY",
-      "rules": "hf-15m-v0.1",
-      "cycle": 1,
-      "slippage": 0.0002,
-      "mode": "paper",
-      "status": "open",
-      "group": "合約高頻組",
-      "market": "usdm_perp",
-      "margin_type": "isolated",
-      "signal_tf": "15m",
-      "signal_bar_close_myt": "2026-11-18 22:30:00 MYT",
-      "vol_ratio": 3.41,
-      "breakout_level": 3.7997,
-      "entry_time": "2026-11-18 22:30:00 MYT",
-      "entry_ms": 1795012200000,
-      "entry_price": 3.9222843,
-      "qty": 1.8,
-      "remaining_qty": 1.8,
-      "notional": 7.06011174,
-      "leverage": 2,
-      "margin": 3.53005587,
-      "liq_price": 2.06436016,
-      "mmr": 0.05,
-      "stop": 3.6935707519957273,
-      "initial_stop": 3.6935707519957273,
-      "R": 0.22871354800427265,
-      "stop_pct": 5.831,
-      "risk_usdt": 0.4185386559544869,
-      "entry_fee": 0.0035300558700000003,
-      "funding": 0.0,
-      "best": 3.9854,
-      "high_since_entry": 3.9854,
-      "low_since_entry": 3.7514,
-      "trail_armed": false,
-      "targets": [],
-      "exit_deadline": "2026-11-19 22:30:00 MYT",
-      "last_check_ms": 1795013689210,
-      "last_price": 3.7737
+      "last_check_ms": 1795013987361,
+      "last_price": 3.1896
     },
     {
       "id": "FHF-20261118-2245-BNBUSDT",
@@ -255,13 +213,13 @@
       "entry_fee": 0.00878779209,
       "funding": 0.0,
       "best": 584.42,
-      "high_since_entry": 587.89,
+      "high_since_entry": 588.31,
       "low_since_entry": 584.42,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 22:45:00 MYT",
-      "last_check_ms": 1795013689518,
-      "last_price": 586.85
+      "last_check_ms": 1795013988207,
+      "last_price": 587.51
     },
     {
       "id": "FHF-20261118-2245-SOLUSDT",
@@ -302,8 +260,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 22:45:00 MYT",
-      "last_check_ms": 1795013689835,
-      "last_price": 74.04
+      "last_check_ms": 1795013988503,
+      "last_price": 74.01
     },
     {
       "id": "FHF-20261118-2245-UNIUSDT",
@@ -344,8 +302,8 @@
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 22:45:00 MYT",
-      "last_check_ms": 1795013690154,
-      "last_price": 5.176
+      "last_check_ms": 1795013988803,
+      "last_price": 5.174
     },
     {
       "id": "FHF-20261118-2245-HYPEUSDT",
@@ -381,13 +339,13 @@
       "entry_fee": 0.010335812423999998,
       "funding": 0.0,
       "best": 66.585,
-      "high_since_entry": 67.303,
+      "high_since_entry": 67.345,
       "low_since_entry": 66.585,
       "trail_armed": false,
       "targets": [],
       "exit_deadline": "2026-11-19 22:45:00 MYT",
-      "last_check_ms": 1795013690470,
-      "last_price": 67.152
+      "last_check_ms": 1795013989106,
+      "last_price": 67.175
     }
   ]
 }
