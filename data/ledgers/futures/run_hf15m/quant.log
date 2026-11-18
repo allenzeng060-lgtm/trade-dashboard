@@ -1189,3 +1189,7 @@
 2026-11-18 19:31:49,270 INFO decision regime {"allow": "ANY", "btc_close": 63122.53, "ref": 67568.0, "new_low": true, "reason": "both directions allowed (hf set; BTC filter only reported)"}
 2026-11-18 19:32:03,014 INFO decision scan {"bar_close": "2026-11-19 03:30:00 MYT", "breakouts": 1, "vol_ok": 0, "allow": "ANY"}
 2026-11-18 19:36:52,210 INFO decision close {"symbol": "PIPPINUSDT", "reason": "stop", "fill": 0.01841050780682385, "net": -0.4147, "R": -1.0}
+2026-11-18 19:46:54,086 INFO decision regime {"allow": "ANY", "btc_close": 63122.53, "ref": 67568.0, "new_low": true, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+2026-11-18 19:47:07,369 INFO decision scan {"bar_close": "2026-11-19 03:45:00 MYT", "breakouts": 3, "vol_ok": 2, "allow": "ANY"}
+2026-11-18 19:47:07,569 INFO decision open {"symbol": "XAUTUSDT", "side": "SELL", "entry": 3715.936664, "stop": 3728.244124397403, "qty": 0.005, "lev": 3, "liq": 4905.52694917, "risk": 0.08}
+2026-11-18 19:47:07,569 INFO decision skip {"symbol": "PAXGUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.19, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
