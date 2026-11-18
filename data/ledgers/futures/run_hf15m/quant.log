@@ -1006,3 +1006,4 @@
 2026-11-18 13:04:58,199 INFO decision skip {"symbol": "TRUMPUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 5.29, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
 2026-11-18 13:04:58,199 INFO decision skip {"symbol": "XAUTUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.53, "reason": "already holding"}
 2026-11-18 13:04:58,200 INFO decision skip {"symbol": "PAXGUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.08, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+2026-11-18 13:14:11,967 INFO decision close {"symbol": "XAUTUSDT", "reason": "stop", "fill": 3756.207378974578, "net": -0.0808, "R": -1.05}

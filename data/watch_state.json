@@ -351,7 +351,7 @@
       "initial_stop": 0.0019981635983249697,
       "R": 4.655399832496989e-05,
       "targets": [],
-      "high_since_entry": 0.001983,
+      "high_since_entry": 0.001998,
       "low_since_entry": 0.001938,
       "exit_deadline": "2026-11-19 18:30:00 MYT",
       "market": "usdm_perp",
@@ -371,7 +371,7 @@
       "initial_stop": 0.1541983841750276,
       "R": 0.0010290241750275874,
       "targets": [],
-      "high_since_entry": 0.1537,
+      "high_since_entry": 0.1541,
       "low_since_entry": 0.1523,
       "exit_deadline": "2026-11-19 18:45:00 MYT",
       "market": "usdm_perp",
@@ -436,27 +436,7 @@
       "exit_deadline": "2026-11-19 20:30:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
-    },
-    {
-      "id": "FHF-20261118-2045-XAUTUSDT",
-      "symbol": "XAUTUSDT",
-      "side": "SELL",
-      "mode": "paper",
-      "status": "open",
-      "entry_price": 3743.8010900000004,
-      "entry_time": "2026-11-18 20:45:00 MYT",
-      "qty": 0.005,
-      "remaining_qty": 0.005,
-      "stop": 3755.4562877170347,
-      "initial_stop": 3755.4562877170347,
-      "R": 11.655197717034188,
-      "targets": [],
-      "high_since_entry": 3755.36,
-      "low_since_entry": 3736.35,
-      "exit_deadline": "2026-11-19 20:45:00 MYT",
-      "market": "usdm_perp",
-      "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-18 21:09:11 MYT"
+  "paper_updated_at": "2026-11-18 21:14:13 MYT"
 }

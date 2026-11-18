@@ -3,7 +3,7 @@
   "set": "15m",
   "mode": "paper",
   "rules": "hf-15m-v0.1",
-  "updated_at": "2026-11-18 21:09:10 MYT",
+  "updated_at": "2026-11-18 21:14:11 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -16,10 +16,10 @@
     "slip": 0.0002,
     "regime": "none"
   },
-  "wallet_usdt": 85.7319,
-  "unrealized_usdt": 0.1364,
-  "equity_usdt": 85.8683,
-  "pnl_pct": -14.132,
+  "wallet_usdt": 85.6512,
+  "unrealized_usdt": -0.3065,
+  "equity_usdt": 85.3447,
+  "pnl_pct": -14.655,
   "regime": {
     "allow": "ANY",
     "btc_close": 64231.52,
@@ -99,7 +99,7 @@
       "R": 0.00378692168375275,
       "trail_armed": false,
       "funding": -0.00332959,
-      "last_price": 0.3057,
+      "last_price": 0.3064,
       "exit_deadline": "2026-11-19 05:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.58
@@ -120,7 +120,7 @@
       "R": 2.06340890465846,
       "trail_armed": false,
       "funding": -0.00201005,
-      "last_price": 194.77,
+      "last_price": 195.33,
       "exit_deadline": "2026-11-19 07:00:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.67
@@ -141,7 +141,7 @@
       "R": 0.0008667366020083734,
       "trail_armed": false,
       "funding": 0.00069882,
-      "last_price": 0.015,
+      "last_price": 0.01498,
       "exit_deadline": "2026-11-19 13:00:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.07
@@ -162,7 +162,7 @@
       "R": 0.00029044014411782964,
       "trail_armed": false,
       "funding": -0.0262377,
-      "last_price": 0.01154,
+      "last_price": 0.01156,
       "exit_deadline": "2026-11-19 17:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 6.22
@@ -183,7 +183,7 @@
       "R": 4.655399832496989e-05,
       "trail_armed": false,
       "funding": 0.00087143,
-      "last_price": 0.001954,
+      "last_price": 0.001993,
       "exit_deadline": "2026-11-19 18:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 4.8
@@ -204,7 +204,7 @@
       "R": 0.0010290241750275874,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 0.1531,
+      "last_price": 0.1539,
       "exit_deadline": "2026-11-19 18:45:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.82
@@ -225,7 +225,7 @@
       "R": 0.0194336712220639,
       "trail_armed": false,
       "funding": 0.0049217,
-      "last_price": 0.3285,
+      "last_price": 0.3331,
       "exit_deadline": "2026-11-19 19:00:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.15
@@ -246,7 +246,7 @@
       "R": 0.0014359729496578118,
       "trail_armed": false,
       "funding": -0.00029226,
-      "last_price": 0.1114,
+      "last_price": 0.112,
       "exit_deadline": "2026-11-19 19:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.58
@@ -267,31 +267,10 @@
       "R": 0.12088417238593402,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 2.8803,
+      "last_price": 2.8335,
       "exit_deadline": "2026-11-19 20:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 19.66
-    },
-    {
-      "id": "FHF-20261118-2045-XAUTUSDT",
-      "symbol": "XAUTUSDT",
-      "side": "SELL",
-      "entry_time": "2026-11-18 20:45:00 MYT",
-      "entry_price": 3743.8010900000004,
-      "qty": 0.005,
-      "notional": 18.71900545,
-      "leverage": 3,
-      "margin": 6.239668483333333,
-      "liq_price": 4942.31166997,
-      "stop": 3755.4562877170347,
-      "initial_stop": 3755.4562877170347,
-      "R": 11.655197717034188,
-      "trail_armed": false,
-      "funding": 0.0,
-      "last_price": 3754.17,
-      "exit_deadline": "2026-11-19 20:45:00 MYT",
-      "signal_tf": "15m",
-      "vol_ratio": 5.07
     }
   ],
   "data_source": "www.binance.com /fapi (public)"
