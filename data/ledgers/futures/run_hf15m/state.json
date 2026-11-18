@@ -8,29 +8,53 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-18 20:18:57 MYT",
-    "bar_close": "2026-11-18 20:15:00 MYT",
+    "time": "2026-11-18 20:34:07 MYT",
+    "bar_close": "2026-11-18 20:30:00 MYT",
     "universe": 75,
     "breakouts": [
       {
-        "symbol": "ARIAUSDT",
+        "symbol": "XRPUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 0.2288,
-        "close": 0.2288,
-        "vol_ratio": 0.5955
+        "level": 0.9838,
+        "close": 0.9834,
+        "vol_ratio": 0.6431
+      },
+      {
+        "symbol": "LTCUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 44.06,
+        "close": 44.0,
+        "vol_ratio": 0.7577
+      },
+      {
+        "symbol": "ICPUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 2.236,
+        "close": 2.233,
+        "vol_ratio": 0.9554
       },
       {
         "symbol": "PIEVERSEUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 2.5196,
-        "close": 2.5567,
-        "vol_ratio": 5.6937
+        "level": 2.567,
+        "close": 2.8153,
+        "vol_ratio": 19.6641
+      },
+      {
+        "symbol": "ZKPUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 0.0339,
+        "close": 0.0338,
+        "vol_ratio": 1.2041
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1795004100000,
-  "last_equity_ts": 1795004629.612096
+  "last_scan_bar_ms": 1795005000000,
+  "last_equity_ts": 1795005247.461648
 }
