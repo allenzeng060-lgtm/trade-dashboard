@@ -3,7 +3,7 @@
   "set": "4h",
   "mode": "paper",
   "rules": "v0.2",
-  "updated_at": "2026-11-18 11:40:14 MYT",
+  "updated_at": "2026-11-18 11:45:18 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -17,9 +17,9 @@
     "regime": "spot_level"
   },
   "wallet_usdt": 95.9999,
-  "unrealized_usdt": -1.2342,
-  "equity_usdt": 94.7657,
-  "pnl_pct": -5.234,
+  "unrealized_usdt": -1.2474,
+  "equity_usdt": 94.7525,
+  "pnl_pct": -5.248,
   "regime": {
     "allow": "SELL",
     "btc_close": 64947.35,
