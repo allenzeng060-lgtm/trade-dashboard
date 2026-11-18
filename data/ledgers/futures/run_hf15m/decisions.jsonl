@@ -1155,3 +1155,6 @@
 {"time": "2026-11-18 23:20:16 MYT", "kind": "open", "symbol": "AKEUSDT", "side": "BUY", "entry": 0.0105681132, "stop": 0.010305796056291304, "qty": 1545.0, "lev": 3, "liq": 0.00741622, "risk": 0.421}
 {"time": "2026-11-18 23:20:16 MYT", "kind": "open", "symbol": "INJUSDT", "side": "SELL", "entry": 7.1105776, "stop": 7.208335841154798, "qty": 2.9000000000000004, "lev": 3, "liq": 9.38690112, "risk": 0.304}
 {"time": "2026-11-18 23:20:18 MYT", "kind": "close", "symbol": "ZILUSDT", "reason": "stop", "fill": 0.001204813047509886, "net": -0.4232, "R": -1.0}
+{"time": "2026-11-18 23:35:06 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64231.52, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-18 23:35:13 MYT", "kind": "scan", "bar_close": "2026-11-18 23:30:00 MYT", "breakouts": 3, "vol_ok": 1, "allow": "ANY"}
+{"time": "2026-11-18 23:35:14 MYT", "kind": "open", "symbol": "HUMAUSDT", "side": "BUY", "entry": 0.007576515, "stop": 0.007416985221207183, "qty": 2511.0, "lev": 3, "liq": 0.00515409, "risk": 0.419}

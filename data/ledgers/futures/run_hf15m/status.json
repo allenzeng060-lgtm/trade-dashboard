@@ -3,7 +3,7 @@
   "set": "15m",
   "mode": "paper",
   "rules": "hf-15m-v0.1",
-  "updated_at": "2026-11-18 23:30:04 MYT",
+  "updated_at": "2026-11-18 23:35:16 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -17,9 +17,9 @@
     "regime": "none"
   },
   "wallet_usdt": 83.8956,
-  "unrealized_usdt": 0.2567,
-  "equity_usdt": 84.1522,
-  "pnl_pct": -15.848,
+  "unrealized_usdt": 0.5526,
+  "equity_usdt": 84.4482,
+  "pnl_pct": -15.552,
   "regime": {
     "allow": "ANY",
     "btc_close": 64231.52,
@@ -27,81 +27,33 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-18 23:20:16 MYT",
-    "bar_close": "2026-11-18 23:15:00 MYT",
-    "universe": 74,
+    "time": "2026-11-18 23:35:13 MYT",
+    "bar_close": "2026-11-18 23:30:00 MYT",
+    "universe": 73,
     "breakouts": [
       {
-        "symbol": "ZILUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 0.0011,
-        "close": 0.0013,
-        "vol_ratio": 16.54
-      },
-      {
-        "symbol": "INJUSDT",
+        "symbol": "VVVUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 7.14,
-        "close": 7.112,
-        "vol_ratio": 2.3736
-      },
-      {
-        "symbol": "ZROUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 1.341,
-        "close": 1.3318,
-        "vol_ratio": 2.7389
+        "level": 20.988,
+        "close": 20.977,
+        "vol_ratio": 1.0736
       },
       {
         "symbol": "HUMAUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.0074,
-        "close": 0.0075,
-        "vol_ratio": 1.7885
-      },
-      {
-        "symbol": "PUMPUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 0.0026,
-        "close": 0.0026,
-        "vol_ratio": 4.3916
-      },
-      {
-        "symbol": "AKEUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 0.0106,
-        "close": 0.0106,
-        "vol_ratio": 2.5763
-      },
-      {
-        "symbol": "ZKPUSDT",
-        "side": "SELL",
-        "tf": "15m",
-        "level": 0.0333,
-        "close": 0.0332,
-        "vol_ratio": 1.2779
+        "level": 0.0075,
+        "close": 0.0076,
+        "vol_ratio": 2.6511
       },
       {
         "symbol": "LITUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 2.7904,
-        "close": 2.7876,
-        "vol_ratio": 0.9112
-      },
-      {
-        "symbol": "BTWUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 0.4975,
-        "close": 0.5214,
-        "vol_ratio": 2.5911
+        "level": 2.7824,
+        "close": 2.7823,
+        "vol_ratio": 0.6173
       }
     ],
     "regime": "ANY"
@@ -123,7 +75,7 @@
       "R": 0.0008667366020083734,
       "trail_armed": false,
       "funding": 0.00069882,
-      "last_price": 0.01429,
+      "last_price": 0.01423,
       "exit_deadline": "2026-11-19 13:00:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.07
@@ -144,7 +96,7 @@
       "R": 0.00029044014411782964,
       "trail_armed": false,
       "funding": -0.0262377,
-      "last_price": 0.01157,
+      "last_price": 0.01146,
       "exit_deadline": "2026-11-19 17:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 6.22
@@ -165,7 +117,7 @@
       "R": 0.0194336712220639,
       "trail_armed": false,
       "funding": 0.0049217,
-      "last_price": 0.3329,
+      "last_price": 0.3343,
       "exit_deadline": "2026-11-19 19:00:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.15
@@ -186,7 +138,7 @@
       "R": 0.1526786270007942,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 3.1275,
+      "last_price": 3.0818,
       "exit_deadline": "2026-11-19 22:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 10.89
@@ -228,7 +180,7 @@
       "R": 4.446172436725169e-05,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 0.002607,
+      "last_price": 0.002609,
       "exit_deadline": "2026-11-19 23:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 4.39
@@ -249,7 +201,7 @@
       "R": 0.021496194772854055,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 1.3305,
+      "last_price": 1.3326,
       "exit_deadline": "2026-11-19 23:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.74
@@ -270,7 +222,7 @@
       "R": 0.020260533443973758,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 0.5179,
+      "last_price": 0.512,
       "exit_deadline": "2026-11-19 23:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.59
@@ -291,7 +243,7 @@
       "R": 0.0002623171437086964,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 0.010387,
+      "last_price": 0.010421,
       "exit_deadline": "2026-11-19 23:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.58
@@ -312,10 +264,31 @@
       "R": 0.09775824115479777,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 7.119,
+      "last_price": 7.104,
       "exit_deadline": "2026-11-19 23:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.37
+    },
+    {
+      "id": "FHF-20261118-2330-HUMAUSDT",
+      "symbol": "HUMAUSDT",
+      "side": "BUY",
+      "entry_time": "2026-11-18 23:30:00 MYT",
+      "entry_price": 0.007576515,
+      "qty": 2511.0,
+      "notional": 19.024629165,
+      "leverage": 3,
+      "margin": 6.341543055,
+      "liq_price": 0.00515409,
+      "stop": 0.007416985221207183,
+      "initial_stop": 0.007416985221207183,
+      "R": 0.00015952977879281702,
+      "trail_armed": false,
+      "funding": 0.0,
+      "last_price": 0.007684,
+      "exit_deadline": "2026-11-19 23:30:00 MYT",
+      "signal_tf": "15m",
+      "vol_ratio": 2.65
     }
   ],
   "data_source": "www.binance.com /fapi (public)"
