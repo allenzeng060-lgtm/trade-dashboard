@@ -3,7 +3,7 @@
   "set": "1h",
   "mode": "paper",
   "rules": "v0.2-1h",
-  "updated_at": "2026-11-18 21:59:28 MYT",
+  "updated_at": "2026-11-18 22:04:42 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -17,9 +17,9 @@
     "regime": "spot_level"
   },
   "wallet_usdt": 97.8587,
-  "unrealized_usdt": -0.13,
-  "equity_usdt": 97.7287,
-  "pnl_pct": -2.271,
+  "unrealized_usdt": -0.1508,
+  "equity_usdt": 97.7079,
+  "pnl_pct": -2.292,
   "regime": {
     "allow": "SELL",
     "btc_close": 64231.52,
@@ -27,49 +27,41 @@
     "reason": "BTC 4h close 64231.52 < filter 67568 → shorts only"
   },
   "last_scan": {
-    "time": "2026-11-18 21:04:28 MYT",
-    "bar_close": "2026-11-18 21:00:00 MYT",
+    "time": "2026-11-18 22:04:42 MYT",
+    "bar_close": "2026-11-18 22:00:00 MYT",
     "universe": 75,
     "breakouts": [
       {
-        "symbol": "APTUSDT",
-        "side": "SELL",
-        "tf": "1h",
-        "level": 0.4369,
-        "close": 0.4355,
-        "vol_ratio": 1.3637
-      },
-      {
-        "symbol": "PAXGUSDT",
-        "side": "SELL",
-        "tf": "1h",
-        "level": 3751.24,
-        "close": 3737.4,
-        "vol_ratio": 1.8427
-      },
-      {
-        "symbol": "XPLUSDT",
+        "symbol": "ZILUSDT",
         "side": "BUY",
         "tf": "1h",
-        "level": 0.0467,
-        "close": 0.0468,
-        "vol_ratio": 1.2085
+        "level": 0.0011,
+        "close": 0.0011,
+        "vol_ratio": 10.0272
       },
       {
         "symbol": "PIEVERSEUSDT",
         "side": "BUY",
         "tf": "1h",
-        "level": 2.5196,
-        "close": 2.8011,
-        "vol_ratio": 16.8119
+        "level": 2.8894,
+        "close": 3.0685,
+        "vol_ratio": 13.2612
       },
       {
-        "symbol": "XAUTUSDT",
+        "symbol": "BREVUSDT",
         "side": "SELL",
         "tf": "1h",
-        "level": 3749.68,
-        "close": 3737.98,
-        "vol_ratio": 2.4759
+        "level": 0.087,
+        "close": 0.0869,
+        "vol_ratio": 1.808
+      },
+      {
+        "symbol": "GRAMUSDT",
+        "side": "SELL",
+        "tf": "1h",
+        "level": 1.018,
+        "close": 1.017,
+        "vol_ratio": 0.3674
       }
     ],
     "regime": "SELL"
@@ -91,7 +83,7 @@
       "R": 0.0008093927092204283,
       "trail_armed": false,
       "funding": -0.05625757,
-      "last_price": 0.009715,
+      "last_price": 0.009734,
       "exit_deadline": "2026-11-19 09:00:00 MYT",
       "signal_tf": "1h",
       "vol_ratio": 3.85

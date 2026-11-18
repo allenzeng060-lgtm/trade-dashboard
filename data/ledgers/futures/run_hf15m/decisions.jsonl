@@ -1104,3 +1104,7 @@
 {"time": "2026-11-18 21:49:36 MYT", "kind": "scan", "bar_close": "2026-11-18 21:45:00 MYT", "breakouts": 2, "vol_ok": 0, "allow": "ANY"}
 {"time": "2026-11-18 21:54:24 MYT", "kind": "trail_update", "symbol": "PIEVERSEUSDT", "stop": 2.9495158276140656, "best": 3.0704}
 {"time": "2026-11-18 21:59:31 MYT", "kind": "trail_update", "symbol": "PIEVERSEUSDT", "stop": 2.963115827614066, "best": 3.084}
+{"time": "2026-11-18 22:04:44 MYT", "kind": "trail_update", "symbol": "PIEVERSEUSDT", "stop": 3.068715827614066, "best": 3.1896}
+{"time": "2026-11-18 22:04:46 MYT", "kind": "regime", "allow": "ANY", "btc_close": 64231.52, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+{"time": "2026-11-18 22:04:59 MYT", "kind": "scan", "bar_close": "2026-11-18 22:00:00 MYT", "breakouts": 5, "vol_ok": 1, "allow": "ANY"}
+{"time": "2026-11-18 22:04:59 MYT", "kind": "skip", "symbol": "PIEVERSEUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 8.25, "reason": "already holding"}
