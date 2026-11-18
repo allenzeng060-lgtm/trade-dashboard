@@ -945,3 +945,4 @@
 2026-11-18 10:03:31,032 INFO decision scan {"bar_close": "2026-11-18 18:00:00 MYT", "breakouts": 3, "vol_ok": 1, "allow": "ANY"}
 2026-11-18 10:03:31,032 INFO decision skip {"symbol": "PIEVERSEUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 2.92, "reason": "already holding"}
 2026-11-18 10:07:52,450 INFO decision trail_update {"symbol": "PIEVERSEUSDT", "stop": 2.2696761568201973, "best": 2.3199}
+2026-11-18 10:12:53,155 INFO decision trail_update {"symbol": "PIEVERSEUSDT", "stop": 2.2953761568201974, "best": 2.3456}
