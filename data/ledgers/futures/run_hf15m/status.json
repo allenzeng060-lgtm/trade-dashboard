@@ -3,7 +3,7 @@
   "set": "15m",
   "mode": "paper",
   "rules": "hf-15m-v0.1",
-  "updated_at": "2026-11-18 17:12:44 MYT",
+  "updated_at": "2026-11-18 17:17:52 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -16,10 +16,10 @@
     "slip": 0.0002,
     "regime": "none"
   },
-  "wallet_usdt": 83.8354,
-  "unrealized_usdt": 2.0957,
-  "equity_usdt": 85.9311,
-  "pnl_pct": -14.069,
+  "wallet_usdt": 84.4548,
+  "unrealized_usdt": 1.3837,
+  "equity_usdt": 85.8385,
+  "pnl_pct": -14.161,
   "regime": {
     "allow": "ANY",
     "btc_close": 64884.01,
@@ -27,10 +27,35 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-18 17:02:58 MYT",
-    "bar_close": "2026-11-18 17:00:00 MYT",
-    "universe": 74,
-    "breakouts": [],
+    "time": "2026-11-18 17:17:50 MYT",
+    "bar_close": "2026-11-18 17:15:00 MYT",
+    "universe": 73,
+    "breakouts": [
+      {
+        "symbol": "RAREUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 0.0118,
+        "close": 0.0118,
+        "vol_ratio": 6.2151
+      },
+      {
+        "symbol": "MMTUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.2478,
+        "close": 0.248,
+        "vol_ratio": 5.935
+      },
+      {
+        "symbol": "JCTUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 0.002,
+        "close": 0.002,
+        "vol_ratio": 1.4749
+      }
+    ],
     "regime": "ANY"
   },
   "positions": [
@@ -50,7 +75,7 @@
       "R": 0.00378692168375275,
       "trail_armed": false,
       "funding": -0.00252915,
-      "last_price": 0.3082,
+      "last_price": 0.3088,
       "exit_deadline": "2026-11-19 05:30:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.58
@@ -71,7 +96,7 @@
       "R": 2.06340890465846,
       "trail_armed": false,
       "funding": -0.00146908,
-      "last_price": 196.62,
+      "last_price": 196.98,
       "exit_deadline": "2026-11-19 07:00:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.67
@@ -92,7 +117,7 @@
       "R": 0.05022384317980284,
       "trail_armed": false,
       "funding": -0.00310825,
-      "last_price": 2.2061,
+      "last_price": 2.2158,
       "exit_deadline": "2026-11-19 10:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.18
@@ -113,31 +138,31 @@
       "R": 0.0008667366020083734,
       "trail_armed": false,
       "funding": 0.00033625,
-      "last_price": 0.0139,
+      "last_price": 0.01383,
       "exit_deadline": "2026-11-19 13:00:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.07
     },
     {
-      "id": "FHF-20261118-1400-MMTUSDT",
-      "symbol": "MMTUSDT",
-      "side": "BUY",
-      "entry_time": "2026-11-18 14:00:00 MYT",
-      "entry_price": 0.21924384,
-      "qty": 23.0,
-      "notional": 5.04260832,
-      "leverage": 1,
-      "margin": 5.04260832,
-      "liq_price": 0.0,
-      "stop": 0.24645855689126217,
-      "initial_stop": 0.20110239689126216,
-      "R": 0.018141443108737835,
-      "trail_armed": true,
-      "funding": -3.774e-05,
-      "last_price": 0.2551,
-      "exit_deadline": "2026-11-19 14:00:00 MYT",
+      "id": "FHF-20261118-1715-RAREUSDT",
+      "symbol": "RAREUSDT",
+      "side": "SELL",
+      "entry_time": "2026-11-18 17:15:00 MYT",
+      "entry_price": 0.011767646,
+      "qty": 1396.0,
+      "notional": 16.427633816,
+      "leverage": 3,
+      "margin": 5.475877938666667,
+      "liq_price": 0.01494304,
+      "stop": 0.01205808614411783,
+      "initial_stop": 0.01205808614411783,
+      "R": 0.00029044014411782964,
+      "trail_armed": false,
+      "funding": 0.0,
+      "last_price": 0.01181,
+      "exit_deadline": "2026-11-19 17:15:00 MYT",
       "signal_tf": "15m",
-      "vol_ratio": 9.76
+      "vol_ratio": 6.22
     }
   ],
   "data_source": "www.binance.com /fapi (public)"

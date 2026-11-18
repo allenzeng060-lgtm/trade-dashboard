@@ -338,25 +338,25 @@
       "group": "合約高頻組"
     },
     {
-      "id": "FHF-20261118-1400-MMTUSDT",
-      "symbol": "MMTUSDT",
-      "side": "BUY",
+      "id": "FHF-20261118-1715-RAREUSDT",
+      "symbol": "RAREUSDT",
+      "side": "SELL",
       "mode": "paper",
       "status": "open",
-      "entry_price": 0.21924384,
-      "entry_time": "2026-11-18 14:00:00 MYT",
-      "qty": 23.0,
-      "remaining_qty": 23.0,
-      "stop": 0.24645855689126217,
-      "initial_stop": 0.20110239689126216,
-      "R": 0.018141443108737835,
+      "entry_price": 0.011767646,
+      "entry_time": "2026-11-18 17:15:00 MYT",
+      "qty": 1396.0,
+      "remaining_qty": 1396.0,
+      "stop": 0.01205808614411783,
+      "initial_stop": 0.01205808614411783,
+      "R": 0.00029044014411782964,
       "targets": [],
-      "high_since_entry": 0.2646,
-      "low_since_entry": 0.2075,
-      "exit_deadline": "2026-11-19 14:00:00 MYT",
+      "high_since_entry": 0.01186,
+      "low_since_entry": 0.01174,
+      "exit_deadline": "2026-11-19 17:15:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-18 17:12:45 MYT"
+  "paper_updated_at": "2026-11-18 17:17:53 MYT"
 }
