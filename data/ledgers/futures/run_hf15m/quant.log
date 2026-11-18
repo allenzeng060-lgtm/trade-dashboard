@@ -995,3 +995,9 @@
 2026-11-18 12:33:55,924 INFO decision regime {"allow": "ANY", "btc_close": 64231.52, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
 2026-11-18 12:34:07,074 INFO decision scan {"bar_close": "2026-11-18 20:30:00 MYT", "breakouts": 5, "vol_ok": 1, "allow": "ANY"}
 2026-11-18 12:34:07,461 INFO decision open {"symbol": "PIEVERSEUSDT", "side": "BUY", "entry": 2.81586306, "stop": 2.6949788876140657, "qty": 3.0, "lev": 2, "liq": 1.44403234, "risk": 0.371}
+2026-11-18 12:49:00,100 INFO decision regime {"allow": "ANY", "btc_close": 64231.52, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+2026-11-18 12:49:11,703 INFO decision scan {"bar_close": "2026-11-18 20:45:00 MYT", "breakouts": 14, "vol_ok": 4, "allow": "ANY"}
+2026-11-18 12:49:11,904 INFO decision open {"symbol": "XAUTUSDT", "side": "SELL", "entry": 3743.8010900000004, "stop": 3755.4562877170347, "qty": 0.005, "lev": 3, "liq": 4942.31166997, "risk": 0.077}
+2026-11-18 12:49:11,905 INFO decision skip {"symbol": "PAXGUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.96, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+2026-11-18 12:49:11,905 INFO decision skip {"symbol": "APTUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.6, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
+2026-11-18 12:49:11,905 INFO decision skip {"symbol": "LTCUSDT", "side": "SELL", "tf": "15m", "vol_ratio": 2.07, "reason": "same-direction cap 6 (v0.2 correlation cap)"}
