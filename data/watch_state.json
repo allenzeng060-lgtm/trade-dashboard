@@ -361,7 +361,7 @@
       "initial_stop": 2.9681454129992058,
       "R": 0.1526786270007942,
       "targets": [],
-      "high_since_entry": 3.399,
+      "high_since_entry": 3.4177,
       "low_since_entry": 3.0033,
       "exit_deadline": "2026-11-19 22:15:00 MYT",
       "market": "usdm_perp",
@@ -441,7 +441,7 @@
       "initial_stop": 922.4636231075149,
       "R": 14.285295107514793,
       "targets": [],
-      "high_since_entry": 917.41,
+      "high_since_entry": 918.93,
       "low_since_entry": 907.29,
       "exit_deadline": "2026-11-20 03:15:00 MYT",
       "market": "usdm_perp",
@@ -466,7 +466,27 @@
       "exit_deadline": "2026-11-20 03:45:00 MYT",
       "market": "usdm_perp",
       "group": "合約高頻組"
+    },
+    {
+      "id": "FHF-20261119-0415-PHAROSUSDT",
+      "symbol": "PHAROSUSDT",
+      "side": "BUY",
+      "mode": "paper",
+      "status": "open",
+      "entry_price": 0.69653928,
+      "entry_time": "2026-11-19 04:15:00 MYT",
+      "qty": 12.0,
+      "remaining_qty": 12.0,
+      "stop": 0.6646025614121632,
+      "initial_stop": 0.6646025614121632,
+      "R": 0.031936718587836754,
+      "targets": [],
+      "high_since_entry": 0.7038,
+      "low_since_entry": 0.6866,
+      "exit_deadline": "2026-11-20 04:15:00 MYT",
+      "market": "usdm_perp",
+      "group": "合約高頻組"
     }
   ],
-  "paper_updated_at": "2026-11-19 04:12:05 MYT"
+  "paper_updated_at": "2026-11-19 04:17:29 MYT"
 }

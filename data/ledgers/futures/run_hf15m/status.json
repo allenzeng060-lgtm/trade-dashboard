@@ -3,7 +3,7 @@
   "set": "15m",
   "mode": "paper",
   "rules": "hf-15m-v0.1",
-  "updated_at": "2026-11-19 04:12:04 MYT",
+  "updated_at": "2026-11-19 04:17:28 MYT",
   "cycle": 1,
   "refills": 0,
   "params": {
@@ -17,9 +17,9 @@
     "regime": "none"
   },
   "wallet_usdt": 81.9601,
-  "unrealized_usdt": 1.8651,
-  "equity_usdt": 83.8252,
-  "pnl_pct": -16.175,
+  "unrealized_usdt": 1.8459,
+  "equity_usdt": 83.806,
+  "pnl_pct": -16.194,
   "regime": {
     "allow": "ANY",
     "btc_close": 62747.22,
@@ -27,10 +27,19 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-19 04:02:47 MYT",
-    "bar_close": "2026-11-19 04:00:00 MYT",
+    "time": "2026-11-19 04:17:23 MYT",
+    "bar_close": "2026-11-19 04:15:00 MYT",
     "universe": 70,
-    "breakouts": [],
+    "breakouts": [
+      {
+        "symbol": "PHAROSUSDT",
+        "side": "BUY",
+        "tf": "15m",
+        "level": 0.6649,
+        "close": 0.6964,
+        "vol_ratio": 4.5085
+      }
+    ],
     "regime": "ANY"
   },
   "positions": [
@@ -50,7 +59,7 @@
       "R": 0.0008667366020083734,
       "trail_armed": false,
       "funding": 0.00138973,
-      "last_price": 0.01453,
+      "last_price": 0.01448,
       "exit_deadline": "2026-11-19 13:00:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.07
@@ -71,7 +80,7 @@
       "R": 0.00029044014411782964,
       "trail_armed": false,
       "funding": -0.05530625,
-      "last_price": 0.01141,
+      "last_price": 0.01143,
       "exit_deadline": "2026-11-19 17:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 6.22
@@ -92,7 +101,7 @@
       "R": 0.0194336712220639,
       "trail_armed": false,
       "funding": 0.00423069,
-      "last_price": 0.3258,
+      "last_price": 0.326,
       "exit_deadline": "2026-11-19 19:00:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.15
@@ -113,7 +122,7 @@
       "R": 0.1526786270007942,
       "trail_armed": false,
       "funding": -0.00915847,
-      "last_price": 3.3711,
+      "last_price": 3.3886,
       "exit_deadline": "2026-11-19 22:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 10.89
@@ -134,7 +143,7 @@
       "R": 4.446172436725169e-05,
       "trail_armed": false,
       "funding": 0.00120036,
-      "last_price": 0.002549,
+      "last_price": 0.002544,
       "exit_deadline": "2026-11-19 23:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 4.39
@@ -155,7 +164,7 @@
       "R": 0.09775824115479777,
       "trail_armed": false,
       "funding": 3.221e-05,
-      "last_price": 7.03,
+      "last_price": 7.039,
       "exit_deadline": "2026-11-19 23:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.37
@@ -176,7 +185,7 @@
       "R": 0.0003129298754599081,
       "trail_armed": false,
       "funding": 0.08397074,
-      "last_price": 0.008551,
+      "last_price": 0.008611,
       "exit_deadline": "2026-11-20 01:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 5.81
@@ -197,7 +206,7 @@
       "R": 14.285295107514793,
       "trail_armed": false,
       "funding": 0.0,
-      "last_price": 914.45,
+      "last_price": 915.89,
       "exit_deadline": "2026-11-20 03:15:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 3.95
@@ -218,10 +227,31 @@
       "R": 12.307460397403048,
       "trail_armed": false,
       "funding": -0.00026246,
-      "last_price": 3721.7,
+      "last_price": 3719.34,
       "exit_deadline": "2026-11-20 03:45:00 MYT",
       "signal_tf": "15m",
       "vol_ratio": 2.55
+    },
+    {
+      "id": "FHF-20261119-0415-PHAROSUSDT",
+      "symbol": "PHAROSUSDT",
+      "side": "BUY",
+      "entry_time": "2026-11-19 04:15:00 MYT",
+      "entry_price": 0.69653928,
+      "qty": 12.0,
+      "notional": 8.35847136,
+      "leverage": 2,
+      "margin": 4.17923568,
+      "liq_price": 0.35719963,
+      "stop": 0.6646025614121632,
+      "initial_stop": 0.6646025614121632,
+      "R": 0.031936718587836754,
+      "trail_armed": false,
+      "funding": 0.0,
+      "last_price": 0.6876,
+      "exit_deadline": "2026-11-20 04:15:00 MYT",
+      "signal_tf": "15m",
+      "vol_ratio": 4.51
     }
   ],
   "data_source": "www.binance.com /fapi (public)"
