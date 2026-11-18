@@ -8,25 +8,49 @@
     "reason": "both directions allowed (hf set; BTC filter only reported)"
   },
   "last_scan": {
-    "time": "2026-11-18 18:18:09 MYT",
-    "bar_close": "2026-11-18 18:15:00 MYT",
+    "time": "2026-11-18 18:33:13 MYT",
+    "bar_close": "2026-11-18 18:30:00 MYT",
     "universe": 73,
     "breakouts": [
       {
-        "symbol": "NEARUSDT",
+        "symbol": "BTCUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 3.332,
-        "close": 3.323,
-        "vol_ratio": 0.8467
+        "level": 64448.2,
+        "close": 64316.6,
+        "vol_ratio": 0.788
       },
       {
-        "symbol": "ARBUSDT",
+        "symbol": "LINKUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 0.1296,
-        "close": 0.1294,
-        "vol_ratio": 0.7161
+        "level": 9.18,
+        "close": 9.163,
+        "vol_ratio": 0.487
+      },
+      {
+        "symbol": "ZECUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 943.57,
+        "close": 937.04,
+        "vol_ratio": 1.7547
+      },
+      {
+        "symbol": "BNBUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 591.39,
+        "close": 590.03,
+        "vol_ratio": 1.3238
+      },
+      {
+        "symbol": "AVAXUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 7.113,
+        "close": 7.1,
+        "vol_ratio": 0.7701
       },
       {
         "symbol": "1000PEPEUSDT",
@@ -34,23 +58,15 @@
         "tf": "15m",
         "level": 0.0037,
         "close": 0.0037,
-        "vol_ratio": 0.7283
-      },
-      {
-        "symbol": "PENGUUSDT",
-        "side": "BUY",
-        "tf": "15m",
-        "level": 0.0048,
-        "close": 0.0048,
-        "vol_ratio": 1.0098
+        "vol_ratio": 0.6103
       },
       {
         "symbol": "PIPPINUSDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 0.0184,
-        "close": 0.0205,
-        "vol_ratio": 16.8009
+        "level": 0.0207,
+        "close": 0.0213,
+        "vol_ratio": 18.9297
       },
       {
         "symbol": "JCTUSDT",
@@ -58,27 +74,35 @@
         "tf": "15m",
         "level": 0.002,
         "close": 0.002,
-        "vol_ratio": 1.2726
+        "vol_ratio": 4.7966
       },
       {
-        "symbol": "PIEVERSEUSDT",
+        "symbol": "BREVUSDT",
+        "side": "SELL",
+        "tf": "15m",
+        "level": 0.0926,
+        "close": 0.0917,
+        "vol_ratio": 0.7755
+      },
+      {
+        "symbol": "龙虾USDT",
         "side": "BUY",
         "tf": "15m",
-        "level": 2.292,
-        "close": 2.3391,
-        "vol_ratio": 4.4967
+        "level": 0.0144,
+        "close": 0.0147,
+        "vol_ratio": 0.9689
       },
       {
         "symbol": "GRAMUSDT",
         "side": "SELL",
         "tf": "15m",
-        "level": 1.066,
-        "close": 1.059,
-        "vol_ratio": 0.6699
+        "level": 1.058,
+        "close": 1.045,
+        "vol_ratio": 1.8065
       }
     ],
     "regime": "ANY"
   },
-  "last_scan_bar_ms": 1794996900000,
-  "last_equity_ts": 1794997680.48349
+  "last_scan_bar_ms": 1794997800000,
+  "last_equity_ts": 1794997993.7220843
 }

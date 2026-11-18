@@ -953,3 +953,7 @@
 2026-11-18 10:18:09,849 INFO decision skip {"symbol": "PIEVERSEUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 4.5, "reason": "already holding"}
 2026-11-18 10:22:57,367 INFO decision trail_update {"symbol": "PIEVERSEUSDT", "stop": 2.3157761568201973, "best": 2.366}
 2026-11-18 10:28:00,483 INFO decision close {"symbol": "PIEVERSEUSDT", "reason": "trail_stop", "fill": 2.3153130015888332, "net": 1.415, "R": 3.38}
+2026-11-18 10:33:05,344 INFO decision regime {"allow": "ANY", "btc_close": 64884.01, "ref": 67568.0, "new_low": false, "reason": "both directions allowed (hf set; BTC filter only reported)"}
+2026-11-18 10:33:13,348 INFO decision scan {"bar_close": "2026-11-18 18:30:00 MYT", "breakouts": 11, "vol_ok": 2, "allow": "ANY"}
+2026-11-18 10:33:13,348 INFO decision skip {"symbol": "PIPPINUSDT", "side": "BUY", "tf": "15m", "vol_ratio": 18.93, "reason": "already holding"}
+2026-11-18 10:33:13,721 INFO decision open {"symbol": "JCTUSDT", "side": "SELL", "entry": 0.0019516096, "stop": 0.0019981635983249697, "qty": 8847.0, "lev": 3, "liq": 0.00250206, "risk": 0.429}
